@@ -1,0 +1,39 @@
+{
+ "n_records": 60,
+ "by_evidence": {
+  "Abstract only": 40,
+  "Full text, included": 13,
+  "Full text, excluded": 7
+ },
+ "by_pop": {
+  "Adults": 45,
+  "Children/adolescents": 10,
+  "Older adults": 5
+ },
+ "by_bag": {
+  "shoulder same-side": 30,
+  "cross-body": 8,
+  "hand-carried": 17,
+  "non-bag load": 16
+ },
+ "by_outcome": {
+  "EMG": 9,
+  "kinematics": 7,
+  "gait": 21,
+  "kinetics": 9,
+  "balance": 8,
+  "posture": 11,
+  "physiological": 6,
+  "coordination": 2,
+  "comfort": 1,
+  "pressure": 1
+ },
+ "pain_or_symptom_outcomes": 0,
+ "n_reported": {
+  "median": 15.5,
+  "min": 1.0,
+  "max": 258.0,
+  "k": 32
+ },
+ "field_studies": 7
+}

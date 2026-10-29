@@ -1,0 +1,22 @@
+pl_name,validated_by,what_it_was,class,refuting_paper,refuting_year,refuting_doi,refuted_before_validation
+Kepler-469 b,Morton et al. 2016,hierarchical triple: two M dwarfs eclipsing the primary,stellar eclipse,Carter et al. 2011,2011,10.1126/science.1201274,yes
+Kepler-470 b,Morton et al. 2016,low-mass star (~103 MJup),mass above 30 MJup,Cañas et al. 2023,2023,10.3847/1538-4365/acbcbe,no
+Kepler-486 b,Morton et al. 2016,very-low-mass star (~78 MJup),mass above 30 MJup,Díaz et al. 2014,2014,10.1051/0004-6361/201424406,yes
+Kepler-488 b,Morton et al. 2016,self-luminous companion (M dwarf); secondary eclipse too deep for a planet,stellar eclipse,Li & Shporer 2024,2024,10.3847/1538-3881/ad3807,no
+Kepler-492 b,Morton et al. 2016,brown dwarf (~40 MJup),mass above 30 MJup,Díaz et al. 2013,2013,10.1051/0004-6361/201321124,yes
+Kepler-494 b,Morton et al. 2016,brown dwarf (~37 MJup),mass above 30 MJup,Cañas et al. 2023,2023,10.3847/1538-4365/acbcbe,no
+Kepler-503 b,Morton et al. 2016,object at the hydrogen-burning limit (~79 MJup),mass above 30 MJup,Cañas et al. 2018,2018,10.3847/2041-8213/aacbc5,no
+Kepler-628 b,Morton et al. 2016,low-mass star (~92 MJup),mass above 30 MJup,Cañas et al. 2023,2023,10.3847/1538-4365/acbcbe,no
+Kepler-699 b,Morton et al. 2016,non-planetary (radius inconsistent with planet given irradiation),stellar eclipse,Niraula et al. 2022,2022,10.3847/1538-3881/ac4f64,no
+Kepler-706 b,Morton et al. 2016,low-mass star (~93 MJup),mass above 30 MJup,Cañas et al. 2023,2023,10.3847/1538-4365/acbcbe,no
+Kepler-807 b,Morton et al. 2016,star near the hydrogen-burning limit (~78 MJup),mass above 30 MJup,Cañas et al. 2023,2023,10.3847/1538-4365/acbcbe,no
+Kepler-840 b,Morton et al. 2016,non-planetary (radius inconsistent with planet given irradiation),stellar eclipse,Niraula et al. 2022,2022,10.3847/1538-3881/ac4f64,no
+Kepler-854 b,Morton et al. 2016,non-planetary mass from ellipsoidal variation,mass above 30 MJup,Niraula et al. 2022,2022,10.3847/1538-3881/ac4f64,no
+K2-51 b,Crossfield et al. 2016 (discovery credited to Vanderburg et al. 2016),low-mass star (0.146 Msun),mass above 30 MJup,Shporer et al. 2017,2017,10.3847/2041-8213/aa8bff,no
+K2-67 b,Crossfield et al. 2016 (discovery credited to Vanderburg et al. 2016),low-mass star (0.161 Msun),mass above 30 MJup,Shporer et al. 2017,2017,10.3847/2041-8213/aa8bff,no
+K2-76 b,Crossfield et al. 2016 (discovery credited to Vanderburg et al. 2016),low-mass star (0.094 Msun),mass above 30 MJup,Shporer et al. 2017,2017,10.3847/2041-8213/aa8bff,no
+K2-78 b,Crossfield et al. 2016,background eclipsing binary,background or nearby eclipsing binary,Cabrera et al. 2017,2017,10.1051/0004-6361/201731233,no
+K2-82 b,Crossfield et al. 2016,background eclipsing binary,background or nearby eclipsing binary,Cabrera et al. 2017,2017,10.1051/0004-6361/201731233,no
+K2-92 b,Crossfield et al. 2016,background eclipsing binary,background or nearby eclipsing binary,Cabrera et al. 2017,2017,10.1051/0004-6361/201731233,no
+K2-256 b,Livingston et al. 2018a,light contamination from a bright eclipsing binary 78 arcsec away,background or nearby eclipsing binary,Lehmann & Vanderburg 2024,2024,10.33232/001c.117415,no
+K2-399 b,Christiansen et al. 2022,hierarchical eclipsing binary (M-dwarf pair orbiting a G dwarf),stellar eclipse,Lillo-Box et al. 2024,2024,10.1051/0004-6361/202451398,no

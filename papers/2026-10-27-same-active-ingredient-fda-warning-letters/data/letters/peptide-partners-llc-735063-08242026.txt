@@ -1,0 +1,91 @@
+WARNING LETTER
+Peptide Partners LLC
+MARCS-CMS 735063 —
+August 24, 2026
+More Warning Letters
+Delivery Method:
+VIA ELECTRONIC MAIL READ/DELIVERY RECEIPT REQUESTED
+Product:
+Drugs
+Recipient:
+Recipient Name
+Zachary David Hoff
+Peptide Partners LLC
+8350 Bee Ridge, #379
+Sarasota
+,
+FL
+34241-9607
+United States
+support@peptide.partners
+(b)(6), (b)(7)(C)
+Issuing Office:
+Center for Drug Evaluation and Research (CDER)
+United States
+August 24, 2026
+Pirsek Technologies
+6776 Timberland Lane
+Sarasota, FL 34241-9760
+WARNING LETTER
+Reference Number: 735063
+To Zachary David Hoff:
+This warning letter advises you of significant violations observed during a U.S. Food and Drug Administration (FDA) review of your website. Promptly address the violations described herein without delay, including ensuring that appropriate resources are allocated to fully address the violations and prevent their recurrence. This is not intended to be an all-inclusive list of the violations that may exist in connection with your products or operations. It is your responsibility to ensure that your firm complies with all requirements of federal law, including FDA regulations. Failure to adequately address violations may result in regulatory or legal action without further notice including, without limitation, seizure and injunction.
+These products are especially concerning from a public health perspective because injectable drug products can pose risks of serious harm to users. Injectable products are delivered directly into the body, sometimes directly into the bloodstream, and therefore, bypass some of the body’s key defenses against toxins and microorganisms that can lead to serious and life-threatening conditions.
+FDA Review
+Violations were identified and documented during a review of your website https://peptide.partners/ in July 2026. Based on our review,“GLP-1 S (Semaglutide),” “GLP-2 T (Tirzepatide),” “GLP-3 Reta (Retatrutide),” “SS-31 (Elamipretide),” “Tesa Peptide (Tesamorelin),” “PT-141 (Bremelanotide),” and “Reconstitution Solution (BAC)” are unapproved new drugs under section 505(a) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 355(a). As explained further below, introducing or delivering these products for introduction into interstate commerce violates sections 301(d) and 505(a) of the FD&C Act, 21 U.S.C. 331(d) and 355(a).
+This review was conducted as part of FDA’s public health responsibility to protect the public from unsafe, ineffective, and poor-quality drugs.
+Violations of the Federal Food, Drug, and Cosmetic Act
+The following are violations identified during our review. As a reminder, this is not an all-inclusive list of violations that may exist in connection with your products or operations.
+Unapproved New Drug Violations
+Based on a review of your website, “GLP-1 S (Semaglutide),” “GLP-2 T (Tirzepatide),” “GLP-3 Reta (Retatrutide),” “SS-31 (Elamipretide),” “Tesa Peptide (Tesamorelin),” “PT-141 (Bremelanotide),” and “Reconstitution Solution (BAC)” are drugs under section 201(g)(1) of the FD&C Act, 21 U.S.C. 321(g)(1), because they are intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease, and/or intended to affect the structure or any function of the body.
+1
+Examples from your product labeling, including on your website, that provide evidence of the intended use (as defined in 21 CFR 201.128) of these products as drugs include, but may not be limited to, the following:
+GLP-1 S (Semaglutide)
+On the webpage https://peptide.partners/product/glp-1-semaglutide/:
+“This laboratory study . . . suggests that semaglutide could have potential benefits for bone health by promoting the generation of new bone tissue.”
+“[T]his lab experiment . . . [suggests] that semaglutide might help improve metabolism by making muscle cells better at producing energy, even if it doesn’t directly fix the insulin resistance problem.”
+“[T]his laboratory study . . . suggests that semaglutide could have a protective effect on brain cells, which might be relevant for neurodegenerative diseases like Alzheimer’s.”
+GLP-2 T (Tirzepatide)
+On the webpage https://peptide.partners/product/glp-2-tirzepatide/:
+“This research explains how tirzepatide . . . mainly activates the GIP receptor strongly but only partly activates the GLP-1 receptor . . . [which] may help explain why tirzepatide is effective in lowering blood sugar and reducing weight.”
+“This study shows that tirzepatide . . . help[s] improve blood sugar and lipid levels without increasing fat mass, offering a better understanding of how tirzepatide works to improve metabolic health in diabetes and obesity.”
+“This study shows that tirzepatide . . . has direct protective effects on the kidneys, which could be beneficial for patients with diabetic kidney disease.”
+GLP-3 Reta (Retatrutide)
+On the webpage https://peptide.partners/product/glp-3-retatrutide-12mg-vials/:
+“Retatrutide . . . can activate three different hormone receptors in the body that control appetite and metabolism . . . allow[ing] it to effectively ‘talk’ to all three at once, leading to its powerful effects on weight loss and blood sugar control.”
+“Retatrutide, a new drug for diabetes and obesity, helps lower bad fats in the blood . . . part of Retatrutide’s effectiveness in improving cholesterol levels comes from its direct action on the liver.”
+“Scientists have discovered how the weight-loss drug Retatrutide can also help treat a type of breast cancer that is more common in obese patients . . . made the cancer cells more sensitive to chemotherapy . . . uncover[ing] a new way that obesity affects cancer and suggests that drugs like Retatrutide could be used to improve cancer treatment in obese patients.”
+SS-31 (Elamipretide)
+On the webpage https://peptide.partners/product/ss-31/:
+“This lab study looked at how the peptide SS-31 could protect eye cells from damage . . . when the cells were treated with SS-31 beforehand, they were better able to survive and had less damage . . . suggest[ing] that SS-31 could be a potential treatment to protect the retina.”
+“SS-31 helps the cells to clean out waste and damaged parts . . . suggesting it could be a promising agent for treating liver inflammation.”
+Tesa Peptide (Tesamorelin)
+On the webpage https://peptide.partners/product/tesamorelin/:
+“[R]esearchers investigated how Tesamorelin affects the liver in people with HIV-associated fatty liver disease . . . and found that the drug changed the activity of genes involved in inflammation, tissue repair, and cell division . . . provid[ing] important insights into the molecular mechanisms by which Tesamorelin improves liver health in this patient population.”
+PT-141 (Bremelanotide)
+On the webpage https://peptide.partners/product/pt-141/:
+“PT-141 works by binding to and activating specific protein receptors on cell surfaces called melanocortin receptors . . . important for understanding how the drug might work in the body to affect sexual function and other processes controlled by these receptors.”
+“This study discovered that bremelanotide can kill brain cancer cells (glioblastoma) grown in laboratory culture dishes without harming normal cells.”
+Reconstitution Solution (BAC)
+Your firm offers “Reconstitution Solution (BAC)” for sale to be used to reconstitute the peptide products sold on your website, which are drugs intended for injection, including the six above-mentioned products. The sale of these products together demonstrates that you intend for your “Reconstitution Solution (BAC)” to be used in combination for injection. Therefore, your “Reconstitution Solution (BAC)” is a drug.
+“GLP-1 S (Semaglutide),” “GLP-2 T (Tirzepatide),” “GLP-3 Reta (Retatrutide),” ”SS-31 (Elamipretide),” “Tesa Peptide (Tesamorelin),” “PT-141 (Bremelanotide),” and “Reconstitution Solution (BAC)” are “new drugs” under section 201(p) of the FD&C Act, 21 U.S.C. 321(p), because they are not generally recognized as safe and effective (GRASE) for use under the conditions prescribed, recommended, or suggested in their labeling. With certain exceptions not applicable here, a new drug may not be introduced or delivered for introduction into interstate commerce without an approved application from FDA in effect, as described in section 505(a) of the FD&C Act, 21 U.S.C. 355(a). No approved applications pursuant to section 505 of the FD&C Act, 21 U.S.C. 355, are in effect for these products. Accordingly, these products are unapproved new drugs. The introduction or delivery for introduction into interstate commerce of these unapproved new drug products violates sections 301(d) and 505(a) of the FD&C Act, 21 U.S.C. 331(d) and 355(a).
+Conclusion
+As previously stated, you are responsible for investigating and determining the root causes of any violations and implementing corrective and preventative measures to ensure future and sustained compliance so that these violations and any others do not occur.
+Send your written response to FDAAdvisory@fda.hhs.gov within fifteen (15) business days of receipt of this letter. Include the specific steps you have taken to correct any violations, an explanation of each step being taken to prevent the recurrence of violations, as well as copies of related documentation. Identify your response with reference number “735063” in the subject line of the email.
+If you have information that you believe demonstrates that your products are not in violation of the FD&C Act and FDA regulations, include that information for our consideration.
+Please note FDA posts warning letters on www.fda.gov.
+Sincerely,
+/S/
+Tina Smith, M.S.
+Captain, U.S. Public Health Service
+Director
+Office of Unapproved Drugs and Labeling Compliance
+Office of Compliance
+Center for Drug Evaluation and Research
+U.S. Food and Drug Administration
+_______________________
+1
+Despite statements on your product labeling marketing your products “for research use only” and “not for human or veterinary use,” evidence obtained from your website establishes that your products are intended to be drugs for human use. In addition to the cited drug claims, you market bacteriostatic water as a solvent for reconstituting your products, thus, providing the means to prepare an injectable drug for human administration.
+Content current as of:
+09/01/2026
+Regulated Product(s)

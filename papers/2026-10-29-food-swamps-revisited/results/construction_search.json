@@ -1,0 +1,33 @@
+{
+ "n_constructions": 1372,
+ "best": {
+  "numerator": "CONVS+GROC",
+  "denominator": "GROC",
+  "median_all": 3.5,
+  "sd_all": 1.8601387487521885,
+  "mean_all": 3.8980256178923605,
+  "mean_contig": 3.9155108600893236,
+  "n_contig": 3055,
+  "distance": 0.025649608841511906
+ },
+ "second": {
+  "numerator": "CONVS+GROC+SUPERC+SPECS",
+  "denominator": "GROC+FMRKT",
+  "median_all": 3.5,
+  "sd_all": 1.770091970224809,
+  "mean_all": 3.7982902868514627,
+  "mean_contig": 3.8158069767327945,
+  "n_contig": 3061,
+  "distance": 0.16410105304239675
+ },
+ "table1_traditional": {
+  "numerator": "FFR+CONVS",
+  "denominator": "GROC",
+  "median_all": 5.333333333333333,
+  "sd_all": 3.539326194077986,
+  "mean_all": 5.837711238430028,
+  "mean_contig": 5.862522074988564,
+  "n_contig": 3055,
+  "distance": 5.485181602399884
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "M": {
+  "n_people": 1595,
+  "kcal": 2359.8464801263444,
+  "protein": 93.1547778179623,
+  "grams": 3828.970602843714,
+  "cost_day": 14.01530221975084,
+  "grams_priced_share": 0.9694540939865479,
+  "grams_imputed_share": 0.030545906013452005,
+  "grams_no_nutrients": 0.0,
+  "n_foods": 3653
+ },
+ "F": {
+  "n_people": 1853,
+  "kcal": 1774.677672163749,
+  "protein": 68.19544211382005,
+  "grams": 3006.6114035997616,
+  "cost_day": 10.44475111101354,
+  "grams_priced_share": 0.9682502700827201,
+  "grams_imputed_share": 0.03174972991728,
+  "grams_no_nutrients": 0.0,
+  "n_foods": 3833
+ }
+}

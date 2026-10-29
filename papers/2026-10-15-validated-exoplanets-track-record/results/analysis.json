@@ -1,0 +1,1311 @@
+{
+ "A_composition": {
+  "n_all_planets": 6445,
+  "n_transit": 4781,
+  "n_no_mass_at_disc": 3434,
+  "n_no_mass_ever": 3074,
+  "share_all_planets_no_mass_ever": 0.4769588828549263,
+  "share_transit_no_mass_ever": 0.6429617234888099,
+  "by_mission": {
+   "K2": {
+    "n": 549,
+    "no_mass_at_disc": 469,
+    "no_mass_ever": 401
+   },
+   "Kepler": {
+    "n": 2762,
+    "no_mass_at_disc": 2543,
+    "no_mass_ever": 2341
+   },
+   "Other": {
+    "n": 466,
+    "no_mass_at_disc": 17,
+    "no_mass_ever": 5
+   },
+   "TESS": {
+    "n": 1004,
+    "no_mass_at_disc": 405,
+    "no_mass_ever": 327
+   }
+  },
+  "by_year": {
+   "2002": {
+    "n": 1,
+    "nomass_disc": 0
+   },
+   "2004": {
+    "n": 5,
+    "nomass_disc": 0
+   },
+   "2006": {
+    "n": 5,
+    "nomass_disc": 0
+   },
+   "2007": {
+    "n": 16,
+    "nomass_disc": 3
+   },
+   "2008": {
+    "n": 15,
+    "nomass_disc": 2
+   },
+   "2009": {
+    "n": 18,
+    "nomass_disc": 2
+   },
+   "2010": {
+    "n": 46,
+    "nomass_disc": 2
+   },
+   "2011": {
+    "n": 80,
+    "nomass_disc": 10
+   },
+   "2012": {
+    "n": 94,
+    "nomass_disc": 35
+   },
+   "2013": {
+    "n": 79,
+    "nomass_disc": 20
+   },
+   "2014": {
+    "n": 810,
+    "nomass_disc": 722
+   },
+   "2015": {
+    "n": 99,
+    "nomass_disc": 61
+   },
+   "2016": {
+    "n": 1432,
+    "nomass_disc": 1359
+   },
+   "2017": {
+    "n": 87,
+    "nomass_disc": 40
+   },
+   "2018": {
+    "n": 244,
+    "nomass_disc": 173
+   },
+   "2019": {
+    "n": 107,
+    "nomass_disc": 47
+   },
+   "2020": {
+    "n": 164,
+    "nomass_disc": 88
+   },
+   "2021": {
+    "n": 457,
+    "nomass_disc": 369
+   },
+   "2022": {
+    "n": 192,
+    "nomass_disc": 107
+   },
+   "2023": {
+    "n": 225,
+    "nomass_disc": 108
+   },
+   "2024": {
+    "n": 187,
+    "nomass_disc": 62
+   },
+   "2025": {
+    "n": 144,
+    "nomass_disc": 32
+   },
+   "2026": {
+    "n": 274,
+    "nomass_disc": 192
+   }
+  }
+ },
+ "B_batches": [
+  {
+   "paper": "Rowe et al. 2014",
+   "bib": "2014ApJ...784...45R",
+   "mission": "Kepler",
+   "method": "multiplicity",
+   "n_credited": 716,
+   "overturned": 0,
+   "controversial": 0,
+   "later_mass": 119,
+   "followed": 119,
+   "frac_followed": 0.16620111731843576,
+   "overturn_rate": 0.0,
+   "overturn_ci": [
+    0.0,
+    0.005138817146466981
+   ],
+   "overturn_upper95": 0.004175242957321831,
+   "overturn_rate_followed": 0.0,
+   "overturn_followed_ci": [
+    0.0,
+    0.03052344485379618
+   ],
+   "median_year": 2014.0
+  },
+  {
+   "paper": "Morton et al. 2016",
+   "bib": "2016ApJ...822...86M",
+   "mission": "Kepler",
+   "method": "vespa FPP",
+   "n_credited": 1282,
+   "overturned": 13,
+   "controversial": 1,
+   "later_mass": 16,
+   "followed": 29,
+   "frac_followed": 0.02262090483619345,
+   "overturn_rate": 0.01014040561622465,
+   "overturn_ci": [
+    0.0054100750581486685,
+    0.017277979668550363
+   ],
+   "overturn_upper95": 0.01607389395235731,
+   "overturn_rate_followed": 0.4482758620689655,
+   "overturn_followed_ci": [
+    0.2644553037067049,
+    0.6430612891960847
+   ],
+   "median_year": 2016.0
+  },
+  {
+   "paper": "Armstrong et al. 2021",
+   "bib": "2021MNRAS.504.5327A",
+   "mission": "Kepler",
+   "method": "machine learning",
+   "n_credited": 50,
+   "overturned": 0,
+   "controversial": 0,
+   "later_mass": 0,
+   "followed": 0,
+   "frac_followed": 0.0,
+   "overturn_rate": 0.0,
+   "overturn_ci": [
+    0.0,
+    0.07112173646419764
+   ],
+   "overturn_upper95": 0.05815507911697225,
+   "overturn_rate_followed": NaN,
+   "overturn_followed_ci": null,
+   "median_year": 2020.0
+  },
+  {
+   "paper": "Valizadegan et al. 2022",
+   "bib": "2022ApJ...926..120V",
+   "mission": "Kepler",
+   "method": "machine learning (ExoMiner)",
+   "n_credited": 301,
+   "overturned": 0,
+   "controversial": 0,
+   "later_mass": 3,
+   "followed": 3,
+   "frac_followed": 0.009966777408637873,
+   "overturn_rate": 0.0,
+   "overturn_ci": [
+    0.0,
+    0.01218062173549235
+   ],
+   "overturn_upper95": 0.00990323570269468,
+   "overturn_rate_followed": 0.0,
+   "overturn_followed_ci": [
+    0.0,
+    0.7075982261787133
+   ],
+   "median_year": 2021.0
+  },
+  {
+   "paper": "Valizadegan et al. 2023",
+   "bib": "2023AJ....166...28V",
+   "mission": "Kepler",
+   "method": "machine learning (ExoMiner) + multiplicity",
+   "n_credited": 69,
+   "overturned": 0,
+   "controversial": 0,
+   "later_mass": 1,
+   "followed": 1,
+   "frac_followed": 0.014492753623188406,
+   "overturn_rate": 0.0,
+   "overturn_ci": [
+    0.0,
+    0.05205805786307967
+   ],
+   "overturn_upper95": 0.04248741054859369,
+   "overturn_rate_followed": 0.0,
+   "overturn_followed_ci": [
+    0.0,
+    0.975
+   ],
+   "median_year": 2023.0
+  },
+  {
+   "paper": "Montet et al. 2015",
+   "bib": "2015ApJ...809...25M",
+   "mission": "K2",
+   "method": "vespa FPP",
+   "n_credited": 17,
+   "overturned": 0,
+   "controversial": 0,
+   "later_mass": 3,
+   "followed": 3,
+   "frac_followed": 0.17647058823529413,
+   "overturn_rate": 0.0,
+   "overturn_ci": [
+    0.0,
+    0.19506432296909318
+   ],
+   "overturn_upper95": 0.16156611126074005,
+   "overturn_rate_followed": 0.0,
+   "overturn_followed_ci": [
+    0.0,
+    0.7075982261787133
+   ],
+   "median_year": 2015.0
+  },
+  {
+   "paper": "Crossfield et al. 2016",
+   "bib": "2016ApJS..226....7C",
+   "mission": "K2",
+   "method": "vespa FPP",
+   "n_credited": 63,
+   "overturned": 6,
+   "controversial": 0,
+   "later_mass": 7,
+   "followed": 13,
+   "frac_followed": 0.20634920634920634,
+   "overturn_rate": 0.09523809523809523,
+   "overturn_ci": [
+    0.03575901186533309,
+    0.19585602055810697
+   ],
+   "overturn_upper95": 0.1793395463252923,
+   "overturn_rate_followed": 0.46153846153846156,
+   "overturn_followed_ci": [
+    0.19223244180128798,
+    0.7486545177296964
+   ],
+   "median_year": 2016.0
+  },
+  {
+   "paper": "Sinukoff et al. 2016",
+   "bib": "2016ApJ...827...78S",
+   "mission": "K2",
+   "method": "vespa FPP",
+   "n_credited": 8,
+   "overturned": 0,
+   "controversial": 0,
+   "later_mass": 3,
+   "followed": 3,
+   "frac_followed": 0.375,
+   "overturn_rate": 0.0,
+   "overturn_ci": [
+    0.0,
+    0.3694166475528192
+   ],
+   "overturn_upper95": 0.3123439780663678,
+   "overturn_rate_followed": 0.0,
+   "overturn_followed_ci": [
+    0.0,
+    0.7075982261787133
+   ],
+   "median_year": 2016.0
+  },
+  {
+   "paper": "Dressing et al. 2017",
+   "bib": "2017AJ....154..207D",
+   "mission": "K2",
+   "method": "vespa FPP",
+   "n_credited": 15,
+   "overturned": 0,
+   "controversial": 0,
+   "later_mass": 1,
+   "followed": 1,
+   "frac_followed": 0.06666666666666667,
+   "overturn_rate": 0.0,
+   "overturn_ci": [
+    0.0,
+    0.218019360910534
+   ],
+   "overturn_upper95": 0.18103627252208462,
+   "overturn_rate_followed": 0.0,
+   "overturn_followed_ci": [
+    0.0,
+    0.975
+   ],
+   "median_year": 2017.0
+  },
+  {
+   "paper": "Mayo et al. 2018",
+   "bib": "2018AJ....155..136M",
+   "mission": "K2",
+   "method": "vespa FPP",
+   "n_credited": 96,
+   "overturned": 0,
+   "controversial": 0,
+   "later_mass": 12,
+   "followed": 12,
+   "frac_followed": 0.125,
+   "overturn_rate": 0.0,
+   "overturn_ci": [
+    0.0,
+    0.03769692162358756
+   ],
+   "overturn_upper95": 0.03072367683353283,
+   "overturn_rate_followed": 0.0,
+   "overturn_followed_ci": [
+    0.0,
+    0.2646484693970512
+   ],
+   "median_year": 2018.0
+  },
+  {
+   "paper": "Livingston et al. 2018a",
+   "bib": "2018AJ....156...78L",
+   "mission": "K2",
+   "method": "vespa FPP",
+   "n_credited": 24,
+   "overturned": 1,
+   "controversial": 0,
+   "later_mass": 0,
+   "followed": 1,
+   "frac_followed": 0.041666666666666664,
+   "overturn_rate": 0.041666666666666664,
+   "overturn_ci": [
+    0.0010543524454697472,
+    0.2112016834569731
+   ],
+   "overturn_upper95": 0.18289246975564633,
+   "overturn_rate_followed": 1.0,
+   "overturn_followed_ci": [
+    0.025,
+    1.0
+   ],
+   "median_year": 2018.0
+  },
+  {
+   "paper": "Livingston et al. 2018b",
+   "bib": "2018AJ....156..277L",
+   "mission": "K2",
+   "method": "vespa FPP",
+   "n_credited": 19,
+   "overturned": 0,
+   "controversial": 0,
+   "later_mass": 2,
+   "followed": 2,
+   "frac_followed": 0.10526315789473684,
+   "overturn_rate": 0.0,
+   "overturn_ci": [
+    0.0,
+    0.17646691180696536
+   ],
+   "overturn_upper95": 0.1458685033122434,
+   "overturn_rate_followed": 0.0,
+   "overturn_followed_ci": [
+    0.0,
+    0.841886116991581
+   ],
+   "median_year": 2018.0
+  },
+  {
+   "paper": "Hirano et al. 2018",
+   "bib": "2018AJ....155..127H",
+   "mission": "K2",
+   "method": "vespa FPP",
+   "n_credited": 12,
+   "overturned": 0,
+   "controversial": 0,
+   "later_mass": 1,
+   "followed": 1,
+   "frac_followed": 0.08333333333333333,
+   "overturn_rate": 0.0,
+   "overturn_ci": [
+    0.0,
+    0.2646484693970512
+   ],
+   "overturn_upper95": 0.22092219194555585,
+   "overturn_rate_followed": 0.0,
+   "overturn_followed_ci": [
+    0.0,
+    0.975
+   ],
+   "median_year": 2018.0
+  },
+  {
+   "paper": "Heller et al. 2019",
+   "bib": "2019A&A...627A..66H",
+   "mission": "K2",
+   "method": "vespa FPP",
+   "n_credited": 17,
+   "overturned": 0,
+   "controversial": 0,
+   "later_mass": 0,
+   "followed": 0,
+   "frac_followed": 0.0,
+   "overturn_rate": 0.0,
+   "overturn_ci": [
+    0.0,
+    0.19506432296909318
+   ],
+   "overturn_upper95": 0.16156611126074005,
+   "overturn_rate_followed": NaN,
+   "overturn_followed_ci": null,
+   "median_year": 2019.0
+  },
+  {
+   "paper": "Castro Gonzalez et al. 2020",
+   "bib": "2020MNRAS.499.5416C",
+   "mission": "K2",
+   "method": "vespa FPP",
+   "n_credited": 12,
+   "overturned": 0,
+   "controversial": 0,
+   "later_mass": 0,
+   "followed": 0,
+   "frac_followed": 0.0,
+   "overturn_rate": 0.0,
+   "overturn_ci": [
+    0.0,
+    0.2646484693970512
+   ],
+   "overturn_upper95": 0.22092219194555585,
+   "overturn_rate_followed": NaN,
+   "overturn_followed_ci": null,
+   "median_year": 2020.0
+  },
+  {
+   "paper": "de Leon et al. 2021",
+   "bib": "2021MNRAS.508..195D",
+   "mission": "K2",
+   "method": "vespa FPP",
+   "n_credited": 35,
+   "overturned": 0,
+   "controversial": 0,
+   "later_mass": 0,
+   "followed": 0,
+   "frac_followed": 0.0,
+   "overturn_rate": 0.0,
+   "overturn_ci": [
+    0.0,
+    0.10003243557210503
+   ],
+   "overturn_upper95": 0.08203163585667045,
+   "overturn_rate_followed": NaN,
+   "overturn_followed_ci": null,
+   "median_year": 2021.0
+  },
+  {
+   "paper": "Christiansen et al. 2022",
+   "bib": "2022AJ....163..244C",
+   "mission": "K2",
+   "method": "vespa FPP",
+   "n_credited": 60,
+   "overturned": 1,
+   "controversial": 0,
+   "later_mass": 1,
+   "followed": 2,
+   "frac_followed": 0.03333333333333333,
+   "overturn_rate": 0.016666666666666666,
+   "overturn_ci": [
+    0.00042187445234200883,
+    0.08939905005748702
+   ],
+   "overturn_upper95": 0.07663999493450441,
+   "overturn_rate_followed": 0.5,
+   "overturn_followed_ci": [
+    0.01257911709342505,
+    0.9874208829065749
+   ],
+   "median_year": 2022.0
+  },
+  {
+   "paper": "Giacalone et al. 2021",
+   "bib": "2021AJ....161...24G",
+   "mission": "TESS",
+   "method": "TRICERATOPS",
+   "n_credited": 10,
+   "overturned": 0,
+   "controversial": 0,
+   "later_mass": 3,
+   "followed": 3,
+   "frac_followed": 0.3,
+   "overturn_rate": 0.0,
+   "overturn_ci": [
+    0.0,
+    0.3084971078187607
+   ],
+   "overturn_upper95": 0.2588655508930522,
+   "overturn_rate_followed": 0.0,
+   "overturn_followed_ci": [
+    0.0,
+    0.7075982261787133
+   ],
+   "median_year": 2021.0
+  },
+  {
+   "paper": "Giacalone et al. 2022",
+   "bib": "2022AJ....163...99G",
+   "mission": "TESS",
+   "method": "TRICERATOPS",
+   "n_credited": 13,
+   "overturned": 0,
+   "controversial": 0,
+   "later_mass": 5,
+   "followed": 5,
+   "frac_followed": 0.38461538461538464,
+   "overturn_rate": 0.0,
+   "overturn_ci": [
+    0.0,
+    0.24705263800047092
+   ],
+   "overturn_upper95": 0.20581666518655062,
+   "overturn_rate_followed": 0.0,
+   "overturn_followed_ci": [
+    0.0,
+    0.5218237501049814
+   ],
+   "median_year": 2022.0
+  },
+  {
+   "paper": "Mistry et al. 2023",
+   "bib": "2023AJ....166....9M",
+   "mission": "TESS",
+   "method": "VaTEST (TRICERATOPS)",
+   "n_credited": 10,
+   "overturned": 0,
+   "controversial": 0,
+   "later_mass": 2,
+   "followed": 2,
+   "frac_followed": 0.2,
+   "overturn_rate": 0.0,
+   "overturn_ci": [
+    0.0,
+    0.3084971078187607
+   ],
+   "overturn_upper95": 0.2588655508930522,
+   "overturn_rate_followed": 0.0,
+   "overturn_followed_ci": [
+    0.0,
+    0.841886116991581
+   ],
+   "median_year": 2023.0
+  },
+  {
+   "paper": "Mistry et al. 2024",
+   "bib": "2024PASA...41...30M",
+   "mission": "TESS",
+   "method": "VaTEST (TRICERATOPS)",
+   "n_credited": 7,
+   "overturned": 0,
+   "controversial": 0,
+   "later_mass": 2,
+   "followed": 2,
+   "frac_followed": 0.2857142857142857,
+   "overturn_rate": 0.0,
+   "overturn_ci": [
+    0.0,
+    0.40961639722500337
+   ],
+   "overturn_upper95": 0.34816365513116077,
+   "overturn_rate_followed": 0.0,
+   "overturn_followed_ci": [
+    0.0,
+    0.841886116991581
+   ],
+   "median_year": 2024.0
+  },
+  {
+   "paper": "Hord et al. 2024",
+   "bib": "2024AJ....167..233H",
+   "mission": "TESS",
+   "method": "vespa + TRICERATOPS",
+   "n_credited": 16,
+   "overturned": 0,
+   "controversial": 0,
+   "later_mass": 7,
+   "followed": 7,
+   "frac_followed": 0.4375,
+   "overturn_rate": 0.0,
+   "overturn_ci": [
+    0.0,
+    0.2059072142078227
+   ],
+   "overturn_upper95": 0.1707497229824809,
+   "overturn_rate_followed": 0.0,
+   "overturn_followed_ci": [
+    0.0,
+    0.40961639722500337
+   ],
+   "median_year": 2024.0
+  },
+  {
+   "paper": "Lafarga et al. 2026",
+   "bib": "2026MNRAS.548ag512L",
+   "mission": "TESS",
+   "method": "machine learning (RAVEN)",
+   "n_credited": 113,
+   "overturned": 0,
+   "controversial": 0,
+   "later_mass": 3,
+   "followed": 3,
+   "frac_followed": 0.02654867256637168,
+   "overturn_rate": 0.0,
+   "overturn_ci": [
+    0.0,
+    0.03211785574573936
+   ],
+   "overturn_upper95": 0.026162575993197205,
+   "overturn_rate_followed": 0.0,
+   "overturn_followed_ci": [
+    0.0,
+    0.7075982261787133
+   ],
+   "median_year": 2026.0
+  },
+  {
+   "paper": "Collier et al. 2026",
+   "bib": "2026arXiv260821560C",
+   "mission": "TESS",
+   "method": "TRICERATOPS (automated pipeline)",
+   "n_credited": 63,
+   "overturned": 0,
+   "controversial": 0,
+   "later_mass": 1,
+   "followed": 1,
+   "frac_followed": 0.015873015873015872,
+   "overturn_rate": 0.0,
+   "overturn_ci": [
+    0.0,
+    0.05687235233201625
+   ],
+   "overturn_upper95": 0.04643845148393822,
+   "overturn_rate_followed": 0.0,
+   "overturn_followed_ci": [
+    0.0,
+    0.975
+   ],
+   "median_year": 2026.0
+  }
+ ],
+ "B_by_mission": {
+  "K2": {
+   "n_credited": 378,
+   "overturned": 8,
+   "later_mass": 30,
+   "followed": 38,
+   "controversial": 0
+  },
+  "Kepler": {
+   "n_credited": 2418,
+   "overturned": 13,
+   "later_mass": 139,
+   "followed": 152,
+   "controversial": 1
+  },
+  "TESS": {
+   "n_credited": 232,
+   "overturned": 0,
+   "later_mass": 23,
+   "followed": 23,
+   "controversial": 0
+  }
+ },
+ "B_all": {
+  "n_credited": 3028,
+  "overturned": 21,
+  "later_mass": 192,
+  "followed": 213,
+  "overturn_rate": 0.006935270805812417,
+  "overturn_ci": [
+   0.004298017491725115,
+   0.01058185782569686
+  ],
+  "overturn_rate_followed": 0.09859154929577464,
+  "overturn_followed_ci": [
+   0.0620714415087536,
+   0.14675528230525303
+  ]
+ },
+ "C_calibration": {
+  "Crossfield et al. 2016": {
+   "n": 106,
+   "expected": 1.0833653430718007,
+   "observed": 6,
+   "p_tail": 0.0008957067649746577,
+   "ratio": 5.53829789587643,
+   "median_fpp": 2.4e-05,
+   "n_fpp_upper_limits": 0,
+   "n_followed": 37,
+   "expected_followed": 0.8835407464000006,
+   "observed_followed": 6,
+   "p_tail_followed": 0.00031177906355812603,
+   "overturned": [
+    "K2-51 b",
+    "K2-67 b",
+    "K2-76 b",
+    "K2-78 b",
+    "K2-82 b",
+    "K2-92 b"
+   ]
+  },
+  "Livingston et al. 2018a": {
+   "n": 42,
+   "expected": 0.00987598697801,
+   "observed": 1,
+   "p_tail": 0.009827379565611433,
+   "ratio": 101.25570256690425,
+   "median_fpp": 2e-05,
+   "n_fpp_upper_limits": 0,
+   "n_followed": 7,
+   "expected_followed": 0.00016200240001000002,
+   "observed_followed": 1,
+   "p_tail_followed": 0.00016198927832978616,
+   "overturned": [
+    "K2-256 b"
+   ]
+  },
+  "Livingston et al. 2018b": {
+   "n": 56,
+   "expected": 0.020627941098,
+   "observed": 0,
+   "p_tail": 1.0,
+   "ratio": 0.0,
+   "median_fpp": 6.55e-06,
+   "n_fpp_upper_limits": 0,
+   "n_followed": 13,
+   "expected_followed": 0.01619692846,
+   "observed_followed": 0,
+   "p_tail_followed": 1.0,
+   "overturned": []
+  },
+  "Mayo et al. 2018": {
+   "n": 149,
+   "expected": 0.025838,
+   "observed": 0,
+   "p_tail": 1.0,
+   "ratio": 0.0,
+   "median_fpp": 0.0001,
+   "n_fpp_upper_limits": 118,
+   "n_followed": 41,
+   "expected_followed": 0.006533000000000001,
+   "observed_followed": 0,
+   "p_tail_followed": 1.0,
+   "overturned": []
+  },
+  "Montet et al. 2015": {
+   "n": 21,
+   "expected": 0.046970000000000005,
+   "observed": 0,
+   "p_tail": 1.0,
+   "ratio": 0.0,
+   "median_fpp": 0.0011,
+   "n_fpp_upper_limits": 3,
+   "n_followed": 7,
+   "expected_followed": 0.006620000000000001,
+   "observed_followed": 0,
+   "p_tail_followed": 1.0,
+   "overturned": []
+  },
+  "Morton et al. 2016": {
+   "n": 1284,
+   "expected": 1.550672,
+   "observed": 13,
+   "p_tail": 1.1470382677164178e-08,
+   "ratio": 8.38346213770546,
+   "median_fpp": 0.0003,
+   "n_fpp_upper_limits": 0,
+   "n_followed": 29,
+   "expected_followed": 0.028908000000000003,
+   "observed_followed": 13,
+   "p_tail_followed": 1.5392078039143356e-30,
+   "overturned": [
+    "Kepler-469 b",
+    "Kepler-470 b",
+    "Kepler-486 b",
+    "Kepler-488 b",
+    "Kepler-492 b",
+    "Kepler-494 b",
+    "Kepler-503 b",
+    "Kepler-628 b",
+    "Kepler-699 b",
+    "Kepler-706 b",
+    "Kepler-807 b",
+    "Kepler-840 b",
+    "Kepler-854 b"
+   ]
+  },
+  "pooled_unique_planets": {
+   "n": 1563,
+   "expected": 2.69159665869781,
+   "observed": 20,
+   "p_tail": 1.271402237608953e-11
+  },
+  "morton_by_radius": {
+   "<2": {
+    "n": 600,
+    "expected": 0.689479,
+    "observed": 0,
+    "later_mass": 3,
+    "p_tail": 1.0
+   },
+   "2-4": {
+    "n": 560,
+    "expected": 0.727304,
+    "observed": 0,
+    "later_mass": 5,
+    "p_tail": 1.0
+   },
+   "4-6": {
+    "n": 49,
+    "expected": 0.055295000000000004,
+    "observed": 0,
+    "later_mass": 1,
+    "p_tail": 1.0
+   },
+   "6-10": {
+    "n": 45,
+    "expected": 0.050064000000000004,
+    "observed": 4,
+    "later_mass": 3,
+    "p_tail": 2.514846497361326e-07
+   },
+   ">10": {
+    "n": 30,
+    "expected": 0.028530000000000003,
+    "observed": 9,
+    "later_mass": 4,
+    "p_tail": 3.36358944194283e-20
+   }
+  },
+  "morton_overturned_radii": [
+   6.27,
+   7.14,
+   8.4,
+   9.59,
+   10.42,
+   11.0,
+   13.17,
+   14.11,
+   14.44,
+   15.79,
+   16.72,
+   17.07,
+   17.9
+  ]
+ },
+ "D_followup": {
+  "K2": {
+   "n": 469,
+   "ever": 68,
+   "frac_ever": 0.14498933901918976,
+   "median_age": 8.624229979466119,
+   "curve": [
+    {
+     "years": 0,
+     "n": 469,
+     "frac": 0.006396588486140725
+    },
+    {
+     "years": 1,
+     "n": 468,
+     "frac": 0.04487179487179487
+    },
+    {
+     "years": 2,
+     "n": 468,
+     "frac": 0.06196581196581197
+    },
+    {
+     "years": 3,
+     "n": 468,
+     "frac": 0.0876068376068376
+    },
+    {
+     "years": 4,
+     "n": 462,
+     "frac": 0.10173160173160173
+    },
+    {
+     "years": 5,
+     "n": 364,
+     "frac": 0.12912087912087913
+    },
+    {
+     "years": 6,
+     "n": 342,
+     "frac": 0.14619883040935672
+    },
+    {
+     "years": 7,
+     "n": 335,
+     "frac": 0.14328358208955225
+    },
+    {
+     "years": 8,
+     "n": 280,
+     "frac": 0.16071428571428573
+    },
+    {
+     "years": 9,
+     "n": 108,
+     "frac": 0.26851851851851855
+    },
+    {
+     "years": 10,
+     "n": 98,
+     "frac": 0.24489795918367346
+    },
+    {
+     "years": 11,
+     "n": 22,
+     "frac": 0.2727272727272727
+    }
+   ],
+   "km": [
+    {
+     "years": 0,
+     "at_risk": 469,
+     "cum": 0.006396588486140775,
+     "lo": 0.0,
+     "hi": 0.013611822030279958
+    },
+    {
+     "years": 1,
+     "at_risk": 447,
+     "cum": 0.04484534655110339,
+     "lo": 0.026099493427635484,
+     "hi": 0.0635911996745713
+    },
+    {
+     "years": 2,
+     "at_risk": 439,
+     "cum": 0.06193983699314187,
+     "lo": 0.040105124995331976,
+     "hi": 0.08377454899095177
+    },
+    {
+     "years": 3,
+     "at_risk": 427,
+     "cum": 0.08758157265619948,
+     "lo": 0.06197336255014089,
+     "hi": 0.11318978276225808
+    },
+    {
+     "years": 4,
+     "at_risk": 415,
+     "cum": 0.10043325988155405,
+     "lo": 0.07319902644325178,
+     "hi": 0.12766749331985633
+    },
+    {
+     "years": 5,
+     "at_risk": 317,
+     "cum": 0.10295305467180182,
+     "lo": 0.0753509263388703,
+     "hi": 0.13055518300473334
+    },
+    {
+     "years": 6,
+     "at_risk": 292,
+     "cum": 0.11746837741174021,
+     "lo": 0.08752372543098072,
+     "hi": 0.1474130293924997
+    },
+    {
+     "years": 7,
+     "at_risk": 287,
+     "cum": 0.12052212005045393,
+     "lo": 0.09008878655205135,
+     "hi": 0.1509554535488565
+    },
+    {
+     "years": 8,
+     "at_risk": 235,
+     "cum": 0.12723588801380092,
+     "lo": 0.09564440002122393,
+     "hi": 0.15882737600637792
+    },
+    {
+     "years": 9,
+     "at_risk": 79,
+     "cum": 0.21471717364173915,
+     "lo": 0.15838684075459575,
+     "hi": 0.27104750652888254
+    },
+    {
+     "years": 10,
+     "at_risk": 74,
+     "cum": 0.21471717364173915,
+     "lo": 0.15838684075459575,
+     "hi": 0.27104750652888254
+    }
+   ]
+  },
+  "Kepler": {
+   "n": 2543,
+   "ever": 202,
+   "frac_ever": 0.0794337396775462,
+   "median_age": 10.455852156057494,
+   "curve": [
+    {
+     "years": 0,
+     "n": 2543,
+     "frac": 0.0011797090051120724
+    },
+    {
+     "years": 1,
+     "n": 2542,
+     "frac": 0.033438237608182535
+    },
+    {
+     "years": 2,
+     "n": 2537,
+     "frac": 0.04059913283405597
+    },
+    {
+     "years": 3,
+     "n": 2536,
+     "frac": 0.04652996845425868
+    },
+    {
+     "years": 4,
+     "n": 2464,
+     "frac": 0.053165584415584416
+    },
+    {
+     "years": 5,
+     "n": 2161,
+     "frac": 0.06293382693197594
+    },
+    {
+     "years": 6,
+     "n": 2111,
+     "frac": 0.06963524396020843
+    },
+    {
+     "years": 7,
+     "n": 2110,
+     "frac": 0.06966824644549763
+    },
+    {
+     "years": 8,
+     "n": 2109,
+     "frac": 0.07207207207207207
+    },
+    {
+     "years": 9,
+     "n": 2103,
+     "frac": 0.07227769852591535
+    },
+    {
+     "years": 10,
+     "n": 2097,
+     "frac": 0.07296137339055794
+    },
+    {
+     "years": 11,
+     "n": 820,
+     "frac": 0.20243902439024392
+    },
+    {
+     "years": 12,
+     "n": 789,
+     "frac": 0.21039290240811154
+    }
+   ],
+   "km": [
+    {
+     "years": 0,
+     "at_risk": 2543,
+     "cum": 0.0011797090051121062,
+     "lo": 0.0,
+     "hi": 0.0025138877476575745
+    },
+    {
+     "years": 1,
+     "at_risk": 2457,
+     "cum": 0.033428578272193255,
+     "lo": 0.02644171776237638,
+     "hi": 0.04041543878201013
+    },
+    {
+     "years": 2,
+     "at_risk": 2434,
+     "cum": 0.040512108977649564,
+     "lo": 0.032848320708343044,
+     "hi": 0.04817589724695608
+    },
+    {
+     "years": 3,
+     "at_risk": 2418,
+     "cum": 0.04681934244369623,
+     "lo": 0.03860638377142704,
+     "hi": 0.055032301115965424
+    },
+    {
+     "years": 4,
+     "at_risk": 2333,
+     "cum": 0.052452606844547,
+     "lo": 0.04377414270003693,
+     "hi": 0.06113107098905707
+    },
+    {
+     "years": 5,
+     "at_risk": 2025,
+     "cum": 0.05606170529840726,
+     "lo": 0.04706196723992707,
+     "hi": 0.06506144335688745
+    },
+    {
+     "years": 6,
+     "at_risk": 1964,
+     "cum": 0.06130734185224962,
+     "lo": 0.051838730774629325,
+     "hi": 0.0707759529298699
+    },
+    {
+     "years": 7,
+     "at_risk": 1963,
+     "cum": 0.06130734185224962,
+     "lo": 0.051838730774629325,
+     "hi": 0.0707759529298699
+    },
+    {
+     "years": 8,
+     "at_risk": 1957,
+     "cum": 0.06369903826855916,
+     "lo": 0.054025255532270874,
+     "hi": 0.07337282100484745
+    },
+    {
+     "years": 9,
+     "at_risk": 1951,
+     "cum": 0.06513508268839263,
+     "lo": 0.05534059817914834,
+     "hi": 0.07492956719763692
+    },
+    {
+     "years": 10,
+     "at_risk": 1944,
+     "cum": 0.06561425486538475,
+     "lo": 0.05577986556421848,
+     "hi": 0.07544864416655102
+    },
+    {
+     "years": 11,
+     "at_risk": 654,
+     "cum": 0.10489796821890462,
+     "lo": 0.08805739356458925,
+     "hi": 0.12173854287322
+    },
+    {
+     "years": 12,
+     "at_risk": 626,
+     "cum": 0.11191179152779696,
+     "lo": 0.09411584229742569,
+     "hi": 0.12970774075816824
+    }
+   ]
+  },
+  "TESS": {
+   "n": 405,
+   "ever": 78,
+   "frac_ever": 0.1925925925925926,
+   "median_age": 1.0376454483230664,
+   "curve": [
+    {
+     "years": 0,
+     "n": 405,
+     "frac": 0.0049382716049382715
+    },
+    {
+     "years": 1,
+     "n": 206,
+     "frac": 0.1407766990291262
+    },
+    {
+     "years": 2,
+     "n": 167,
+     "frac": 0.23952095808383234
+    },
+    {
+     "years": 3,
+     "n": 120,
+     "frac": 0.35
+    },
+    {
+     "years": 4,
+     "n": 77,
+     "frac": 0.4025974025974026
+    },
+    {
+     "years": 5,
+     "n": 53,
+     "frac": 0.5471698113207547
+    },
+    {
+     "years": 6,
+     "n": 27,
+     "frac": 0.7407407407407407
+    }
+   ],
+   "km": [
+    {
+     "years": 0,
+     "at_risk": 405,
+     "cum": 0.004938271604938316,
+     "lo": 0.0,
+     "hi": 0.01176544695446558
+    },
+    {
+     "years": 1,
+     "at_risk": 177,
+     "cum": 0.12542510719086564,
+     "lo": 0.08391964855228284,
+     "hi": 0.16693056582944843
+    },
+    {
+     "years": 2,
+     "at_risk": 127,
+     "cum": 0.21198954427116445,
+     "lo": 0.15594369661773239,
+     "hi": 0.2680353919245965
+    },
+    {
+     "years": 3,
+     "at_risk": 78,
+     "cum": 0.31605235303225254,
+     "lo": 0.24531280307564793,
+     "hi": 0.38679190298885713
+    },
+    {
+     "years": 4,
+     "at_risk": 46,
+     "cum": 0.3794229412315677,
+     "lo": 0.2987447024699352,
+     "hi": 0.46010117999320027
+    },
+    {
+     "years": 5,
+     "at_risk": 24,
+     "cum": 0.4632847059300046,
+     "lo": 0.3592524191007521,
+     "hi": 0.5673169927592571
+    }
+   ]
+  }
+ },
+ "E_tess": {
+  "n_tess_validated_class": 405,
+  "matched_toi": 354,
+  "disp_counts": {
+   "CP": 264,
+   "PC": 86,
+   "APC": 2,
+   "KP": 2
+  },
+  "fp_like": []
+ }
+}

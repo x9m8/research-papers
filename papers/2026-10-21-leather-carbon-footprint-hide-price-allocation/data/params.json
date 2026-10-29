@@ -1,0 +1,106 @@
+{
+ "ef_kgco2e_per_kg_cw": {
+  "value": 21.3,
+  "sd": 2.3,
+  "source": "Rotz et al. 2019, Agricultural Systems 169:1-13, abstract: cradle to farm gate, kg CO2e per kg carcass weight"
+ },
+ "hide_yield_lb_per_cwt_live": {
+  "value": 4.8,
+  "range": [
+   4.7,
+   5.4
+  ],
+  "source": "USDA AMS By-Product Drop Value (Steer) overview: butt-branded steer hide 4.80 lb per 100 lb live (cured and fleshed); 2025 reports 4.70-4.77; monthly range 4.91-5.40"
+ },
+ "m2_per_kg_raw_hide": {
+  "value": 0.12,
+  "source": "Lunesu et al. 2025, Animals 15:3546 (Vicenza tanneries average)"
+ },
+ "mass_alloc_us": {
+  "value": 0.048,
+  "source": "LHCA-funded US LCA (Thoma, CSU AgNext), as described on usleather.org, 8 Oct 2025"
+ },
+ "pefcr_econ": {
+  "value": 0.035,
+  "source": "PEFCR Leather 2018, Table 19"
+ },
+ "published": [
+  {
+   "label": "PEFCR Leather default (EU)",
+   "value": 0.035,
+   "year": 2018,
+   "kind": "economic",
+   "source": "PEFCR Leather 2018 Table 19"
+  },
+  {
+   "label": "Leather Working Group LCA",
+   "value": 0.018,
+   "year": 2024,
+   "kind": "economic",
+   "source": "Carbonfact; L&HCA critique"
+  },
+  {
+   "label": "UNIDO guidelines",
+   "value": 0.015,
+   "year": 2026,
+   "kind": "economic",
+   "source": "L&HCA critique (secondary)"
+  },
+  {
+   "label": "US economic value (L&HCA-funded LCA)",
+   "value": 0.01,
+   "year": 2025,
+   "kind": "economic",
+   "source": "usleather.org 8 Oct 2025"
+  },
+  {
+   "label": "Italy, 2023 prices (Lunesu et al.)",
+   "value": 0.0268,
+   "year": 2023,
+   "kind": "economic",
+   "source": "Lunesu et al. 2025"
+  },
+  {
+   "label": "Canada, 2006 US prices (Desjardins et al.)",
+   "value": 0.068,
+   "year": 2006,
+   "kind": "economic",
+   "source": "Desjardins et al. 2012 Table 3"
+  },
+  {
+   "label": "Mekonnen & Hoekstra value fraction",
+   "value": 0.05,
+   "year": 2010,
+   "kind": "economic",
+   "source": "Mekonnen & Hoekstra 2010 Table 5"
+  },
+  {
+   "label": "US hide mass fraction",
+   "value": 0.048,
+   "year": 2025,
+   "kind": "mass",
+   "source": "usleather.org 8 Oct 2025"
+  },
+  {
+   "label": "Italy mass (Lunesu et al.)",
+   "value": 0.0588,
+   "year": 2025,
+   "kind": "mass",
+   "source": "Lunesu et al. 2025"
+  },
+  {
+   "label": "Canada mass (Desjardins et al.)",
+   "value": 0.062,
+   "year": 2006,
+   "kind": "mass",
+   "source": "Desjardins et al. 2012 Table 3"
+  },
+  {
+   "label": "Roncevich et al. global weighted",
+   "value": 0.081,
+   "year": 2026,
+   "kind": "economic",
+   "source": "Roncevich et al. 2026"
+  }
+ ]
+}

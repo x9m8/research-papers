@@ -1,0 +1,43 @@
+{
+ "national_E_2019": 1.28535,
+ "national_E_2024": 4.63859,
+ "national_dE_2019_2024": 3.3532399999999996,
+ "national_fills_ratio_2024_2019": 4.232834230056184,
+ "semtir_share_2024": 0.7613313688722207,
+ "semtir_share_2019": 0.103208217345209,
+ "npi_coverage_2019": 0.7285826638666225,
+ "npi_coverage_2024": 0.8850749750261947,
+ "match_min": 0.9897315214990449,
+ "match_max": 0.9915989791263736,
+ "state_corr_min": 0.9984589122995811,
+ "lsr_emp": {
+  "lo_over_bench_m1": 18.64775,
+  "lo_over_bench_m4": 4.6619375,
+  "mde_over_bench_m1": 13.702375,
+  "mde_over_bench_m4": 3.42559375,
+  "bench_per_sd_m1": -0.1220528,
+  "bench_per_sd_m4": -0.4882112,
+  "bench_national_m1": -0.2682592,
+  "bench_national_m4": -1.0730368
+ },
+ "diff_emp": {
+  "lo_over_bench_m1": 24.20525,
+  "lo_over_bench_m4": 6.0513125,
+  "mde_over_bench_m1": 21.404500000000002,
+  "mde_over_bench_m4": 5.351125000000001,
+  "bench_per_sd_m1": -0.1220528,
+  "bench_per_sd_m4": -0.4882112,
+  "bench_national_m1": -0.2682592,
+  "bench_national_m4": -1.0730368
+ },
+ "fsr_emp": {
+  "lo_over_bench_m1": 13.442499999999999,
+  "lo_over_bench_m4": 3.3606249999999998,
+  "mde_over_bench_m1": 19.31575,
+  "mde_over_bench_m4": 4.8289375,
+  "bench_per_sd_m1": -0.1220528,
+  "bench_per_sd_m4": -0.4882112,
+  "bench_national_m1": -0.2682592,
+  "bench_national_m4": -1.0730368
+ }
+}

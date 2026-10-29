@@ -1,0 +1,25 @@
+wave,date,code,label,n,N,pct,lo,hi
+Sep 2025,2025-09-09,V_misbrand_502bb,False/misleading compounded-drug advertising or promotion (502(bb)),55,55,1.0,0.9347150988829137,1.0
+Sep 2025,2025-09-09,C_sameness,"""Same as"" / same active ingredient claim",41,55,0.7454545454545455,0.6169812871823414,0.841878852269271
+Sep 2025,2025-09-09,C_brand_names,Use of approved brand names,43,55,0.7818181818181819,0.6562996597815998,0.8705397595887698
+Sep 2025,2025-09-09,C_fda_approved,Implied FDA approval claim,13,55,0.23636363636363636,0.1436665586973318,0.36348366189167736
+Sep 2025,2025-09-09,C_firm_branded,Firm-branded product,0,55,0.0,0.0,0.06528490111708639
+Sep 2025,2025-09-09,C_generic,"""Generic"" claim",11,55,0.2,0.11552214909761245,0.3236487915726394
+Sep 2025,2025-09-09,V_unapproved,Unapproved new drug (505(a)),6,55,0.10909090909090909,0.050967250007823345,0.2182554908655351
+Sep 2025,2025-09-09,V_other_peptide,Retatrutide or other unapproved incretin,6,55,0.10909090909090909,0.050967250007823345,0.2182554908655351
+Feb 2026,2026-02-20,V_misbrand_502bb,False/misleading compounded-drug advertising or promotion (502(bb)),30,30,1.0,0.8864866068260311,1.0
+Feb 2026,2026-02-20,C_sameness,"""Same as"" / same active ingredient claim",20,30,0.6666666666666666,0.48780051644543837,0.8076950191632386
+Feb 2026,2026-02-20,C_brand_names,Use of approved brand names,18,30,0.6,0.42320360253322475,0.7540937188319815
+Feb 2026,2026-02-20,C_fda_approved,Implied FDA approval claim,24,30,0.8,0.6269430358685175,0.9049489282271013
+Feb 2026,2026-02-20,C_firm_branded,Firm-branded product,30,30,1.0,0.8864866068260311,1.0
+Feb 2026,2026-02-20,C_generic,"""Generic"" claim",3,30,0.1,0.03459988874733416,0.25621082579184085
+Feb 2026,2026-02-20,V_unapproved,Unapproved new drug (505(a)),0,30,0.0,0.0,0.1135133931739688
+Feb 2026,2026-02-20,V_other_peptide,Retatrutide or other unapproved incretin,0,30,0.0,0.0,0.1135133931739688
+Jun 2026,2026-06-08,V_misbrand_502bb,False/misleading compounded-drug advertising or promotion (502(bb)),25,25,1.0,0.8668077490609515,1.0
+Jun 2026,2026-06-08,C_sameness,"""Same as"" / same active ingredient claim",14,25,0.56,0.3706733186979878,0.7333436111893266
+Jun 2026,2026-06-08,C_brand_names,Use of approved brand names,14,25,0.56,0.3706733186979878,0.7333436111893266
+Jun 2026,2026-06-08,C_fda_approved,Implied FDA approval claim,21,25,0.84,0.6534637839282114,0.9359654854332355
+Jun 2026,2026-06-08,C_firm_branded,Firm-branded product,21,25,0.84,0.6534637839282114,0.9359654854332355
+Jun 2026,2026-06-08,C_generic,"""Generic"" claim",0,25,0.0,0.0,0.13319225093904855
+Jun 2026,2026-06-08,V_unapproved,Unapproved new drug (505(a)),0,25,0.0,0.0,0.13319225093904855
+Jun 2026,2026-06-08,V_other_peptide,Retatrutide or other unapproved incretin,0,25,0.0,0.0,0.13319225093904855

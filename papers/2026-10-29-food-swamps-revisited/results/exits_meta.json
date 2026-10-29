@@ -1,0 +1,82 @@
+{
+ "nodes_total": 86310,
+ "nodes_unassigned_initial": 8562,
+ "nodes_unassigned_final": 8337,
+ "counties": 3221,
+ "counties_zero": 1205,
+ "nodes_with_ref_or_name": 53203,
+ "overpass_crosscheck": {
+  "by_state_overpass_vs_qlever": {
+   "AL": [
+    811,
+    811
+   ],
+   "AK": [
+    123,
+    120
+   ],
+   "AZ": [
+    1367,
+    1375
+   ],
+   "AR": [
+    994,
+    994
+   ],
+   "CA": [
+    8010,
+    8097
+   ],
+   "CT": [
+    929,
+    930
+   ],
+   "DE": [
+    222,
+    222
+   ],
+   "DC": [
+    172,
+    165
+   ],
+   "FL": [
+    2788,
+    2792
+   ],
+   "GA": [
+    1566,
+    1562
+   ],
+   "HI": [
+    108,
+    108
+   ],
+   "ID": [
+    377,
+    376
+   ],
+   "IN": [
+    1315,
+    1316
+   ],
+   "IA": [
+    1077,
+    1073
+   ],
+   "KS": [
+    1231,
+    1228
+   ],
+   "KY": [
+    1003,
+    1011
+   ],
+   "LA": [
+    893,
+    893
+   ]
+  },
+  "total_overpass": 22986,
+  "total_qlever": 23073
+ }
+}

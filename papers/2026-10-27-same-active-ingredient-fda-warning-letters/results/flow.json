@@ -1,0 +1,33 @@
+{
+ "records_by_term": {
+  "semaglutide": 149,
+  "tirzepatide": 113,
+  "retatrutide": 21,
+  "Ozempic": 85,
+  "Wegovy": 70,
+  "Mounjaro": 50,
+  "Zepbound": 39,
+  "GLP-1": 55,
+  "liraglutide": 6,
+  "cagrilintide": 5,
+  "incretin": 4
+ },
+ "records_total": 597,
+ "unique_letter_urls": 163,
+ "duplicate_postings": 0,
+ "full_text_retrieved": 163,
+ "excluded_brand_holder": 5,
+ "excluded_incidental": 4,
+ "excluded_slugs": {
+  "veronvy-694688-12102024": "X2_incidental",
+  "eli-lilly-and-company-716485-09092025": "X1_brand_holder",
+  "eli-lilly-and-company-716462-09092025": "X1_brand_holder",
+  "eli-lilly-and-company-716475-09092025": "X1_brand_holder",
+  "novo-nordisk-inc-716495-09092025": "X1_brand_holder",
+  "ralph-defronzo-md-716773-09172025": "X2_incidental",
+  "novo-nordisk-inc-717576-03052026": "X1_brand_holder",
+  "guangzhou-huli-technology-co-ltd-dba-fantasy-face-722228-03312026": "X2_incidental",
+  "biodrive-inc-731846-08242026": "X2_incidental"
+ },
+ "included": 154
+}

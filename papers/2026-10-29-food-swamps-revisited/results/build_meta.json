@@ -1,0 +1,19 @@
+{
+ "atlas_rows": 3255,
+ "n_rfei_trad_07_contig": 3055,
+ "n_rfei_e1_07_contig": 3069,
+ "n_rfei_e2_07_contig": 3069,
+ "n_rfei_trad_09_contig": 3054,
+ "n_rfei_e1_09_contig": 3064,
+ "n_rfei_e2_09_contig": 3065,
+ "natamen_nonmissing": 3108,
+ "obese09_nonmissing": 3138,
+ "groc07_zero_contig": 53,
+ "den1_07_zero_contig": 39,
+ "den2_07_zero_contig": 39,
+ "places_counties_2018": 3142,
+ "rows_2016": 3156,
+ "counts16_minus9999_any": 1632,
+ "groc20_suppressed": 909,
+ "superc20_suppressed": 2468
+}

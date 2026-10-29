@@ -1,0 +1,66 @@
+id,status,population,bag,outcomes,n
+Hardie2015,included,young adult,shoulder same-side;cross-body,EMG,12
+Yoon2014,included,young adult,shoulder same-side,EMG,20
+Hyung2016,included,young adult,hand-carried;shoulder same-side;cross-body,kinematics,16
+Hyun2018,included,young adult,non-bag load,gait;kinetics;balance,9
+Shin2016,included,older adult,hand-carried,gait,10
+Sussman2001,included,young adult,shoulder same-side,posture,10
+Rodrigues2020,included,adult (own bag),shoulder same-side,gait,258
+Corrigan2012,included,young adult,shoulder same-side,gait;EMG,15
+Tajik2026,included,adult incl. low back pain,non-bag load,EMG,30
+Negrini2007,included,adolescent,shoulder same-side,posture,43
+Ozgul2012,included,adolescent,shoulder same-side,kinematics,20
+Tseng2011,included,young adult,hand-carried,physiological;kinematics,9
+Suzuki2025,included,young adult,shoulder same-side;cross-body,gait,26
+Son2013,excluded,young adult,hand-carried;shoulder same-side,gait,
+Cho2013,excluded,young adult,shoulder same-side;cross-body,EMG,30
+Wang2021,excluded,young adult,cross-body,coordination,
+Ramadan2018,excluded,young adult,hand-carried,gait,
+Zhao2023,excluded,model,shoulder same-side,kinetics,
+Presta2020,excluded,adolescent,shoulder same-side,posture;gait,1
+deVette2014,excluded,adult,hand-carried;cross-body,gait,
+Mache_ISBS,excluded,young adult,cross-body,balance,
+CorriganLi2012_ISBS,duplicate report,young adult,shoulder same-side,gait,
+Guleria2023,excluded,review,,,
+Ellapen2021,excluded,review,,,
+An2010,abstract only,adult women,shoulder same-side;hand-carried,gait,21
+Zhang2010,abstract only,adult,non-bag load,gait;kinematics,19
+Shi2015,abstract only,adult,non-bag load,gait,12
+Yoon2012,abstract only,adult,shoulder same-side,kinematics;kinetics,17
+BettanySaltikov2012,abstract only,adult,shoulder same-side;hand-carried,posture,25
+OShea2006,abstract only,adult,shoulder same-side;cross-body,posture,21
+Motmans2006,abstract only,young adult,shoulder same-side,EMG,19
+Pascoe1997,abstract only,adolescent,shoulder same-side,posture;gait,10
+Corrigan2014,duplicate report,young adult,shoulder same-side,gait;EMG,
+Bampouras2016,abstract only,young and older women,hand-carried,gait,
+Matsuo2008,abstract only,young and older adult,hand-carried,gait,11
+DeVita1991,abstract only,adult,shoulder same-side,kinetics,5
+Phonpichit2016,abstract only,adult women,hand-carried,balance;posture,13
+Ikeda2008,abstract only,adult men,shoulder same-side,physiological;comfort,15
+Holland2019,abstract only,adult men,shoulder same-side,physiological,16
+Bloswick1994,abstract only,adult (mail carriers),shoulder same-side,physiological;EMG,
+Lin1996,abstract only,adult (mail carriers),shoulder same-side,pressure;posture,20
+Takehana1994,abstract only,adult,hand-carried,physiological,12
+Oja1982,abstract only,adult (postal workers),shoulder same-side,physiological,9
+McGill2013,abstract only,adult,hand-carried,EMG;kinetics,6
+Zultowski2008,abstract only,adult,shoulder same-side;hand-carried,balance,
+Rafi2026,abstract only,adult,non-bag load,balance,
+Serafim2026,abstract only,older adult,non-bag load,balance;EMG,
+Silva2019,abstract only,adult,hand-carried,coordination,
+Wang2018a,abstract only,adult,non-bag load,balance,
+Wang2018b,abstract only,adult,non-bag load,kinetics,
+Wang2020,abstract only,adult,non-bag load,balance,
+Lee2014,abstract only,adult,non-bag load,kinematics,
+Lee2016,abstract only,adult,non-bag load,kinetics,
+Park2018,abstract only,adult (firefighters),non-bag load,gait,
+Angelini2018,abstract only,adult (firefighters),non-bag load,gait,
+Shin2017,abstract only,older adult,hand-carried,gait,
+Li2018,abstract only,scoliosis,non-bag load,posture,
+Gomez2018,abstract only,adult (workers),non-bag load,kinematics,
+Kellis2009,abstract only,child,hand-carried,gait,
+Hong2005,abstract only,child,shoulder same-side,gait,
+Cottalorda2003,abstract only,child,shoulder same-side,gait;kinetics,
+Mandrekar2019,abstract only,adolescent,shoulder same-side,posture,
+DrzalGrabiec2015,abstract only,child,shoulder same-side,posture,
+Gelalis2012,abstract only,child (scoliosis),shoulder same-side,kinetics,
+Bergmann1997,abstract only,adult (implant),non-bag load,kinetics,

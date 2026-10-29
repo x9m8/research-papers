@@ -1,0 +1,999 @@
+{
+ "tfp_day": {
+  "M": 10.5,
+  "F": 8.357142857142858
+ },
+ "grid": {
+  "F|0.0|0.8": {
+   "kcal": 1723.9180860466013,
+   "cost_scaled": 9.115088758112023,
+   "scaled_unmet": [
+    "Vitamin A, RAE (mcg_RAE)",
+    "Vitamin C (mg)",
+    "Choline, total (mg)",
+    "Calcium (mg)",
+    "Magnesium (mg)",
+    "Iron\n(mg)",
+    "Potassium (mg)",
+    "Sodium (mg)",
+    "fat 35%",
+    "sat fat 10%",
+    "fibre"
+   ],
+   "adequate": {
+    "feasible": true,
+    "cost": 8.990936006869482,
+    "realloc": 0.4618062694378502
+   },
+   "cheapest": {
+    "feasible": true,
+    "cost": 4.719585107642939,
+    "realloc": 0.7996890783688781
+   },
+   "floor": {
+    "cost": 1.8376856455194848,
+    "n_foods": 14
+   },
+   "p99": {
+    "feasible": true,
+    "cost": 9.098772980218282,
+    "realloc": 0.44964523236779264
+   },
+   "food5_cheapest": 4.357674832243339
+  },
+  "F|0.0|1.2": {
+   "kcal": 1723.9180860466013,
+   "cost_scaled": 9.115088758112023,
+   "scaled_unmet": [
+    "Vitamin A, RAE (mcg_RAE)",
+    "Vitamin C (mg)",
+    "Choline, total (mg)",
+    "Calcium (mg)",
+    "Magnesium (mg)",
+    "Iron\n(mg)",
+    "Potassium (mg)",
+    "Sodium (mg)",
+    "protein target",
+    "fat 35%",
+    "sat fat 10%",
+    "fibre"
+   ],
+   "adequate": {
+    "feasible": true,
+    "cost": 9.143179367923572,
+    "realloc": 0.45954108559159373
+   },
+   "cheapest": {
+    "feasible": true,
+    "cost": 5.0349423716946875,
+    "realloc": 0.8021273813371592
+   },
+   "floor": {
+    "cost": 1.8737809237369383,
+    "n_foods": 14
+   }
+  },
+  "F|0.16|0.8": {
+   "kcal": 1448.091192279145,
+   "cost_scaled": 7.656674556814101,
+   "scaled_unmet": [
+    "Vitamin A, RAE (mcg_RAE)",
+    "Vitamin C (mg)",
+    "Folate, DFE (mcg_DFE)",
+    "Choline, total (mg)",
+    "Calcium (mg)",
+    "Magnesium (mg)",
+    "Iron\n(mg)",
+    "Zinc\n(mg)",
+    "Copper (mg)",
+    "Potassium (mg)",
+    "Sodium (mg)",
+    "fat 35%",
+    "sat fat 10%",
+    "fibre"
+   ],
+   "adequate": {
+    "feasible": true,
+    "cost": 8.46926460147175,
+    "realloc": 0.5689429943866247
+   },
+   "cheapest": {
+    "feasible": true,
+    "cost": 4.535636136335346,
+    "realloc": 0.8083464644281989
+   },
+   "floor": {
+    "cost": 1.7248426602992164,
+    "n_foods": 13
+   },
+   "p99": {
+    "feasible": true,
+    "cost": 8.591085134772522,
+    "realloc": 0.5417138211280952
+   },
+   "food5_cheapest": 4.05968579554017
+  },
+  "F|0.16|1.2": {
+   "kcal": 1448.091192279145,
+   "cost_scaled": 7.656674556814101,
+   "scaled_unmet": [
+    "Vitamin A, RAE (mcg_RAE)",
+    "Vitamin C (mg)",
+    "Folate, DFE (mcg_DFE)",
+    "Choline, total (mg)",
+    "Calcium (mg)",
+    "Magnesium (mg)",
+    "Iron\n(mg)",
+    "Zinc\n(mg)",
+    "Copper (mg)",
+    "Potassium (mg)",
+    "Sodium (mg)",
+    "protein target",
+    "fat 35%",
+    "sat fat 10%",
+    "fibre"
+   ],
+   "adequate": {
+    "feasible": true,
+    "cost": 8.73865961808594,
+    "realloc": 0.5681118901279403
+   },
+   "cheapest": {
+    "feasible": true,
+    "cost": 4.805449794188983,
+    "realloc": 0.801199118734969
+   },
+   "floor": {
+    "cost": 1.7858657398503262,
+    "n_foods": 15
+   }
+  },
+  "F|0.24|0.8": {
+   "kcal": 1310.177745395417,
+   "cost_scaled": 6.927467456165136,
+   "scaled_unmet": [
+    "Vitamin A, RAE (mcg_RAE)",
+    "Vitamin C (mg)",
+    "Vitamin K (phylloquinone) (mcg)",
+    "Thiamin (mg)",
+    "Vitamin B-6 (mg)",
+    "Folate, DFE (mcg_DFE)",
+    "Choline, total (mg)",
+    "Calcium (mg)",
+    "Magnesium (mg)",
+    "Iron\n(mg)",
+    "Zinc\n(mg)",
+    "Copper (mg)",
+    "Potassium (mg)",
+    "fat 35%",
+    "sat fat 10%",
+    "fibre"
+   ],
+   "adequate": {
+    "feasible": true,
+    "cost": 7.7716645729748945,
+    "realloc": 0.6550640279498924
+   },
+   "cheapest": {
+    "feasible": true,
+    "cost": 5.149072807220835,
+    "realloc": 0.8122615932464169
+   },
+   "floor": {
+    "cost": 1.6810677180377995,
+    "n_foods": 15
+   },
+   "p99": {
+    "feasible": true,
+    "cost": 7.998769706124164,
+    "realloc": 0.6198239891132229
+   },
+   "food5_cheapest": 4.301308025671095
+  },
+  "F|0.24|1.2": {
+   "kcal": 1310.177745395417,
+   "cost_scaled": 6.927467456165136,
+   "scaled_unmet": [
+    "Vitamin A, RAE (mcg_RAE)",
+    "Vitamin C (mg)",
+    "Vitamin K (phylloquinone) (mcg)",
+    "Thiamin (mg)",
+    "Vitamin B-6 (mg)",
+    "Folate, DFE (mcg_DFE)",
+    "Choline, total (mg)",
+    "Calcium (mg)",
+    "Magnesium (mg)",
+    "Iron\n(mg)",
+    "Zinc\n(mg)",
+    "Copper (mg)",
+    "Potassium (mg)",
+    "protein target",
+    "fat 35%",
+    "sat fat 10%",
+    "fibre"
+   ],
+   "adequate": {
+    "feasible": true,
+    "cost": 8.642583570537624,
+    "realloc": 0.6653049632108607
+   },
+   "cheapest": {
+    "feasible": true,
+    "cost": 6.034456857180313,
+    "realloc": 0.8032116584307674
+   },
+   "floor": {
+    "cost": 1.7611944643268231,
+    "n_foods": 14
+   }
+  },
+  "F|0.35|0.8": {
+   "kcal": 1120.546755930291,
+   "cost_scaled": 5.924807692772817,
+   "scaled_unmet": [
+    "Vitamin A, RAE (mcg_RAE)",
+    "Vitamin C (mg)",
+    "Vitamin K (phylloquinone) (mcg)",
+    "Thiamin (mg)",
+    "Niacin (mg)",
+    "Vitamin B-6 (mg)",
+    "Folate, DFE (mcg_DFE)",
+    "Choline, total (mg)",
+    "Calcium (mg)",
+    "Magnesium (mg)",
+    "Iron\n(mg)",
+    "Zinc\n(mg)",
+    "Copper (mg)",
+    "Potassium (mg)",
+    "18:2\n(g)",
+    "protein target",
+    "fat 35%",
+    "sat fat 10%",
+    "fibre"
+   ],
+   "adequate": {
+    "feasible": false,
+    "cost": 8.507754745931905,
+    "realloc": 0.8593576498892948,
+    "short": {
+     "Magnesium (mg)": 91.4,
+     "18:2\n(g)": 98.5
+    }
+   },
+   "cheapest": {
+    "feasible": false,
+    "cost": null,
+    "realloc": null
+   },
+   "floor": {
+    "cost": 1.6486636816458649,
+    "n_foods": 12
+   },
+   "p99": {
+    "feasible": true,
+    "cost": 7.873670890964769,
+    "realloc": 0.7795626321464514
+   },
+   "food5_cheapest": 5.8969657878834925
+  },
+  "F|0.35|1.2": {
+   "kcal": 1120.546755930291,
+   "cost_scaled": 5.924807692772817,
+   "scaled_unmet": [
+    "Vitamin A, RAE (mcg_RAE)",
+    "Vitamin C (mg)",
+    "Vitamin K (phylloquinone) (mcg)",
+    "Thiamin (mg)",
+    "Niacin (mg)",
+    "Vitamin B-6 (mg)",
+    "Folate, DFE (mcg_DFE)",
+    "Choline, total (mg)",
+    "Calcium (mg)",
+    "Magnesium (mg)",
+    "Iron\n(mg)",
+    "Zinc\n(mg)",
+    "Copper (mg)",
+    "Potassium (mg)",
+    "18:2\n(g)",
+    "protein target",
+    "fat 35%",
+    "sat fat 10%",
+    "fibre"
+   ],
+   "adequate": {
+    "feasible": false,
+    "cost": 9.193171309340958,
+    "realloc": 0.8368329544249028,
+    "short": {
+     "Calcium (mg)": 99.7,
+     "Magnesium (mg)": 92.9,
+     "18:2\n(g)": 91.6,
+     "protein target": 90.3
+    }
+   },
+   "cheapest": {
+    "feasible": false,
+    "cost": null,
+    "realloc": null
+   },
+   "floor": {
+    "cost": 1.8043392049285703,
+    "n_foods": 15
+   }
+  },
+  "F|0.39|0.8": {
+   "kcal": 1051.590032488427,
+   "cost_scaled": 5.560204142448331,
+   "scaled_unmet": [
+    "Vitamin A, RAE (mcg_RAE)",
+    "Vitamin C (mg)",
+    "Vitamin K (phylloquinone) (mcg)",
+    "Thiamin (mg)",
+    "Riboflavin (mg)",
+    "Niacin (mg)",
+    "Vitamin B-6 (mg)",
+    "Folate, DFE (mcg_DFE)",
+    "Choline, total (mg)",
+    "Calcium (mg)",
+    "Magnesium (mg)",
+    "Iron\n(mg)",
+    "Zinc\n(mg)",
+    "Copper (mg)",
+    "Potassium (mg)",
+    "18:2\n(g)",
+    "18:3\n(g)",
+    "protein target",
+    "fat 35%",
+    "sat fat 10%",
+    "fibre"
+   ],
+   "adequate": {
+    "feasible": false,
+    "cost": 8.278484946441026,
+    "realloc": 0.8652140712819247,
+    "short": {
+     "Choline, total (mg)": 97.0,
+     "Calcium (mg)": 96.0,
+     "Magnesium (mg)": 88.0,
+     "18:2\n(g)": 85.9
+    }
+   },
+   "cheapest": {
+    "feasible": false,
+    "cost": null,
+    "realloc": null
+   },
+   "floor": {
+    "cost": 1.6523033028321994,
+    "n_foods": 15
+   },
+   "p99": {
+    "feasible": true,
+    "cost": 7.936362916309877,
+    "realloc": 0.8449042343618726
+   },
+   "food5_cheapest": null
+  },
+  "F|0.39|1.2": {
+   "kcal": 1051.590032488427,
+   "cost_scaled": 5.560204142448331,
+   "scaled_unmet": [
+    "Vitamin A, RAE (mcg_RAE)",
+    "Vitamin C (mg)",
+    "Vitamin K (phylloquinone) (mcg)",
+    "Thiamin (mg)",
+    "Riboflavin (mg)",
+    "Niacin (mg)",
+    "Vitamin B-6 (mg)",
+    "Folate, DFE (mcg_DFE)",
+    "Choline, total (mg)",
+    "Calcium (mg)",
+    "Magnesium (mg)",
+    "Iron\n(mg)",
+    "Zinc\n(mg)",
+    "Copper (mg)",
+    "Potassium (mg)",
+    "18:2\n(g)",
+    "18:3\n(g)",
+    "protein target",
+    "fat 35%",
+    "sat fat 10%",
+    "fibre"
+   ],
+   "adequate": {
+    "feasible": false,
+    "cost": 8.679461412262159,
+    "realloc": 0.8499699603276927,
+    "short": {
+     "Calcium (mg)": 95.6,
+     "Magnesium (mg)": 90.4,
+     "18:2\n(g)": 72.6,
+     "protein target": 88.9
+    }
+   },
+   "cheapest": {
+    "feasible": false,
+    "cost": null,
+    "realloc": null
+   },
+   "floor": {
+    "cost": 1.837330837508608,
+    "n_foods": 15
+   }
+  },
+  "M|0.0|0.8": {
+   "kcal": 2227.395191267973,
+   "cost_scaled": 11.694240541271254,
+   "scaled_unmet": [
+    "Vitamin A, RAE (mcg_RAE)",
+    "Vitamin C (mg)",
+    "Vitamin K (phylloquinone) (mcg)",
+    "Choline, total (mg)",
+    "Calcium (mg)",
+    "Magnesium (mg)",
+    "Potassium (mg)",
+    "Sodium (mg)",
+    "fat 35%",
+    "sat fat 10%",
+    "fibre"
+   ],
+   "adequate": {
+    "feasible": true,
+    "cost": 10.64962804977354,
+    "realloc": 0.5189324571094477
+   },
+   "cheapest": {
+    "feasible": true,
+    "cost": 6.576270201778099,
+    "realloc": 0.8122874734501719
+   },
+   "floor": {
+    "cost": 2.4345087276048347,
+    "n_foods": 17
+   },
+   "p99": {
+    "feasible": true,
+    "cost": 10.167050486416665,
+    "realloc": 0.5252793707589026
+   },
+   "food5_cheapest": 5.9395333310565865
+  },
+  "M|0.0|1.2": {
+   "kcal": 2227.395191267973,
+   "cost_scaled": 11.694240541271254,
+   "scaled_unmet": [
+    "Vitamin A, RAE (mcg_RAE)",
+    "Vitamin C (mg)",
+    "Vitamin K (phylloquinone) (mcg)",
+    "Choline, total (mg)",
+    "Calcium (mg)",
+    "Magnesium (mg)",
+    "Potassium (mg)",
+    "Sodium (mg)",
+    "fat 35%",
+    "sat fat 10%",
+    "fibre"
+   ],
+   "adequate": {
+    "feasible": true,
+    "cost": 10.94508973792415,
+    "realloc": 0.5353726694713445
+   },
+   "cheapest": {
+    "feasible": true,
+    "cost": 6.732810923951406,
+    "realloc": 0.7911327391613343
+   },
+   "floor": {
+    "cost": 2.451858364135651,
+    "n_foods": 17
+   }
+  },
+  "M|0.16|0.8": {
+   "kcal": 1871.0119606650974,
+   "cost_scaled": 9.823162054667852,
+   "scaled_unmet": [
+    "Vitamin A, RAE (mcg_RAE)",
+    "Vitamin C (mg)",
+    "Vitamin K (phylloquinone) (mcg)",
+    "Choline, total (mg)",
+    "Calcium (mg)",
+    "Magnesium (mg)",
+    "Zinc\n(mg)",
+    "Potassium (mg)",
+    "18:2\n(g)",
+    "Sodium (mg)",
+    "fat 35%",
+    "sat fat 10%",
+    "fibre"
+   ],
+   "adequate": {
+    "feasible": true,
+    "cost": 10.172423144761128,
+    "realloc": 0.5882064286726417
+   },
+   "cheapest": {
+    "feasible": true,
+    "cost": 6.5237931007070875,
+    "realloc": 0.7915609246357357
+   },
+   "floor": {
+    "cost": 2.2813799402377017,
+    "n_foods": 18
+   },
+   "p99": {
+    "feasible": true,
+    "cost": 9.842105899598227,
+    "realloc": 0.5571002609836115
+   },
+   "food5_cheapest": 5.346722846721771
+  },
+  "M|0.16|1.2": {
+   "kcal": 1871.0119606650974,
+   "cost_scaled": 9.823162054667852,
+   "scaled_unmet": [
+    "Vitamin A, RAE (mcg_RAE)",
+    "Vitamin C (mg)",
+    "Vitamin K (phylloquinone) (mcg)",
+    "Choline, total (mg)",
+    "Calcium (mg)",
+    "Magnesium (mg)",
+    "Zinc\n(mg)",
+    "Potassium (mg)",
+    "18:2\n(g)",
+    "Sodium (mg)",
+    "protein target",
+    "fat 35%",
+    "sat fat 10%",
+    "fibre"
+   ],
+   "adequate": {
+    "feasible": true,
+    "cost": 10.285806861651732,
+    "realloc": 0.613766393821615
+   },
+   "cheapest": {
+    "feasible": true,
+    "cost": 6.765847868269842,
+    "realloc": 0.806319502173414
+   },
+   "floor": {
+    "cost": 2.3057586063057527,
+    "n_foods": 16
+   }
+  },
+  "M|0.24|0.8": {
+   "kcal": 1692.8203453636588,
+   "cost_scaled": 8.887622811366152,
+   "scaled_unmet": [
+    "Vitamin A, RAE (mcg_RAE)",
+    "Vitamin C (mg)",
+    "Vitamin K (phylloquinone) (mcg)",
+    "Folate, DFE (mcg_DFE)",
+    "Choline, total (mg)",
+    "Calcium (mg)",
+    "Magnesium (mg)",
+    "Zinc\n(mg)",
+    "Copper (mg)",
+    "Potassium (mg)",
+    "18:2\n(g)",
+    "18:3\n(g)",
+    "Sodium (mg)",
+    "fat 35%",
+    "sat fat 10%",
+    "fibre"
+   ],
+   "adequate": {
+    "feasible": true,
+    "cost": 9.842026385860327,
+    "realloc": 0.7227067931951582
+   },
+   "cheapest": {
+    "feasible": true,
+    "cost": 7.5866626537366155,
+    "realloc": 0.8194038196199778
+   },
+   "floor": {
+    "cost": 2.2063192649977266,
+    "n_foods": 16
+   },
+   "p99": {
+    "feasible": true,
+    "cost": 9.883819531177323,
+    "realloc": 0.6290579603389237
+   },
+   "food5_cheapest": 5.6921029601570625
+  },
+  "M|0.24|1.2": {
+   "kcal": 1692.8203453636588,
+   "cost_scaled": 8.887622811366152,
+   "scaled_unmet": [
+    "Vitamin A, RAE (mcg_RAE)",
+    "Vitamin C (mg)",
+    "Vitamin K (phylloquinone) (mcg)",
+    "Folate, DFE (mcg_DFE)",
+    "Choline, total (mg)",
+    "Calcium (mg)",
+    "Magnesium (mg)",
+    "Zinc\n(mg)",
+    "Copper (mg)",
+    "Potassium (mg)",
+    "18:2\n(g)",
+    "18:3\n(g)",
+    "Sodium (mg)",
+    "protein target",
+    "fat 35%",
+    "sat fat 10%",
+    "fibre"
+   ],
+   "adequate": {
+    "feasible": true,
+    "cost": 10.81124274406762,
+    "realloc": 0.7362835115948984
+   },
+   "cheapest": {
+    "feasible": true,
+    "cost": 8.889799432701032,
+    "realloc": 0.7943371451968013
+   },
+   "floor": {
+    "cost": 2.2625658834866993,
+    "n_foods": 17
+   }
+  },
+  "M|0.35|0.8": {
+   "kcal": 1447.806874324183,
+   "cost_scaled": 7.601256351826314,
+   "scaled_unmet": [
+    "Vitamin A, RAE (mcg_RAE)",
+    "Vitamin C (mg)",
+    "Vitamin K (phylloquinone) (mcg)",
+    "Thiamin (mg)",
+    "Folate, DFE (mcg_DFE)",
+    "Choline, total (mg)",
+    "Calcium (mg)",
+    "Magnesium (mg)",
+    "Zinc\n(mg)",
+    "Copper (mg)",
+    "Potassium (mg)",
+    "18:2\n(g)",
+    "18:3\n(g)",
+    "Sodium (mg)",
+    "fat 35%",
+    "sat fat 10%",
+    "fibre"
+   ],
+   "adequate": {
+    "feasible": false,
+    "cost": 10.644328040866755,
+    "realloc": 0.8476410987532708,
+    "short": {
+     "Magnesium (mg)": 89.7,
+     "18:2\n(g)": 87.8
+    }
+   },
+   "cheapest": {
+    "feasible": false,
+    "cost": null,
+    "realloc": null
+   },
+   "floor": {
+    "cost": 2.1486163755924776,
+    "n_foods": 18
+   },
+   "p99": {
+    "feasible": true,
+    "cost": 9.578262755184877,
+    "realloc": 0.7724737204516832
+   },
+   "food5_cheapest": 7.991448769687729
+  },
+  "M|0.35|1.2": {
+   "kcal": 1447.806874324183,
+   "cost_scaled": 7.601256351826314,
+   "scaled_unmet": [
+    "Vitamin A, RAE (mcg_RAE)",
+    "Vitamin C (mg)",
+    "Vitamin K (phylloquinone) (mcg)",
+    "Thiamin (mg)",
+    "Folate, DFE (mcg_DFE)",
+    "Choline, total (mg)",
+    "Calcium (mg)",
+    "Magnesium (mg)",
+    "Zinc\n(mg)",
+    "Copper (mg)",
+    "Potassium (mg)",
+    "18:2\n(g)",
+    "18:3\n(g)",
+    "Sodium (mg)",
+    "protein target",
+    "fat 35%",
+    "sat fat 10%",
+    "fibre"
+   ],
+   "adequate": {
+    "feasible": false,
+    "cost": 12.195937820620083,
+    "realloc": 0.8349566704980703,
+    "short": {
+     "Magnesium (mg)": 88.7,
+     "18:2\n(g)": 82.5,
+     "protein target": 97.8
+    }
+   },
+   "cheapest": {
+    "feasible": false,
+    "cost": null,
+    "realloc": null
+   },
+   "floor": {
+    "cost": 2.276115476290672,
+    "n_foods": 16
+   }
+  },
+  "M|0.39|0.8": {
+   "kcal": 1358.7110666734638,
+   "cost_scaled": 7.133486730175464,
+   "scaled_unmet": [
+    "Vitamin A, RAE (mcg_RAE)",
+    "Vitamin C (mg)",
+    "Vitamin K (phylloquinone) (mcg)",
+    "Thiamin (mg)",
+    "Folate, DFE (mcg_DFE)",
+    "Choline, total (mg)",
+    "Calcium (mg)",
+    "Magnesium (mg)",
+    "Zinc\n(mg)",
+    "Copper (mg)",
+    "Potassium (mg)",
+    "18:2\n(g)",
+    "18:3\n(g)",
+    "Sodium (mg)",
+    "fat 35%",
+    "sat fat 10%",
+    "fibre"
+   ],
+   "adequate": {
+    "feasible": false,
+    "cost": 10.199105528118261,
+    "realloc": 0.8695862270331718,
+    "short": {
+     "Choline, total (mg)": 95.4,
+     "Magnesium (mg)": 83.7,
+     "18:2\n(g)": 82.9
+    }
+   },
+   "cheapest": {
+    "feasible": false,
+    "cost": null,
+    "realloc": null
+   },
+   "floor": {
+    "cost": 2.160728979443534,
+    "n_foods": 16
+   },
+   "p99": {
+    "feasible": true,
+    "cost": 9.236581176931765,
+    "realloc": 0.834083583617176
+   },
+   "food5_cheapest": null
+  },
+  "M|0.39|1.2": {
+   "kcal": 1358.7110666734638,
+   "cost_scaled": 7.133486730175464,
+   "scaled_unmet": [
+    "Vitamin A, RAE (mcg_RAE)",
+    "Vitamin C (mg)",
+    "Vitamin K (phylloquinone) (mcg)",
+    "Thiamin (mg)",
+    "Folate, DFE (mcg_DFE)",
+    "Choline, total (mg)",
+    "Calcium (mg)",
+    "Magnesium (mg)",
+    "Zinc\n(mg)",
+    "Copper (mg)",
+    "Potassium (mg)",
+    "18:2\n(g)",
+    "18:3\n(g)",
+    "Sodium (mg)",
+    "protein target",
+    "fat 35%",
+    "sat fat 10%",
+    "fibre"
+   ],
+   "adequate": {
+    "feasible": false,
+    "cost": 11.39207402321883,
+    "realloc": 0.8527433773760262,
+    "short": {
+     "Magnesium (mg)": 85.1,
+     "18:2\n(g)": 73.7,
+     "protein target": 91.2
+    }
+   },
+   "cheapest": {
+    "feasible": false,
+    "cost": null,
+    "realloc": null
+   },
+   "floor": {
+    "cost": 2.305671093779254,
+    "n_foods": 17
+   }
+  }
+ },
+ "frontier": {
+  "F|cat_p95|all": 0.005419921875000001,
+  "F|cat_p99|all": 0.399609375,
+  "F|food5|all": null,
+  "F|food_free|all": 0.5999977111816406,
+  "F|cat_p95|no_D_E": 0.32009124755859375,
+  "F|cat_p99|no_D_E": 0.4744651794433593,
+  "F|food5|no_D_E": 0.3839744567871094,
+  "F|food_free|no_D_E": 0.5999977111816406,
+  "F|cat_p95|no_D_E|fibre_abs": 0.30493011474609377,
+  "M|cat_p95|all": 0.08845138549804688,
+  "M|cat_p99|all": 0.41898193359375,
+  "M|food5|all": 0.021965789794921878,
+  "M|food_free|all": 0.5999977111816406,
+  "M|cat_p95|no_D_E": 0.2849555969238281,
+  "M|cat_p99|no_D_E": 0.4669303894042969,
+  "M|food5|no_D_E": 0.36837844848632806,
+  "M|food_free|no_D_E": 0.5999977111816406,
+  "M|cat_p95|no_D_E|fibre_abs": 0.19762802124023435
+ },
+ "sens": {
+  "F|0.24|l1": {
+   "feasible": true,
+   "cost": 7.358226320537734
+  },
+  "F|0.24|fibre_abs": {
+   "feasible": true,
+   "cost": 8.520529790628107,
+   "realloc": 0.707723168897171
+  },
+  "F|0.24|age51": {
+   "feasible": true,
+   "cost": 7.990944189581393,
+   "realloc": 0.687732768124199
+  },
+  "F|0.35|l1": {
+   "feasible": false,
+   "cost": null
+  },
+  "F|0.35|fibre_abs": {
+   "feasible": false,
+   "cost": 8.85532000473885,
+   "realloc": 0.8605226965219241,
+   "short": {
+    "Choline, total (mg)": 97.6,
+    "Calcium (mg)": 98.5,
+    "Magnesium (mg)": 93.2,
+    "18:2\n(g)": 94.4,
+    "fibre": 91.7
+   }
+  },
+  "F|0.35|age51": {
+   "feasible": false,
+   "cost": 9.648665259794459,
+   "realloc": 0.8445294012642854,
+   "short": {
+    "Calcium (mg)": 90.5,
+    "Magnesium (mg)": 95.2
+   }
+  },
+  "M|0.24|l1": {
+   "feasible": true,
+   "cost": 9.947047809943639
+  },
+  "M|0.24|fibre_abs": {
+   "feasible": false,
+   "cost": 10.859660338379207,
+   "realloc": 0.8178742429943082,
+   "short": {
+    "fibre": 94.1
+   }
+  },
+  "M|0.24|age51": {
+   "feasible": true,
+   "cost": 9.808868361595959,
+   "realloc": 0.6745344864438922
+  },
+  "M|0.35|l1": {
+   "feasible": false,
+   "cost": null
+  },
+  "M|0.35|fibre_abs": {
+   "feasible": false,
+   "cost": 10.926480894145412,
+   "realloc": 0.8431251945362582,
+   "short": {
+    "Choline, total (mg)": 98.3,
+    "Magnesium (mg)": 89.8,
+    "18:2\n(g)": 88.3,
+    "fibre": 73.7
+   }
+  },
+  "M|0.35|age51": {
+   "feasible": false,
+   "cost": 10.595469332044857,
+   "realloc": 0.8308387729952839,
+   "short": {
+    "Magnesium (mg)": 93.3
+   }
+  }
+ },
+ "de": {
+  "F|0.0": {
+   "D": 108.09957193087459,
+   "E": 109.52316692532477,
+   "D_p99": 192.32728550563155,
+   "E_p99": 290.8597737122002
+  },
+  "F|0.16": {
+   "D": 102.8939999007314,
+   "E": 95.50838717663547,
+   "D_p99": 170.95355281321173,
+   "E_p99": 271.83350248696183
+  },
+  "F|0.24": {
+   "D": 95.50248746944524,
+   "E": 87.08101925696464,
+   "D_p99": 153.77984428199684,
+   "E_p99": 261.18045746433216
+  },
+  "F|0.35": {
+   "D": null,
+   "E": null,
+   "D_p99": 123.83471902771304,
+   "E_p99": 214.5404766495795
+  },
+  "F|0.39": {
+   "D": null,
+   "E": null,
+   "D_p99": 106.65813008406863,
+   "E_p99": 185.4795712121746
+  },
+  "M|0.0": {
+   "D": 105.65507053295251,
+   "E": 119.80664363771163,
+   "D_p99": 218.55266596742635,
+   "E_p99": 295.5623529440902
+  },
+  "M|0.16": {
+   "D": 102.76469252944351,
+   "E": 104.43610595045942,
+   "D_p99": 204.80412715056454,
+   "E_p99": 278.9886526215649
+  },
+  "M|0.24": {
+   "D": 93.72836130741771,
+   "E": 92.34153611341253,
+   "D_p99": 182.90406219378391,
+   "E_p99": 269.2121031024351
+  },
+  "M|0.35": {
+   "D": null,
+   "E": null,
+   "D_p99": 136.71323350585268,
+   "E_p99": 232.77734085439909
+  },
+  "M|0.39": {
+   "D": null,
+   "E": null,
+   "D_p99": 117.13469632480601,
+   "E_p99": 196.0216675110783
+  }
+ },
+ "p95_zero": {
+  "F": {
+   "n_cat": 155,
+   "n_zero": 47
+  },
+  "M": {
+   "n_cat": 154,
+   "n_zero": 53
+  }
+ }
+}

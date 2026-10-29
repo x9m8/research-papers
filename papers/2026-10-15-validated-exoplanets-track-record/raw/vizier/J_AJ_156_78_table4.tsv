@@ -1,0 +1,61 @@
+#
+#   VizieR Astronomical Server vizier.cds.unistra.fr
+#    Date: 2026-10-15T11:33:14 [V7.6.1]
+#   In case of problem, please report to:	cds-question@unistra.fr
+#
+#
+#Coosys	J2000:	eq_FK5 J2000
+#INFO	service_protocol=ASU	  IVOID of the protocol through which the data was retrieved
+#INFO	request_date=2026-10-15T11:33:14	  Query execution date
+#INFO	request=https://vizier.cds.unistra.fr/viz-bin/asu-tsv?-source=J%2FAJ%2F156%2F78%2Ftable4&-out.all&-out.max=unlimited	  Full request URL
+#INFO	contact=cds-question@unistra.fr	  Email or URL to contact publisher
+#INFO	server_software=VizieR/7.6.1	  Software version
+#INFO	publisher=CDS	  Data centre that produced the VOTable
+
+#RESOURCE=yCat_51560078
+#Name: J/AJ/156/78
+#Title: 44 validated planets from K2 Campaign 10 (Livingston+, 2018)
+#INFO	ivoid=ivo://cds.vizier/j/aj/156/78	    IVOID of underlying data collection
+#INFO	data_ivoid=ivo://cds.vizier/j/aj/156/78	    IVOID of underlying data collection
+#INFO	creator=Livingston J.H.	    First author or institution
+#INFO	cites=bibcode:2018AJ....156...78L	    Article or Data origin sources
+#INFO	journal=AJ	    Journal name
+#INFO	original_date=2018	    Year of the article publication
+#INFO	reference_url=https://cdsarc.cds.unistra.fr/viz-bin/cat/J/AJ/156/78	    Dataset landing page
+#INFO	citation=doi:10.26093/cds/vizier.51560078	    Dataset identifier that can be used for citation
+#INFO	publication_date=2019-03-25	    Date of first publication in the data centre
+#INFO	rights_uri=https://cds.unistra.fr/vizier-org/licences_vizier.html	    Licence URI
+#Table	J_AJ_156_78_table4:
+#Name: J/AJ/156/78/table4
+#Title: *Validated planets with predicted Doppler semi-amplitudes greater than 1 m/s orbiting stars brighter than Kp=12 mag
+#Column	recno	(I8)	Record number assigned by the VizieR team. Should Not be used for identification.	[ucd=meta.record]
+#Column	EPIC	(A12)	EPIC number (EPIC NNNNNNNNN.NN)	[ucd=meta.id;meta.main]
+#Column	Kpmag	(F6.3)	[9.234/11.998] Kepler magnitude	[ucd=phot.mag;em.opt]
+#Column	Kpred	(F4.1)	[1.2/5.7] Predicted Doppler semi-amplitude	[ucd=phys.veloc;src.orbital]
+#Column	e_Kpred	(F4.1)	[0.4/2.2] Lower limit uncertainty in Kpred	[ucd=stat.error;stat.min]
+#Column	E_Kpred	(F4.1)	[0.5/2.3] Upper limit uncertainty in Kpred	[ucd=stat.error;stat.max]
+#Column	Rp	(F5.2)	[1.14/4.34] Planet radius	[ucd=phys.size.radius]
+#Column	Porb	(F7.4)	[0.3693/26.8199] Orbital period	[ucd=time.period]
+#Column	Prot	(F4.1)	[9.4/22]? Rotational period	[ucd=time.period]
+#Column	e_Prot	(F4.1)	[1.3/2.7]? Lower limit uncertainty in Prot	[ucd=stat.error;stat.min]
+#Column	E_Prot	(F4.1)	[1.3/6]? Upper limit uncertainty in Prot	[ucd=stat.error;stat.max]
+recno	EPIC	Kpmag	Kpred	e_Kpred	E_Kpred	Rp	Porb	Prot	e_Prot	E_Prot
+ 	 	mag	m/s	m/s	m/s	Rgeo	d	d	d	d
+--------	------------	------	----	----	----	-----	-------	----	----	----
+       1	201092629.01	11.858	 2.5	 0.7	 0.7	 2.55	26.8199	22.0	 2.0	 6.0
+       2	201132684.01	11.678	 3.0	 0.8	 0.8	 2.64	10.0605	13.8	 1.3	 1.3
+       3	201132684.02	11.678	 1.3	 0.7	 0.7	 1.28	 5.9028	13.8	 1.3	 1.3
+       4	201166680.02	10.897	 1.8	 0.6	 0.6	 2.17	11.5418	    	    	
+       5	201166680.03	10.897	 1.2	 0.4	 0.5	 2.01	24.9460	    	    	
+       6	201211526.01	11.696	 1.5	 0.6	 0.6	 1.75	21.0688	    	    	
+       7	201225286.01	11.729	 2.3	 0.7	 0.7	 2.26	12.4220	20.8	 1.6	 1.6
+       8	201357643.01	11.998	 5.7	 1.1	 1.2	 4.34	11.8931	    	    	
+       9	201437844.01	 9.234	 2.3	 0.7	 0.7	 2.32	 9.5580	    	    	
+      10	201437844.02	 9.234	 3.9	 0.7	 0.8	 4.31	21.0579	    	    	
+      11	201615463.01	11.964	 2.1	 0.7	 0.7	 2.19	 8.5270	    	    	
+      12	228721452.02	11.325	 1.8	 0.8	 0.9	 1.57	 4.5633	    	    	
+      13	228732031.01	11.937	 5.3	 2.2	 2.3	 1.70	 0.3693	 9.4	 1.9	 1.9
+      14	228734900.01	11.535	 2.9	 0.6	 0.7	 3.49	15.8721	    	    	
+      15	228801451.01	10.955	 2.2	 1.2	 1.0	 1.14	 0.5843	19.5	 2.7	 2.7
+      16	228801451.02	10.955	 2.3	 0.8	 0.8	 2.03	 8.3273	19.5	 2.7	 2.7
+

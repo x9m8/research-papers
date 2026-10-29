@@ -1,0 +1,31 @@
+{
+ "n_letters": 163,
+ "median_kappa_codes": 0.9278147802229395,
+ "min_kappa_codes": 0.0,
+ "max_kappa_codes": 1.0,
+ "mean_pct_agree_codes": 0.9467373117679867,
+ "n_codes_kappa_ge_0_8": 16,
+ "n_codes_kappa_lt_0_6": 5,
+ "n_codes": 22,
+ "total_cell_disagreements": 191,
+ "seller_type": {
+  "variable": "seller_type",
+  "label": "seller_type",
+  "n": 163,
+  "agree": 134,
+  "pct_agree": 0.8220858895705522,
+  "kappa": 0.7017289247854619,
+  "n_pass1": NaN,
+  "n_pass2": NaN
+ },
+ "eligible": {
+  "variable": "eligible",
+  "label": "eligible",
+  "n": 163,
+  "agree": 158,
+  "pct_agree": 0.9693251533742331,
+  "kappa": 0.7669430940806405,
+  "n_pass1": 149.0,
+  "n_pass2": 154.0
+ }
+}

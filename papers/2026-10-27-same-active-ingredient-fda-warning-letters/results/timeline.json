@@ -1,0 +1,309 @@
+{
+ "by_year": {
+  "2023": 2,
+  "2024": 10,
+  "2025": 68,
+  "2026": 74
+ },
+ "by_quarter": {
+  "2023Q4": 2,
+  "2024Q1": 2,
+  "2024Q2": 2,
+  "2024Q3": 2,
+  "2024Q4": 4,
+  "2025Q1": 3,
+  "2025Q2": 4,
+  "2025Q3": 58,
+  "2025Q4": 3,
+  "2026Q1": 38,
+  "2026Q2": 28,
+  "2026Q3": 8
+ },
+ "batch_dates": {
+  "09/09/2025": 55,
+  "02/20/2026": 30,
+  "06/08/2026": 25,
+  "03/31/2026": 5,
+  "08/24/2026": 5,
+  "12/10/2024": 4
+ },
+ "batch_letters": 124,
+ "batch_share": 0.8051948051948052,
+ "top3_dates": {
+  "09/09/2025": 55,
+  "02/20/2026": 30,
+  "06/08/2026": 25
+ },
+ "top3_letters": 110,
+ "top3_share": 0.7142857142857143,
+ "n_issue_dates": 34,
+ "n_single_letter_dates": 26,
+ "first_issue": "2023-10-02",
+ "last_issue": "2026-09-24",
+ "before_final_cutoff": 18,
+ "after_final_cutoff": 136,
+ "posting_lag_days_median": 8.0,
+ "posting_lag_days_iqr": [
+  7.0,
+  11.0
+ ],
+ "posting_lag_days_max": 106,
+ "by_month_group": {
+  "2023-10": {
+   "Telehealth platform": 0,
+   "Clinic / med spa": 0,
+   "Online pharmacy / marketplace": 2,
+   "Research-chemical seller": 0,
+   "Compounder (503A/503B)": 0,
+   "API supplier / other manufacturer": 0
+  },
+  "2024-02": {
+   "Telehealth platform": 0,
+   "Clinic / med spa": 0,
+   "Online pharmacy / marketplace": 0,
+   "Research-chemical seller": 2,
+   "Compounder (503A/503B)": 0,
+   "API supplier / other manufacturer": 0
+  },
+  "2024-04": {
+   "Telehealth platform": 0,
+   "Clinic / med spa": 0,
+   "Online pharmacy / marketplace": 1,
+   "Research-chemical seller": 0,
+   "Compounder (503A/503B)": 0,
+   "API supplier / other manufacturer": 0
+  },
+  "2024-06": {
+   "Telehealth platform": 0,
+   "Clinic / med spa": 0,
+   "Online pharmacy / marketplace": 1,
+   "Research-chemical seller": 0,
+   "Compounder (503A/503B)": 0,
+   "API supplier / other manufacturer": 0
+  },
+  "2024-08": {
+   "Telehealth platform": 0,
+   "Clinic / med spa": 0,
+   "Online pharmacy / marketplace": 0,
+   "Research-chemical seller": 0,
+   "Compounder (503A/503B)": 0,
+   "API supplier / other manufacturer": 1
+  },
+  "2024-09": {
+   "Telehealth platform": 0,
+   "Clinic / med spa": 0,
+   "Online pharmacy / marketplace": 1,
+   "Research-chemical seller": 0,
+   "Compounder (503A/503B)": 0,
+   "API supplier / other manufacturer": 0
+  },
+  "2024-12": {
+   "Telehealth platform": 0,
+   "Clinic / med spa": 0,
+   "Online pharmacy / marketplace": 0,
+   "Research-chemical seller": 4,
+   "Compounder (503A/503B)": 0,
+   "API supplier / other manufacturer": 0
+  },
+  "2025-01": {
+   "Telehealth platform": 0,
+   "Clinic / med spa": 0,
+   "Online pharmacy / marketplace": 1,
+   "Research-chemical seller": 0,
+   "Compounder (503A/503B)": 0,
+   "API supplier / other manufacturer": 0
+  },
+  "2025-02": {
+   "Telehealth platform": 0,
+   "Clinic / med spa": 0,
+   "Online pharmacy / marketplace": 0,
+   "Research-chemical seller": 1,
+   "Compounder (503A/503B)": 0,
+   "API supplier / other manufacturer": 0
+  },
+  "2025-03": {
+   "Telehealth platform": 0,
+   "Clinic / med spa": 0,
+   "Online pharmacy / marketplace": 0,
+   "Research-chemical seller": 0,
+   "Compounder (503A/503B)": 1,
+   "API supplier / other manufacturer": 0
+  },
+  "2025-04": {
+   "Telehealth platform": 0,
+   "Clinic / med spa": 0,
+   "Online pharmacy / marketplace": 1,
+   "Research-chemical seller": 0,
+   "Compounder (503A/503B)": 1,
+   "API supplier / other manufacturer": 0
+  },
+  "2025-05": {
+   "Telehealth platform": 0,
+   "Clinic / med spa": 0,
+   "Online pharmacy / marketplace": 1,
+   "Research-chemical seller": 0,
+   "Compounder (503A/503B)": 0,
+   "API supplier / other manufacturer": 0
+  },
+  "2025-06": {
+   "Telehealth platform": 0,
+   "Clinic / med spa": 0,
+   "Online pharmacy / marketplace": 1,
+   "Research-chemical seller": 0,
+   "Compounder (503A/503B)": 0,
+   "API supplier / other manufacturer": 0
+  },
+  "2025-07": {
+   "Telehealth platform": 0,
+   "Clinic / med spa": 0,
+   "Online pharmacy / marketplace": 1,
+   "Research-chemical seller": 0,
+   "Compounder (503A/503B)": 0,
+   "API supplier / other manufacturer": 0
+  },
+  "2025-09": {
+   "Telehealth platform": 44,
+   "Clinic / med spa": 10,
+   "Online pharmacy / marketplace": 2,
+   "Research-chemical seller": 0,
+   "Compounder (503A/503B)": 0,
+   "API supplier / other manufacturer": 1
+  },
+  "2025-10": {
+   "Telehealth platform": 0,
+   "Clinic / med spa": 0,
+   "Online pharmacy / marketplace": 0,
+   "Research-chemical seller": 0,
+   "Compounder (503A/503B)": 1,
+   "API supplier / other manufacturer": 0
+  },
+  "2025-12": {
+   "Telehealth platform": 0,
+   "Clinic / med spa": 0,
+   "Online pharmacy / marketplace": 0,
+   "Research-chemical seller": 0,
+   "Compounder (503A/503B)": 1,
+   "API supplier / other manufacturer": 1
+  },
+  "2026-01": {
+   "Telehealth platform": 0,
+   "Clinic / med spa": 0,
+   "Online pharmacy / marketplace": 0,
+   "Research-chemical seller": 0,
+   "Compounder (503A/503B)": 2,
+   "API supplier / other manufacturer": 0
+  },
+  "2026-02": {
+   "Telehealth platform": 27,
+   "Clinic / med spa": 3,
+   "Online pharmacy / marketplace": 0,
+   "Research-chemical seller": 0,
+   "Compounder (503A/503B)": 1,
+   "API supplier / other manufacturer": 0
+  },
+  "2026-03": {
+   "Telehealth platform": 0,
+   "Clinic / med spa": 0,
+   "Online pharmacy / marketplace": 0,
+   "Research-chemical seller": 5,
+   "Compounder (503A/503B)": 0,
+   "API supplier / other manufacturer": 0
+  },
+  "2026-04": {
+   "Telehealth platform": 0,
+   "Clinic / med spa": 0,
+   "Online pharmacy / marketplace": 0,
+   "Research-chemical seller": 0,
+   "Compounder (503A/503B)": 1,
+   "API supplier / other manufacturer": 1
+  },
+  "2026-05": {
+   "Telehealth platform": 0,
+   "Clinic / med spa": 0,
+   "Online pharmacy / marketplace": 0,
+   "Research-chemical seller": 0,
+   "Compounder (503A/503B)": 0,
+   "API supplier / other manufacturer": 1
+  },
+  "2026-06": {
+   "Telehealth platform": 21,
+   "Clinic / med spa": 4,
+   "Online pharmacy / marketplace": 0,
+   "Research-chemical seller": 0,
+   "Compounder (503A/503B)": 0,
+   "API supplier / other manufacturer": 0
+  },
+  "2026-08": {
+   "Telehealth platform": 0,
+   "Clinic / med spa": 0,
+   "Online pharmacy / marketplace": 0,
+   "Research-chemical seller": 5,
+   "Compounder (503A/503B)": 0,
+   "API supplier / other manufacturer": 0
+  },
+  "2026-09": {
+   "Telehealth platform": 0,
+   "Clinic / med spa": 0,
+   "Online pharmacy / marketplace": 2,
+   "Research-chemical seller": 0,
+   "Compounder (503A/503B)": 1,
+   "API supplier / other manufacturer": 0
+  }
+ },
+ "events": [
+  [
+   "2024-10-02",
+   "Tirzepatide shortage declared resolved"
+  ],
+  [
+   "2024-12-19",
+   "Tirzepatide resolution reaffirmed"
+  ],
+  [
+   "2025-02-18",
+   "Tirzepatide 503A grace period: announced date (extended to the court ruling of 5 Mar 2025)"
+  ],
+  [
+   "2025-02-21",
+   "Semaglutide shortage declared resolved"
+  ],
+  [
+   "2025-03-19",
+   "Tirzepatide 503B grace period ends"
+  ],
+  [
+   "2025-04-22",
+   "Semaglutide 503A grace period: announced date (extended to the court ruling of 24 Apr 2025)"
+  ],
+  [
+   "2025-05-22",
+   "Semaglutide 503B grace period ends"
+  ]
+ ],
+ "by_group_before_after": {
+  "Telehealth platform": [
+   0,
+   92
+  ],
+  "Clinic / med spa": [
+   0,
+   17
+  ],
+  "Online pharmacy / marketplace": [
+   8,
+   6
+  ],
+  "Research-chemical seller": [
+   7,
+   10
+  ],
+  "Compounder (503A/503B)": [
+   2,
+   7
+  ],
+  "API supplier / other manufacturer": [
+   1,
+   4
+  ]
+ }
+}

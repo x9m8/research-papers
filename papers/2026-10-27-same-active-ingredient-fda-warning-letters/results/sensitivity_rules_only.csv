@@ -1,0 +1,23 @@
+code,label,n_final,n_rules,N
+V_unapproved,Unapproved new drug (505(a)),46,47,154
+V_misbrand_502bb,False/misleading compounded-drug advertising or promotion (502(bb)),110,110,154
+V_misbrand_502a,False/misleading labeling (502(a)),115,115,154
+V_misbrand_502f1,Inadequate directions for use (502(f)(1)),32,33,154
+V_rx_503b1,Prescription requirement cited (503(b)),13,68,154
+V_cgmp,CGMP / insanitary conditions (501(a)(2)(B)/(A)),14,20,154
+V_sterility,Sterility assurance,10,11,154
+V_503A_conditions,503A conditions not met,8,10,154
+V_503B_conditions,503B conditions not met,12,13,154
+V_salt_form,Salt form / ineligible API,0,2,154
+V_other_peptide,Retatrutide or other unapproved incretin,22,22,154
+C_sameness,"""Same as"" / same active ingredient claim",76,93,154
+C_generic,"""Generic"" claim",15,18,154
+C_fda_approved,Implied FDA approval claim,64,98,154
+C_firm_branded,Firm-branded product,51,52,154
+C_research_disguise,"""Research use"" / not for human consumption",17,17,154
+C_no_rx,Offered without prescription,9,9,154
+C_brand_names,Use of approved brand names,86,92,154
+F_telehealth_feature,Telehealth / online prescribing features,1,2,154
+F_inspection,Inspection-based,13,13,154
+F_website_review,Website / social media review,141,141,154
+F_shortage,Shortage-list status of recipient's product,7,9,154

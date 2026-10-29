@@ -1,0 +1,1571 @@
+{
+ "series_ha_5pct": {
+  "Stage-wise tracing": {
+   "2005": 26481,
+   "2006": 30335,
+   "2007": 29499,
+   "2008": 27230,
+   "2009": 20648,
+   "2010": 21918,
+   "2011": 20829,
+   "2012": 17680,
+   "2013": 15983,
+   "2014": 15529,
+   "2015": 15507,
+   "2016": 18095,
+   "2017": 18402,
+   "2018": 19599,
+   "2019": 16977,
+   "2020": 16867,
+   "2021": 14083,
+   "2022": 14463,
+   "2023": 12101
+  },
+  "Pooled tracing (Laroche)": {
+   "2005": 33492,
+   "2006": 38678,
+   "2007": 35637,
+   "2008": 31678,
+   "2009": 22293,
+   "2010": 23540,
+   "2011": 23013,
+   "2012": 19805,
+   "2013": 17834,
+   "2014": 16932,
+   "2015": 17187,
+   "2016": 20094,
+   "2017": 20337,
+   "2018": 21922,
+   "2019": 19319,
+   "2020": 17712,
+   "2021": 15207,
+   "2022": 16672,
+   "2023": 13597
+  },
+  "Exporter: hides and leather": {
+   "2005": 30699,
+   "2006": 38152,
+   "2007": 33650,
+   "2008": 29040,
+   "2009": 23683,
+   "2010": 25402,
+   "2011": 24617,
+   "2012": 23956,
+   "2013": 21813,
+   "2014": 18054,
+   "2015": 17876,
+   "2016": 21047,
+   "2017": 22672,
+   "2018": 23674,
+   "2019": 20641,
+   "2020": 19792,
+   "2021": 17053,
+   "2022": 16834,
+   "2023": 13059
+  },
+  "Exporter: articles": {
+   "2005": 7217,
+   "2006": 8084,
+   "2007": 7639,
+   "2008": 7111,
+   "2009": 4301,
+   "2010": 4054,
+   "2011": 3875,
+   "2012": 3476,
+   "2013": 3152,
+   "2014": 3669,
+   "2015": 3858,
+   "2016": 4601,
+   "2017": 5068,
+   "2018": 6019,
+   "2019": 6164,
+   "2020": 5108,
+   "2021": 4539,
+   "2022": 6140,
+   "2023": 6282
+  },
+  "Exporter: all direct imports": {
+   "2005": 37916,
+   "2006": 46237,
+   "2007": 41289,
+   "2008": 36151,
+   "2009": 27984,
+   "2010": 29457,
+   "2011": 28492,
+   "2012": 27432,
+   "2013": 24965,
+   "2014": 21723,
+   "2015": 21735,
+   "2016": 25648,
+   "2017": 27740,
+   "2018": 29693,
+   "2019": 26805,
+   "2020": 24900,
+   "2021": 21592,
+   "2022": 22974,
+   "2023": 19341
+  }
+ },
+ "series_rhe_kt": {
+  "Stage-wise tracing": {
+   "2005": 1530.5,
+   "2006": 1538.3,
+   "2007": 1597.2,
+   "2008": 1534.4,
+   "2009": 1310.9,
+   "2010": 1511.7,
+   "2011": 1532.5,
+   "2012": 1350.4,
+   "2013": 1350.4,
+   "2014": 1491.2,
+   "2015": 1401.5,
+   "2016": 1347.9,
+   "2017": 1381.2,
+   "2018": 1376.7,
+   "2019": 1292.3,
+   "2020": 1178.2,
+   "2021": 1179.5,
+   "2022": 1339.5,
+   "2023": 1177.4
+  },
+  "Pooled tracing (Laroche)": {
+   "2005": 1688.9,
+   "2006": 1691.6,
+   "2007": 1753.5,
+   "2008": 1672.9,
+   "2009": 1406.1,
+   "2010": 1573.3,
+   "2011": 1628.6,
+   "2012": 1427.6,
+   "2013": 1442.8,
+   "2014": 1580.1,
+   "2015": 1501.2,
+   "2016": 1444.5,
+   "2017": 1460.1,
+   "2018": 1477.1,
+   "2019": 1421.0,
+   "2020": 1244.2,
+   "2021": 1241.9,
+   "2022": 1455.2,
+   "2023": 1285.9
+  },
+  "Exporter: hides and leather": {
+   "2005": 907.5,
+   "2006": 1006.0,
+   "2007": 977.6,
+   "2008": 788.9,
+   "2009": 689.9,
+   "2010": 913.0,
+   "2011": 912.9,
+   "2012": 822.7,
+   "2013": 936.9,
+   "2014": 960.3,
+   "2015": 876.4,
+   "2016": 859.7,
+   "2017": 888.6,
+   "2018": 883.5,
+   "2019": 756.3,
+   "2020": 633.9,
+   "2021": 665.5,
+   "2022": 651.4,
+   "2023": 557.5
+  },
+  "Exporter: articles": {
+   "2005": 1275.5,
+   "2006": 1311.4,
+   "2007": 1388.6,
+   "2008": 1459.5,
+   "2009": 1137.2,
+   "2010": 1239.7,
+   "2011": 1334.1,
+   "2012": 1216.2,
+   "2013": 1199.0,
+   "2014": 1290.8,
+   "2015": 1219.7,
+   "2016": 1140.6,
+   "2017": 1210.7,
+   "2018": 1161.5,
+   "2019": 1197.6,
+   "2020": 956.0,
+   "2021": 1024.4,
+   "2022": 1208.3,
+   "2023": 1094.9
+  },
+  "Exporter: all direct imports": {
+   "2005": 2183.0,
+   "2006": 2317.3,
+   "2007": 2366.2,
+   "2008": 2248.3,
+   "2009": 1827.0,
+   "2010": 2152.6,
+   "2011": 2247.0,
+   "2012": 2038.9,
+   "2013": 2135.9,
+   "2014": 2251.1,
+   "2015": 2096.1,
+   "2016": 2000.3,
+   "2017": 2099.3,
+   "2018": 2044.9,
+   "2019": 1953.9,
+   "2020": 1589.9,
+   "2021": 1689.8,
+   "2022": 1859.7,
+   "2023": 1652.4
+  }
+ },
+ "mean_2015_2020": {
+  "Stage-wise tracing": {
+   "By-product (SWD), 2.5%": 8787.0,
+   "PEFCR, 3.5%": 12302.0,
+   "DeDuCE / SWD co-product, 5%": 17574.0,
+   "Mass (SWD), 8%": 28119.0,
+   "Mass (Laroche et al.), 10%": 35149.0,
+   "Economic, price of the year": 15699.0,
+   "Mass, FAOSTAT weights": 35411.0,
+   "rhe": 1329640.0,
+   "5% v2.0": 18723.0
+  },
+  "Pooled tracing (Laroche)": {
+   "By-product (SWD), 2.5%": 9714.0,
+   "PEFCR, 3.5%": 13600.0,
+   "DeDuCE / SWD co-product, 5%": 19428.0,
+   "Mass (SWD), 8%": 31085.0,
+   "Mass (Laroche et al.), 10%": 38857.0,
+   "Economic, price of the year": 17441.0,
+   "Mass, FAOSTAT weights": 39057.0,
+   "rhe": 1424676.0,
+   "5% v2.0": 20908.0
+  },
+  "Exporter: hides and leather": {
+   "By-product (SWD), 2.5%": 10475.0,
+   "PEFCR, 3.5%": 14665.0,
+   "DeDuCE / SWD co-product, 5%": 20950.0,
+   "Mass (SWD), 8%": 33521.0,
+   "Mass (Laroche et al.), 10%": 41901.0,
+   "Economic, price of the year": 18651.0,
+   "Mass, FAOSTAT weights": 41532.0,
+   "rhe": 816384.0,
+   "5% v2.0": 23736.0
+  },
+  "Exporter: articles": {
+   "By-product (SWD), 2.5%": 2568.0,
+   "PEFCR, 3.5%": 3596.0,
+   "DeDuCE / SWD co-product, 5%": 5136.0,
+   "Mass (SWD), 8%": 8218.0,
+   "Mass (Laroche et al.), 10%": 10273.0,
+   "Economic, price of the year": 5718.0,
+   "Mass, FAOSTAT weights": 13765.0,
+   "rhe": 1147687.0,
+   "5% v2.0": 4344.0
+  },
+  "Exporter: all direct imports": {
+   "By-product (SWD), 2.5%": 13043.0,
+   "PEFCR, 3.5%": 18261.0,
+   "DeDuCE / SWD co-product, 5%": 26087.0,
+   "Mass (SWD), 8%": 41739.0,
+   "Mass (Laroche et al.), 10%": 52174.0,
+   "Economic, price of the year": 24369.0,
+   "Mass, FAOSTAT weights": 55297.0,
+   "rhe": 1964070.0,
+   "5% v2.0": 28080.0
+  }
+ },
+ "mean_2018_2020": {
+  "Stage-wise tracing": {
+   "By-product (SWD), 2.5%": 8907.0,
+   "PEFCR, 3.5%": 12470.0,
+   "DeDuCE / SWD co-product, 5%": 17814.0,
+   "Mass (SWD), 8%": 28503.0,
+   "Mass (Laroche et al.), 10%": 35628.0,
+   "Economic, price of the year": 14380.0,
+   "Mass, FAOSTAT weights": 35327.0,
+   "rhe": 1282420.0,
+   "5% v2.0": 18515.0
+  },
+  "Pooled tracing (Laroche)": {
+   "By-product (SWD), 2.5%": 9825.0,
+   "PEFCR, 3.5%": 13756.0,
+   "DeDuCE / SWD co-product, 5%": 19651.0,
+   "Mass (SWD), 8%": 31441.0,
+   "Mass (Laroche et al.), 10%": 39302.0,
+   "Economic, price of the year": 15997.0,
+   "Mass, FAOSTAT weights": 38889.0,
+   "rhe": 1380763.0,
+   "5% v2.0": 20645.0
+  },
+  "Exporter: hides and leather": {
+   "By-product (SWD), 2.5%": 10684.0,
+   "PEFCR, 3.5%": 14958.0,
+   "DeDuCE / SWD co-product, 5%": 21369.0,
+   "Mass (SWD), 8%": 34190.0,
+   "Mass (Laroche et al.), 10%": 42738.0,
+   "Economic, price of the year": 17144.0,
+   "Mass, FAOSTAT weights": 41283.0,
+   "rhe": 757876.0,
+   "5% v2.0": 23632.0
+  },
+  "Exporter: articles": {
+   "By-product (SWD), 2.5%": 2882.0,
+   "PEFCR, 3.5%": 4035.0,
+   "DeDuCE / SWD co-product, 5%": 5764.0,
+   "Mass (SWD), 8%": 9222.0,
+   "Mass (Laroche et al.), 10%": 11527.0,
+   "Economic, price of the year": 5912.0,
+   "Mass, FAOSTAT weights": 15649.0,
+   "rhe": 1105039.0,
+   "5% v2.0": 5174.0
+  },
+  "Exporter: all direct imports": {
+   "By-product (SWD), 2.5%": 13566.0,
+   "PEFCR, 3.5%": 18993.0,
+   "DeDuCE / SWD co-product, 5%": 27133.0,
+   "Mass (SWD), 8%": 43412.0,
+   "Mass (Laroche et al.), 10%": 54265.0,
+   "Economic, price of the year": 23057.0,
+   "Mass, FAOSTAT weights": 56932.0,
+   "rhe": 1862915.0,
+   "5% v2.0": 28806.0
+  }
+ },
+ "mean_2005_2009": {
+  "Stage-wise tracing": {
+   "By-product (SWD), 2.5%": 13419.0,
+   "PEFCR, 3.5%": 18787.0,
+   "DeDuCE / SWD co-product, 5%": 26839.0,
+   "Mass (SWD), 8%": 42942.0,
+   "Mass (Laroche et al.), 10%": 53677.0,
+   "Economic, price of the year": 41142.0,
+   "Mass, FAOSTAT weights": 52248.0,
+   "rhe": 1502244.0,
+   "5% v2.0": 28362.0
+  },
+  "Pooled tracing (Laroche)": {
+   "By-product (SWD), 2.5%": 16178.0,
+   "PEFCR, 3.5%": 22649.0,
+   "DeDuCE / SWD co-product, 5%": 32356.0,
+   "Mass (SWD), 8%": 51769.0,
+   "Mass (Laroche et al.), 10%": 64711.0,
+   "Economic, price of the year": 50550.0,
+   "Mass, FAOSTAT weights": 62839.0,
+   "rhe": 1642570.0,
+   "5% v2.0": 34356.0
+  },
+  "Exporter: hides and leather": {
+   "By-product (SWD), 2.5%": 15522.0,
+   "PEFCR, 3.5%": 21731.0,
+   "DeDuCE / SWD co-product, 5%": 31045.0,
+   "Mass (SWD), 8%": 49672.0,
+   "Mass (Laroche et al.), 10%": 62090.0,
+   "Economic, price of the year": 47267.0,
+   "Mass, FAOSTAT weights": 58530.0,
+   "rhe": 873960.0,
+   "5% v2.0": 33194.0
+  },
+  "Exporter: articles": {
+   "By-product (SWD), 2.5%": 3435.0,
+   "PEFCR, 3.5%": 4809.0,
+   "DeDuCE / SWD co-product, 5%": 6870.0,
+   "Mass (SWD), 8%": 10993.0,
+   "Mass (Laroche et al.), 10%": 13741.0,
+   "Economic, price of the year": 13355.0,
+   "Mass, FAOSTAT weights": 17679.0,
+   "rhe": 1314422.0,
+   "5% v2.0": 6735.0
+  },
+  "Exporter: all direct imports": {
+   "By-product (SWD), 2.5%": 18958.0,
+   "PEFCR, 3.5%": 26541.0,
+   "DeDuCE / SWD co-product, 5%": 37915.0,
+   "Mass (SWD), 8%": 60664.0,
+   "Mass (Laroche et al.), 10%": 75830.0,
+   "Economic, price of the year": 60623.0,
+   "Mass, FAOSTAT weights": 76209.0,
+   "rhe": 2188382.0,
+   "5% v2.0": 39929.0
+  }
+ },
+ "mean_2021_2023": {
+  "Stage-wise tracing": {
+   "By-product (SWD), 2.5%": 6774.0,
+   "PEFCR, 3.5%": 9484.0,
+   "DeDuCE / SWD co-product, 5%": 13549.0,
+   "Mass (SWD), 8%": 21678.0,
+   "Mass (Laroche et al.), 10%": 27098.0,
+   "Economic, price of the year": 8837.0,
+   "Mass, FAOSTAT weights": 26880.0,
+   "rhe": 1232132.0,
+   "5% v2.0": 8611.0
+  },
+  "Pooled tracing (Laroche)": {
+   "By-product (SWD), 2.5%": 7579.0,
+   "PEFCR, 3.5%": 10611.0,
+   "DeDuCE / SWD co-product, 5%": 15159.0,
+   "Mass (SWD), 8%": 24254.0,
+   "Mass (Laroche et al.), 10%": 30317.0,
+   "Economic, price of the year": 9931.0,
+   "Mass, FAOSTAT weights": 30085.0,
+   "rhe": 1327670.0,
+   "5% v2.0": 9643.0
+  },
+  "Exporter: hides and leather": {
+   "By-product (SWD), 2.5%": 7824.0,
+   "PEFCR, 3.5%": 10954.0,
+   "DeDuCE / SWD co-product, 5%": 15649.0,
+   "Mass (SWD), 8%": 25038.0,
+   "Mass (Laroche et al.), 10%": 31297.0,
+   "Economic, price of the year": 10039.0,
+   "Mass, FAOSTAT weights": 30108.0,
+   "rhe": 624784.0,
+   "5% v2.0": 10666.0
+  },
+  "Exporter: articles": {
+   "By-product (SWD), 2.5%": 2827.0,
+   "PEFCR, 3.5%": 3958.0,
+   "DeDuCE / SWD co-product, 5%": 5654.0,
+   "Mass (SWD), 8%": 9046.0,
+   "Mass (Laroche et al.), 10%": 11308.0,
+   "Economic, price of the year": 4868.0,
+   "Mass, FAOSTAT weights": 15589.0,
+   "rhe": 1109181.0,
+   "5% v2.0": 3141.0
+  },
+  "Exporter: all direct imports": {
+   "By-product (SWD), 2.5%": 10651.0,
+   "PEFCR, 3.5%": 14912.0,
+   "DeDuCE / SWD co-product, 5%": 21302.0,
+   "Mass (SWD), 8%": 34084.0,
+   "Mass (Laroche et al.), 10%": 42605.0,
+   "Economic, price of the year": 14908.0,
+   "Mass, FAOSTAT weights": 45697.0,
+   "rhe": 1733965.0,
+   "5% v2.0": 13807.0
+  }
+ },
+ "mean_2005_2023": {
+  "Stage-wise tracing": {
+   "By-product (SWD), 2.5%": 9795.0,
+   "PEFCR, 3.5%": 13714.0,
+   "DeDuCE / SWD co-product, 5%": 19591.0,
+   "Mass (SWD), 8%": 31345.0,
+   "Mass (Laroche et al.), 10%": 39182.0,
+   "Economic, price of the year": 22268.0,
+   "Mass, FAOSTAT weights": 39000.0,
+   "rhe": 1390610.0,
+   "5% v2.0": 20292.0
+  },
+  "Pooled tracing (Laroche)": {
+   "By-product (SWD), 2.5%": 11183.0,
+   "PEFCR, 3.5%": 15656.0,
+   "DeDuCE / SWD co-product, 5%": 22366.0,
+   "Mass (SWD), 8%": 35785.0,
+   "Mass (Laroche et al.), 10%": 44731.0,
+   "Economic, price of the year": 25979.0,
+   "Mass, FAOSTAT weights": 44400.0,
+   "rhe": 1494549.0,
+   "5% v2.0": 23336.0
+  },
+  "Exporter: hides and leather": {
+   "By-product (SWD), 2.5%": 11624.0,
+   "PEFCR, 3.5%": 16274.0,
+   "DeDuCE / SWD co-product, 5%": 23248.0,
+   "Mass (SWD), 8%": 37197.0,
+   "Mass (Laroche et al.), 10%": 46496.0,
+   "Economic, price of the year": 26243.0,
+   "Mass, FAOSTAT weights": 45410.0,
+   "rhe": 825697.0,
+   "5% v2.0": 25094.0
+  },
+  "Exporter: articles": {
+   "By-product (SWD), 2.5%": 2641.0,
+   "PEFCR, 3.5%": 3697.0,
+   "DeDuCE / SWD co-product, 5%": 5282.0,
+   "Mass (SWD), 8%": 8451.0,
+   "Mass (Laroche et al.), 10%": 10564.0,
+   "Economic, price of the year": 7447.0,
+   "Mass, FAOSTAT weights": 13975.0,
+   "rhe": 1213976.0,
+   "5% v2.0": 4542.0
+  },
+  "Exporter: all direct imports": {
+   "By-product (SWD), 2.5%": 14265.0,
+   "PEFCR, 3.5%": 19971.0,
+   "DeDuCE / SWD co-product, 5%": 28530.0,
+   "Mass (SWD), 8%": 45648.0,
+   "Mass (Laroche et al.), 10%": 57060.0,
+   "Economic, price of the year": 33690.0,
+   "Mass, FAOSTAT weights": 59385.0,
+   "rhe": 2039674.0,
+   "5% v2.0": 29637.0
+  }
+ },
+ "ratio_stagewise_to_exporterHL_2015_2020": {
+  "By-product (SWD), 2.5%": 0.838854415274463,
+  "PEFCR, 3.5%": 0.8388680531878623,
+  "DeDuCE / SWD co-product, 5%": 0.838854415274463,
+  "Mass (SWD), 8%": 0.8388472897586587,
+  "Mass (Laroche et al.), 10%": 0.8388582611393522,
+  "Economic, price of the year": 0.8417243043268458,
+  "Mass, FAOSTAT weights": 0.852619666762978
+ },
+ "ratio_stagewise_to_exporterAll_2015_2020": {
+  "By-product (SWD), 2.5%": 0.6736947021390784,
+  "PEFCR, 3.5%": 0.6736761404085209,
+  "DeDuCE / SWD co-product, 5%": 0.673668877218538,
+  "Mass (SWD), 8%": 0.6736864802702508,
+  "Mass (Laroche et al.), 10%": 0.6736880438532602,
+  "Economic, price of the year": 0.6442201157207929,
+  "Mass, FAOSTAT weights": 0.640378320704559
+ },
+ "ratio_pooled_to_stagewise_2015_2020": 1.105496756572209,
+ "ratio_stagewise_to_exporterHL_by_year": {
+  "2005": 0.863,
+  "2006": 0.795,
+  "2007": 0.877,
+  "2008": 0.938,
+  "2009": 0.872,
+  "2010": 0.863,
+  "2011": 0.846,
+  "2012": 0.738,
+  "2013": 0.733,
+  "2014": 0.86,
+  "2015": 0.867,
+  "2016": 0.86,
+  "2017": 0.812,
+  "2018": 0.828,
+  "2019": 0.823,
+  "2020": 0.852,
+  "2021": 0.826,
+  "2022": 0.859,
+  "2023": 0.927
+ },
+ "ratio_trend_slope_per_year": 0.00018988398466218806,
+ "cf_grid_2015_2020": {
+  "Commission SWD | clip": {
+   "Stage-wise tracing": {
+    "ha": 20204,
+    "rhe_kt": 1423
+   },
+   "Pooled tracing (Laroche)": {
+    "ha": 32360,
+    "rhe_kt": 1715
+   },
+   "Exporter: hides and leather": {
+    "ha": 37727,
+    "rhe_kt": 1267
+   },
+   "Exporter: articles": {
+    "ha": 5366,
+    "rhe_kt": 1199
+   },
+   "Exporter: all direct imports": {
+    "ha": 43094,
+    "rhe_kt": 2466
+   }
+  },
+  "Commission SWD | topup": {
+   "Stage-wise tracing": {
+    "ha": 26335,
+    "rhe_kt": 1715
+   },
+   "Pooled tracing (Laroche)": {
+    "ha": 32360,
+    "rhe_kt": 1715
+   },
+   "Exporter: hides and leather": {
+    "ha": 37727,
+    "rhe_kt": 1267
+   },
+   "Exporter: articles": {
+    "ha": 5366,
+    "rhe_kt": 1199
+   },
+   "Exporter: all direct imports": {
+    "ha": 43094,
+    "rhe_kt": 2466
+   }
+  },
+  "UNIDO mass balance | clip": {
+   "Stage-wise tracing": {
+    "ha": 19505,
+    "rhe_kt": 1381
+   },
+   "Pooled tracing (Laroche)": {
+    "ha": 36871,
+    "rhe_kt": 1798
+   },
+   "Exporter: hides and leather": {
+    "ha": 44270,
+    "rhe_kt": 1448
+   },
+   "Exporter: articles": {
+    "ha": 5011,
+    "rhe_kt": 1120
+   },
+   "Exporter: all direct imports": {
+    "ha": 49281,
+    "rhe_kt": 2567
+   }
+  },
+  "UNIDO mass balance | topup": {
+   "Stage-wise tracing": {
+    "ha": 30907,
+    "rhe_kt": 1798
+   },
+   "Pooled tracing (Laroche)": {
+    "ha": 36871,
+    "rhe_kt": 1798
+   },
+   "Exporter: hides and leather": {
+    "ha": 44270,
+    "rhe_kt": 1448
+   },
+   "Exporter: articles": {
+    "ha": 5011,
+    "rhe_kt": 1120
+   },
+   "Exporter: all direct imports": {
+    "ha": 49281,
+    "rhe_kt": 2567
+   }
+  },
+  "Laroche mean | clip": {
+   "Stage-wise tracing": {
+    "ha": 17574,
+    "rhe_kt": 1330
+   },
+   "Pooled tracing (Laroche)": {
+    "ha": 19428,
+    "rhe_kt": 1425
+   },
+   "Exporter: hides and leather": {
+    "ha": 20950,
+    "rhe_kt": 816
+   },
+   "Exporter: articles": {
+    "ha": 5136,
+    "rhe_kt": 1148
+   },
+   "Exporter: all direct imports": {
+    "ha": 26087,
+    "rhe_kt": 1964
+   }
+  },
+  "Laroche mean | topup": {
+   "Stage-wise tracing": {
+    "ha": 18944,
+    "rhe_kt": 1425
+   },
+   "Pooled tracing (Laroche)": {
+    "ha": 19428,
+    "rhe_kt": 1425
+   },
+   "Exporter: hides and leather": {
+    "ha": 20950,
+    "rhe_kt": 816
+   },
+   "Exporter: articles": {
+    "ha": 5136,
+    "rhe_kt": 1148
+   },
+   "Exporter: all direct imports": {
+    "ha": 26087,
+    "rhe_kt": 1964
+   }
+  },
+  "Laroche min | clip": {
+   "Stage-wise tracing": {
+    "ha": 17484,
+    "rhe_kt": 1310
+   },
+   "Pooled tracing (Laroche)": {
+    "ha": 18704,
+    "rhe_kt": 1373
+   },
+   "Exporter: hides and leather": {
+    "ha": 20950,
+    "rhe_kt": 816
+   },
+   "Exporter: articles": {
+    "ha": 4594,
+    "rhe_kt": 1044
+   },
+   "Exporter: all direct imports": {
+    "ha": 25544,
+    "rhe_kt": 1860
+   }
+  },
+  "Laroche min | topup": {
+   "Stage-wise tracing": {
+    "ha": 18346,
+    "rhe_kt": 1373
+   },
+   "Pooled tracing (Laroche)": {
+    "ha": 18704,
+    "rhe_kt": 1373
+   },
+   "Exporter: hides and leather": {
+    "ha": 20950,
+    "rhe_kt": 816
+   },
+   "Exporter: articles": {
+    "ha": 4594,
+    "rhe_kt": 1044
+   },
+   "Exporter: all direct imports": {
+    "ha": 25544,
+    "rhe_kt": 1860
+   }
+  },
+  "Laroche max | clip": {
+   "Stage-wise tracing": {
+    "ha": 17666,
+    "rhe_kt": 1349
+   },
+   "Pooled tracing (Laroche)": {
+    "ha": 20155,
+    "rhe_kt": 1476
+   },
+   "Exporter: hides and leather": {
+    "ha": 20950,
+    "rhe_kt": 816
+   },
+   "Exporter: articles": {
+    "ha": 5680,
+    "rhe_kt": 1252
+   },
+   "Exporter: all direct imports": {
+    "ha": 26630,
+    "rhe_kt": 2068
+   }
+  },
+  "Laroche max | topup": {
+   "Stage-wise tracing": {
+    "ha": 19546,
+    "rhe_kt": 1476
+   },
+   "Pooled tracing (Laroche)": {
+    "ha": 20155,
+    "rhe_kt": 1476
+   },
+   "Exporter: hides and leather": {
+    "ha": 20950,
+    "rhe_kt": 816
+   },
+   "Exporter: articles": {
+    "ha": 5680,
+    "rhe_kt": 1252
+   },
+   "Exporter: all direct imports": {
+    "ha": 26630,
+    "rhe_kt": 2068
+   }
+  }
+ },
+ "stagewise_range_over_cf_balance_2015_2020": [
+  17484,
+  30907
+ ],
+ "exporterHL_range_over_cf_balance_2015_2020": [
+  20950,
+  44270
+ ],
+ "ratio_range_over_cf_balance_2015_2020": [
+  0.44059182290490173,
+  0.9329832935560859
+ ],
+ "scenarios_2015_2020": {
+  "china=0.0, extra3=False, bovine=1.0": {
+   "ha": 19071,
+   "rhe_kt": 1287
+  },
+  "china=0.5, extra3=False, bovine=1.0": {
+   "ha": 18338,
+   "rhe_kt": 1330
+  },
+  "china=1.0, extra3=False, bovine=0.75": {
+   "ha": 16934,
+   "rhe_kt": 1229
+  },
+  "china=1.0, extra3=False, bovine=1.0": {
+   "ha": 17574,
+   "rhe_kt": 1330
+  },
+  "china=1.0, extra3=True, bovine=1.0": {
+   "ha": 16744,
+   "rhe_kt": 1272
+  }
+ },
+ "origin_share_ha_2015_2020": {
+  "Stage-wise tracing": {
+   "Brazil": 0.7228,
+   "Paraguay": 0.0849,
+   "India": 0.041,
+   "Bolivia (Plurinational State of)": 0.0316,
+   "USA": 0.0158,
+   "Colombia": 0.0156,
+   "Myanmar": 0.0136,
+   "China": 0.0133
+  },
+  "Pooled tracing (Laroche)": {
+   "Brazil": 0.7421,
+   "Paraguay": 0.0863,
+   "India": 0.0337,
+   "Bolivia (Plurinational State of)": 0.0312,
+   "Colombia": 0.0153,
+   "China": 0.0127,
+   "Myanmar": 0.0117,
+   "USA": 0.0085
+  },
+  "Exporter: hides and leather": {
+   "Brazil": 0.7661,
+   "Paraguay": 0.118,
+   "Bolivia (Plurinational State of)": 0.0444,
+   "Colombia": 0.0152,
+   "Venezuela": 0.0096,
+   "USA": 0.0077,
+   "India": 0.0075,
+   "Mexico": 0.0051
+  },
+  "Exporter: articles": {
+   "Viet Nam": 0.2284,
+   "India": 0.1771,
+   "China": 0.1108,
+   "Indonesia": 0.1086,
+   "Myanmar": 0.0913,
+   "Thailand": 0.0799,
+   "Brazil": 0.0696,
+   "Cambodia": 0.0692
+  },
+  "Exporter: all direct imports": {
+   "Brazil": 0.629,
+   "Paraguay": 0.0955,
+   "Viet Nam": 0.0454,
+   "India": 0.0409,
+   "Bolivia (Plurinational State of)": 0.0357,
+   "China": 0.0219,
+   "Indonesia": 0.0217,
+   "Thailand": 0.0188
+  }
+ },
+ "origin_share_rhe_2015_2020": {
+  "Stage-wise tracing": {
+   "EU27": 0.2277,
+   "India": 0.1347,
+   "Brazil": 0.1183,
+   "China": 0.1111,
+   "USA": 0.0837,
+   "Pakistan": 0.0358,
+   "Argentina": 0.0357,
+   "Australia": 0.0219
+  },
+  "Pooled tracing (Laroche)": {
+   "EU27": 0.3156,
+   "Brazil": 0.1255,
+   "India": 0.114,
+   "China": 0.1088,
+   "USA": 0.0461,
+   "Argentina": 0.036,
+   "Pakistan": 0.0306,
+   "Australia": 0.0173
+  },
+  "Exporter: hides and leather": {
+   "Brazil": 0.2424,
+   "United Kingdom": 0.0995,
+   "USA": 0.0787,
+   "India": 0.0487,
+   "Argentina": 0.0468,
+   "New Zealand": 0.0409,
+   "Paraguay": 0.038,
+   "South Africa": 0.0315
+  },
+  "Exporter: articles": {
+   "China": 0.3111,
+   "India": 0.1952,
+   "Viet Nam": 0.1075,
+   "United Kingdom": 0.061,
+   "Indonesia": 0.046,
+   "Pakistan": 0.0452,
+   "Albania": 0.0287,
+   "Bangladesh": 0.0277
+  },
+  "Exporter: all direct imports": {
+   "China": 0.1827,
+   "India": 0.1343,
+   "Brazil": 0.103,
+   "United Kingdom": 0.077,
+   "Viet Nam": 0.0635,
+   "USA": 0.0348,
+   "Pakistan": 0.0317,
+   "Indonesia": 0.0272
+  }
+ },
+ "brazil_paraguay_2015_2020": {
+  "Stage-wise tracing": {
+   "Brazil": {
+    "ha": 12702,
+    "rhe_kt": 157.3
+   },
+   "Paraguay": {
+    "ha": 1492,
+    "rhe_kt": 18.7
+   },
+   "Bolivia (Plurinational State of)": {
+    "ha": 555,
+    "rhe_kt": 4.3
+   },
+   "Argentina": {
+    "ha": 16,
+    "rhe_kt": 47.4
+   },
+   "China": {
+    "ha": 235,
+    "rhe_kt": 147.7
+   },
+   "India": {
+    "ha": 721,
+    "rhe_kt": 179.1
+   },
+   "EU27": {
+    "ha": 99,
+    "rhe_kt": 302.8
+   }
+  },
+  "Pooled tracing (Laroche)": {
+   "Brazil": {
+    "ha": 14417,
+    "rhe_kt": 178.8
+   },
+   "Paraguay": {
+    "ha": 1676,
+    "rhe_kt": 20.9
+   },
+   "Bolivia (Plurinational State of)": {
+    "ha": 607,
+    "rhe_kt": 4.6
+   },
+   "Argentina": {
+    "ha": 18,
+    "rhe_kt": 51.4
+   },
+   "China": {
+    "ha": 247,
+    "rhe_kt": 155.0
+   },
+   "India": {
+    "ha": 654,
+    "rhe_kt": 162.4
+   },
+   "EU27": {
+    "ha": 147,
+    "rhe_kt": 449.6
+   }
+  },
+  "Exporter: hides and leather": {
+   "Brazil": {
+    "ha": 16051,
+    "rhe_kt": 197.9
+   },
+   "Paraguay": {
+    "ha": 2471,
+    "rhe_kt": 31.0
+   },
+   "Bolivia (Plurinational State of)": {
+    "ha": 930,
+    "rhe_kt": 7.2
+   },
+   "Argentina": {
+    "ha": 13,
+    "rhe_kt": 38.2
+   },
+   "China": {
+    "ha": 3,
+    "rhe_kt": 1.8
+   },
+   "India": {
+    "ha": 158,
+    "rhe_kt": 39.7
+   },
+   "EU27": {
+    "ha": 0,
+    "rhe_kt": 0
+   }
+  },
+  "Exporter: articles": {
+   "Brazil": {
+    "ha": 358,
+    "rhe_kt": 4.4
+   },
+   "Paraguay": {
+    "ha": 19,
+    "rhe_kt": 0.2
+   },
+   "Bolivia (Plurinational State of)": {
+    "ha": 1,
+    "rhe_kt": 0.0
+   },
+   "Argentina": {
+    "ha": 0,
+    "rhe_kt": 0.3
+   },
+   "China": {
+    "ha": 569,
+    "rhe_kt": 357.1
+   },
+   "India": {
+    "ha": 910,
+    "rhe_kt": 224.0
+   },
+   "EU27": {
+    "ha": 0,
+    "rhe_kt": 0
+   }
+  },
+  "Exporter: all direct imports": {
+   "Brazil": {
+    "ha": 16408,
+    "rhe_kt": 202.3
+   },
+   "Paraguay": {
+    "ha": 2490,
+    "rhe_kt": 31.3
+   },
+   "Bolivia (Plurinational State of)": {
+    "ha": 931,
+    "rhe_kt": 7.2
+   },
+   "Argentina": {
+    "ha": 13,
+    "rhe_kt": 38.6
+   },
+   "China": {
+    "ha": 572,
+    "rhe_kt": 358.9
+   },
+   "India": {
+    "ha": 1068,
+    "rhe_kt": 263.7
+   },
+   "EU27": {
+    "ha": 0,
+    "rhe_kt": 0
+   }
+  }
+ },
+ "rule_range_2015_2020": {
+  "Stage-wise tracing": [
+   8787.0,
+   35411.0
+  ],
+  "Pooled tracing (Laroche)": [
+   9714.0,
+   39057.0
+  ],
+  "Exporter: hides and leather": [
+   10475.0,
+   41901.0
+  ],
+  "Exporter: articles": [
+   2568.0,
+   13765.0
+  ],
+  "Exporter: all direct imports": [
+   13043.0,
+   55297.0
+  ]
+ },
+ "routes_all_2015_2020": {
+  "Direct from origin | articles": {
+   "rhe_kt": 341.0,
+   "ha": 1364
+  },
+  "Direct from origin | finished leather": {
+   "rhe_kt": 91.1,
+   "ha": 3010
+  },
+  "Direct from origin | raw hides": {
+   "rhe_kt": 36.4,
+   "ha": 47
+  },
+  "Direct from origin | tanned/crust": {
+   "rhe_kt": 164.6,
+   "ha": 5843
+  },
+  "EU hides | EU hides": {
+   "rhe_kt": 228.6,
+   "ha": 75
+  },
+  "Via third country | articles": {
+   "rhe_kt": 422.6,
+   "ha": 6648
+  },
+  "Via third country | finished leather": {
+   "rhe_kt": 22.6,
+   "ha": 376
+  },
+  "Via third country | raw hides": {
+   "rhe_kt": 9.1,
+   "ha": 12
+  },
+  "Via third country | tanned/crust": {
+   "rhe_kt": 13.7,
+   "ha": 199
+  }
+ },
+ "routes_brazil_2015_2020": {
+  "Direct from origin | articles": {
+   "rhe_kt": 2.4,
+   "ha": 192
+  },
+  "Direct from origin | finished leather": {
+   "rhe_kt": 34.5,
+   "ha": 2758
+  },
+  "Direct from origin | raw hides": {
+   "rhe_kt": 0.0,
+   "ha": 4
+  },
+  "Direct from origin | tanned/crust": {
+   "rhe_kt": 51.8,
+   "ha": 4243
+  },
+  "Via third country | articles": {
+   "rhe_kt": 63.9,
+   "ha": 5126
+  },
+  "Via third country | finished leather": {
+   "rhe_kt": 3.4,
+   "ha": 271
+  },
+  "Via third country | raw hides": {
+   "rhe_kt": 0.0,
+   "ha": 2
+  },
+  "Via third country | tanned/crust": {
+   "rhe_kt": 1.4,
+   "ha": 107
+  }
+ },
+ "routes_paraguay_2015_2020": {
+  "Direct from origin | articles": {
+   "rhe_kt": 0.1,
+   "ha": 10
+  },
+  "Direct from origin | finished leather": {
+   "rhe_kt": 1.1,
+   "ha": 82
+  },
+  "Direct from origin | tanned/crust": {
+   "rhe_kt": 11.5,
+   "ha": 913
+  },
+  "Via third country | articles": {
+   "rhe_kt": 5.1,
+   "ha": 410
+  },
+  "Via third country | finished leather": {
+   "rhe_kt": 0.5,
+   "ha": 42
+  },
+  "Via third country | raw hides": {
+   "rhe_kt": 0.0,
+   "ha": 0
+  },
+  "Via third country | tanned/crust": {
+   "rhe_kt": 0.4,
+   "ha": 34
+  }
+ },
+ "brpy_indirect_share_rhe_2015_2020": 0.4241224786261048,
+ "all_indirect_share_ha_2015_2020": 0.41172088352136416,
+ "brpy_indirect_entry_countries_share": {
+  "China": 0.3242,
+  "Viet Nam": 0.1842,
+  "United Kingdom": 0.0848,
+  "India": 0.0658,
+  "Indonesia": 0.0526,
+  "Tunisia": 0.0361,
+  "Albania": 0.03,
+  "Bosnia Herzegovina": 0.0284
+ },
+ "indirect_ha_entry_countries_share": {
+  "China": 0.3148,
+  "Viet Nam": 0.1713,
+  "United Kingdom": 0.092,
+  "India": 0.0703,
+  "Indonesia": 0.0548,
+  "Tunisia": 0.0357,
+  "Albania": 0.0286,
+  "Bosnia Herzegovina": 0.0282
+ },
+ "indirect_share_ha_by_year": {
+  "2005": 0.423,
+  "2006": 0.431,
+  "2007": 0.449,
+  "2008": 0.462,
+  "2009": 0.42,
+  "2010": 0.449,
+  "2011": 0.456,
+  "2012": 0.433,
+  "2013": 0.419,
+  "2014": 0.458,
+  "2015": 0.444,
+  "2016": 0.434,
+  "2017": 0.416,
+  "2018": 0.396,
+  "2019": 0.402,
+  "2020": 0.382,
+  "2021": 0.44,
+  "2022": 0.41,
+  "2023": 0.456
+ },
+ "brpy_indirect_share_rhe_by_year": {
+  "2005": 0.433,
+  "2006": 0.441,
+  "2007": 0.449,
+  "2008": 0.455,
+  "2009": 0.409,
+  "2010": 0.429,
+  "2011": 0.439,
+  "2012": 0.433,
+  "2013": 0.416,
+  "2014": 0.488,
+  "2015": 0.464,
+  "2016": 0.453,
+  "2017": 0.428,
+  "2018": 0.399,
+  "2019": 0.409,
+  "2020": 0.387,
+  "2021": 0.443,
+  "2022": 0.401,
+  "2023": 0.445
+ },
+ "eu_exports_2015_2020": {
+  "1": {
+   "rhe_kt": 253,
+   "ha": 122
+  },
+  "2": {
+   "rhe_kt": 172,
+   "ha": 2336
+  },
+  "3": {
+   "rhe_kt": 352,
+   "ha": 5927
+  },
+  "4": {
+   "rhe_kt": 520,
+   "ha": 6878
+  }
+ },
+ "eu_exports_brpy_rhe_kt_2015_2020": {
+  "1": 0.1,
+  "2": 24.7,
+  "3": 64.9,
+  "4": 68.8
+ },
+ "bridge_2015_2020_ha": {
+  "Exporter attribution, hides and leather": 20950,
+  "Re-attribution of hides and leather imports to cattle origin": 492,
+  "Articles imported, traced to cattle origin": 11148,
+  "EU-produced hides": 248,
+  "Minus EU exports (all stages), traced": -15264,
+  "Sum": 17574,
+  "Stage-wise tracing (model)": 17574
+ },
+ "gap_2015_2020_kt": {
+  "Commission SWD | stage 1": {
+   "gap_kt": 38,
+   "share_of_world_exports": 0.022
+  },
+  "Commission SWD | stage 2": {
+   "gap_kt": 351,
+   "share_of_world_exports": 0.112
+  },
+  "Commission SWD | stage 3": {
+   "gap_kt": 281,
+   "share_of_world_exports": 0.204
+  },
+  "Commission SWD | stage 4": {
+   "gap_kt": 195,
+   "share_of_world_exports": 0.044
+  },
+  "UNIDO mass balance | stage 1": {
+   "gap_kt": 38,
+   "share_of_world_exports": 0.022
+  },
+  "UNIDO mass balance | stage 2": {
+   "gap_kt": 764,
+   "share_of_world_exports": 0.217
+  },
+  "UNIDO mass balance | stage 3": {
+   "gap_kt": 277,
+   "share_of_world_exports": 0.217
+  },
+  "UNIDO mass balance | stage 4": {
+   "gap_kt": 160,
+   "share_of_world_exports": 0.038
+  },
+  "Laroche mean | stage 1": {
+   "gap_kt": 38,
+   "share_of_world_exports": 0.022
+  },
+  "Laroche mean | stage 2": {
+   "gap_kt": 9,
+   "share_of_world_exports": 0.005
+  },
+  "Laroche mean | stage 3": {
+   "gap_kt": 7,
+   "share_of_world_exports": 0.005
+  },
+  "Laroche mean | stage 4": {
+   "gap_kt": 247,
+   "share_of_world_exports": 0.059
+  },
+  "Laroche min | stage 1": {
+   "gap_kt": 38,
+   "share_of_world_exports": 0.022
+  },
+  "Laroche min | stage 2": {
+   "gap_kt": 9,
+   "share_of_world_exports": 0.005
+  },
+  "Laroche min | stage 3": {
+   "gap_kt": 7,
+   "share_of_world_exports": 0.005
+  },
+  "Laroche min | stage 4": {
+   "gap_kt": 156,
+   "share_of_world_exports": 0.041
+  },
+  "Laroche max | stage 1": {
+   "gap_kt": 38,
+   "share_of_world_exports": 0.022
+  },
+  "Laroche max | stage 2": {
+   "gap_kt": 9,
+   "share_of_world_exports": 0.005
+  },
+  "Laroche max | stage 3": {
+   "gap_kt": 7,
+   "share_of_world_exports": 0.005
+  },
+  "Laroche max | stage 4": {
+   "gap_kt": 339,
+   "share_of_world_exports": 0.075
+  }
+ },
+ "brazil_yield_sensitivity_2015_2020": {
+  "Commission SWD | 30 kg": {
+   "stagewise_ha": 20835,
+   "exporterHL_ha": 29684,
+   "ratio": 0.702,
+   "brazil_share_stagewise": 0.6831,
+   "gap_share_tanned": 0.0725,
+   "gap_share_finished": 0.0427
+  },
+  "Laroche mean | 26 kg": {
+   "stagewise_ha": 15295,
+   "exporterHL_ha": 17984,
+   "ratio": 0.85,
+   "brazil_share_stagewise": 0.6823,
+   "gap_share_tanned": 0.0049,
+   "gap_share_finished": 0.0045
+  },
+  "Laroche mean | 30 kg": {
+   "stagewise_ha": 13926,
+   "exporterHL_ha": 16239,
+   "ratio": 0.858,
+   "brazil_share_stagewise": 0.6515,
+   "gap_share_tanned": 0.0049,
+   "gap_share_finished": 0.0045
+  },
+  "Laroche mean | 34 kg": {
+   "stagewise_ha": 12872,
+   "exporterHL_ha": 14905,
+   "ratio": 0.864,
+   "brazil_share_stagewise": 0.6234,
+   "gap_share_tanned": 0.0049,
+   "gap_share_finished": 0.0045
+  }
+ },
+ "brazil_faostat_yield_kg_head": {
+  "min": 16.1,
+  "max": 26.9,
+  "by_year": {
+   "2005": 16.1,
+   "2006": 16.7,
+   "2007": 16.7,
+   "2008": 16.4,
+   "2009": 16.9,
+   "2010": 17.7,
+   "2011": 17.3,
+   "2012": 18.3,
+   "2013": 19.6,
+   "2014": 24.1,
+   "2015": 21.0,
+   "2016": 19.6,
+   "2017": 19.8,
+   "2018": 20.2,
+   "2019": 20.2,
+   "2020": 26.2,
+   "2021": 26.9,
+   "2022": 26.8,
+   "2023": 26.4,
+   "2024": 25.8
+  }
+ },
+ "hide_yield_kg_head_2015_2020": {
+  "Brazil": [
+   20.0,
+   26.0
+  ],
+  "United States of America": [
+   33.0,
+   34.0
+  ],
+  "Argentina": [
+   36.0,
+   37.0
+  ],
+  "Uruguay": [
+   33.0,
+   35.0
+  ],
+  "China, mainland": [
+   32.0,
+   33.0
+  ],
+  "Australia": [
+   31.0,
+   33.0
+  ],
+  "Paraguay": [
+   36.0,
+   38.0
+  ]
+ },
+ "exporterHL_commission_factors_v20_2015_2020": 43008,
+ "india_2015_2020": {
+  "D_ha": 74274,
+  "hides_cattle_t": 0,
+  "hides_buffalo_t": 909375,
+  "ha_per_t": 0.0815
+ },
+ "world_hides_kt_2015_2020": 9224,
+ "eu_share_of_world_hides_rhe_2015_2020": 0.14414778444037352,
+ "laroche_published_level4": {
+  "2012": {
+   "rhe_kt": 1342,
+   "ha_10pct": 39683
+  },
+  "2013": {
+   "rhe_kt": 1255,
+   "ha_10pct": 33140
+  },
+  "2014": {
+   "rhe_kt": 1408,
+   "ha_10pct": 34954
+  },
+  "2015": {
+   "rhe_kt": 1299,
+   "ha_10pct": 31754
+  },
+  "2016": {
+   "rhe_kt": 1175,
+   "ha_10pct": 31151
+  },
+  "2017": {
+   "rhe_kt": 1341,
+   "ha_10pct": 34313
+  },
+  "2018": {
+   "rhe_kt": 1226,
+   "ha_10pct": 32635
+  },
+  "2019": {
+   "rhe_kt": 1284,
+   "ha_10pct": 31733
+  },
+  "2020": {
+   "rhe_kt": 1151,
+   "ha_10pct": 28570
+  },
+  "2021": {
+   "rhe_kt": 1171,
+   "ha_10pct": 23418
+  },
+  "2022": {
+   "rhe_kt": 1297,
+   "ha_10pct": 21504
+  }
+ },
+ "laroche_published_level4_2018_2020": {
+  "rhe_kt": 1220,
+  "ha_10pct": 30979
+ },
+ "laroche_origin_share_2018_2020": {
+  "EU27": 0.345,
+  "Brazil": 0.127,
+  "China": 0.123,
+  "India": 0.085,
+  "USA": 0.048,
+  "Argentina": 0.037
+ },
+ "pooled_replication_2018_2020": {
+  "rhe_kt": 1381,
+  "ha_10pct": 39302
+ },
+ "baci_vs_comext_ratio": {
+  "4101": {
+   "median": 1.117,
+   "min": 0.997,
+   "max": 1.6
+  },
+  "4104": {
+   "median": 1.03,
+   "min": 0.982,
+   "max": 1.106
+  },
+  "4107": {
+   "median": 1.145,
+   "min": 1.005,
+   "max": 1.207
+  }
+ },
+ "deduce21_leather_share": {
+  "min": 0.04999999999997578,
+  "max": 0.05000000000000742,
+  "n": 2867
+ },
+ "deduce21_cattle_ha": {
+  "2005": 2679761,
+  "2006": 2769453,
+  "2007": 2679294,
+  "2008": 2600687,
+  "2009": 2301201,
+  "2010": 2138656,
+  "2011": 1970574,
+  "2012": 1901439,
+  "2013": 1745492,
+  "2014": 1827946,
+  "2015": 1766490,
+  "2016": 2013659,
+  "2017": 2148172,
+  "2018": 2329575,
+  "2019": 2352259,
+  "2020": 2460679,
+  "2021": 2369152,
+  "2022": 2369542,
+  "2023": 2305152
+ },
+ "faostat_flags_countries": {
+  "I": 4150
+ },
+ "faostat_flags_eu27_aggregate": {
+  "E": 40
+ },
+ "faostat_flags_all_records_incl_aggregates": {
+  "I": 4150,
+  "E": 1095
+ }
+}

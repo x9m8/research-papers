@@ -1,0 +1,28 @@
+{
+ "n_fndds": 7083,
+ "n_ppnap_1718": 4435,
+ "n_linked": 4435,
+ "cpi_food_at_home_pct": {
+  "2017": -0.2,
+  "2018": 0.4,
+  "2019": 0.9,
+  "2020": 3.5,
+  "2021": 3.5,
+  "2022": 11.4,
+  "2023": 5.0,
+  "2024": 1.2,
+  "2025": 2.3
+ },
+ "factor_1718_to_2025": 1.3115005988277544,
+ "forecast_2026_month": 9,
+ "forecast_2026_pct": {
+  "Lower bound of forecast interval": 1.8,
+  "Midpoint of forecast interval": 2.4,
+  "Upper bound of forecast interval": 3.0
+ },
+ "factor_to_2026": {
+  "mid": 1.3429766131996206,
+  "lo": 1.335107609606654,
+  "hi": 1.350845616792587
+ }
+}

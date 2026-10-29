@@ -1,0 +1,88 @@
+#
+#   VizieR Astronomical Server vizier.cds.unistra.fr
+#    Date: 2026-10-15T11:33:15 [V7.6.1]
+#   In case of problem, please report to:	cds-question@unistra.fr
+#
+#
+#Coosys	J2000:	eq_FK5 J2000
+#INFO	service_protocol=ASU	  IVOID of the protocol through which the data was retrieved
+#INFO	request_date=2026-10-15T11:33:15	  Query execution date
+#INFO	request=https://vizier.cds.unistra.fr/viz-bin/asu-tsv?-source=J%2FApJ%2F809%2F25%2Ftable3&-out.all&-out.max=unlimited	  Full request URL
+#INFO	contact=cds-question@unistra.fr	  Email or URL to contact publisher
+#INFO	server_software=VizieR/7.6.1	  Software version
+#INFO	publisher=CDS	  Data centre that produced the VOTable
+
+#RESOURCE=yCat_18090025
+#Name: J/ApJ/809/25
+#Title: Stellar and planet properties for K2 candidates (Montet+, 2015)
+#INFO	ivoid=ivo://cds.vizier/j/apj/809/25	    IVOID of underlying data collection
+#INFO	data_ivoid=ivo://cds.vizier/j/apj/809/25	    IVOID of underlying data collection
+#INFO	creator=Montet B.T.	    First author or institution
+#INFO	cites=bibcode:2015ApJ...809...25M	    Article or Data origin sources
+#INFO	journal=ApJ	    Journal name
+#INFO	original_date=2015	    Year of the article publication
+#INFO	reference_url=https://cdsarc.cds.unistra.fr/viz-bin/cat/J/ApJ/809/25	    Dataset landing page
+#INFO	citation=doi:10.26093/cds/vizier.18090025	    Dataset identifier that can be used for citation
+#INFO	publication_date=2017-11-03	    Date of first publication in the data centre
+#INFO	rights_uri=https://cds.unistra.fr/vizier-org/licences_vizier.html	    Licence URI
+#Table	J_ApJ_809_25_table3:
+#Name: J/ApJ/809/25/table3
+#Title: *Planet Properties for All Objects of Interest
+#Column	recno	(I8)	Record number assigned by the VizieR team. Should Not be used for identification.	[ucd=meta.record]
+#Column	Planet	(F12.2)	Planet candidate name (EPIC NNNNNNNNN.NN in Simbad)	[ucd=meta.id;meta.main]
+#Column	Other	(A6)	Other name (K2-NNa)	[ucd=meta.id]
+#Column	n_Other	(A1)	[a] Note on Other (G1)	[ucd=meta.note]
+#Column	Per	(F8.5)	? Period	[ucd=time.period]
+#Column	e_Per	(F8.5)	? Uncertainty in Per	[ucd=stat.error]
+#Column	Epoch	(F7.4)	? Epoch (BJD-2456808)	[ucd=time.epoch]
+#Column	e_Epoch	(F7.4)	? Uncertainty in Epoch	[ucd=stat.error;time.epoch]
+#Column	Rad	(F6.2)	? Planet radius	[ucd=phys.size.radius]
+#Column	e_Rad	(F5.2)	? Uncertainty in Rad	[ucd=stat.error]
+#Column	a/R*	(F5.2)	? Semi-major axis to stellar radius ratio	[ucd=phys.size.axisRatio]
+#Column	e_a/R*	(F5.2)	? Uncertainty in a/R*	[ucd=stat.error]
+#Column	a	(F7.4)	? Semi-major axis in AU	[ucd=phys.angSize;src]
+#Column	e_a	(F7.4)	? Uncertainty in a	[ucd=stat.error]
+#Column	Teq	(I4)	? Equilibrium temperature	[ucd=phys.temperature]
+#Column	e_Teq	(I3)	? Uncertainty in Teq	[ucd=stat.error]
+#Column	Disp	(a9)	Disposition (Planet,Candidate,FP=False Positive)	[ucd=meta.code]
+#Column	n_Disp	(A1)	[b] Note on Disp (1)	[ucd=meta.note]
+recno	Planet	Other	n_Other	Per	e_Per	Epoch	e_Epoch	Rad	e_Rad	a/R*	e_a/R*	a	e_a	Teq	e_Teq	Disp	n_Disp
+ 	 	 	 	d	d	d	d	Rgeo	Rgeo	 	 	AU	AU	K	K	 	
+--------	------------	------	-	--------	--------	-------	-------	------	-----	-----	-----	-------	-------	----	---	---------	-
+       1	201208431.01	K2-4b 	 	10.00329	 0.00159	 7.5212	 0.0080	  2.37	 0.40	27.79	 0.72	 0.0777	 0.0012	 563	 11	Planet   	
+       2	201257461.01	      	 	50.27762	 0.00785	20.3735	 0.0397	209.52	99.23	 6.19	 0.52	 0.3049	 0.0030	1466	 52	FP       	
+       3	201295312.01	      	 	 5.65706	 0.00079	 3.7187	 0.0082	  2.16	 0.57	12.94	 4.07	 0.0633	 0.0019	1211	154	Candidate	
+       4	201338508.01	K2-5c 	 	10.93406	 0.00205	 6.5947	 0.0080	  1.92	 0.20	32.27	 0.71	 0.0783	 0.0007	 511	  9	Planet   	
+       5	201338508.02	K2-5b 	 	 5.73491	 0.00061	 0.8640	 0.0063	  1.92	 0.23	20.99	 0.46	 0.0509	 0.0004	 634	 12	Planet   	
+       6	201367065.01	K2-3b 	 	10.05448	 0.00033	 5.4177	 0.0015	  1.98	 0.10	30.72	 0.75	 0.0740	 0.0009	 504	  9	Planet   	
+       7	201367065.02	K2-3c 	 	24.64745	 0.00152	 4.2759	 0.0030	  1.56	 0.10	55.85	 1.36	 0.1345	 0.0016	 374	  7	Planet   	
+       8	201384232.01	K2-6b 	 	30.94191	 0.00467	19.5014	 0.0090	  2.50	 0.88	50.27	24.56	 0.1898	 0.0056	 615	105	Planet   	
+       9	201393098.01	K2-7b 	 	28.67992	 0.00947	16.6155	 0.0149	  2.67	 0.56	40.29	 8.19	 0.1814	 0.0043	 651	 61	Planet   	
+      10	201403446.01	      	 	19.15344	 0.00607	 7.3412	 0.0152	  2.04	 0.46	27.05	 5.87	 0.1408	 0.0040	 889	 88	Candidate	
+      11	201445392.01	K2-8b 	 	10.35176	 0.00133	 5.6119	 0.0053	  2.97	 0.51	24.94	 0.79	 0.0856	 0.0012	 691	 14	Planet   	
+      12	201445392.02	      	 	 5.06468	 0.00063	 5.0663	 0.0071	  2.31	 0.33	15.49	 0.49	 0.0531	 0.0008	 877	 17	Candidate	
+      13	201465501.01	K2-9b 	 	18.44883	 0.00137	14.6723	 0.0030	  1.60	 0.42	74.76	 6.66	 0.0848	 0.0050	 284	 14	Planet   	
+      14	201505350.01	K2-19c	 	11.90691	 0.00037	 9.2764	 0.0018	  4.31	 0.49	24.09	 2.48	 0.0965	 0.0017	 797	 42	Planet   	
+      15	201505350.02	K2-19b	 	 7.91943	 0.00007	 5.3836	 0.0005	  7.11	 0.81	18.35	 1.89	 0.0735	 0.0013	 913	 48	Planet   	
+      16	201546283.01	      	 	 6.77131	 0.00012	 4.8440	 0.0022	  5.77	 3.24	17.56	 9.24	 0.0668	 0.0029	 991	239	Candidate	
+      17	201549860.01	      	 	 5.60840	 0.00055	 4.1181	 0.0047	  2.20	 0.40	17.42	 0.46	 0.0555	 0.0008	 766	 14	Candidate	
+      18	201555883.01	      	 	        	        	       	       	      	     	     	     	       	       	    	   	FP       	b
+      19	201565013.01	      	 	 8.63810	 0.00024	 3.4284	 0.0016	 15.99	 9.19	28.07	 2.68	 0.0669	 0.0031	 536	 37	Candidate	
+      20	201569483.01	      	 	 5.79687	 0.00000	 5.3135	 0.0004	 27.81	 3.56	15.68	 1.91	 0.0589	 0.0015	 930	 51	FP       	
+      21	201577035.01	K2-10b	 	19.30691	 0.00127	11.5768	 0.0033	  3.92	 0.69	32.74	 5.15	 0.1374	 0.0025	 703	 55	Planet   	
+      22	201596316.01	K2-11b	 	39.93767	 0.23229	21.8290	 0.1156	  7.55	 9.33	45.08	58.53	 0.2257	 0.0143	 734	253	Planet   	
+      23	201613023.01	K2-12b	 	 8.28212	 0.00060	 7.3734	 0.0054	  2.33	 0.58	17.47	 5.05	 0.0802	 0.0021	1003	121	Planet   	
+      24	201617985.01	      	 	 7.28161	 0.00078	 4.6366	 0.0047	  1.78	 0.43	26.04	 1.16	 0.0586	 0.0012	 518	 16	Candidate	
+      25	201629650.01	K2-13b	 	39.91488	 0.32477	 4.5250	 0.0146	  1.89	 0.95	79.69	63.37	 0.2114	 0.0061	 511	126	Planet   	
+      26	201635569.01	K2-14b	 	 8.36802	 0.00019	 3.4513	 0.0013	  4.81	 0.42	30.16	 0.69	 0.0627	 0.0006	 488	  8	Planet   	
+      27	201649426.01	      	 	27.77045	 0.00008	13.3482	 0.0012	 32.79	 9.01	59.26	13.58	 0.1517	 0.0097	 441	 42	FP       	
+      28	201702477.01	      	 	40.73620	 0.00266	 3.5455	 0.0025	  7.28	 1.10	56.98	 7.61	 0.2205	 0.0053	 529	 36	Candidate	
+      29	201736247.01	K2-15b	 	11.81040	 0.00204	 3.8509	 0.0076	  2.48	 0.30	28.84	 1.98	 0.0910	 0.0018	 676	 26	Planet   	
+      30	201754305.01	K2-16c	 	19.07536	 0.00490	 1.4854	 0.0119	  2.14	 0.41	41.43	 1.34	 0.1220	 0.0021	 523	 12	Planet   	
+      31	201754305.02	K2-16b	 	 7.62067	 0.00095	 3.6802	 0.0054	  2.13	 0.37	22.47	 0.73	 0.0662	 0.0011	 710	 16	Planet   	
+      32	201779067.01	      	 	27.24273	 0.00012	12.2601	 0.0003	 31.73	 5.25	38.25	 3.72	 0.1718	 0.0022	 707	 34	FP       	
+      33	201828749.01	      	 	33.51569	 0.00232	 5.1504	 0.0034	  3.83	 3.25	67.09	67.64	 0.1875	 0.0090	 613	239	Candidate	
+      34	201855371.01	K2-17b	 	17.96753	 0.00152	 9.9462	 0.0035	  2.23	 0.20	39.38	 0.85	 0.1190	 0.0020	 487	 10	Planet   	
+      35	201912552.01	K2-18b	a	32.94488	 0.00281	28.1849	 0.0027	  2.24	 0.23	83.83	 9.03	 0.1491	 0.0055	 272	 15	Planet   	
+      36	201929294.01	      	 	        	        	       	       	      	     	     	     	       	       	    	   	FP       	b
+

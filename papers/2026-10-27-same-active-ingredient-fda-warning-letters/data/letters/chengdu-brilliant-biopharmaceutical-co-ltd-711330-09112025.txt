@@ -1,0 +1,77 @@
+WARNING LETTER
+Chengdu Brilliant Biopharmaceutical Co., Ltd.
+MARCS-CMS 711330 —
+September 11, 2025
+More Warning Letters
+Delivery Method:
+Via Electronic Mail Return Confirmation Requested
+Reference #:
+320-25-109
+Product:
+Drugs
+Recipient:
+Recipient Name
+Mr. Zeng Dong
+Recipient Title
+General Manager
+Chengdu Brilliant Biopharmaceutical Co., Ltd.
+#33, Tengfei 12th Rd, Southwest Airport Economic Dev Zn
+Shuangliu Xian
+Chengdu Shi
+Sichuan Sheng
+,
+610207
+China
+Issuing Office:
+Center for Drug Evaluation and Research (CDER)
+United States
+Warning Letter
+320-25-109
+September 11, 2025
+Dear Mr. Zeng Dong:
+Your facility is registered with the United States Food and Drug Administration (FDA) as a manufacturer of active pharmaceutical ingredients (APIs). FDA has reviewed the records you submitted in response to our March 12, 2025, request for records and other information pursuant to section 704(a)(4) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) for your facility, Chengdu Brilliant Biopharmaceutical Co., Ltd., FEI 3015530591, at #33, Tengfei 12th Road, Southwest Airport Economic Dev Zn, Shuangliu District Chengdu, Sichuan.
+This warning letter summarizes significant deviations from Current Good Manufacturing Practice (CGMP) for active pharmaceutical ingredients (APIs).
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding of drugs as described in your response to our 704(a)(4) request do not conform to CGMP, your APIs are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B).
+Following review of records and other information provided pursuant to section 704(a)(4) of the FD&C Act, significant deviations were observed including, but not limited to, the following:
+1. Failure to demonstrate that your manufacturing process can reproducibly manufacture an API meeting its predetermined quality attributes.
+Based on the records and information you provided, your firm has not conducted process validation for the Glucagon-Like Peptide-1 Receptor Agonist (GLP-1) API Semaglutide manufactured at your site.
+Process validation evaluates the soundness of design and state of control of a process throughout its lifecycle. Each significant stage of a manufacturing process must be designed appropriately and ensure the quality of raw material inputs, in-process materials, and finished drugs. Process qualification studies determine whether an initial state of control has been established.
+Successful process qualification studies are necessary before commercial distribution. Thereafter, ongoing vigilant oversight of process performance and product quality is necessary to ensure that you maintain a stable manufacturing operation throughout the product lifecycle.
+Without adequate process validation, your firm lacks basic assurance that you can reproducibly deliver products that meet specifications. See FDA’s guidance document
+Process Validation: General Principles and Practices
+for general principles and approaches that FDA considers appropriate elements of process validation, at https://www.fda.gov/media/71021/download.
+In response to this letter, provide the following:
+A detailed summary of your validation program for ensuring a state of control throughout the product lifecycle, along with associated procedures. Describe your program for process performance qualification (PPQ), and ongoing monitoring of both intra-batch and inter-batch variation to ensure a continuing state of control.
+A timeline for performing PPQ for each of your marketed drug products.
+Process performance protocol(s) and written procedures for qualification of equipment and facilities.
+A detailed program for designing, validating, maintaining, controlling and monitoring each of your manufacturing processes that includes vigilant monitoring of intra-batch and inter-batch variation to ensure an ongoing state of control. Also, include your program for qualification of your equipment and facility.
+2. Failure to test the identity of each batch of incoming production material.
+Based on the records and information you provided, you failed to conduct an identity test on the raw materials used for manufacturing of your API during
+(b)(4)
+, e.g.,
+(b)(4)
+.
+Without adequate testing, there is no scientific evidence to assure that your raw materials conform to appropriate specifications before release.
+In response to this letter, please provide the following:
+A comprehensive, independent review of your material system to determine whether all suppliers of components, containers, and closures, are each qualified and the materials are assigned appropriate expiration or retest dates. The review should also determine whether incoming material controls are adequate to prevent use of unsuitable components, containers, and closures.
+The chemical and microbiological quality control specifications you use to test and release each incoming lot of component for use in manufacturing.
+A description of how you will test each component lot for conformity with all appropriate specifications for identity, strength, quality, and purity. If you intend to accept any results from your supplier’s Certificates of Analysis (COA) instead of testing each component lot for strength, quality, and purity, specify how you will robustly establish the reliability of your supplier’s results through initial validation as well as periodic re-validation. In addition, include a commitment to always conduct at least one specific identity test for each incoming component lot.
+A summary of results obtained from testing all components to evaluate the reliability of the COA from each component manufacturer. Include your SOP that describes this COA validation program.
+A summary of your program for qualifying and overseeing contract facilities that test the drug products you manufacture.
+Conclusion
+The deviations cited in this letter are not intended to be an all-inclusive list of deviations that exist at your facility. You are responsible for investigating and determining the causes of any deviations and for preventing their recurrence or the occurrence of other deviations.
+FDA placed all drugs and drug products offered for import into the United States from your firm on Import Alert 66-40 on July 9, 2025.
+Correct any deviations promptly. FDA may withhold approval of new applications or supplements listing your firm as a drug manufacturer until any deviations are completely addressed and we confirm your compliance with CGMP. We may inspect to verify that you have completed corrective actions to any deviations.
+Failure to address any deviations may also result in the FDA continuing to refuse admission of articles manufactured at Chengdu Brilliant Biopharmaceutical Co., Ltd., FEI 3015530591, at #33, Tengfei 12th Road, Southwest Airport Economic Dev Zn, Shuangliu District Chengdu into the United States under section 801(a)(3) of the FD&C Act, 21 U.S.C. 381(a)(3). Articles under this authority that appear to be adulterated may be detained or refused admission, in that the methods and controls used in their manufacture do not appear to conform to CGMP within the meaning of section 501(a)(2)(B) of the FD&C Act, 21 U.S.C. 351(a)(2)(B).
+This letter notifies you of our findings and provides you an opportunity to address the above deficiencies. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any deviations and to prevent their recurrence. In response to this letter, you may provide additional information for our consideration as we continue to assess your activities and practices. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 3015530591 and ATTN: Chhaya Shetty.
+Sincerely,
+/S/
+Francis Godwin
+Director
+Office of Manufacturing Quality
+Office of Compliance
+Center for Drug Evaluation and Research
+Content current as of:
+09/23/2025
+Regulated Product(s)

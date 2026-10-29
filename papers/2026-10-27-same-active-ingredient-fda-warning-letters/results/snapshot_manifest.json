@@ -1,0 +1,23 @@
+{
+ "snapshot_file": "fda_wl_snapshot_2026-10-21.json",
+ "snapshot_sha256": "e9176b7f9317d38a653405ab5bc1758b95d460e768c6af3ec104a0403a924084",
+ "source": "https://www.fda.gov/datatables/views/ajax (view_name=warning_letter_solr_index, view_display_id=warning_letter_solr_block)",
+ "pull_started_utc": "2026-10-22T01:43:23.384Z",
+ "pull_finished_utc": "2026-10-22T01:45:03.123Z",
+ "query_counts": {
+  "semaglutide": 149,
+  "tirzepatide": 113,
+  "retatrutide": 21,
+  "Ozempic": 85,
+  "Wegovy": 70,
+  "Mounjaro": 50,
+  "Zepbound": 39,
+  "GLP-1": 55,
+  "liraglutide": 6,
+  "cagrilintide": 5,
+  "incretin": 4
+ },
+ "unique_urls": 163,
+ "unique_company_date": 161,
+ "letters_fetched_ok": 163
+}

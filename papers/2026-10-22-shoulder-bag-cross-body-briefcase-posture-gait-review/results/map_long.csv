@@ -1,0 +1,87 @@
+id,evidence,popg,bag,outcome
+Hardie2015,"Full text, included",Adults,shoulder same-side,EMG
+Hardie2015,"Full text, included",Adults,cross-body,EMG
+Yoon2014,"Full text, included",Adults,shoulder same-side,EMG
+Hyung2016,"Full text, included",Adults,hand-carried,kinematics
+Hyung2016,"Full text, included",Adults,shoulder same-side,kinematics
+Hyung2016,"Full text, included",Adults,cross-body,kinematics
+Hyun2018,"Full text, included",Adults,non-bag load,gait
+Hyun2018,"Full text, included",Adults,non-bag load,kinetics
+Hyun2018,"Full text, included",Adults,non-bag load,balance
+Shin2016,"Full text, included",Older adults,hand-carried,gait
+Sussman2001,"Full text, included",Adults,shoulder same-side,posture
+Rodrigues2020,"Full text, included",Adults,shoulder same-side,gait
+Corrigan2012,"Full text, included",Adults,shoulder same-side,gait
+Corrigan2012,"Full text, included",Adults,shoulder same-side,EMG
+Tajik2026,"Full text, included",Adults,non-bag load,EMG
+Negrini2007,"Full text, included",Children/adolescents,shoulder same-side,posture
+Ozgul2012,"Full text, included",Children/adolescents,shoulder same-side,kinematics
+Tseng2011,"Full text, included",Adults,hand-carried,physiological
+Tseng2011,"Full text, included",Adults,hand-carried,kinematics
+Suzuki2025,"Full text, included",Adults,shoulder same-side,gait
+Suzuki2025,"Full text, included",Adults,cross-body,gait
+Son2013,"Full text, excluded",Adults,hand-carried,gait
+Son2013,"Full text, excluded",Adults,shoulder same-side,gait
+Cho2013,"Full text, excluded",Adults,shoulder same-side,EMG
+Cho2013,"Full text, excluded",Adults,cross-body,EMG
+Wang2021,"Full text, excluded",Adults,cross-body,coordination
+Ramadan2018,"Full text, excluded",Adults,hand-carried,gait
+Presta2020,"Full text, excluded",Children/adolescents,shoulder same-side,posture
+Presta2020,"Full text, excluded",Children/adolescents,shoulder same-side,gait
+deVette2014,"Full text, excluded",Adults,hand-carried,gait
+deVette2014,"Full text, excluded",Adults,cross-body,gait
+Mache_ISBS,"Full text, excluded",Adults,cross-body,balance
+An2010,Abstract only,Adults,shoulder same-side,gait
+An2010,Abstract only,Adults,hand-carried,gait
+Zhang2010,Abstract only,Adults,non-bag load,gait
+Zhang2010,Abstract only,Adults,non-bag load,kinematics
+Shi2015,Abstract only,Adults,non-bag load,gait
+Yoon2012,Abstract only,Adults,shoulder same-side,kinematics
+Yoon2012,Abstract only,Adults,shoulder same-side,kinetics
+BettanySaltikov2012,Abstract only,Adults,shoulder same-side,posture
+BettanySaltikov2012,Abstract only,Adults,hand-carried,posture
+OShea2006,Abstract only,Adults,shoulder same-side,posture
+OShea2006,Abstract only,Adults,cross-body,posture
+Motmans2006,Abstract only,Adults,shoulder same-side,EMG
+Pascoe1997,Abstract only,Children/adolescents,shoulder same-side,posture
+Pascoe1997,Abstract only,Children/adolescents,shoulder same-side,gait
+Bampouras2016,Abstract only,Older adults,hand-carried,gait
+Matsuo2008,Abstract only,Older adults,hand-carried,gait
+DeVita1991,Abstract only,Adults,shoulder same-side,kinetics
+Phonpichit2016,Abstract only,Adults,hand-carried,balance
+Phonpichit2016,Abstract only,Adults,hand-carried,posture
+Ikeda2008,Abstract only,Adults,shoulder same-side,physiological
+Ikeda2008,Abstract only,Adults,shoulder same-side,comfort
+Holland2019,Abstract only,Adults,shoulder same-side,physiological
+Bloswick1994,Abstract only,Adults,shoulder same-side,physiological
+Bloswick1994,Abstract only,Adults,shoulder same-side,EMG
+Lin1996,Abstract only,Adults,shoulder same-side,pressure
+Lin1996,Abstract only,Adults,shoulder same-side,posture
+Takehana1994,Abstract only,Adults,hand-carried,physiological
+Oja1982,Abstract only,Adults,shoulder same-side,physiological
+McGill2013,Abstract only,Adults,hand-carried,EMG
+McGill2013,Abstract only,Adults,hand-carried,kinetics
+Zultowski2008,Abstract only,Adults,shoulder same-side,balance
+Zultowski2008,Abstract only,Adults,hand-carried,balance
+Rafi2026,Abstract only,Adults,non-bag load,balance
+Serafim2026,Abstract only,Older adults,non-bag load,balance
+Serafim2026,Abstract only,Older adults,non-bag load,EMG
+Silva2019,Abstract only,Adults,hand-carried,coordination
+Wang2018a,Abstract only,Adults,non-bag load,balance
+Wang2018b,Abstract only,Adults,non-bag load,kinetics
+Wang2020,Abstract only,Adults,non-bag load,balance
+Lee2014,Abstract only,Adults,non-bag load,kinematics
+Lee2016,Abstract only,Adults,non-bag load,kinetics
+Park2018,Abstract only,Adults,non-bag load,gait
+Angelini2018,Abstract only,Adults,non-bag load,gait
+Shin2017,Abstract only,Older adults,hand-carried,gait
+Li2018,Abstract only,Adults,non-bag load,posture
+Gomez2018,Abstract only,Adults,non-bag load,kinematics
+Kellis2009,Abstract only,Children/adolescents,hand-carried,gait
+Hong2005,Abstract only,Children/adolescents,shoulder same-side,gait
+Cottalorda2003,Abstract only,Children/adolescents,shoulder same-side,gait
+Cottalorda2003,Abstract only,Children/adolescents,shoulder same-side,kinetics
+Mandrekar2019,Abstract only,Children/adolescents,shoulder same-side,posture
+DrzalGrabiec2015,Abstract only,Children/adolescents,shoulder same-side,posture
+Gelalis2012,Abstract only,Children/adolescents,shoulder same-side,kinetics
+Bergmann1997,Abstract only,Adults,non-bag load,kinetics

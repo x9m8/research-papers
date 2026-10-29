@@ -1,0 +1,140 @@
+{
+ "n_rows_adult_noload": 114,
+ "n_with_g": 89,
+ "n_studies_with_g": 8,
+ "studies_with_g": [
+  "Corrigan2012",
+  "Hardie2015",
+  "Hyun2018",
+  "Hyung2016",
+  "Rodrigues2020",
+  "Shin2016",
+  "Sussman2001",
+  "Yoon2014"
+ ],
+ "by_domain": {
+  "Gait": {
+   "n": 26,
+   "studies": 4,
+   "median_g": 0.08179427740170413,
+   "n_abs_ge_0_5": 9,
+   "n_ci_excl0": 9
+  },
+  "Muscle activity": {
+   "n": 24,
+   "studies": 2,
+   "median_g": 0.5192418298738994,
+   "n_abs_ge_0_5": 14,
+   "n_ci_excl0": 12
+  },
+  "Posture and pelvis": {
+   "n": 39,
+   "studies": 2,
+   "median_g": -0.06462280077020276,
+   "n_abs_ge_0_5": 15,
+   "n_ci_excl0": 15
+  }
+ },
+ "bag_side_emg": [
+  {
+   "study_id": "Hardie2015",
+   "outcome_name": "Trapezius left (strap side)",
+   "load_pct_bm": "10",
+   "carry_mean": 8.31,
+   "comparison_mean": 3.57,
+   "g": 1.2477280966022526,
+   "lo_0.5": 0.4931890411640032,
+   "hi_0.5": 2.0022671520405018
+  },
+  {
+   "study_id": "Hardie2015",
+   "outcome_name": "Trapezius left (strap side)",
+   "load_pct_bm": "10",
+   "carry_mean": 4.69,
+   "comparison_mean": 3.57,
+   "g": 0.5118950392657007,
+   "lo_0.5": -0.08983301179340375,
+   "hi_0.5": 1.113623090324805
+  },
+  {
+   "study_id": "Hardie2015",
+   "outcome_name": "Erector spinae left (strap side)",
+   "load_pct_bm": "10",
+   "carry_mean": 3.41,
+   "comparison_mean": 3.66,
+   "g": -0.08156746956656317,
+   "lo_0.5": -0.6483110599300638,
+   "hi_0.5": 0.48517612079693745
+  },
+  {
+   "study_id": "Hardie2015",
+   "outcome_name": "Erector spinae left (strap side)",
+   "load_pct_bm": "10",
+   "carry_mean": 4.87,
+   "comparison_mean": 3.66,
+   "g": 0.3146575040322024,
+   "lo_0.5": -0.2649815466979283,
+   "hi_0.5": 0.894296554762333
+  },
+  {
+   "study_id": "Yoon2014",
+   "outcome_name": "Upper trapezius right (bag side); strap length: bag at iliac crest",
+   "load_pct_bm": "10",
+   "carry_mean": 0.31,
+   "comparison_mean": 0.168,
+   "g": 0.9357531684291709,
+   "lo_0.5": 0.4102287745012474,
+   "hi_0.5": 1.4612775623570944
+  },
+  {
+   "study_id": "Yoon2014",
+   "outcome_name": "Upper trapezius right (bag side); strap length: bag at 10 cm below iliac crest",
+   "load_pct_bm": "10",
+   "carry_mean": 0.357,
+   "comparison_mean": 0.168,
+   "g": 1.2034645982143806,
+   "lo_0.5": 0.6279845126853719,
+   "hi_0.5": 1.778944683743389
+  },
+  {
+   "study_id": "Yoon2014",
+   "outcome_name": "Upper trapezius right (bag side); strap length: bag at 20 cm below iliac crest",
+   "load_pct_bm": "10",
+   "carry_mean": 0.421,
+   "comparison_mean": 0.168,
+   "g": 1.2230143700075755,
+   "lo_0.5": 0.6435894923111718,
+   "hi_0.5": 1.8024392477039792
+  },
+  {
+   "study_id": "Yoon2014",
+   "outcome_name": "Erector spinae right (bag side); strap length: bag at iliac crest",
+   "load_pct_bm": "10",
+   "carry_mean": 0.17,
+   "comparison_mean": 0.197,
+   "g": -0.3407872324047587,
+   "lo_0.5": -0.791601712499886,
+   "hi_0.5": 0.11002724769036859
+  },
+  {
+   "study_id": "Yoon2014",
+   "outcome_name": "Erector spinae right (bag side); strap length: bag at 10 cm below iliac crest",
+   "load_pct_bm": "10",
+   "carry_mean": 0.166,
+   "comparison_mean": 0.197,
+   "g": -0.41898873015396926,
+   "lo_0.5": -0.8760882504314021,
+   "hi_0.5": 0.038110790123463634
+  },
+  {
+   "study_id": "Yoon2014",
+   "outcome_name": "Erector spinae right (bag side); strap length: bag at 20 cm below iliac crest",
+   "load_pct_bm": "10",
+   "carry_mean": 0.185,
+   "comparison_mean": 0.197,
+   "g": -0.1387196897474993,
+   "lo_0.5": -0.5790923868452674,
+   "hi_0.5": 0.3016530073502688
+  }
+ ]
+}

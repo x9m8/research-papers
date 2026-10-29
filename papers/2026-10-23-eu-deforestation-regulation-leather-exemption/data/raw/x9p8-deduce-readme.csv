@@ -1,0 +1,111 @@
+ABOUT:
+"This file contains data on commodity-driven deforestation and associated carbon emissions for the period 2001-2022, estimated by the Deforestation Driver and Carbon Emission (DeDuCE) model (Singh & Persson, 2024), which combines remote sensing data on forest loss and land-use with agricultural statistics to identify and attribute deforestation across the world to expansion of cropland, pastures and forest plantation, and the commodities produced on this land. This file also contains data on deforestation embodied in the production, exports, imports, and consumption of agricultural and forestry commodities by country, year, and commodity for the time period 2005-2022 derived using a physical and a hybrid (physical and monetary) trade model. The data is an update of the results presented in Pendrill et al. (2022) and the differences between the data presented therein are detailed below and in the attached explainer."
+
+
+
+
+
+"More information about the DeDUCE model, including input data, model code, and data outputs, can be found here:"
+https://www.deforestationfootprint.earth/ 
+https://zenodo.org/records/10674962 
+https://github.com/chandrakant6492/DeDuCE 
+
+TABS:
+"Deforestation attribution: presents the attribution of embodied deforestation area (in ha/yr) and associated net carbon emissions from changes in above-ground, below-ground and soil carbon, incl. peat drainage (in tCO2/yr), by country of production, year and commodity (note that this excludes any forest loss that was not attributed to expanding pastures, cropland or forest plantations) (Singh & Persson, 2024). Data is provided both for the attribution of forest loss to different land-uses and associated (committed) emissions in each year (unamortized) and the amount of deforestation and emissions embodied in the production of associated commodities (amortized over 5 years, available from the year 2005 and onwards). Instances of net negative deforestation emissions reflect situations where the carbon stock of the replacing land-use (e.g. tree crops) exceeds gross carbon loss from forest clearing."
+
+
+
+
+
+
+"Trade flows - physical: presents estimates of bilateral links between countries of production and countries of apparent consumption for commodities driving deforestation. Values are presented in terms of amortized deforestation area (in ha/yr) and associated net emissions from losses in above-ground, below-ground and soil (incl. peat drainage) carbon (in MtCO2/yr). The data is produced using the trade model presented by Kastner et al. (2011), which establishes links between countries of primary production and countries of apparent consumption (in primary or processed form). The calculations rely on production and bilateral data on physical trade flows available in FAOSTAT (as available in January of 2024). As FAOSTAT does not provide bilateral trade data for leather and wood products, these items are excluded from this dataset. This approach considers the physical flows of agricultural products in their primary form and up to the level of processing covered in FAOSTAT’s trade data (e.g. flour, fruit juices). Traded products are converted into their primary equivalents of the agricultural commodity they are matched to (for details and factors, refer to Schwarzmueller and Kastner, 2022). The values included here do not include estimates of products indirectly embodied in the production of other products (e.g., feed in meat products, biofuels input into industrial processes). To limit the size of the dataset, we include the links cumulatively making up (per year) at least 99.9% of the total positive values of attributed deforestation area (the full dataset can be obtained from the authors)."
+
+
+
+
+
+
+
+
+
+"Trade flows - hybrid (NEW): presents the embodied deforestation area (in ha/yr) embedded in total consumption, and associated net carbon emissions from losses in above-ground, below-ground and soil, incl. peat drainage (in MtCO2/yr), by country or territory of production, country or region of consumption, year and commodity. The data are produced using the hybridised multi-regional input-output (MRIO) framework IOTA (Croft et al. 2018), which in this application utilises national-level production and trade data from FAO and UN COMTRADE, and a global economic MRIO (EXIOBASE,  Stadler et al. 2018), to link production and associated impacts to localised final consumption. The specific methods utilised in the IOTA application presented here are the same as those used for the Global Environmental Impacts of Consumption indicator (Croft et al. 2023; www.commodityfootprints.earth). To limit the size of the dataset, we include the links cumulatively making up (per year) at least 99.9% of the total positive values of attributed deforestation area (the full dataset can be obtained from the authors)."
+
+
+
+
+
+
+
+"CITATION, CONTACT & COPYRIGHT:"
+"Chandrakant Singh, U. Martin Persson, Simon, Croft, Thomas Kastner & Chris West (2024). 'Commodity-driven deforestation, associated carbon emissions and trade 2000-2022'. Chalmers University of Technology, Senckenberg Biodiversity and Climate Research Centre, Stockholm Environment Institute York, and York University. DOI: 10.5281/zenodo.10633818"
+
+"For inquiries regarding this dataset, contact U. Martin Persson: martin.persson@chalmers.se "
+"This dataset is copyrighted under the Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) license, which lets others remix, adapt, and build upon the work non-commercially, as long as they credit the original creators and license their new creations under identical terms. For other (e.g., commerical) uses of this dataset, contact the creators. https://creativecommons.org/licenses/by-nc-sa/4.0/ "
+
+
+
+UPDATE DETAILS:
+"The data presented here, based on the DeDuCe model (Singh & Persson, 2024), represents a significant improvement over the previous dataset (Pendrill et al. 2022) and the model used to derive those results (Pendrill et al. 2019a, b). The main differences compared to the previous model are the following:"
+
+"i. The attribution of deforestation to commodities is, to a larger extent, based on spatial data (as opposed to national-level statistics), incorporating remote sensing datasets on plantations, key forest-risk commodities (e.g., soybeans, palm oil, cocoa, and rubber), and land-cover/land-use, allowing for higher accuracy in identifying the proximate drivers of deforestation."
+
+
+"ii. We provide a data quality score that reflects the spatial, temporal resolution, and explicitness of the deforestation driver of the underlying data used to attribute deforestation to a given commodity, in a given country and year. This allows users to assess the degree of deforestation risk and distinguish between where the data reflect direct land-use change (dLUC) estimates and statistical land-use change (sLUC) (see details in Cautions and notes below)."
+
+
+"iii. The geographical scope has been extended from just the tropics, so that the model now has global coverage."
+iv. The temporal scope has been extended to 2022 (partly through extrapolation of land-use and production data beyond year 2021).
+
+CAUTIONS AND NOTES:
+"While the analysis of commodity-driven deforestation presented here to a large extent is derived from spatially explicit data, most commodity-specific deforestation (carbon) footprints are based on a land-balance model implemented at national level (with the exception of Brazil, where it is run at municipal level). This implies that the reported deforestation footprints are a mix of attribution based on direct land-use change (dLUC; i.e., commodities produced on the deforested land) and statistical land-use change (sLUC; i.e., commodities expanding in a geographical area, which may happen directly on forest land or indirectly causing deforestation by expanding on other land uses, pushing these into forests). The quality score reported can be used as a proxy for differentiating between dLUC and sLUC estimates, with the former having a quality score above 0.7. Note also that the deforestation attribution to trade flows and consumption reflects national averages, not reflecting differences in geographical sourcing between importing countries. The estimates of deforestation embodied in imports should, therefore, be interpreted as a measure of deforestation risk exposure for a given import country."
+
+
+
+
+
+
+
+"Note that the two trade models used to assess deforestation and associated carbon emissions embodied in consumption differ in system boundaries, structure and input data, implying that the results are not directly comparable. The physical trade model covers direct trade in agricultural commodities across countries, but does not include highly processed products (especially for non-food products), or the indirect flows of embodied deforestation in other products using these agricultural products as inputs (e.g., meat produced using soy feed or biodiesel produced from palm oil). Consequently, the data from the physical trade model gives an estimate of the direct impact of consumption on deforestation due to trade. The hybrid multi-regional input-output model (IOTA), on the other hand, includes not only direct trade of commodities linked to deforestation, but also trade and consumption of all products and services that use these commodities as inputs, along complex international supply chains, using data on monetary transactions between economic sectors. As such, the IOTA model gives an estimate of the total consumption-based deforestation (carbon) footprint of different countries. For a general discussion on the differences between physical trade models and monetary input-output models, see Hubacek & Feng (2016); for a discussion on the differences specifically for deforestation, see Pendrill et al. (2019b)."
+
+
+
+
+
+
+
+
+FUNDING:
+This data update has been made possible by the following funding:
+"Åforsk, through grant no. 22-64: Refining consumption-based estimates of deforestation land-use change emissions (ReDUCE) [CS & UMP]"
+Formas / Belmont Forum SSCP grant 2022-02563: Building an evidence-base for deforestation-free landscapes: supporting equitable outcomes in and beyond commodity supply-chains (BEDROCK) [UMP & TK]
+"German Federal Ministry for Economic Cooperation and Development Grant GS22 E1070-0060/029: Global impacts of agricultural trade and consumption on ecosystems and biodiversity: exploring Germany’s and China’s roles as importing and consuming countries (GRADED) [UMP, TK, CW]"
+"UK Research and Innovation (UKRI) Global Challenges Research Fund Trade, Development and the Environmental Hub, project ES/S008160/1 [SC & CW]"
+DEFRA & JNCC funding supporting the development of the Global Environmental Impacts of Consumption [SC & CW]
+
+REFERENCES:
+"Croft, S. A., West, C. D., & Green, J. M. (2018). Capturing the heterogeneity of sub-national production in global trade flows. Journal of Cleaner Production, 203, 1106-1118. https://doi.org/10.1016/j.jclepro.2018.08.267"
+
+"Croft, S., West, C., Harris, M., Egan, C., Green, J., Molotoks, A., Wood, E. & Way, L. (2023). Technical documentation for an official statistic in development estimating the global environmental impacts of UK consumption: 2023 Version. JNCC Report 746, JNCC, Peterborough, ISSN 0963-9091. https://hub.jncc.gov.uk/assets/7a4063c9-a221-4ca1-ab6a-3b2fae544b32 "
+
+
+"Hubacek, K., & Feng, K. (2016). Comparing apples and oranges: Some confusion about using and interpreting physical trade matrices versus multi-regional input–output analysis. Land Use Policy, 50, 194-201. https://doi.org/https://doi.org/10.1016/j.landusepol.2015.09.022 "
+
+"Kastner, T., Kastner, M., & Nonhebel, S. (2011). Tracing distant environmental impacts of agricultural products from a consumer perspective. Ecological Economics, 70(6), 1032-1040. https://doi.org/10.1016/j.ecolecon.2011.01.012"
+
+"Pendrill, F., Persson, U. M., Godar, J. & Kastner, T. (2019a). Deforestation displaced: trade in forest-risk commodities and the prospects for a global forest transition. Environmental Research Letters, 14(5). https://doi.org/10.1088/1748-9326/ab0d41 "
+
+"Pendrill, F., Persson, U. M., Godar, J., Kastner, T., Moran, D., Schmidt, S., & Wood, R. (2019b). Agricultural and forestry trade drives large share of tropical deforestation emissions. Global environmental change, 56, 1-10. https://doi.org/10.1016/j.gloenvcha.2019.03.002 "
+
+"Pendrill, F., Persson, U.M., Kastner, T., & Wood, R. (2022). 'Deforestation risk embodied in production and consumption of agricultural and forestry commodities 2005-2018'. Chalmers University of Technology, Senckenberg Biodiversity and Climate Research Centre & Norwegian University of Science and Technology (NTNU). https://zenodo.org/records/5886600"
+
+"Schwarzmueller, F., & Kastner, T. (2022). Agricultural trade and its impacts on cropland use and the global loss of species habitat. Sustainability Science, 17(6), 2363-2377. https://doi.org/10.1007/s11625-022-01138-7"
+
+"Singh, C., & Persson, U.M. (2024). Global patterns of commodity-driven deforestation and associated carbon emissions (in review). Preprint at EarthArXiv: https://doi.org/10.31223/X5T69B"
+
+"Stadler, K., Wood, R., Bulavskaya, T., et al. (2018). EXIOBASE 3: Developing a Time Series of Detailed Environmentally Extended Multi-Regional Input-Output Tables. Journal of Industrial Ecology, 502-515. https://doi.org/10.1111/jiec.12715 "
+
+
+VERSION HISTORY:
+V1.0 (2020-11-05): Initial dataset (https://zenodo.org/record/4250532)
+V1.1 (2022-01-13): Update (https://zenodo.org/records/5886600)
+V2.0 (2024-03-XX): This update.

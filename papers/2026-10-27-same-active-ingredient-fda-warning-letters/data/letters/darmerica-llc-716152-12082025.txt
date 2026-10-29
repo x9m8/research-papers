@@ -1,0 +1,271 @@
+WARNING LETTER
+Darmerica, LLC
+MARCS-CMS 716152 —
+December 08, 2025
+More Warning Letters
+Delivery Method:
+VIA EMAIL WITH READ RECEIPT
+Reference #:
+320-26-24
+Product:
+Drugs
+Recipient:
+Recipient Name
+Mr. Kyle Hamza
+Recipient Title
+Vice President
+Darmerica, LLC
+4380 Oakes Road, Suite 800
+Davie
+,
+FL
+33314
+United States
+Khamza@darmerica.com
+kyle@darmerica.com
+Issuing Office:
+Center for Drug Evaluation and Research (CDER)
+United States
+Warning Letter
+320-26-24
+December 8, 2025
+Dear Mr. Hamza:
+The United States Food and Drug Administration (FDA) inspected your drug manufacturing facility, Darmerica, LLC, FEI 3012389174, at 4380 Oakes Road, Suite 800, Davie, from March 3 through 19, 2025.
+This warning letter summarizes significant violations, including deviations from Current Good Manufacturing Practice (CGMP) for active pharmaceutical ingredients (APIs).
+Because your methods, facilities, or controls for manufacturing, processing, packing, or holding do not conform to CGMP, your APIs are adulterated within the meaning of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), 21 U.S.C. 351(a)(2)(B). Your introduction or delivery for introduction into interstate commerce of adulterated drugs is a violation of section 301(a) of the FD&C Act, 21 U.S.C. 331(a).
+In addition, Darmerica has distributed drugs that are misbranded within the meaning of section 502(a) of the FD&C Act, 21 U.S.C. 352(a), due to false or misleading labeling, and section 502(f)(1) of the FD&C Act, 21 U.S.C. 352(f)(1), due to labeling without adequate directions for use. Darmerica also distributed drugs that are misbranded within the meaning of section 502(o) because they were not properly listed in accordance with section 510(j) of the FD&C Act, 21 U.S.C. 360(j), and 21 CFR Part 207. Your receipt in interstate commerce of misbranded drugs, and your introduction or delivery for introduction into interstate commerce of misbranded drugs, violate sections 301(c) and 301(a) of the FD&C Act, 21 U.S.C. 331(c) and 331(a), respectively.
+In addition, failure to provide listing information for a drug in accordance with 510(j) of the FD&C Act is prohibited under section 301(p) of the FD&C Act, 21 U.S.C. 331(p).
+These violations are described in more detail below.
+We reviewed your April 7, 2025, response to our Form FDA 483 in detail and acknowledge receipt of your subsequent correspondence.
+During our inspection, our investigators observed specific deviations including, but not limited to, the following.
+A. Adulterated Drugs
+Failure of your quality unit to exercise its responsibility to ensure that APIs manufactured at your facility are in compliance with CGMP.
+FDA investigators observed that your firm lacked adequate quality unit (QU) oversight for the receipt of materials, repackaging, relabeling, and related controls for your APIs, which causes the drugs you distribute to be adulterated within the meaning of section 501(a)(2)(B) of the FD&C Act. The introduction of such drugs into interstate commerce is a prohibited act under section 301(a) of the FD&C Act, 21 U.S.C. 331(a). Examples of failures of your QU are listed below.
+1. Failure to Ensure that Your System for Evaluating Suppliers was Adequate
+FDA’s inspection revealed that your firm received API from
+(b)(4)
+, FEI
+(b)(4)
+. Darmerica also served as the firm’s U.S. agent starting in
+(b)(4)
+. Darmerica remained listed as the U.S. agent for
+(b)(4)
+until
+(b)(4)
+de-registered its establishment in FDA’s registration system on
+(b)(4)
+. The first documented shipment from
+(b)(4)
+to Darmerica was in
+(b)(4)
+, and the last shipment to Darmerica was in
+(b)(4)
+,
+(b)(4)
+prior to the FDA inspection at
+(b)(4)
+. You initially approved
+(b)(4)
+as a supplier in
+(b)(4)
+and requalified the firm in
+(b)(4)
+. As an example of a failure of your QU, as part of this qualification process,
+(b)(4)
+completed a vendor survey that asked whether it had had any regulatory inspections. In
+(b)(4)
+,
+(b)(4)
+answered in the affirmative, stating that an inspection by FDA resulted in a “satisfactory” outcome even though the U.S. FDA had not inspected the firm. However, the vendor survey completed by
+(b)(4)
+in
+(b)(4)
+stated that it had not had any regulatory inspections. There is no indication that your firm investigated this discrepancy prior to requalifying
+(b)(4)
+.
+Additionally, your quality agreements with
+(b)(4)
+included the provision of ongoing stability data generated per a stability protocol and annual stability data for appropriate packaging configuration. However, during an FDA inspection of
+(b)(4)
+in
+(b)(4)
+, FDA investigators observed that there were no stability chambers nor stability and reserve samples available. In addition, the facility did not provide any stability data for at least one lot of each API manufactured in
+(b)(4)
+to our investigator. This encompasses the timeframe in which you received drugs from
+(b)(4)
+under the terms of the quality agreements that, consistent with your procedures, required adequate stability data as part of supplier qualification. If
+(b)(4)
+was unable to and/or did not provide stability data to your firm as required under your
+(b)(4)
+quality agreement, qualifying the firm as a supplier again in
+(b)(4)
+would indicate another failure of your system for evaluating suppliers.
+Your response to the Form FDA 483 is inadequate. You indicate that your firm’s failure to verify
+(b)(4)
+responses to a vendor survey “is not a failure for Darmerica to qualify all other manufacturers” as per your SOP. However, your firm qualified a supplier that gave inconsistent responses about its inspectional history and was not equipped to provide stability data for its products as required by your quality agreement. Your firm then imported and distributed drugs from that supplier despite its apparent failure to comply with the terms of your quality agreement. As noted below, based on our inspection of records at your facility and a review of FDA import data, FDA is also aware of non-compliance among other firms that have previously supplied APIs to your firm.
+2. Failure to Adequately Investigate Quality-Related Complaints and Recalls
+Our inspection also revealed that your firm did not adequately investigate customer complaints. Specifically, your QU failed to extend product quality complaint investigations to other lots of APIs potentially associated with the root cause, failure, or deviation. For example, you were made aware by
+(b)(4)
+on May 9, 2023, and
+(b)(4)
+on July 10, 2023, that
+(b)(4)
+lot
+(b)(4)
+manufactured by
+(b)(4)
+, FEI
+(b)(4)
+, contained black chunks that did not appear consistent with previous lots of the drug. You distributed API from this lot
+(b)(4)
+times to
+(b)(4)
+different customers. After receiving the complaint, your firm returned the remaining amount of lot
+(b)(4)
+in Darmerica’s inventory to the API manufacturer but did not contact your additional
+(b)(4)
+customers or investigate further whether they had also received complaints about any potential contamination.
+In your response, you state that the Darmerica’s investigation found that the particles were part of the
+(b)(4)
+shedding during the manufacturing process and that the supplier classified them as “technically unavoidable particles” that did not affect product quality. You conveyed to the two customers that complained about the product that your supplier suggested that the particles be removed manually. Notably, however, your QU decided to return your remaining impacted inventory of lot
+(b)(4)
+to the manufacturer without further investigation.
+Your response is inadequate. Though your firm conveyed the supplier’s confirmation of the issue to the two customers who initially submitted complaints, you failed to contact your other customers to determine whether they had experienced a similar problem. Your response states that “[a]ll other customers who bought the same product did not have any issue with the product,” but this cannot be confirmed if your firm did not contact those customers to investigate the matter. Further, your supplier’s response is indicative of a fundamental lack of understanding of CGMP, as the proposal for customers to manually remove the
+(b)(4)
+particles does not satisfy the requirement for drugs to meet the quality and purity characteristics they purport to possess.
+FDA is concerned that Darmerica accepted this supplier’s response as compliant with CGMP. There is no indication that your firm followed up on this supplier’s response any further or considered whether it was appropriate to continue purchasing API from a firm that displayed such a fundamental lack of understanding of CGMP. Notably, you distributed to clients a different lot of
+(b)(4)
+, lot
+(b)(4)
+, manufactured by the same supplier, that you received prior to the second complaint on July 10, 2023 and before the manufacturer could have corrected the issues with the equipment used in the manufacture of
+(b)(4)
+API.
+In addition, your recall procedure lacked clarity on how to handle supplier recalls. For example, your firm quarantined all
+(b)(4)
+products immediately after receiving a notice on
+(b)(4)
+, of the firm’s voluntary recall of drugs from the U.S. market after FDA documented violations at this facility. All remaining
+(b)(4)
+material in stock at your firm was returned to
+(b)(4)
+. However, there is no documented evidence that you informed your downstream customers of
+(b)(4)
+voluntary recall of drugs from the U.S. market or of the firm’s violative inspection. Your quality manager said clients were contacted via telephone, but there is no documented evidence that you contacted the numerous customers that received drugs manufactured by
+(b)(4)
+. None of the APIs distributed to customers were returned to Darmerica. We acknowledge that your response included an updated recall procedure that requires future client contact to be documented.
+3. Failure to Ensure Adequate Pre-Release Testing of APIs
+Your firm lacked adequate QU oversight for the relabeling and repackaging of your API. Specifically, your firm failed to perform adequate testing and approve the results for your APIs prior to their release and distribution. For example, your firm released APIs for distribution prior to your QU completing its review. According to your records, your firm received and distributed a
+(b)(4)
+API,
+(b)(4)
+, lot
+(b)(4)
+on
+(b)(4)
+. Though a sample was sent to your third-party testing laboratory for analysis, the
+(b)(4)
+distribution of the
+(b)(4)
+API occurred prior to your firm’s own QU release of the
+(b)(4)
+API on
+(b)(4)
+and before the certificate of analysis (COA) was reviewed and authorized by your third-party lab on
+(b)(4)
+.
+In your response, you state that due to patients’ need of the medication, the lot was released and distributed before the third-party lab tests were completed. This response is inadequate because without adequate testing, you cannot demonstrate that incoming materials conform to appropriate specifications prior to use in the manufacture of your drugs. As a manufacturer, you have a responsibility to sample, test, and examine incoming materials before release for use in production to assure adequate quality. This violation is of heightened importance given FDA’s documented compliance concerns related to API manufacturers in your supply chain.
+In response to this letter, provide:
+A detailed list containing API name, manufacturer name, manufacturer lot number, date of entry, import entry number, port of entry, order number, quantity, grade, usage, date of receipt, and information regarding the first date distributed, such as customer name and address, for all drugs received by your firm within three years from the date of this letter. If an import entry number is not available, that should be noted and provide the shipping records that you have (e.g. invoice, bill of lading, waybill, etc.).
+The following information, based on a comprehensive review of your material system:
+o Whether you have notified your customers that they received adulterated drugs from your firm. If you have not notified any customer who received adulterated drugs from Darmerica, notify them, and provide a copy of that notification in your response. The notification should include lot identification, recommended actions, and customer acknowledgement.
+o Evaluating all manufacturers of materials to determine if they are reliable and appropriately qualified.
+o An assessment of all materials to determine whether they are consistently of acceptable quality.
+Supplier qualification procedures implemented for new API manufacturers and supply chain verification measures taken by your firm, including the selection, qualification, and disqualification provisions.
+A detailed list of the manufacturers that have been evaluated for approval and/or qualification within the past three years from the date of this letter. This list should include, but not be limited to manufacturer name, address, FDA Establishment Identifier (FEI), point of contact and email address, current status (e.g., acceptable, unacceptable, disqualified, or hold), date approved, and whether a quality agreement is in place with the manufacturer. Any manufacturers that had their status changed from acceptable to unacceptable or disqualified should note the date this occurred and reason why.
+Based on a thorough review, provide a summary of your systemic corrective action and preventive action (CAPA) to remediate the vendor qualification program and prevent use of unsuitable material suppliers.
+A full reconciliation of any drugs from
+(b)(4)
+, as well as for all firms or drugs currently on FDA import alerts, to determine if you have any remaining drugs from those firms in your possession. Up to date information regarding import alerts can be found at the following FDA website: https://www.accessdata.fda.gov/cms_ia/ialist.html.
+A list of investigations initiated within the past three years for deviations, discrepancies, complaints, out-of-specification (OOS) results, and failures.
+A comprehensive assessment of your overall complaint system, including a comprehensive list of all complaints where you returned drugs to the manufacturer, as well as information on whether you contacted your customers to investigate each complaint and the date of that contact, if applicable. If you have not contacted your customers to investigate each complaint, contact them, and provide a copy of that contact in your response.
+Provide a detailed action plan to remediate your complaint system. Your action plan should include, but not be limited to,
+o Significant improvements in investigation competencies, scope determination, root cause evaluation, CAPA effectiveness, QU oversight, and written procedures.
+o Address how your firm will ensure all phases of investigations are appropriately conducted.
+A comprehensive assessment and remediation plan to ensure your QU is given the authority and resources to effectively function. The assessment should also include, but not be limited to:
+o A determination of whether procedures used by your firm are robust and appropriate.
+o Provisions for QU oversight throughout your operations to evaluate adherence to appropriate practices.
+o A complete and final review of each lot and its related information before the QU disposition decision.
+o Oversight and approval of investigations and discharging of all other QU duties to ensure identity, strength, quality, and purity of all products.
+CGMP Consultant Recommended
+Based upon the nature of the deviations identified at your firm, we strongly recommend engaging a consultant qualified to evaluate your operations to assist your firm in meeting CGMP requirements. We also recommend that the qualified consultant perform a comprehensive audit of your entire operation for CGMP compliance and evaluate the completion and efficacy of your corrective actions and preventive actions before you pursue resolution of your firm’s compliance status with FDA.
+Your use of a consultant does not relieve your firm’s obligations to comply with CGMP. Your firm’s executive management remains responsible for resolving all deficiencies and systemic flaws to ensure ongoing CGMP compliance.
+B. Misbranded Drugs
+As discussed below, your firm received and distributed misbranded drugs in interstate commerce, which are prohibited acts under sections 301(c) and 301(a), respectively.
+1. Distribution of drugs lacking adequate directions for use
+You received retatrutide from your supplier,
+(b)(4)
+, FEI
+(b)(4)
+. Retatrutide is a GLP-1 API that is not identified as an active ingredient in any drug approved by FDA. You distributed this API to pharmacies seeking to compound human drugs under section 503A of the FD&C Act even though retatrutide is not eligible for use in compounding under section 503A.
+Additional APIs that you distribute or distributed to compounders seeking to operate under section 503A of the FD&C Act that are ineligible for use in human drug compounding under sections 503A include: dapoxetine hydrochloride, 2-methoxyestradiol (2ME2), tesofensine, FGL acetate aka [GLP-1]-FGL peptide acetate, thymogen, buserelin acetate, elamipretide (SS-31) acetate, larazotide acetate, and cagrilintide acetate.
+The labeling of these drugs fails to bear adequate directions for use, causing them to be misbranded under section 502(f)(1) of the FD&C Act. Such APIs are not exempt from section 502(f)(1) of the FD&C Act, 21 U.S.C. 352(f)(1), under FDA regulations (see 21 C.F.R. Part 201), and, as noted, they are intended for use in a compounded drug that would be ineligible for the exemptions provided by section 503A of the FD&C Act, 21 U.S.C. 353a. The introduction or delivery for introduction into interstate commerce of these drugs violates section 301(a) of the FD&C Act, 21 U.S.C. 331(a).
+We have reviewed your May 1, 2025, email submitted in response to our April 2, 2025, teleconference, in which you discuss your distribution of the APIs retatrutide base and cagrilintide acetate. We acknowledge your statement, “Darmerica has ceased importing/distributing Retatrutide and delisted the NDC registration from FDA’s CDER website. As discussed during the April 02, 2025, meeting with FDA, Darmerica stopped the importation and distribution of Cagrilintide and is in the process of delisting the NDC registration from the FDA’s CDER website.” Your corrective actions related to retatrutide base and cagrilintide acetate appear adequate.
+2. Receipt of drugs whose labeling is false or misleading
+Under section 502(a) of the FD&C Act, a drug is misbranded if its labeling is false or misleading in any particular. Your firm received multiple shipments of API that you knew to be mislabeled. Since March 2022, GLP-1 APIs were shipped to your firm as “custom peptide,” omitting the drug name. Because of this material omission, the labeling of the drug is false or misleading, causing the drug to be misbranded under section 502(a). We note that you acknowledged that this occurred, indicating it was to prevent theft of high demand products and to address the country’s export requirements for specific peptides.
+3. Receipt of drugs from establishments not duly registered with FDA and failure to provide listing information to FDA
+Section 510 of the FD&C Act, 21 U.S.C. 360, and 21 CFR Part 207 set forth the requirements for establishment registration and drug listing. Under section 502(o), a drug is misbranded if, among other things, it was manufactured in an establishment not duly registered under section 510, or if it was not included in a list required by section 510(j). Under section 301(a), it is a prohibited act to introduce or deliver for introduction into interstate commerce any drug that is misbranded, and under section 301(c), it is a prohibited act to receive in interstate commerce a drug that is misbranded. In addition, failure to provide listing information for a drug in accordance with 510(j) of the FD&C Act is prohibited under section 301(p) of the FD&C Act, 21 U.S.C. 331(p).
+You received and distributed drugs from facilities that were not duly registered with FDA. For example, you provided an incorrect address for
+(b)(4)
+, during the March 2025 inspection; that same address was listed in the firm’s establishment registration. An internet search of this firm’s address indicated that it was a residential building and not an API manufacturing facility. After placing the facility on import alert, FDA physically visited the address and confirmed that it is an empty apartment in a residential building. According to the firm’s registered point of contact, the firm had gone out of business the year before; the point of contact did not know who manufactured or distributed GLP-1 APIs that you received and distributed to your customers for use in GLP-1 drug products administered to patients in the United States. This supplier was not duly registered with FDA under section 510 of the FD&C Act, causing its drugs to be misbranded within the meaning of section 502(o).
+In addition, you distributed drugs for which you did not provide listing information under section 510(j). Specifically, under section 510(j)(1)(C) of the FD&C Act, 21 U.S.C 360(j)(1)(C), and 21 CFR 207.49(a)(4), a registrant must include in drug listings the name and quantity of each API in their listed drugs. In at least 23 of your drug listings, the proprietary name, non-proprietary name, and/or product labeling do not match the active ingredient provided in the Structured Product Labeling (SPL). For example, in your listing for the drug “Hexarelin Acetate” (NDC 71052-621), you list the active ingredient as peptide B27PD in the SPL. Similarly, in the listing for the drug API “Elamipretide (SS-31) Acetate” (NDC 71052-907), you list the active ingredient as peptide B27PD in the SPL. Therefore, “Hexarelin Acetate” and “Elamipretide Acetate” are not listed in accordance with section 510(j)(1)(C) of the FD&C Act, 21 U.S.C 360(j)(1)(C), and 21 CFR 207.49(a)(4), rendering them misbranded under section 502(o) of the FD&C Act, 21 U.S.C 352(o). The introduction of misbranded drugs into interstate commerce is prohibited under section 301(a) of the FD&C Act, 21 U.S.C. 331(a). Failure to provide listing information for a drug in accordance with 510(j) of the FD&C Act is prohibited under section 301(p) of the FD&C Act, 21 U.S.C. 331(p).
+It is your responsibility to ensure that all products manufactured at your establishment and those that you repackage/relabel comply with all establishment registration and drug listing requirements under section 510 of the FD&C Act, 21 U.S.C. 360, 21 CFR Part 207, and all other applicable FDA regulations. Registration and listing information and instructions on how to properly register an establishment or submit drug listings can be found in the FDA Electronic Drug Registration and Listing Instructions at https://www.fda.gov/drugs/electronic-drug-registration-and-listing-system-edrls/electronic-drug-registration-and-listing-instructions.
+Other Concerns
+Drug Suppliers in Your Supply Chain with a History of Non-Compliance
+We note that a review of records collected from an inspection at your facility and a review of FDA import data demonstrated that FDA has, in the past, put more than
+(b)(4)
+of the manufacturers who supply your APIs on import alert because the drugs they manufacture appear to be adulterated under section 501 of the FD&C Act. Drugs from multiple API manufacturers used by Darmerica were listed on import alerts, including Import Alert 66-40 (IA 66-40) for the manufacturer’s apparent failure to conform with CGMP within the meaning of section 501(a)(2)(B) and Import Alert 66-79 (IA 66-79) for refusing to permit access to or copying of any record as required by section 704(a). To understand whether Darmerica has received any or introduced additional adulterated drugs in interstate commerce, we are requesting information regarding timing of receipt and distribution of drugs from the more than
+(b)(4)
+facilities listed below.
+Darmerica suppliers with drugs listed on IA 66-40 for suppliers’ failure to comply with CGMP:
+(b)(4)
+For manufacturers whose drugs are placed on IA 66-40 for failure to conform to CGMP within the meaning of section 501(a)(2)(B), FDA has evidence that the drugs listed in the import alerts appear to be adulterated. You are responsible for ensuring that the drugs you receive and distribute are manufactured in compliance with all relevant CGMP requirements for drugs. Up to date information regarding the import alerts can be found at the following FDA website: https://www.accessdata.fda.gov/cms_ia/ialist.html.
+Darmerica suppliers with drugs from manufacturers listed on IA 66-79 for refusing to permit access to or copying of any record as required by section 704(a).
+All drugs from the following facilities appear to be adulterated in that they have been manufactured, processed, packed, or held in a facility and the owner, operator, or agent of such facility delays, denies, or limits an inspection, or refuses to permit entry or inspection. These firms were approved by your firm prior to the March inspection:
+(b)(4)
+The following firms approved by your firm failed to respond to the agency’s records request during or after your 2025 inspection:
+After the FDA inspection, you stated that you improved your supplier qualification program. Yet the following firms that have supplied drugs to Darmerica have been found to be violative since the FDA inspection:
+(b)(4)
+In your response, provide the following information:
+Whether you distributed the drugs from a facility listed above during the time period after the supplier was found to have engaged in the violative activity identified and before any resolution (e.g., removal from an IA).
+For lots of API received and distributed by Darmerica during the relevant timeframe, indicate whether you have notified your customers that they received adulterated drugs from your firm. If you have not notified any customer who received adulterated drug API from Darmerica, notify them. Include lot identification and recommended actions in your notifications. In your response to this warning letter, provide a copy of that notification and customer acknowledgement.
+Destruction of Incoming Labels
+Our investigators observed your firm destroying original labels during API receipt. FDA is concerned that this practice may obscure supply chain information that may be necessary during CGMP investigations, complaints, or other matters.
+Use of Pre-shipment Samples
+During our inspection, it was observed that your firm was inappropriately relying on results of quality testing of pre-shipment samples that were shipped directly from the API manufacturer to your third-party laboratory for analysis. For example, your third-party testing laboratory received a sample of a
+(b)(4)
+API,
+(b)(4)
+, manufacturer’s lot
+(b)(4)
+from an API manufacturer for testing on February 27, 2025. However, this same API was not received at your facility until March 3, 2025, four days later. Samples used for the sake of identity testing and evaluation of other quality attributes are to be taken at your facility from containers after receipt from the API manufacturer to ensure they are representative of the API in question and account for the conditions of transport to your facility.
+For more information about sampling and testing of representative samples to ensure suitability prior to use in repackaging or distribution to customers see FDA’s current guidance document,
+Questions and Answers on Current Good Manufacturing Practice Requirements | Control of Components and Drug Product Containers and Closures
+at https://www.fda.gov/drugs/guidances-drugs/questions-and-answers-current-good-manufacturing-practice-requirements-control-components-and-drug.
+Importation of Unlisted Drugs
+Under section 510(j)(1) of the FD&C Act and 21 CFR 207.41(a), a registrant must list each drug that it manufactures, repacks, relabels, or salvages for commercial distribution. As of July 28, 2025,
+(b)(4)
+FDA registered manufacturers that identify Darmerica as an importer do not list any drugs with FDA. In numerous instances, Darmerica has attempted to import drugs that are not listed with FDA into the United States. You are responsible for ensuring that the drugs you import are properly listed with FDA.
+Complete, accurate, and up-to-date establishment registration and drug listing information is essential to promote and protect patient safety. FDA relies on establishment registration and drug listing information for several key programs, including drug establishment inspections, supply chain security, and post-market surveillance. Drug registration and listing information is also widely used outside FDA for purposes such as electronic prescribing and electronic health records, insurance reimbursement, and patient education.
+Conclusion
+The deviations cited in this letter are not intended to be an all-inclusive list of deviations that exist at your facility. You are responsible for investigating and determining the causes of any deviations and for preventing their recurrence or the occurrence of other deviations.
+This letter notifies you of our findings and provides you an opportunity to address them. After you receive this letter, respond to this office in writing within 15 working days. Specify what you have done to address any deviations and to prevent their recurrence. If you believe that your products are not in violation of the FD&C Act, include your reasoning and any supporting information for our consideration. If you cannot complete corrective actions within 15 working days, state your reasons for delay and your schedule for completion.
+Send your electronic reply to CDER-OC-OMQ-Communications@fda.hhs.gov. Identify your response with FEI 3012389174 and ATTN: Marva Taylor.
+Sincerely,
+/S/
+Jill P. Furman, JD
+Director
+Office of Compliance
+Center for Drug Evaluation and Research
+Content current as of:
+12/23/2025
+Regulated Product(s)

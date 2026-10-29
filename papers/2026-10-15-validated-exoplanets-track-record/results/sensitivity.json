@@ -1,0 +1,205 @@
+{
+ "Morton et al. 2016": {
+  "expected": 1.550672,
+  "observed": 13,
+  "S1_excl_prior": {
+   "observed": 10,
+   "p": 5.458271570256808e-06
+  },
+  "S2_excl_mass_ceiling": {
+   "observed": 4,
+   "p": 0.07216251852717813
+  },
+  "S1S2_both": {
+   "observed": 3,
+   "p": 0.20397613994063293
+  }
+ },
+ "Crossfield et al. 2016": {
+  "expected": 1.0833653430718007,
+  "observed": 6,
+  "S1_excl_prior": {
+   "observed": 6,
+   "p": 0.0008957067649746577
+  },
+  "S2_excl_mass_ceiling": {
+   "observed": 3,
+   "p": 0.09625666352700285
+  },
+  "S1S2_both": {
+   "observed": 3,
+   "p": 0.09625666352700285
+  }
+ },
+ "Livingston et al. 2018a": {
+  "expected": 0.00987598697801,
+  "observed": 1,
+  "S1_excl_prior": {
+   "observed": 1,
+   "p": 0.009827379565611433
+  },
+  "S2_excl_mass_ceiling": {
+   "observed": 1,
+   "p": 0.009827379565611433
+  },
+  "S1S2_both": {
+   "observed": 1,
+   "p": 0.009827379565611433
+  }
+ },
+ "S3_morton_giants": {
+  "n": 75,
+  "overturned": 13,
+  "later_weighed": 7,
+  "expected": 0.07859400000000001,
+  "lower_bound": 0.17333333333333334,
+  "lower_ci": [
+   0.09565062093789277,
+   0.2781487160458012
+  ],
+  "followed_est": 0.65,
+  "followed_ci": [
+   0.40781146546717184,
+   0.8460907952154588
+  ]
+ },
+ "S3_morton_small": {
+  "n": 1209,
+  "overturned": 0,
+  "later_weighed": 9,
+  "upper95_if_followed_representative": 0.28312883556311347
+ },
+ "S4_zero_overturn_batches": {
+  "Rowe et al. 2014": {
+   "n": 716,
+   "followed": 119,
+   "upper95_followed": 0.024859992430424388
+  },
+  "Armstrong et al. 2021": {
+   "n": 50,
+   "followed": 0,
+   "upper95_followed": null
+  },
+  "Valizadegan et al. 2022": {
+   "n": 301,
+   "followed": 3,
+   "upper95_followed": 0.6315968501359612
+  },
+  "Valizadegan et al. 2023": {
+   "n": 69,
+   "followed": 1,
+   "upper95_followed": 0.95
+  },
+  "Montet et al. 2015": {
+   "n": 17,
+   "followed": 3,
+   "upper95_followed": 0.6315968501359612
+  },
+  "Sinukoff et al. 2016": {
+   "n": 8,
+   "followed": 3,
+   "upper95_followed": 0.6315968501359612
+  },
+  "Dressing et al. 2017": {
+   "n": 15,
+   "followed": 1,
+   "upper95_followed": 0.95
+  },
+  "Mayo et al. 2018": {
+   "n": 96,
+   "followed": 12,
+   "upper95_followed": 0.22092219194555585
+  },
+  "Livingston et al. 2018b": {
+   "n": 19,
+   "followed": 2,
+   "upper95_followed": 0.776393202250021
+  },
+  "Hirano et al. 2018": {
+   "n": 12,
+   "followed": 1,
+   "upper95_followed": 0.95
+  },
+  "Heller et al. 2019": {
+   "n": 17,
+   "followed": 0,
+   "upper95_followed": null
+  },
+  "Castro Gonzalez et al. 2020": {
+   "n": 12,
+   "followed": 0,
+   "upper95_followed": null
+  },
+  "de Leon et al. 2021": {
+   "n": 35,
+   "followed": 0,
+   "upper95_followed": null
+  },
+  "Giacalone et al. 2021": {
+   "n": 10,
+   "followed": 3,
+   "upper95_followed": 0.6315968501359612
+  },
+  "Giacalone et al. 2022": {
+   "n": 13,
+   "followed": 5,
+   "upper95_followed": 0.450719728346941
+  },
+  "Mistry et al. 2023": {
+   "n": 10,
+   "followed": 2,
+   "upper95_followed": 0.776393202250021
+  },
+  "Mistry et al. 2024": {
+   "n": 7,
+   "followed": 2,
+   "upper95_followed": 0.776393202250021
+  },
+  "Hord et al. 2024": {
+   "n": 16,
+   "followed": 7,
+   "upper95_followed": 0.34816365513116077
+  },
+  "Lafarga et al. 2026": {
+   "n": 113,
+   "followed": 3,
+   "upper95_followed": 0.6315968501359612
+  },
+  "Collier et al. 2026": {
+   "n": 63,
+   "followed": 1,
+   "upper95_followed": 0.95
+  }
+ },
+ "S4_groups": {
+  "multiplicity (Rowe 2014)": {
+   "n": 716,
+   "followed": 119,
+   "overturned": 0,
+   "upper95_followed": 0.024859992430424388
+  },
+  "machine learning (Kepler)": {
+   "n": 420,
+   "followed": 4,
+   "overturned": 0,
+   "upper95_followed": 0.527129195498412
+  },
+  "TESS validations": {
+   "n": 232,
+   "followed": 23,
+   "overturned": 0,
+   "upper95_followed": 0.12212338890652302
+  }
+ },
+ "S5_lag": {
+  "median": 2.0,
+  "min": -5,
+  "max": 8,
+  "n_before": 3,
+  "by_class": {
+   "mass above 30 MJup": 12,
+   "stellar eclipse": 5,
+   "background or nearby eclipsing binary": 4
+  }
+ }
+}

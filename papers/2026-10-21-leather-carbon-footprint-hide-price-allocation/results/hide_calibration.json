@@ -1,0 +1,140 @@
+{
+ "k": 0.6267806088762911,
+ "k_range": [
+  0.48650545524149813,
+  0.7040441176470589
+ ],
+ "cal": [
+  {
+   "date": "2015-04-28",
+   "price": 95.75,
+   "ppi": 136.0,
+   "ratio": 0.7040441176470589,
+   "fitted": 85.24216280717559,
+   "err_pct": -10.974242499033327,
+   "loo_err_pct": -13.020118187118612
+  },
+  {
+   "date": "2017-10-27",
+   "price": 56.0,
+   "ppi": 85.9,
+   "ratio": 0.6519208381839348,
+   "fitted": 53.840454302473404,
+   "err_pct": -3.8563316027260597,
+   "loo_err_pct": -4.60956560037441
+  },
+  {
+   "date": "2019-11-08",
+   "price": 36.25,
+   "ppi": 54.3,
+   "ratio": 0.6675874769797422,
+   "fitted": 34.0341870619826,
+   "err_pct": -6.112587415220416,
+   "loo_err_pct": -7.289516764425718
+  },
+  {
+   "date": "2025-05-23",
+   "price": 15.25,
+   "ppi": 31.346,
+   "ratio": 0.48650545524149813,
+   "fitted": 19.64706496583622,
+   "err_pct": 28.83321289072931,
+   "loo_err_pct": 35.52936547163477
+  },
+  {
+   "date": "2025-08-26",
+   "price": 19.25,
+   "ppi": 30.285,
+   "ratio": 0.635628198778273,
+   "fitted": 18.982050739818476,
+   "err_pct": -1.3919442087351852,
+   "loo_err_pct": -1.6679993554913453
+  },
+  {
+   "date": "2025-09-30",
+   "price": 19.0,
+   "ppi": 29.693,
+   "ratio": 0.6398814535412386,
+   "fitted": 18.61099661936371,
+   "err_pct": -2.047386213875202,
+   "loo_err_pct": -2.451805589232836
+  }
+ ],
+ "val": [
+  {
+   "date": "2019-06-15",
+   "price": 27.6,
+   "kind": "butt-branded steer hide monthly average",
+   "source": "Peel (2019), Cow-Calf Corner, reprinted in Drovers",
+   "fitted": 33.47008451399394,
+   "err_pct": 21.268422152151945
+  },
+  {
+   "date": "2018-07-01",
+   "price": 47.93,
+   "kind": "butt-branded steer hide 2018 average",
+   "source": "Peel (2019), Cow-Calf Corner, reprinted in Drovers",
+   "fitted": 49.082144846754225,
+   "err_pct": 2.4038073164077245
+  },
+  {
+   "date": "2019-03-31",
+   "price": 34.46,
+   "kind": "butt-branded steer hide Jan-Jun 2019 average",
+   "source": "Peel (2019), Cow-Calf Corner, reprinted in Drovers",
+   "fitted": 39.017092902549116,
+   "err_pct": 13.224297453711875
+  },
+  {
+   "date": "2015-06-30",
+   "price": 74.36,
+   "kind": "butt-branded steer hide 2013-2017 average",
+   "source": "Peel (2019), Cow-Calf Corner, reprinted in Drovers",
+   "fitted": 75.10189718990532,
+   "err_pct": 0.9977100455961674
+  },
+  {
+   "date": "2020-01-15",
+   "price": 36.5,
+   "kind": "hide value per steer start of 2020",
+   "source": "Brester & Swanser (2021 staff paper), from AMS",
+   "fitted": 37.168090106364055,
+   "err_pct": 1.8303838530522087
+  },
+  {
+   "date": "2020-04-15",
+   "price": 18.0,
+   "kind": "hide value per steer Apr 2020 (just over $18)",
+   "source": "Brester & Swanser (2021 staff paper), from AMS",
+   "fitted": 26.826210059905254,
+   "err_pct": 49.034500332806964
+  },
+  {
+   "date": "2020-09-30",
+   "price": 30.0,
+   "kind": "butt-branded steer end Sep 2020",
+   "source": "Kay (2020), Western Livestock Journal, citing USDA",
+   "fitted": 30.64957177405063,
+   "err_pct": 2.1652392468354487
+  },
+  {
+   "date": "2020-11-15",
+   "price": 33.0,
+   "kind": "butt-brand steer Nov 2020",
+   "source": "leatherbiz Intelligence 156430, citing USDA",
+   "fitted": 34.91167991440941,
+   "err_pct": 5.792969437604278
+  },
+  {
+   "date": "2025-02-15",
+   "price": 25.04,
+   "kind": "hide in AMS steer drop Feb 2025",
+   "source": "Peck (2025), Beef Magazine, citing AMS",
+   "fitted": 23.40712183848509,
+   "err_pct": -6.521078919787982
+  }
+ ],
+ "val_mape": 11.4709343064394,
+ "val_median_abs": 5.792969437604278,
+ "cal_rmse_log": 0.11821415019196477
+}

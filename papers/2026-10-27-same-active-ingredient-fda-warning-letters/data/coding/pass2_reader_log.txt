@@ -1,0 +1,176 @@
+# Pass 2 (reader) codes. One line per letter: index | eligible(1/0) | exclusion | seller_type | codes present | note
+# Reading conventions (fixed before reading the corpus beyond letter 5):
+#  codes are letter-level; V_rx_503b1 = FDA alleges misbranding/violation under 503(b)(1)/503(b) (dispensing without Rx), not definitional mention or the 201.1 labeling note;
+#  V_salt_form only if attributed to the recipient; C_brand_names = recipient used an approved brand name in its own marketing/product names as quoted by FDA;
+#  C_fda_approved = FDA quotes a recipient claim of FDA approval/registration/licensure, or states the claims imply FDA approval.
+0|1||online_pharmacy|V_unapproved V_misbrand_502f1 F_website_review|salt-form footnote generic, not attributed
+1|1||online_pharmacy|V_unapproved V_misbrand_502f1 V_rx_503b1 C_generic C_no_rx F_website_review|"Generic semaglutide 2mg vial"
+2|1||research_chem|V_unapproved V_misbrand_502f1 C_research_disguise C_brand_names F_website_review|Mounjaro schedule quoted
+3|1||research_chem|V_unapproved V_misbrand_502f1 C_research_disguise C_fda_approved F_website_review|"approval from the FDA" claim
+4|1||online_pharmacy|V_unapproved V_misbrand_502f1 V_rx_503b1 C_brand_names C_fda_approved F_website_review|foreign Rybelsus; 503(b) in opening
+5|1||online_pharmacy|V_unapproved V_misbrand_502f1 V_rx_503b1 C_sameness C_brand_names F_website_review|"Same active ingredient as Ozempic"
+6|1||other|V_unapproved V_misbrand_502a V_misbrand_502f1 V_cgmp C_fda_approved F_inspection F_website_review|homeopathic semaglutide; manufacturer; 502a/FDA-facility claims concern other products
+7|1||online_pharmacy|V_unapproved V_misbrand_502f1 V_rx_503b1 C_no_rx F_website_review|peptide kits, no research label
+8|1||research_chem|V_unapproved V_other_peptide C_research_disguise C_fda_approved F_website_review|social media; "FDA-approved for weight management" quoted
+9|1||research_chem|V_unapproved V_other_peptide C_research_disguise F_website_review|reta, cagrilintide, mazdutide
+10|1||research_chem|V_unapproved V_other_peptide C_research_disguise F_website_review|
+11|0|X2_incidental|other|V_unapproved V_misbrand_502a C_fda_approved F_website_review|"Elily Veronvy" drops: GLP-1 only as mechanism claim; no incretin ingredient identified
+12|1||research_chem|V_unapproved V_other_peptide C_research_disguise F_website_review|
+13|1||online_pharmacy|V_unapproved V_misbrand_502f1 V_rx_503b1 C_no_rx C_brand_names F_website_review|"Ozempic" without prescription; opioids too
+14|1||research_chem|V_unapproved V_misbrand_502f1 V_rx_503b1 C_research_disguise C_no_rx C_brand_names C_fda_approved F_website_review|"Tirzepatide (Mounjaro)"
+15|1||503B|V_unapproved V_misbrand_502f1 V_cgmp V_sterility V_503B_conditions F_inspection|labels; unregistered API source; ADE procedures; original issue 12/20/2024 per footnote
+16|1||503B|V_unapproved V_misbrand_502f1 V_cgmp V_sterility V_503B_conditions F_inspection|label "Office Use Only"; ADE procedures
+# Seller-type convention for the telehealth waves: use FDA's "(Telehealth)" subject label unless the recipient's name or the letter identifies it as a med spa/clinic or a pharmacy.
+# F_telehealth_feature only when the letter text itself describes online consultation/prescribing.
+17|1||online_pharmacy|V_unapproved V_misbrand_502f1 V_rx_503b1 C_no_rx C_brand_names F_website_review|foreign "Ozempic" packs
+18|1||online_pharmacy|V_unapproved V_misbrand_502f1 V_rx_503b1 C_no_rx C_brand_names F_website_review|opioids/benzos; Ozempic without Rx
+19|1||online_pharmacy|V_unapproved V_misbrand_502f1 V_rx_503b1 C_no_rx C_brand_names C_fda_approved F_website_review|"authorized by the FDA"
+20|1||online_pharmacy|V_unapproved V_misbrand_502f1 V_rx_503b1 F_website_review|503(b) in opening only; oncology/HIV/opioids too
+21|1||telehealth|V_unapproved V_misbrand_502a V_misbrand_502bb V_misbrand_502f1 V_503A_conditions V_503B_conditions V_other_peptide C_sameness C_generic C_brand_names F_website_review|retatrutide
+22|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_brand_names F_website_review|"Ozempic's compounded version"
+23|1||telehealth|V_unapproved V_misbrand_502a V_misbrand_502bb V_misbrand_502f1 V_503A_conditions V_503B_conditions V_other_peptide C_sameness C_brand_names F_website_review|retatrutide
+24|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_brand_names F_website_review|
+25|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_brand_names F_website_review|
+26|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_generic C_fda_approved F_website_review|"FDA-Approved Medication", "GENERIC"
+27|1||clinic_medspa|V_misbrand_502a V_misbrand_502bb C_brand_names F_website_review|compounded product labelled "Ozempic (semaglutide)"
+28|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_brand_names F_website_review|
+29|1||clinic_medspa|V_misbrand_502a V_misbrand_502bb C_sameness C_generic C_fda_approved C_brand_names F_telehealth_feature F_website_review|"Generic Ozempic"; telemedicine visit
+30|1||telehealth|V_unapproved V_misbrand_502a V_misbrand_502bb V_misbrand_502f1 V_503A_conditions V_503B_conditions V_other_peptide C_fda_approved F_website_review|"FDA approval" claims; retatrutide
+31|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness F_website_review|semaglutide ODT
+32|0|X1_brand_holder|brand_holder|V_misbrand_502a|OPDP DTC video letter about Zepbound/Mounjaro
+# Clarification fixed at letter 35: C_sameness requires a quoted recipient claim of equivalence (same/identical/active ingredient in/compounded version of/generic of/available under brand names);
+#  FDA's boilerplate rationale "Your claims imply that your products are the same as an FDA-approved product" alone does not trigger it. Brand-name parentheticals alone -> C_brand_names only. (Letters 27 and 30 recoded under this rule.)
+33|0|X1_brand_holder|brand_holder|V_misbrand_502a|OPDP video, Zepbound
+34|0|X1_brand_holder|brand_holder|V_misbrand_502a|OPDP video, Zepbound
+35|1||clinic_medspa|V_misbrand_502a V_misbrand_502bb C_fda_approved F_website_review|"FDA approved" history claim
+36|1||telehealth|V_misbrand_502a V_misbrand_502bb C_fda_approved F_website_review|
+37|1||clinic_medspa|V_misbrand_502a V_misbrand_502bb C_sameness C_generic C_brand_names F_website_review|"Ozempic generic"
+38|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_brand_names F_website_review|
+39|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_brand_names F_website_review|"FDA-approved ingredients", "FDA-monitored"
+40|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_brand_names F_website_review|
+41|1||telehealth|V_unapproved V_misbrand_502a V_misbrand_502bb V_misbrand_502f1 V_503A_conditions V_503B_conditions V_other_peptide C_sameness C_generic C_brand_names F_website_review|retatrutide; "MOUNJARO"
+42|1||telehealth|V_unapproved V_misbrand_502a V_misbrand_502bb V_misbrand_502f1 V_503A_conditions V_503B_conditions V_other_peptide C_sameness C_fda_approved C_brand_names F_website_review|retatrutide "FDA-approved dosing schedule"
+43|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_generic C_brand_names F_website_review|"GENERIC OZEMPIC/WEGOVY"; sildenafil too
+44|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_brand_names F_website_review|
+45|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_brand_names F_website_review|
+46|1||clinic_medspa|V_misbrand_502a V_misbrand_502bb C_sameness C_brand_names F_website_review|
+47|1||telehealth|V_misbrand_502a V_misbrand_502bb F_website_review|"clinically proven" claims only
+48|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_brand_names F_website_review|Hers
+49|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_brand_names F_website_review|Hims
+50|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_brand_names F_website_review|
+51|1||clinic_medspa|V_misbrand_502a V_misbrand_502bb C_brand_names F_website_review|"Semaglutide (Wegovy)"
+52|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_brand_names F_website_review|
+53|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_brand_names F_website_review|sildenafil too
+54|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_brand_names F_website_review|
+55|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_brand_names F_website_review|
+56|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved F_website_review|"GLP-1 was FDA-approved in 2017"
+57|1||telehealth|V_misbrand_502a V_misbrand_502bb F_website_review|"clinically proven"
+58|1||telehealth|V_misbrand_502a V_misbrand_502bb F_website_review|"clinically proven"
+59|1||telehealth|V_misbrand_502a V_misbrand_502bb C_brand_names F_website_review|"Semaglutide (Ozempic/Wegovy)"
+60|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_generic C_brand_names F_website_review|"Generic Ozempic"
+61|1||clinic_medspa|V_unapproved V_misbrand_502a V_misbrand_502bb V_misbrand_502f1 V_503A_conditions V_503B_conditions V_other_peptide C_sameness C_generic C_fda_approved C_brand_names F_website_review|physician practice; retatrutide
+62|0|X1_brand_holder|brand_holder|V_misbrand_502a|OPDP video, Wegovy/Ozempic/Victoza
+# Note at letter 63: "similar to"/"comparable to" brand = equivalence claim -> C_sameness. "Generic <brand>" -> C_generic + C_sameness; "generic semaglutide" alone -> C_generic only.
+# Note at letter 76: name containing pharmacy/drugstore -> online_pharmacy even within the telehealth wave (applied to eDrugstore; "Master Pharmaceuticals Group" kept telehealth because a pharmaceuticals group is not identified as a pharmacy).
+63|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_brand_names F_website_review|"similar to Ozempic"
+64|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_brand_names F_website_review|
+65|1||clinic_medspa|V_misbrand_502a V_misbrand_502bb C_sameness C_brand_names F_website_review|IV clinic
+66|1||telehealth|V_misbrand_502a V_misbrand_502bb C_generic F_website_review|"generic semaglutide"
+67|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_generic C_brand_names F_website_review|"generic Zepbound"
+68|1||telehealth|V_misbrand_502a V_misbrand_502bb F_website_review|"clinically proven"
+69|1||telehealth|V_misbrand_502a V_misbrand_502bb C_fda_approved F_website_review|"GLP-1 medications are FDA-approved"
+70|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_brand_names F_website_review|
+71|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_generic C_fda_approved C_brand_names F_website_review|"FDA-inspected medication"
+72|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_brand_names F_website_review|
+73|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_brand_names F_website_review|
+74|1||clinic_medspa|V_misbrand_502a V_misbrand_502bb C_brand_names F_website_review|"Ozempic Weight Loss Clinic"
+75|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_brand_names F_website_review|
+76|1||online_pharmacy|V_misbrand_502a V_misbrand_502bb C_fda_approved C_brand_names F_website_review|eDrugstore; "FDA-approved formulations"
+77|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_brand_names F_website_review|
+78|1||clinic_medspa|V_misbrand_502a V_misbrand_502bb C_sameness C_brand_names F_website_review|"similar to Ozempic"
+79|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_brand_names F_website_review|
+80|1||online_pharmacy|V_unapproved V_misbrand_502f1 V_rx_503b1 C_no_rx C_brand_names F_website_review|opioids/benzos/stimulants; foreign Ozempic
+81|1||api_supplier|V_cgmp|semaglutide API maker, records request 704(a)(4), import alert 66-40
+82|0|X2_incidental|other||clinical investigator; GLP-1 only as exclusion criterion
+83|1||503B|V_unapproved V_misbrand_502f1 V_cgmp V_sterility V_503B_conditions F_inspection|semaglutide 5mg vials lot listed
+84|1||503B|V_unapproved V_misbrand_502f1 V_cgmp V_sterility V_503B_conditions F_inspection|tirzepatide/semaglutide labels
+85|1||api_supplier|V_misbrand_502a V_misbrand_502f1 V_cgmp V_503A_conditions V_other_peptide F_inspection|API distributor; retatrutide/cagrilintide; GLP-1 API shipped as "custom peptide"; V_salt_form restricted to sema/tirz salts
+86|1||503A|V_misbrand_502a V_cgmp V_sterility F_inspection|insanitary conditions; tirzepatide lot failed sterility; subpotent semaglutide/tirzepatide (501(c), 502(a))
+# Feb-2026 wave: boilerplate B70 ("Your claims imply that your products have been FDA-approved...") counts as C_fda_approved (FDA states the claims imply approval). B30 (labels not dispensed under 503(b)(1)) is the 201.1 labeling note -> not V_rx_503b1.
+87|1||503B|V_unapproved V_misbrand_502a V_misbrand_502f1 V_cgmp V_sterility V_503B_conditions V_other_peptide F_inspection|repackaged semaglutide/tirzepatide/retatrutide; NAD+ endotoxin
+88|1||503A|V_unapproved V_misbrand_502f1 V_cgmp V_sterility F_inspection|repackaged "MEGALean" tirzepatide/B12; firm-branded product name not alleged as such
+89|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_firm_branded C_brand_names F_website_review|
+90|1||telehealth|V_misbrand_502a V_misbrand_502bb C_firm_branded F_website_review|
+91|1||clinic_medspa|V_misbrand_502a V_misbrand_502bb C_fda_approved C_firm_branded F_website_review|aesthetics; "clinically proven ingredients"
+92|1||telehealth|V_misbrand_502a V_misbrand_502bb C_firm_branded F_website_review|
+93|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_firm_branded C_brand_names F_website_review|
+94|1||telehealth|V_misbrand_502a V_misbrand_502bb C_firm_branded F_website_review|
+95|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_firm_branded C_brand_names F_website_review|
+96|1||clinic_medspa|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_firm_branded C_brand_names F_website_review|IV/aesthetics
+97|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_firm_branded C_brand_names F_website_review|
+98|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_firm_branded C_brand_names F_website_review|
+99|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_firm_branded C_brand_names F_website_review|
+100|1||telehealth|V_misbrand_502a V_misbrand_502bb C_fda_approved C_firm_branded F_website_review|"FDA-approved meds"
+101|1||telehealth|V_misbrand_502a V_misbrand_502bb C_firm_branded F_website_review|
+102|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_firm_branded C_brand_names F_website_review|
+103|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_firm_branded C_brand_names F_website_review|liraglutide too
+104|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_firm_branded F_website_review|"common brands", no brand named
+105|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_firm_branded C_brand_names F_website_review|
+106|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_firm_branded C_brand_names F_website_review|liraglutide; "The power of Saxenda"
+107|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_firm_branded C_brand_names F_website_review|
+108|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_generic C_fda_approved C_firm_branded C_brand_names F_website_review|"FDA Approved"
+109|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_firm_branded C_brand_names F_website_review|
+110|1||clinic_medspa|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_firm_branded C_brand_names F_website_review|physician clinic
+111|1||telehealth|V_misbrand_502a V_misbrand_502bb C_fda_approved C_firm_branded F_website_review|"This FDA-approved treatment"
+112|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_firm_branded C_brand_names F_website_review|
+113|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_generic C_fda_approved C_firm_branded C_brand_names F_website_review|
+114|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_firm_branded F_website_review|
+115|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_generic C_fda_approved C_firm_branded C_brand_names F_website_review|"Generic Zepbound"
+116|1||telehealth|V_misbrand_502a V_misbrand_502bb C_firm_branded F_website_review|
+117|1||telehealth|V_misbrand_502a V_misbrand_502bb C_firm_branded F_website_review|
+118|1||telehealth|V_misbrand_502a V_misbrand_502bb C_fda_approved C_firm_branded F_website_review|
+119|0|X1_brand_holder|brand_holder|F_inspection|Novo Nordisk PADE reporting
+120|1||research_chem|V_unapproved C_research_disguise V_other_peptide F_website_review|retatrutide "GLP-1-R peptide"
+121|0|X2_incidental|other|V_unapproved F_website_review|eBay "GLP-1 Weight Control Oral Solution"; no incretin ingredient identified (as Veronvy)
+122|1||research_chem|V_unapproved V_other_peptide C_research_disguise F_website_review|"GLP-2 TZ", "GLP-3 RT" code names
+123|1||research_chem|V_unapproved V_other_peptide C_research_disguise F_website_review|dosing cheat sheets
+124|1||research_chem|V_unapproved V_other_peptide C_research_disguise F_website_review|
+125|1||research_chem|V_unapproved V_other_peptide C_research_disguise C_brand_names F_website_review|"Ozempic - Weight Loss Supplement"
+126|1||503B|V_unapproved V_misbrand_502f1 V_cgmp V_sterility V_503B_conditions F_inspection F_shortage|tirzepatide bulk not on 503B list or shortage list; recall sema/tirz vials
+127|1||other|V_unapproved V_cgmp V_sterility F_inspection|unregistered manufacturer of sema/tirz vials shipped to med spas; 502(o); refused inspection areas
+128|1||api_supplier|V_misbrand_502a V_cgmp V_sterility F_inspection|relabelled semaglutide API; removed from IA 66-80 green list; endotoxin control of water
+129|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_brand_names F_website_review|"FDA approved" pharmacy claims
+130|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_firm_branded C_brand_names F_website_review|
+131|1||telehealth|V_misbrand_502a V_misbrand_502bb C_fda_approved C_firm_branded F_website_review|"FDA-licensed Facilities"
+132|1||clinic_medspa|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_brand_names F_website_review|medical center
+# Jun-2026 wave: boilerplate B85 ("Your claims represent that the compounded drug products ... have been FDA-approved") counts as C_fda_approved, as B70 did.
+133|1||telehealth|V_misbrand_502a V_misbrand_502bb C_fda_approved C_firm_branded F_website_review|"FDA-licensed 503(a) outsourcing facilities"
+134|1||telehealth|V_misbrand_502a V_misbrand_502bb C_firm_branded F_website_review|
+135|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_firm_branded C_brand_names F_website_review|
+136|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_firm_branded C_brand_names F_website_review|
+137|1||clinic_medspa|V_misbrand_502a V_misbrand_502bb C_firm_branded F_website_review|medispa
+138|1||clinic_medspa|V_misbrand_502a V_misbrand_502bb C_fda_approved C_firm_branded F_website_review|IV clinic; "FDA-approved pharmacy"
+139|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_firm_branded C_brand_names F_website_review|"bioidentical"
+140|1||telehealth|V_misbrand_502a V_misbrand_502bb C_fda_approved F_website_review|"FDA approved pharmacies"
+141|1||telehealth|V_misbrand_502a V_misbrand_502bb C_fda_approved C_firm_branded F_website_review|
+142|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_firm_branded C_brand_names F_website_review|liraglutide too
+143|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_firm_branded C_brand_names F_website_review|
+144|1||telehealth|V_misbrand_502a V_misbrand_502bb C_firm_branded F_website_review|
+145|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_firm_branded C_brand_names F_website_review|
+146|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_firm_branded C_brand_names F_website_review|
+147|1||telehealth|V_misbrand_502a V_misbrand_502bb C_fda_approved C_firm_branded F_website_review|
+148|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_brand_names F_website_review|
+149|1||clinic_medspa|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_firm_branded C_brand_names F_website_review|"Medical Weight Loss Center"
+150|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_firm_branded C_brand_names F_website_review|
+151|1||telehealth|V_misbrand_502a V_misbrand_502bb C_sameness C_fda_approved C_firm_branded C_brand_names F_website_review|
+152|1||telehealth|V_misbrand_502a V_misbrand_502bb C_fda_approved C_firm_branded F_website_review|
+153|1||telehealth|V_misbrand_502a V_misbrand_502bb C_firm_branded F_website_review|
+154|0|X2_incidental|other||dietary supplement "Evolv GLP-1 Biomimetic"; no incretin drug ingredient
+155|1||research_chem|V_unapproved V_other_peptide C_research_disguise F_website_review|survodutide, mazdutide; peptide calculator
+156|1||research_chem|V_unapproved V_other_peptide C_research_disguise F_website_review|
+157|1||research_chem|V_unapproved V_other_peptide C_research_disguise F_website_review|
+158|1||research_chem|V_unapproved V_other_peptide C_research_disguise C_brand_names F_website_review|"(Wegovy, Ozempic)" comparison
+159|1||research_chem|V_unapproved V_other_peptide C_research_disguise F_website_review|
+160|1||503A|V_unapproved V_misbrand_502f1 V_cgmp V_sterility V_503A_conditions F_inspection|"essentially copies" of approved sema/tirz; enforcement-discretion end dates in footnote
+161|1||online_pharmacy|V_unapproved V_misbrand_502f1 V_rx_503b1 C_no_rx F_website_review|"Semanat"
+162|1||online_pharmacy|V_unapproved V_misbrand_502f1 V_rx_503b1 F_website_review|"Semanext"; 503(b)(1) cited in opening only

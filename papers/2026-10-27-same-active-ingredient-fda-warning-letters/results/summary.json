@@ -1,0 +1,45 @@
+{
+ "N_included": 154,
+ "seller_counts": {
+  "telehealth": 92,
+  "research_chem": 17,
+  "clinic_medspa": 17,
+  "online_pharmacy": 14,
+  "503B": 6,
+  "api_supplier": 3,
+  "503A": 3,
+  "other": 2
+ },
+ "group_counts": {
+  "Telehealth platform": 92,
+  "Clinic / med spa": 17,
+  "Online pharmacy / marketplace": 14,
+  "Research-chemical seller": 17,
+  "Compounder (503A/503B)": 9,
+  "API supplier / other manufacturer": 5
+ },
+ "products_named": {
+  "semaglutide": 148,
+  "tirzepatide": 112,
+  "retatrutide": 22,
+  "liraglutide": 3,
+  "cagrilintide": 5,
+  "mazdutide_or_survodutide": 4
+ },
+ "closeouts": {
+  "n_closeout_all": 2,
+  "n_closeout_included": 2,
+  "n_response_letters": 0,
+  "closeout_dates": [
+   "04/14/2026",
+   "08/06/2026"
+  ]
+ },
+ "any_claim_502bb_sameness_fda": 108,
+ "telehealth_like_502bb": 109,
+ "telehealth_like_n": 109,
+ "n_502bb_outside_telehealth_like": 1,
+ "research_chem_with_other_peptide": 14,
+ "n_inspection_based": 13,
+ "n_website_based": 141
+}

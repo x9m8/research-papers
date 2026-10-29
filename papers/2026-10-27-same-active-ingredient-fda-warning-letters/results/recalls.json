@@ -1,0 +1,56 @@
+{
+ "pulled": "2026-10-22T10:10:50.546Z",
+ "totals": {
+  "semaglutide": 57,
+  "tirzepatide": 27,
+  "retatrutide": 1
+ },
+ "unique_recall_records": 85,
+ "unique_events": 24,
+ "unique_firm_names": 20,
+ "unique_firms_normalized": 17,
+ "records_before_2023Q4": 12,
+ "by_year": {
+  "2021": 2,
+  "2022": 7,
+  "2023": 3,
+  "2024": 8,
+  "2025": 38,
+  "2026": 27
+ },
+ "by_quarter": {
+  "2021Q1": 2,
+  "2022Q1": 2,
+  "2022Q3": 3,
+  "2022Q4": 2,
+  "2023Q2": 2,
+  "2023Q3": 1,
+  "2024Q2": 1,
+  "2024Q3": 7,
+  "2025Q2": 9,
+  "2025Q3": 20,
+  "2025Q4": 9,
+  "2026Q1": 7,
+  "2026Q3": 20
+ },
+ "sterility_records": 49,
+ "sterility_share": 0.5764705882352941,
+ "by_quarter_sterility": {
+  "2022Q1": 2,
+  "2022Q3": 3,
+  "2022Q4": 2,
+  "2023Q2": 1,
+  "2023Q3": 1,
+  "2024Q3": 7,
+  "2025Q2": 8,
+  "2025Q3": 4,
+  "2025Q4": 7,
+  "2026Q1": 5,
+  "2026Q3": 9
+ },
+ "classification": {
+  "Class II": 84,
+  "Class I": 1
+ },
+ "openfda_file_sha256": "017252792a2cc59c3ade04c09985e6acee6c3540b0b99d1fce963e73d2809393"
+}

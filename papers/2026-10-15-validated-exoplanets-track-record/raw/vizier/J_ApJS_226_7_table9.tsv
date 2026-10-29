@@ -1,0 +1,95 @@
+#
+#   VizieR Astronomical Server vizier.cds.unistra.fr
+#    Date: 2026-10-15T11:33:15 [V7.6.1]
+#   In case of problem, please report to:	cds-question@unistra.fr
+#
+#
+#Coosys	J2000:	eq_FK5 J2000
+#INFO	service_protocol=ASU	  IVOID of the protocol through which the data was retrieved
+#INFO	request_date=2026-10-15T11:33:15	  Query execution date
+#INFO	request=https://vizier.cds.unistra.fr/viz-bin/asu-tsv?-source=J%2FApJS%2F226%2F7%2Ftable9&-out.all&-out.max=unlimited	  Full request URL
+#INFO	contact=cds-question@unistra.fr	  Email or URL to contact publisher
+#INFO	server_software=VizieR/7.6.1	  Software version
+#INFO	publisher=CDS	  Data centre that produced the VOTable
+
+#RESOURCE=yCat_22260007
+#Name: J/ApJS/226/7
+#Title: Planet candidates discovered using K2's 1st yr (Crossfield+, 2016)
+#INFO	ivoid=ivo://cds.vizier/j/apjs/226/7	    IVOID of underlying data collection
+#INFO	data_ivoid=ivo://cds.vizier/j/apjs/226/7	    IVOID of underlying data collection
+#INFO	creator=Crossfield I.J.M.	    First author or institution
+#INFO	cites=bibcode:2016ApJS..226....7C	    Article or Data origin sources
+#INFO	journal=ApJS	    Journal name
+#INFO	original_date=2016	    Year of the article publication
+#INFO	reference_url=https://cdsarc.cds.unistra.fr/viz-bin/cat/J/ApJS/226/7	    Dataset landing page
+#INFO	citation=doi:10.26093/cds/vizier.22260007	    Dataset identifier that can be used for citation
+#INFO	publication_date=2018-09-14	    Date of first publication in the data centre
+#INFO	rights_uri=https://cds.unistra.fr/vizier-org/licences_vizier.html	    Licence URI
+#Table	J_ApJS_226_7_table9:
+#Name: J/ApJS/226/7/table9
+#Title: Unvalidated candidate false positive likelihoods
+#Column	recno	(I8)	Record number assigned by the VizieR team. Should Not be used for identification.	[ucd=meta.record]
+#Column	EPIC	(F12.2)	Target	[ucd=meta.id;meta.main]
+#Column	Lheb	(D12.5)	[0/5.3] Vespa (2015ascl.soft03011M) likelihood, hierarchical eclipsing binary at orbital period	[ucd=stat.likelihood]
+#Column	Lheb-Px2	(D12.5)	[0/5.2] Vespa (2015ascl.soft03011M) likelihood, hierarchical eclipsing binary at twice orbital period	[ucd=stat.likelihood]
+#Column	Leb	(A7)	Vespa (2015ascl.soft03011M) likelihood, eclipsing binary at orbital period	[ucd=stat.likelihood]
+#Column	Leb-Px2	(A7)	Vespa (2015ascl.soft03011M) likelihood, eclipsing binary at twice orbital period	[ucd=stat.likelihood]
+#Column	Lbeb	(E11.4)	[0/1.3] Vespa (2015ascl.soft03011M) likelihood, background eclipsing binary at orbital period	[ucd=stat.likelihood]
+#Column	Lbeb-Px2	(E11.4)	[0/5.6] Vespa (2015ascl.soft03011M) likelihood, background eclipsing binary at twice orbital period	[ucd=stat.likelihood]
+#Column	Lpl	(E11.4)	[0/36] Vespa (2015ascl.soft03011M) likelihood, planet	[ucd=stat.likelihood]
+#Column	FPP	(E11.4)	False Positive Probability	[ucd=stat.fit.goodness]
+recno	EPIC	Lheb	Lheb-Px2	Leb	Leb-Px2	Lbeb	Lbeb-Px2	Lpl	FPP
+ 	 	 	 	 	 	 	 	 	
+--------	------------	------------	------------	-------	-------	-----------	-----------	-----------	-----------
+       1	201176672.01	 3.20000e-36	 9.70000e-03	7.3E-19	4.6E-02	 2.0000e-03	 1.9000e-03	 3.5000e-02	 9.4000e-02
+       2	201247497.01	 7.20000e-16	 7.40000e-05	2.6E+00	2.0E+01	 0.0000e+00	 2.9000e+00	 1.2000e+01	 4.1000e-01
+       3	201445392.01	 2.70000e-04	 2.80000e-02	4.2E-02	8.3E-01	 0.0000e+00	 8.1000e-02	 1.5000e+00	 4.2000e-02
+       4	201465501.01	 4.70000e-04	 1.90000e-01	3.6E-03	4.6E-01	 0.0000e+00	 1.5000e-02	 4.2000e-02	 4.5000e-01
+       5	201512465.01	 2.10000e-03	 9.00000e-02	1.3E-02	8.2E-01	 1.3000e+00	 5.6000e+00	 8.3000e+00	 2.3000e-01
+       6	201546283.01	 6.00000e-15	 1.00000e-07	8.1E-10	5.4E-16	 1.9000e-03	 4.5000e-04	 1.4000e+01	 4.4000e-07
+       7	201565013.01	 3.60000e-07	 7.30000e-02	1.6E+01	1.2E+00	 1.1000e+00	 4.4000e-01	 8.0000e+00	 7.6000e-01
+       8	201617985.01	 4.80000e-03	 7.70000e-01	4.6E-03	1.5E+00	 9.0000e-02	 0.0000e+00	 2.5000e-02	 9.6000e-01
+       9	201626686.01	 5.50000e-20	 1.10000e-10	3.0E-01	1.2E-02	 4.6000e-05	 5.6000e-07	 1.6000e+00	 1.6000e-01
+      10	201629650.01	 5.90000e-69	 2.30000e-21	1.2E-07	1.1E-08	 5.2000e-11	 1.2000e-39	 2.0000e-03	 3.6000e-05
+      11	201637175.01	 4.00000e+00	 1.30000e+00	2.3E-01	1.5E+01	 1.7000e-01	 2.2000e+00	 1.9000e+01	 1.5000e-01
+      12	201702477.01	 1.60000e-12	 2.90000e-06	1.3E-01	4.8E-03	 1.9000e-01	 2.1000e-02	 7.9000e-01	 4.1000e-01
+      13	201717274.01	 7.00000e-12	 1.60000e-05	3.9E-08	1.6E-04	 2.5000e-01	 7.1000e-01	 8.9000e+00	 1.3000e-02
+      14	201828749.01	 1.40000e-14	 1.10000e-13	5.4E-09	5.3E-28	 0.0000e+00	 0.0000e+00	 5.9000e-02	 3.3000e-08
+      15	201862715.01	 2.20000e-23	 4.00000e-09	6.8E-18	4.5E-13	 1.4000e-02	 2.3000e-07	 5.8000e+00	 2.4000e-07
+      16	201920032.01	 7.90000e-34	 2.40000e-10	7.8E-02	5.6E-02	 1.4000e-03	 0.0000e+00	 9.9000e-01	 5.4000e-02
+      17	202071289.01	 7.60000e-02	 9.60000e-01	4.5E+00	3.5E+00	 1.5000e-04	 1.9000e-08	 1.1000e+01	 9.7000e-01
+      18	202071401.01	 6.20000e-03	 1.60000e-01	8.6E-03	2.7E-01	 0.0000e+00	 7.1000e-05	 2.5000e+00	 2.0000e-03
+      19	202126852.01	 5.90000e-02	 2.40000e-03	4.2E+00	3.6E-02	 0.0000e+00	 1.5000e-02	 2.8000e+00	 6.5000e-01
+      20	202675839.01	 4.50000e-02	 1.90000e-01	1.8E-01	2.4E-01	 1.0000e-14	 0.0000e+00	 4.6000e-01	 1.9000e-01
+      21	205029914.01	 2.00000e-34	 5.40000e-10	1.0E-34	4.7E-16	 0.0000e+00	 3.3000e-12	 5.4000e-03	 1.4000e-10
+      22	205148699.01	 5.40000e-58	 4.70000e-34	6.5E-31	1.2E-48	 0.0000e+00	 0.0000e+00	 8.1000e-01	 0.0000e+00
+      23	205570849.01	 4.10000e-02	 3.80000e-01	7.8E-01	4.8E-01	 0.0000e+00	 4.7000e-25	 1.2000e+00	 3.2000e-01
+      24	205686202.01	 1.80000e-36	 3.20000e-16	2.7E-40	7.0E-11	 2.0000e-08	 0.0000e+00	 2.5000e+00	 1.3000e-11
+      25	205703094.02	 2.70000e-03	 4.90000e-02	1.1E-03	3.4E-02	 7.3000e-03	 9.7000e-03	 1.3000e-01	 6.6000e-01
+      26	205999468.01	 5.60000e-02	 8.50000e-01	9.6E-01	1.2E+00	 4.3000e-01	 1.1000e+00	 2.8000e+00	 1.0000e-01
+      27	206011496.01	 4.10000e-26	 1.70000e-06	4.4E-15	1.4E-05	 0.0000e+00	 0.0000e+00	 1.2000e+01	 1.6000e-08
+      28	206024342.01	 3.00000e-07	 6.60000e-06	2.1E-02	2.7E-02	 0.0000e+00	 0.0000e+00	 8.4000e-01	 2.5000e-02
+      29	206028176.01	 2.40000e-03	 7.20000e-02	1.5E-02	1.0E-01	 0.0000e+00	 0.0000e+00	 6.5000e-03	 6.4000e-01
+      30	206036749.01	 1.30000e+00	 1.30000e+00	1.6E+00	5.9E-01	 0.0000e+00	 0.0000e+00	 2.1000e+00	 9.7000e-02
+      31	206061524.01	 4.70000e-22	 1.00000e-08	1.1E-16	3.7E-18	 2.3000e-03	 5.0000e-08	 3.6000e+01	 4.6000e-08
+      32	206101302.01	 3.60000e-04	 2.30000e-03	5.1E-02	8.5E-02	 7.2000e-02	 0.0000e+00	 6.1000e-01	 6.9000e-02
+      33	206114294.01	 8.30000e-03	 1.60000e-01	4.6E-01	2.0E+00	 0.0000e+00	 0.0000e+00	 1.9000e+01	 2.8000e-02
+      34	206154641.01	 6.50000e-04	 1.60000e-02	2.1E+00	5.9E-02	 0.0000e+00	 0.0000e+00	 1.5000e+01	 7.4000e-02
+      35	206192335.01	 1.40000e-08	 4.20000e-03	2.1E-05	2.2E-02	 0.0000e+00	 0.0000e+00	 1.1000e+01	 6.0000e-05
+      36	206247743.01	 8.70000e-78	 2.60000e-22	8.5E-26	3.2E-06	 0.0000e+00	 0.0000e+00	 2.3000e-06	 2.5000e-02
+      37	206403979.01	 1.20000e-08	 8.50000e-07	1.3E-01	6.0E-02	 1.5000e-02	 1.2000e-02	 2.6000e-01	 7.2000e-01
+      38	206543223.01	 4.50000e-02	 2.50000e-01	1.2E+00	4.6E-03	 1.6000e-03	 2.1000e-02	 2.2000e+00	 6.7000e-01
+      39	207739861.01	3.50000e-203	 1.40000e-80	1.4E-66	2.6E-21	 0.0000e+00	 0.0000e+00	 2.4000e-05	 1.1000e-16
+      40	208833261.01	 0.00000e+00	8.90000e-196	1.1E-05	9.1E-04	 2.3000e-01	 2.5000e-01	 2.5000e+00	 1.1000e-02
+      41	209036259.01	 0.00000e+00	 4.00000e-40	3.9E-19	7.5E-02	 0.0000e+00	 0.0000e+00	 5.9000e-04	 9.6000e-01
+      42	210389383.01	 4.30000e-77	 3.80000e-64	5.2E-07	6.2E-39	 6.9000e-05	 3.4000e-09	 2.4000e+00	 4.1000e-05
+      43	210609658.01	2.50000e-146	 2.30000e-20	3.3E-13	9.8E-03	 3.7000e-18	 6.6000e-12	 7.7000e-03	 1.5000e-02
+      44	210625740.01	 2.30000e+00	 8.60000e-01	1.8E-01	5.0E+00	 3.6000e-02	 1.5000e+00	 3.1000e+01	 1.3000e-01
+      45	210659688.01	 1.70000e-02	 1.20000e-02	1.6E-02	7.3E-02	 1.6000e-02	 2.3000e-02	 1.7000e-01	 2.5000e-01
+      46	210666756.01	 5.30000e+00	 0.00000e+00	4.2E-01	2.8E+00	 5.5000e-02	 3.7000e-01	 2.4000e+00	 1.3000e-02
+      47	210754505.01	 1.00000e-07	 1.50000e-02	1.5E+01	8.0E-01	 0.0000e+00	 1.6000e+00	 1.5000e+00	 2.4000e-01
+      48	210903662.01	 4.10000e+00	 5.20000e+00	1.2E+01	7.9E+00	 6.1000e-01	 0.0000e+00	 7.0000e+00	 5.9000e-01
+      49	210958990.01	 3.80000e+00	 1.50000e-03	1.0E-02	9.1E-16	 4.1000e-01	 1.1000e-09	 3.2000e-02	 9.8000e-01
+      50	211147528.01	 1.80000e-02	 4.70000e-04	4.5E-01	3.0E-03	 4.7000e-01	 5.3000e-02	 1.8000e+00	 2.6000e-01
+      51	211916756.01	 1.30000e-33	 2.70000e-09	1.0E-28	2.3E-09	 9.0000e-01	 4.3000e-01	 3.0000e-03	 8.8000e-01
+

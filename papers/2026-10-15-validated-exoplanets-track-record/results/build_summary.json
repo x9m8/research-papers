@@ -1,0 +1,14 @@
+{
+ "n_current_transit": 4781,
+ "n_removed_kepler": 13,
+ "n_refuted_k2": 8,
+ "unmatched_batch_rows": 0,
+ "batch_counts": {
+  "Crossfield et al. 2016": 106,
+  "Livingston et al. 2018a": 42,
+  "Livingston et al. 2018b": 56,
+  "Mayo et al. 2018": 149,
+  "Montet et al. 2015": 21,
+  "Morton et al. 2016": 1284
+ }
+}

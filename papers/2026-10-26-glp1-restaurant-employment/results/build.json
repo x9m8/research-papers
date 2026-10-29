@@ -1,0 +1,122 @@
+{
+ "n_zcta": 33791,
+ "coverage": {
+  "2019": {
+   "npi_rows": 123888,
+   "fills_npi_file": 5140381.800000001,
+   "fills_national": 7055317.2,
+   "share_of_national_in_npi_file": 0.7285826638666225,
+   "share_fills_matched_to_county": 0.9897315214990449,
+   "fills_by_generic_national": {
+    "Albiglutide": 332.7,
+    "Dulaglutide": 2935590.8,
+    "Exenatide": 85936.8,
+    "Exenatide Microspheres": 690460.3999999999,
+    "Insulin Degludec/Liraglutide": 80456.2,
+    "Insulin Glargine/Lixisenatide": 150190.9,
+    "Liraglutide": 2384087.2,
+    "Lixisenatide": 94.9,
+    "Semaglutide": 728167.3
+   },
+   "state_corr_county_sum_vs_cms_state": 0.9984589122995811,
+   "state_ratio_median": 0.6962291684290669
+  },
+  "2020": {
+   "npi_rows": 152357,
+   "fills_npi_file": 6977903.099999999,
+   "fills_national": 9225987.000000002,
+   "share_of_national_in_npi_file": 0.7563313388583788,
+   "share_fills_matched_to_county": 0.9902964402013552,
+   "fills_by_generic_national": {
+    "Dulaglutide": 4020557.5,
+    "Exenatide": 65800.2,
+    "Exenatide Microspheres": 679972.4,
+    "Insulin Degludec/Liraglutide": 95190.0,
+    "Insulin Glargine/Lixisenatide": 215187.9,
+    "Liraglutide": 2257378.2,
+    "Lixisenatide": 100.8,
+    "Semaglutide": 1891800.0
+   },
+   "state_corr_county_sum_vs_cms_state": 0.9989053873128082,
+   "state_ratio_median": 0.7340328753048186
+  },
+  "2021": {
+   "npi_rows": 180863,
+   "fills_npi_file": 9179273.1,
+   "fills_national": 11833504.7,
+   "share_of_national_in_npi_file": 0.7757019862425035,
+   "share_fills_matched_to_county": 0.9898163831730856,
+   "fills_by_generic_national": {
+    "Dulaglutide": 5330011.7,
+    "Exenatide": 49004.2,
+    "Exenatide Microspheres": 555878.1,
+    "Insulin Degludec/Liraglutide": 91300.9,
+    "Insulin Glargine/Lixisenatide": 270006.1,
+    "Liraglutide": 1969441.2000000002,
+    "Lixisenatide": 155.2,
+    "Semaglutide": 3567707.3
+   },
+   "state_corr_county_sum_vs_cms_state": 0.9989857884302618,
+   "state_ratio_median": 0.7551893431689857
+  },
+  "2022": {
+   "npi_rows": 230236,
+   "fills_npi_file": 12418909.0,
+   "fills_national": 15452421.500000002,
+   "share_of_national_in_npi_file": 0.8036869172899535,
+   "share_fills_matched_to_county": 0.9903535970832869,
+   "fills_by_generic_national": {
+    "Dulaglutide": 6647108.5,
+    "Exenatide": 34204.9,
+    "Exenatide Microspheres": 430772.0,
+    "Insulin Degludec/Liraglutide": 88197.1,
+    "Insulin Glargine/Lixisenatide": 335223.3,
+    "Liraglutide": 1657115.2,
+    "Lixisenatide": 80.8,
+    "Semaglutide": 6121174.7,
+    "Tirzepatide": 138545.0
+   },
+   "state_corr_county_sum_vs_cms_state": 0.9992379435456964,
+   "state_ratio_median": 0.7827071649298296
+  },
+  "2023": {
+   "npi_rows": 351240,
+   "fills_npi_file": 19820478.8,
+   "fills_national": 23300295.8,
+   "share_of_national_in_npi_file": 0.8506535268964268,
+   "share_fills_matched_to_county": 0.9912589548543094,
+   "fills_by_generic_national": {
+    "Dulaglutide": 7476305.0,
+    "Exenatide": 24838.3,
+    "Exenatide Microspheres": 333643.7,
+    "Insulin Degludec/Liraglutide": 96427.1,
+    "Insulin Glargine/Lixisenatide": 450154.4,
+    "Liraglutide": 1370874.5,
+    "Semaglutide": 11394981.0,
+    "Tirzepatide": 2153071.8
+   },
+   "state_corr_county_sum_vs_cms_state": 0.9994193080691038,
+   "state_ratio_median": 0.830278254930907
+  },
+  "2024": {
+   "npi_rows": 426932,
+   "fills_npi_file": 26431871.000000004,
+   "fills_national": 29863990.9,
+   "share_of_national_in_npi_file": 0.8850749750261947,
+   "share_fills_matched_to_county": 0.9915989791263736,
+   "fills_by_generic_national": {
+    "Dulaglutide": 5748807.1,
+    "Exenatide": 19580.0,
+    "Exenatide Microspheres": 266630.5,
+    "Insulin Degludec/Liraglutide": 103191.9,
+    "Insulin Glargine/Lixisenatide": 473986.6,
+    "Liraglutide": 515408.5,
+    "Semaglutide": 16642657.1,
+    "Tirzepatide": 6093729.2
+   },
+   "state_corr_county_sum_vs_cms_state": 0.9995518520029025,
+   "state_ratio_median": 0.8668610315794899
+  }
+ },
+ "n_counties_joined": 3046
+}

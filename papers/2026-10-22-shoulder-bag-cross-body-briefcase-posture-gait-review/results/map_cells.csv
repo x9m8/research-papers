@@ -1,0 +1,30 @@
+bag,outcome,Abstract only,"Full text, excluded","Full text, included"
+cross-body,EMG,0,1,1
+cross-body,balance,0,1,0
+cross-body,coordination,0,1,0
+cross-body,gait,0,1,1
+cross-body,kinematics,0,0,1
+cross-body,posture,1,0,0
+hand-carried,EMG,1,0,0
+hand-carried,balance,2,0,0
+hand-carried,coordination,1,0,0
+hand-carried,gait,5,3,1
+hand-carried,kinematics,0,0,2
+hand-carried,kinetics,1,0,0
+hand-carried,physiological,1,0,1
+hand-carried,posture,2,0,0
+non-bag load,EMG,1,0,1
+non-bag load,balance,4,0,1
+non-bag load,gait,4,0,1
+non-bag load,kinematics,3,0,0
+non-bag load,kinetics,3,0,1
+non-bag load,posture,1,0,0
+shoulder same-side,EMG,2,1,3
+shoulder same-side,balance,1,0,0
+shoulder same-side,comfort,1,0,0
+shoulder same-side,gait,4,2,3
+shoulder same-side,kinematics,1,0,2
+shoulder same-side,kinetics,4,0,0
+shoulder same-side,physiological,4,0,0
+shoulder same-side,posture,6,1,2
+shoulder same-side,pressure,1,0,0
