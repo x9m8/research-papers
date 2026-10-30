@@ -1,0 +1,69 @@
+                 key  price_mean12  price_latest  protein_g_per100g  usd_per_10g_protein  usd_per_10g_protein_min  usd_per_10g_protein_max
+0               eggs         2.392         2.272             12.560                0.317                    0.284                    0.380
+1         milk_whole         4.141         4.106              3.150                0.337                    0.325                    0.351
+2          beans_dry         1.679         1.669             21.948                0.169                    0.163                    0.171
+3     chicken_breast         4.166         4.203             22.500                0.408                    0.406                    0.412
+4        milk_lowfat         3.548         3.590              3.300                0.275                    0.262                    0.295
+5        ground_beef         6.772         6.792             17.170                0.869                    0.840                    0.889
+6   ground_beef_lean         8.405         8.461             20.000                0.926                    0.903                    0.954
+7            cheddar         5.900         6.133             22.870                0.569                    0.543                    0.591
+8             yogurt         1.549         1.578              5.250                1.300                    1.257                    1.332
+9        bread_white         1.828         1.830              8.850                0.455                    0.446                    0.466
+10        rice_white         1.082         1.118              7.130                0.334                    0.327                    0.346
+{
+ "eggs": 0.03174097664543524,
+ "milk_whole": 0.03367619402455468,
+ "beans_dry": 0.01686148943471248,
+ "chicken_breast": 0.04082426641694999,
+ "median4": 0.03270858533499496
+}
+{"package": {"n": 5704, "median": 1.962436619494894, "p25": 0.6537301407978767, "p75": 5.8870743566702695}, "serving": {"n": 5914, "median": 0.4906287800249244, "p25": 0.35979443868494454, "p75": 0.6541717066998992}}
+{
+ "n_groups": 561,
+ "median_ratio": 1.6577726218097448,
+ "p25_ratio": 1.0855000000000001,
+ "p75_ratio": 2.7866666666666666,
+ "share_ratio_le1": 0.20855614973262032,
+ "share_pstar_ge": {
+  "The Journal (Ireland, 10 products)": 0.64349376114082,
+  "CHOICE (Australia, 175 products)": 0.5597147950089126,
+  "Koop et al. 2024 (Germany, mean, 299 vs 286 products)": 0.3333333333333333
+ },
+ "median_protein_per_dollar_ratio_at": {
+  "The Journal (Ireland, 10 products)": 1.2654752838242327,
+  "CHOICE (Australia, 175 products)": 1.1051817478731631,
+  "Koop et al. 2024 (Germany, mean, 299 vs 286 products)": 0.7145571645731658
+ }
+}
+Breakfast Drinks                         n=32 protpkg=62 pkg_eggs=1.97 pkg_beans=1.04 serv_eggs=0.38089171974522285
+Cake, Cookie & Cupcake Mixes             n=70 protpkg=114 pkg_eggs=3.62 pkg_beans=1.92 serv_eggs=0.38089171974522285
+Cakes, Cupcakes, Snack Cakes             n=30 protpkg=40 pkg_eggs=1.25 pkg_beans=0.67 serv_eggs=0.38089171974522285
+Candy                                    n=38 protpkg=34 pkg_eggs=1.08 pkg_beans=0.58 serv_eggs=0.38089171974522285
+Cereal                                   n=147 protpkg=60 pkg_eggs=1.90 pkg_beans=1.01 serv_eggs=0.31740976645435237
+Cheese                                   n=30 protpkg=210 pkg_eggs=6.67 pkg_beans=3.54 serv_eggs=0.47611464968152856
+Chips, Pretzels & Snacks                 n=178 protpkg=42 pkg_eggs=1.33 pkg_beans=0.71 serv_eggs=0.5713375796178343
+Chocolate                                n=107 protpkg=84 pkg_eggs=2.67 pkg_beans=1.42 serv_eggs=0.6348195329087047
+Cookies & Biscuits                       n=177 protpkg=40 pkg_eggs=1.26 pkg_beans=0.67 serv_eggs=0.31740976645435237
+Energy, Protein & Muscle Recovery Drinks n=1297 protpkg=211 pkg_eggs=6.69 pkg_beans=3.56 serv_eggs=0.6348195329087047
+Frozen Dinners & Entrees                 n=67 protpkg=21 pkg_eggs=0.67 pkg_beans=0.35 serv_eggs=0.5078556263269638
+Fruit & Vegetable Juice, Nectars & Fruit n=40 protpkg=15 pkg_eggs=0.46 pkg_beans=0.25 serv_eggs=0.38089171974522285
+Lunch Snacks & Combinations              n=57 protpkg=20 pkg_eggs=0.63 pkg_beans=0.34 serv_eggs=0.4285031847133757
+Meal Replacement Supplements             n=48 protpkg=318 pkg_eggs=10.10 pkg_beans=5.36 serv_eggs=0.6348195329087047
+Meat/Poultry/Other Animals - Prepared/Pr n=63 protpkg=12 pkg_eggs=0.38 pkg_beans=0.20 serv_eggs=0.2539278131634819
+Milk                                     n=170 protpkg=42 pkg_eggs=1.33 pkg_beans=0.71 serv_eggs=0.6348195329087047
+Milk Additives                           n=21 protpkg=60 pkg_eggs=1.90 pkg_beans=1.01 serv_eggs=0.47611464968152856
+Nut & Seed Butters                       n=50 protpkg=79 pkg_eggs=2.50 pkg_beans=1.33 serv_eggs=0.31740976645435237
+Other Drinks                             n=122 protpkg=17 pkg_eggs=0.54 pkg_beans=0.28 serv_eggs=0.47611464968152856
+Other Meats                              n=33 protpkg=57 pkg_eggs=1.80 pkg_beans=0.96 serv_eggs=0.4126326963906581
+Other Snacks                             n=95 protpkg=30 pkg_eggs=0.95 pkg_beans=0.51 serv_eggs=0.31740976645435237
+Pasta by Shape & Type                    n=24 protpkg=67 pkg_eggs=2.12 pkg_beans=1.13 serv_eggs=0.31740976645435237
+Plant Based Milk                         n=76 protpkg=46 pkg_eggs=1.45 pkg_beans=0.77 serv_eggs=0.6348195329087047
+Popcorn, Peanuts, Seeds & Related Snacks n=78 protpkg=37 pkg_eggs=1.17 pkg_beans=0.62 serv_eggs=0.2539278131634819
+Powdered Drinks                          n=138 protpkg=168 pkg_eggs=5.33 pkg_beans=2.83 serv_eggs=0.5713375796178343
+Prepared Soups                           n=23 protpkg=22 pkg_eggs=0.70 pkg_beans=0.37 serv_eggs=0.5713375796178343
+Processed Cereal Products                n=117 protpkg=50 pkg_eggs=1.60 pkg_beans=0.85 serv_eggs=0.31740976645435237
+Snack, Energy & Granola Bars             n=2199 protpkg=50 pkg_eggs=1.59 pkg_beans=0.85 serv_eggs=0.4443736730360933
+Water                                    n=33 protpkg=15 pkg_eggs=0.48 pkg_beans=0.25 serv_eggs=0.47611464968152856
+Weight Control                           n=20 protpkg=138 pkg_eggs=4.38 pkg_beans=2.33 serv_eggs=0.4126326963906581
+Yogurt                                   n=66 protpkg=15 pkg_eggs=0.48 pkg_beans=0.25 serv_eggs=0.4126326963906581
+Yogurt/Yogurt Substitutes                n=42 protpkg=23 pkg_eggs=0.72 pkg_beans=0.38 serv_eggs=0.47611464968152856

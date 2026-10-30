@@ -1,0 +1,15 @@
+Protein, g per 100 g                               C1 25.64 vs 6.50 diff 22.91 [22.31,23.36] | C2 6.25 n=594 p=8.7e-67
+Added sugars per 100 kcal, g                       C1 1.44 vs 6.25 diff -3.61 [-3.86,-3.28] | C2 -0.47 n=290 p=2.8e-11
+Sodium per 100 kcal, mg                            C1 95.70 vs 66.67 diff 34.34 [31.64,36.75] | C2 5.29 n=590 p=7e-05
+Saturated fat per 100 kcal, g                      C1 1.00 vs 1.25 diff 0.13 [0.10,0.17] | C2 0.01 n=571 p=0.00024
+Added sugars per 10 g protein, g                   C1 1.79 vs 24.96 diff -18.30 [-19.08,-17.49] | C2 -4.45 n=276 p=7.8e-26
+Sodium per 10 g protein, mg                        C1 116.55 vs 300.14 diff -126.14 [-130.78,-120.17] | C2 -37.08 n=562 p=2.2e-27
+Energy per 10 g protein, kcal                      C1 120.00 vs 433.03 diff -259.01 [-266.75,-246.69] | C2 -97.41 n=563 p=6.3e-65
+Marker classes present, n of 9                     C1 4.00 vs 2.00 diff 1.07 [0.99,1.33] | C2 0.50 n=593 p=7.3e-29
+Non-sugar sweetener or polyol, %                   C1 58.37 vs 7.66 diff 33.30 [31.57,34.78] | C2 0.00 n=593 p=1.7e-06
+Protein isolate/concentrate/hydrolysate, %         C1 86.87 vs 10.46 diff 54.37 [52.99,55.87] | C2 30.23 n=593 p=3.5e-53
+{"n": 300, "positive": 296, "precision": 0.9866666666666667, "ci": [0.9662244697474675, 0.9948030382606411], "false_positive_notes": ["protein names the food substance (meat alternative), not a protein-content message", "protein appears only inside an enumeration of ingredients in the name", "apparently a non-food personal-care item filed under cake mixes", "protein names the food substance (meat alternative), not a protein-content message"]}
+{"n_analysis": 198036, "E2": 6011, "E1": 891, "E2_share": 0.030353067119109657, "E1_share": 0.004499181966915107, "E2_share_of_US_release": 0.014776843481008002, "top2_categories_share_of_E2": 0.6083846281816669}
+{"n_with_serving": 195110, "crosstab": {"E1": {"<5 g": 9, "5-9 g": 47, ">=10 g": 817}, "E2 only": {"<5 g": 48, "5-9 g": 592, ">=10 g": 4401}, "Not protein-named": {"<5 g": 122720, "5-9 g": 45991, ">=10 g": 20485}}, "E2": {"n": 5914, "ge10": 0.8823131552248901, "5to9": 0.10804869800473453, "lt5": 0.00963814677037538, "median_prot_serv": 15.0}, "E1": {"n": 873, "ge10": 0.9358533791523482, "5to9": 0.053837342497136315, "lt5": 0.010309278350515464, "median_prot_serv": 20.0}, "nonE2": {"n": 189196, "ge10": 0.10827395928032305, "5to9": 0.24308653459904014, "lt5": 0.6486395061206368, "median_prot_serv": 2.0}, "nonE2_ge10_n": 20485, "ge10_share_named": 0.20301132163560673}
+{"E2": 0.46448178339710533, "nonE2": 0.3533498242416352, "E2_post2023": 0.6164426383244764, "nonE2_post2023": 0.6095342434158366, "share_post2023_E2": 0.5321909831974713, "share_post2023_nonE2": 0.3612602525712798}
+{'n_groups': 594, 'n_E2_products': 3152, 'n_twin_products': 13939, 'n_brand_owners': 358}

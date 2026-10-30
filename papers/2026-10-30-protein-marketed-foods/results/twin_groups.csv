@@ -1,0 +1,595 @@
+twin_key,p_exp,p_twin,category,brand,n_exp,n_twin
+" || ARCHER FARMS || Popcorn, Peanuts, Seeds & Related Snacks",28.57,12.5,"Popcorn, Peanuts, Seeds & Related Snacks", || ARCHER FARMS,1,35
+ || BOLTHOUSE FARMS || Milk/Milk Substitutes,30.0,2.0,Milk/Milk Substitutes, || BOLTHOUSE FARMS,2,1
+ || CALIFIA FARMS || Milk/Milk Substitutes,8.0,1.0,Milk/Milk Substitutes, || CALIFIA FARMS,2,32
+" || FLOURISH || Cake, Cookie & Cupcake Mixes",31.94,20.45,"Cake, Cookie & Cupcake Mixes", || FLOURISH,5,1
+ || FORAGER PROJECT || Milk/Milk Substitutes,8.0,3.0,Milk/Milk Substitutes, || FORAGER PROJECT,1,13
+ || GOOD KARMA || Milk/Milk Substitutes,8.0,0.0,Milk/Milk Substitutes, || GOOD KARMA,3,2
+ || HEB || Milk/Milk Substitutes,13.0,13.0,Milk/Milk Substitutes, || HEB,1,2
+ || NATURES PATH || Cereal,15.52,10.0,Cereal, || NATURES PATH,1,17
+ || NESQUIK || Milk/Milk Substitutes,14.0,14.0,Milk/Milk Substitutes, || NESQUIK,1,3
+ || OIKOS || Milk/Milk Substitutes,17.5,15.0,Milk/Milk Substitutes, || OIKOS,2,13
+ || ORGAIN || Milk/Milk Substitutes,10.0,12.0,Milk/Milk Substitutes, || ORGAIN,2,2
+ || RATIO || Milk/Milk Substitutes,25.0,17.0,Milk/Milk Substitutes, || RATIO,1,5
+ || SILK || Milk/Milk Substitutes,10.0,1.0,Milk/Milk Substitutes, || SILK,3,40
+ || STONYFIELD || Milk/Milk Substitutes,10.0,5.0,Milk/Milk Substitutes, || STONYFIELD,1,20
+ || TRADER JOES || Plant Based Milk,2.92,0.42,Plant Based Milk, || TRADER JOES,1,1
+"1ST PHORM || 1ST PHORM || Snack, Energy & Granola Bars",31.75,31.75,"Snack, Energy & Granola Bars",1ST PHORM || 1ST PHORM,5,1
+7ELEVEN INC || 7ELEVEN || Lunch Snacks & Combinations,12.83,6.06,Lunch Snacks & Combinations,7ELEVEN INC || 7ELEVEN,2,1
+"88 ACRES FOODS INC || 88 ACRES || Snack, Energy & Granola Bars",21.82,13.33,"Snack, Energy & Granola Bars",88 ACRES FOODS INC || 88 ACRES,2,6
+8TH AVENUE FOOD PROVISIONS INC || PEACE CEREAL || Cereal,18.18,9.09,Cereal,8TH AVENUE FOOD PROVISIONS INC || PEACE CEREAL,1,22
+"ABBOTT LABORATORIES INC || ENSURE || Energy, Protein & Muscle Recovery Drinks",8.44,3.8,"Energy, Protein & Muscle Recovery Drinks",ABBOTT LABORATORIES INC || ENSURE,4,13
+"ABBOTT LABORATORIES INC || GLUCERNA || Energy, Protein & Muscle Recovery Drinks",9.09,4.54,"Energy, Protein & Muscle Recovery Drinks",ABBOTT LABORATORIES INC || GLUCERNA,1,10
+"ABBOTT LABORATORIES INC || ZONE PERFECT || Snack, Energy & Granola Bars",28.0,24.44,"Snack, Energy & Granola Bars",ABBOTT LABORATORIES INC || ZONE PERFECT,1,3
+ABBYS BETTER NUT BUTTER || ABBYS BETTER || Nut & Seed Butters,35.71,17.86,Nut & Seed Butters,ABBYS BETTER NUT BUTTER || ABBYS BETTER,1,4
+ACADIA ACQUISITION LLC || BIRCH BENDERS || Frozen Appetizers & Hors D'oeuvres,17.74,4.29,Frozen Appetizers & Hors D'oeuvres,ACADIA ACQUISITION LLC || BIRCH BENDERS,1,1
+AGRISTAR INC || BMORE ORGANIC || Yogurt,6.89,8.15,Yogurt,AGRISTAR INC || BMORE ORGANIC,1,6
+AGRITALIA SRL || BELLA ITALIA || Pasta by Shape & Type,25.0,12.5,Pasta by Shape & Type,AGRITALIA SRL || BELLA ITALIA,1,10
+AHOLD USA INC || AHOLD || Cereal,16.36,9.26,Cereal,AHOLD USA INC || AHOLD,1,63
+"AHOLD USA INC || AHOLD || Snack, Energy & Granola Bars",28.33,8.33,"Snack, Energy & Granola Bars",AHOLD USA INC || AHOLD,13,34
+AHOLD USA INC || FOODHOLD || Cereal,15.52,6.35,Cereal,AHOLD USA INC || FOODHOLD,1,8
+"AHOLD USA INC || GIANT || Snack, Energy & Granola Bars",40.0,9.085,"Snack, Energy & Granola Bars",AHOLD USA INC || GIANT,1,10
+"AHOLD USA INC || NATURES PROMISE || Cake, Cookie & Cupcake Mixes",22.115,3.67,"Cake, Cookie & Cupcake Mixes",AHOLD USA INC || NATURES PROMISE,2,2
+"AMARILLO GLOBENEWS || GAINFUL || Energy, Protein & Muscle Recovery Drinks",82.0,0.0,"Energy, Protein & Muscle Recovery Drinks",AMARILLO GLOBENEWS || GAINFUL,2,3
+"AMPLIFY SNACK BRANDS INC || OATMEGA || Snack, Energy & Granola Bars",28.0,28.0,"Snack, Energy & Granola Bars",AMPLIFY SNACK BRANDS INC || OATMEGA,26,2
+AMPLIFY SNACK BRANDS INC || PERFECT COOKIE || Cookies & Biscuits,25.0,25.0,Cookies & Biscuits,AMPLIFY SNACK BRANDS INC || PERFECT COOKIE,2,1
+"AMPLIFY SNACK BRANDS INC || SKINNYPOP || Popcorn, Peanuts, Seeds & Related Snacks",17.86,7.14,"Popcorn, Peanuts, Seeds & Related Snacks",AMPLIFY SNACK BRANDS INC || SKINNYPOP,1,48
+"AMRITA HEALTH FOODS || AMRITA || Snack, Energy & Granola Bars",25.0,14.0,"Snack, Energy & Granola Bars",AMRITA HEALTH FOODS || AMRITA,2,4
+ANNONA COMPANY LLC || EARNEST EATS || Cereal,23.44,14.29,Cereal,ANNONA COMPANY LLC || EARNEST EATS,3,15
+"AQUALINK NEVADA LLC || PAPA STEVES || Snack, Energy & Granola Bars",20.97,28.17,"Snack, Energy & Granola Bars",AQUALINK NEVADA LLC || PAPA STEVES,1,1
+"ARCO DISTRIBUTORS INC || GOURMET NUT || Popcorn, Peanuts, Seeds & Related Snacks",25.0,13.48,"Popcorn, Peanuts, Seeds & Related Snacks",ARCO DISTRIBUTORS INC || GOURMET NUT,3,8
+"ARDENS GARDEN THE JUICE MARKET INC || ARDENS GARDEN || Fruit & Vegetable Juice, Nectars & Fruit Drinks",2.85,0.84,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",ARDENS GARDEN THE JUICE MARKET INC || ARDENS GARDEN,1,10
+"ARRUDAS DAIRY FARMS || VITABELLA || Chips, Pretzels & Snacks",21.43,7.14,"Chips, Pretzels & Snacks",ARRUDAS DAIRY FARMS || VITABELLA,1,1
+"ASPIRE FOOD GROUP USA INC || EXO || Snack, Energy & Granola Bars",28.0,16.0,"Snack, Energy & Granola Bars",ASPIRE FOOD GROUP USA INC || EXO,3,3
+"ASSOCIATED WHOLESALE GROCERS INC || BEST CHOICE || Cake, Cookie & Cupcake Mixes",23.625,5.0,"Cake, Cookie & Cupcake Mixes",ASSOCIATED WHOLESALE GROCERS INC || BEST CHOICE,2,31
+ASSOCIATED WHOLESALE GROCERS INC || BEST CHOICE || Cereal,16.67,8.155,Cereal,ASSOCIATED WHOLESALE GROCERS INC || BEST CHOICE,5,80
+"ASSOCIATED WHOLESALE GROCERS INC || BEST CHOICE || Snack, Energy & Granola Bars",25.0,5.725,"Snack, Energy & Granola Bars",ASSOCIATED WHOLESALE GROCERS INC || BEST CHOICE,2,20
+ATKINS NUTRITIONALS INC || ATKINS || Cookies & Biscuits,25.64,4.76,Cookies & Biscuits,ATKINS NUTRITIONALS INC || ATKINS,9,1
+"ATKINS NUTRITIONALS INC || ATKINS || Energy, Protein & Muscle Recovery Drinks",4.62,4.62,"Energy, Protein & Muscle Recovery Drinks",ATKINS NUTRITIONALS INC || ATKINS,29,1
+ATKINS NUTRITIONALS INC || ATKINS || Milk,4.62,3.08,Milk,ATKINS NUTRITIONALS INC || ATKINS,22,2
+"ATKINS NUTRITIONALS INC || ATKINS || Snack, Energy & Granola Bars",31.25,21.05,"Snack, Energy & Granola Bars",ATKINS NUTRITIONALS INC || ATKINS,42,74
+ATLANTIC NATURAL FOODS LLC || LOMA LINDA || Frozen Dinners & Entrees,6.34,4.21,Frozen Dinners & Entrees,ATLANTIC NATURAL FOODS LLC || LOMA LINDA,1,1
+ATLANTIC NATURAL FOODS LLC || WORTHINGTON || Other Meats,19.785,16.875,Other Meats,ATLANTIC NATURAL FOODS LLC || WORTHINGTON,6,14
+"AUTO CUSTOMS INC || GRAZE || Popcorn, Peanuts, Seeds & Related Snacks",22.86,5.545,"Popcorn, Peanuts, Seeds & Related Snacks",AUTO CUSTOMS INC || GRAZE,3,2
+"AVB CORP || DAVES KILLER BREAD || Snack, Energy & Granola Bars",18.52,8.0,"Snack, Energy & Granola Bars",AVB CORP || DAVES KILLER BREAD,1,3
+BAKE CITY LLC || BAKE CITY || Cookies & Biscuits,17.54,17.86,Cookies & Biscuits,BAKE CITY LLC || BAKE CITY,5,7
+"BAKER MILLS || KODIAK CAKES || Cake, Cookie & Cupcake Mixes",23.33,15.38,"Cake, Cookie & Cupcake Mixes",BAKER MILLS || KODIAK CAKES,8,32
+BAKER MILLS || KODIAK CAKES || Cereal,21.645,23.33,Cereal,BAKER MILLS || KODIAK CAKES,2,11
+"BAKER MILLS || KODIAK CAKES || Snack, Energy & Granola Bars",26.92,22.22,"Snack, Energy & Granola Bars",BAKER MILLS || KODIAK CAKES,1,1
+BAKER MILLS || KODIAK || Cereal,20.0,23.665,Cereal,BAKER MILLS || KODIAK,1,14
+BAKERS BREAKFAST COOKIE INC || ERIN BAKERS || Cereal,16.365000000000002,10.0,Cereal,BAKERS BREAKFAST COOKIE INC || ERIN BAKERS,2,13
+BARILLA G R FLLI SPA || BARILLA || Pasta by Shape & Type,17.86,12.5,Pasta by Shape & Type,BARILLA G R FLLI SPA || BARILLA,8,154
+BAY VALLEY FOODS LLC || AQUAFUSION || Powdered Drinks,35.71,0.0,Powdered Drinks,BAY VALLEY FOODS LLC || AQUAFUSION,1,8
+BAY VALLEY FOODS LLC || BAY VALLEY FOODS || Powdered Drinks,40.0,0.0,Powdered Drinks,BAY VALLEY FOODS LLC || BAY VALLEY FOODS,4,7
+"BAY VALLEY FOODS LLC || CLOVER VALLEY || Snack, Energy & Granola Bars",25.0,5.0,"Snack, Energy & Granola Bars",BAY VALLEY FOODS LLC || CLOVER VALLEY,1,9
+"BAY VALLEY FOODS LLC || LIFE CHOICE || Snack, Energy & Granola Bars",40.0,14.0,"Snack, Energy & Granola Bars",BAY VALLEY FOODS LLC || LIFE CHOICE,6,7
+BEAR NAKED FOODS || BEAR NAKED || Processed Cereal Products,18.7,10.4,Processed Cereal Products,BEAR NAKED FOODS || BEAR NAKED,1,11
+"BEKTROM FOODS INC || LORETTA || Cake, Cookie & Cupcake Mixes",22.95,4.55,"Cake, Cookie & Cupcake Mixes",BEKTROM FOODS INC || LORETTA,1,23
+BENEFIT NUTRITION || BENEFIT NUTRITION || Cereal,30.0,10.81,Cereal,BENEFIT NUTRITION || BENEFIT NUTRITION,1,1
+"BEST BAR EVER INC || THE BEST BAR EVER || Snack, Energy & Granola Bars",27.27,23.08,"Snack, Energy & Granola Bars",BEST BAR EVER INC || THE BEST BAR EVER,7,10
+BETTERBODY FOODS NUTRITION LLC || BETTER BODY FOODS || Powdered Drinks,50.0,0.0,Powdered Drinks,BETTERBODY FOODS NUTRITION LLC || BETTER BODY FOODS,1,1
+BETTERBODY FOODS NUTRITION LLC || BETTERBODY FOODS || Powdered Drinks,64.41,50.0,Powdered Drinks,BETTERBODY FOODS NUTRITION LLC || BETTERBODY FOODS,2,12
+"BETTY LOUS INC || BETTY LOUS || Popcorn, Peanuts, Seeds & Related Snacks",20.41,16.0,"Popcorn, Peanuts, Seeds & Related Snacks",BETTY LOUS INC || BETTY LOUS,5,7
+"BETTY LOUS INC || BETTY LOUS || Snack, Energy & Granola Bars",23.47,8.77,"Snack, Energy & Granola Bars",BETTY LOUS INC || BETTY LOUS,2,13
+BEYOND MEAT INC || BEYOND MEAT || Other Meats,17.39,17.7,Other Meats,BEYOND MEAT INC || BEYOND MEAT,1,11
+BG FOODS NORTH AMERICA INC || GREEN GIANT || Frozen Dinners & Entrees,4.77,3.1799999999999997,Frozen Dinners & Entrees,BG FOODS NORTH AMERICA INC || GREEN GIANT,4,4
+BIG Y FOODS INC || BIG Y || Cereal,16.67,8.935,Cereal,BIG Y FOODS INC || BIG Y,3,28
+"BILL BLASS FASHIONS LLC || GRENADE || Snack, Energy & Granola Bars",33.33,27.5,"Snack, Energy & Granola Bars",BILL BLASS FASHIONS LLC || GRENADE,9,1
+"BIRCH BENDERS INC || BIRCH BENDERS || Cake, Cookie & Cupcake Mixes",30.0,11.43,"Cake, Cookie & Cupcake Mixes",BIRCH BENDERS INC || BIRCH BENDERS,2,15
+"BOBS RED MILL NATURAL FOODS INC || BOBS RED MILL || Cake, Cookie & Cupcake Mixes",35.56,8.42,"Cake, Cookie & Cupcake Mixes",BOBS RED MILL NATURAL FOODS INC || BOBS RED MILL,1,38
+BOBS RED MILL NATURAL FOODS INC || BOBS RED MILL || Cereal,20.83,11.67,Cereal,BOBS RED MILL NATURAL FOODS INC || BOBS RED MILL,3,151
+BOBS RED MILL NATURAL FOODS INC || BOBS RED MILL || Processed Cereal Products,16.67,8.89,Processed Cereal Products,BOBS RED MILL NATURAL FOODS INC || BOBS RED MILL,1,1
+BOOMERANGS FOODS INC || BOOMERANGS || Frozen Dinners & Entrees,6.47,6.725,Frozen Dinners & Entrees,BOOMERANGS FOODS INC || BOOMERANGS,1,8
+BORDEN DAIRY COMPANY || BORDEN || Milk,4.17,3.33,Milk,BORDEN DAIRY COMPANY || BORDEN,1,24
+"BRIGHT BAR || BRIGHT || Snack, Energy & Granola Bars",22.03,5.71,"Snack, Energy & Granola Bars",BRIGHT BAR || BRIGHT,5,4
+"BROOKSHIRE GROCERY COMPANY || BROOKSHIRES || Snack, Energy & Granola Bars",25.0,8.11,"Snack, Energy & Granola Bars",BROOKSHIRE GROCERY COMPANY || BROOKSHIRES,1,3
+BROWNIE BRITTLE LLC || SHEILA GS BROWNIE BRITTLE || Candy,21.43,7.140000000000001,Candy,BROWNIE BRITTLE LLC || SHEILA GS BROWNIE BRITTLE,1,2
+"BUILT BRANDS || BUILT || Snack, Energy & Granola Bars",42.5,42.5,"Snack, Energy & Granola Bars",BUILT BRANDS || BUILT,3,3
+BULLETPROOF DIGITAL INC || BULLETPROOF || Other Drinks,4.55,3.38,Other Drinks,BULLETPROOF DIGITAL INC || BULLETPROOF,4,10
+"BULLETPROOF DIGITAL INC || BULLETPROOF || Snack, Energy & Granola Bars",26.67,20.0,"Snack, Energy & Granola Bars",BULLETPROOF DIGITAL INC || BULLETPROOF,19,6
+BUTLER AMUSEMENTS INC || VIA EMILIA || Frozen Dinners & Entrees,7.05,5.61,Frozen Dinners & Entrees,BUTLER AMUSEMENTS INC || VIA EMILIA,1,4
+"BYTE BARS || BYTE BARS || Snack, Energy & Granola Bars",23.91,13.04,"Snack, Energy & Granola Bars",BYTE BARS || BYTE BARS,1,1
+CALIFIA FARMS LP || CALIFIA FARMS || Plant Based Milk,2.58,0.65,Plant Based Milk,CALIFIA FARMS LP || CALIFIA FARMS,1,21
+CAMPBELL SOUP COMPANY || CAMPBELLS || Prepared Soups,4.08,2.38,Prepared Soups,CAMPBELL SOUP COMPANY || CAMPBELLS,5,377
+"CASA DE CAMPO INC || ITS WHOLESOME || Cake, Cookie & Cupcake Mixes",18.75,2.23,"Cake, Cookie & Cupcake Mixes",CASA DE CAMPO INC || ITS WHOLESOME,1,2
+"CAVEMAN FOODS || CAVEMAN || Snack, Energy & Granola Bars",23.535,12.5,"Snack, Energy & Granola Bars",CAVEMAN FOODS || CAVEMAN,2,2
+CEDARLANE NATURAL FOODS INC || CEDARLANE || Frozen Dinners & Entrees,7.220000000000001,5.984999999999999,Frozen Dinners & Entrees,CEDARLANE NATURAL FOODS INC || CEDARLANE,2,22
+"CENTURY CUSTOM MOLDING INC || REDCON1 || Snack, Energy & Granola Bars",29.85,29.85,"Snack, Energy & Granola Bars",CENTURY CUSTOM MOLDING INC || REDCON1,5,1
+CHEMISOURCE INC || MRM NUTRITION || Chocolate,68.57,23.97,Chocolate,CHEMISOURCE INC || MRM NUTRITION,1,2
+"CHERIBUNDI INC || CHERIBUNDI || Fruit & Vegetable Juice, Nectars & Fruit Drinks",3.33,0.42,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",CHERIBUNDI INC || CHERIBUNDI,4,45
+CHICAGO BAR COMPANY || RXBAR || Cereal,23.08,19.35,Cereal,CHICAGO BAR COMPANY || RXBAR,1,4
+CHICAGO BAR COMPANY || RXBAR || Nut & Seed Butters,28.12,28.12,Nut & Seed Butters,CHICAGO BAR COMPANY || RXBAR,6,1
+"CHICAGO BAR COMPANY || RXBAR || Snack, Energy & Granola Bars",23.08,23.08,"Snack, Energy & Granola Bars",CHICAGO BAR COMPANY || RXBAR,136,10
+CHIKE NUTRITION LLC || CHIKE || Other Drinks,66.67,66.67,Other Drinks,CHIKE NUTRITION LLC || CHIKE,9,1
+"CIBO VITA INC || GOOD SMART || Popcorn, Peanuts, Seeds & Related Snacks",17.86,13.395,"Popcorn, Peanuts, Seeds & Related Snacks",CIBO VITA INC || GOOD SMART,3,8
+CLIF BAR AND COMPANY || CLIF KID || Chocolate,13.89,8.33,Chocolate,CLIF BAR AND COMPANY || CLIF KID,1,1
+"CLIF BAR AND COMPANY || CLIF KID || Snack, Energy & Granola Bars",13.89,5.56,"Snack, Energy & Granola Bars",CLIF BAR AND COMPANY || CLIF KID,14,78
+CLIF BAR AND COMPANY || CLIF || Chocolate,29.41,14.0,Chocolate,CLIF BAR AND COMPANY || CLIF,3,3
+"CLIF BAR AND COMPANY || CLIF || Snack, Energy & Granola Bars",29.41,10.0,"Snack, Energy & Granola Bars",CLIF BAR AND COMPANY || CLIF,60,127
+CLIF BAR AND COMPANY || LUNA || Chocolate,26.67,16.67,Chocolate,CLIF BAR AND COMPANY || LUNA,2,6
+"CLIF BAR AND COMPANY || LUNA || Snack, Energy & Granola Bars",26.67,16.67,"Snack, Energy & Granola Bars",CLIF BAR AND COMPANY || LUNA,29,79
+"CLIF KID || CLIF KID || Snack, Energy & Granola Bars",13.89,2.78,"Snack, Energy & Granola Bars",CLIF KID || CLIF KID,1,2
+"COEXIST NUTRITION || 22 DAYS NUTRITION || Snack, Energy & Granola Bars",26.67,34.09,"Snack, Energy & Granola Bars",COEXIST NUTRITION || 22 DAYS NUTRITION,9,1
+CONAGRA BRANDS INC || ARMOUR || Meat/Poultry/Other Animals - Prepared/Processed,9.23,9.23,Meat/Poultry/Other Animals - Prepared/Processed,CONAGRA BRANDS INC || ARMOUR,12,15
+CONAGRA BRANDS INC || DENNISONS || Prepared Soups,6.12,6.015000000000001,Prepared Soups,CONAGRA BRANDS INC || DENNISONS,1,6
+CONAGRA BRANDS INC || HEALTHY CHOICE || Frozen Dinners & Entrees,8.545000000000002,5.725,Frozen Dinners & Entrees,CONAGRA BRANDS INC || HEALTHY CHOICE,4,112
+CONAGRA BRANDS INC || LIBBYS || Meat/Poultry/Other Animals - Prepared/Processed,25.0,7.69,Meat/Poultry/Other Animals - Prepared/Processed,CONAGRA BRANDS INC || LIBBYS,7,7
+CONAGRA BRANDS INC || NALLEY || Meat/Poultry/Other Animals - Prepared/Processed,7.175,6.8,Meat/Poultry/Other Animals - Prepared/Processed,CONAGRA BRANDS INC || NALLEY,2,5
+CONAGRA BRANDS INC || SLIM JIM || Meat/Poultry/Other Animals - Prepared/Processed,20.0,20.0,Meat/Poultry/Other Animals - Prepared/Processed,CONAGRA BRANDS INC || SLIM JIM,41,62
+CONAGRA BRANDS INC || WOLF || Prepared Soups,5.88,6.15,Prepared Soups,CONAGRA BRANDS INC || WOLF,7,19
+"CONTINENTAL MILLS INC || KRUSTEAZ || Cake, Cookie & Cupcake Mixes",24.19,5.26,"Cake, Cookie & Cupcake Mixes",CONTINENTAL MILLS INC || KRUSTEAZ,11,80
+"CONTINENTAL MILLS INC || NORTHWEST MILLS || Cake, Cookie & Cupcake Mixes",24.19,2.86,"Cake, Cookie & Cupcake Mixes",CONTINENTAL MILLS INC || NORTHWEST MILLS,1,1
+"CONTINENTAL MILLS INC || WILD ROOTS || Popcorn, Peanuts, Seeds & Related Snacks",20.555,11.11,"Popcorn, Peanuts, Seeds & Related Snacks",CONTINENTAL MILLS INC || WILD ROOTS,2,1
+"CONTINENTAL MILLS INC || WILDROOTS || Popcorn, Peanuts, Seeds & Related Snacks",16.665,11.059999999999999,"Popcorn, Peanuts, Seeds & Related Snacks",CONTINENTAL MILLS INC || WILDROOTS,2,8
+COOPERATIVE REGIONS OF ORGANIC PRODUCER POOLS || ORGANIC VALLEY || Milk,6.06,3.355,Milk,COOPERATIVE REGIONS OF ORGANIC PRODUCER POOLS || ORGANIC VALLEY,13,48
+"CORNFIELDS INC || SKINNY STICKS || Chips, Pretzels & Snacks",17.86,7.14,"Chips, Pretzels & Snacks",CORNFIELDS INC || SKINNY STICKS,1,7
+"CORRJENSEN INC || SKINNYGIRL || Snack, Energy & Granola Bars",25.0,15.38,"Snack, Energy & Granola Bars",CORRJENSEN INC || SKINNYGIRL,3,5
+COUNTRY FRESH INC || COUNTRY FRESH || Lunch Snacks & Combinations,9.25,8.56,Lunch Snacks & Combinations,COUNTRY FRESH INC || COUNTRY FRESH,1,2
+CRE ONLINE VENTURES LLC || TRUNUT || Nut & Seed Butters,60.0,41.67,Nut & Seed Butters,CRE ONLINE VENTURES LLC || TRUNUT,1,4
+"CROWNFORD GIFTWARE CORP || NUTRICOST || Energy, Protein & Muscle Recovery Drinks",84.52,0.0,"Energy, Protein & Muscle Recovery Drinks",CROWNFORD GIFTWARE CORP || NUTRICOST,14,4
+CRUNCHSTERS INC || CRUNCHSTERS || Other Snacks,18.92,16.67,Other Snacks,CRUNCHSTERS INC || CRUNCHSTERS,2,1
+"CVS PHARMACY INC || CVS PHARMACY || Energy, Protein & Muscle Recovery Drinks",6.04,2.92,"Energy, Protein & Muscle Recovery Drinks",CVS PHARMACY INC || CVS PHARMACY,2,3
+"CVS PHARMACY INC || GOLD EMBLEM || Snack, Energy & Granola Bars",25.0,9.52,"Snack, Energy & Granola Bars",CVS PHARMACY INC || GOLD EMBLEM,4,17
+"DAKOTA DAIRY SPECIALTIES || BOONE BARR || Snack, Energy & Granola Bars",17.66,10.235,"Snack, Energy & Granola Bars",DAKOTA DAIRY SPECIALTIES || BOONE BARR,1,2
+DANONE US LLC || DANNON || Yogurt,4.83,4.35,Yogurt,DANONE US LLC || DANNON,1,137
+DANONE US LLC || HORIZON ORGANIC || Milk,5.035,3.39,Milk,DANONE US LLC || HORIZON ORGANIC,4,44
+DANONE US LLC || HORIZON || Milk,5.0,4.17,Milk,DANONE US LLC || HORIZON,1,11
+DANONE US LLC || LIGHT FIT || Yogurt,4.27,7.96,Yogurt,DANONE US LLC || LIGHT FIT,8,76
+DANONE US LLC || OIKOS || Yogurt,12.77,8.0,Yogurt,DANONE US LLC || OIKOS,3,94
+DANONE US LLC || SILK || Milk,8.33,0.42,Milk,DANONE US LLC || SILK,2,2
+DANONE US LLC || SILK || Plant Based Milk,4.17,0.42,Plant Based Milk,DANONE US LLC || SILK,5,97
+DANONE US LLC || STOK || Other Drinks,4.51,0.975,Other Drinks,DANONE US LLC || STOK,1,4
+DEAN FOODS COMPANY || STOK || Other Drinks,4.44,0.0,Other Drinks,DEAN FOODS COMPANY || STOK,1,5
+DECO HOME SOLUTIONS || ABBYS BETTER || Nut & Seed Butters,35.71,35.71,Nut & Seed Butters,DECO HOME SOLUTIONS || ABBYS BETTER,1,1
+"DIVINE FOOD || RISE || Snack, Energy & Granola Bars",26.67,6.67,"Snack, Energy & Granola Bars",DIVINE FOOD || RISE,13,2
+DR PRAEGERS SENSIBLE FOODS INC || DR PRAEGERS || Frozen Appetizers & Hors D'oeuvres,15.15,5.0,Frozen Appetizers & Hors D'oeuvres,DR PRAEGERS SENSIBLE FOODS INC || DR PRAEGERS,1,16
+"DS NATURALS LLC || NO COW || Snack, Energy & Granola Bars",35.0,33.33,"Snack, Energy & Granola Bars",DS NATURALS LLC || NO COW,15,11
+EATHOS FOODS LLC || EATHOS || Frozen Dinners & Entrees,4.31,4.71,Frozen Dinners & Entrees,EATHOS FOODS LLC || EATHOS,1,3
+EATHOS FOODS LLC || EATHOS || Pasta by Shape & Type,6.27,5.1,Pasta by Shape & Type,EATHOS FOODS LLC || EATHOS,1,1
+"ELEVATE BRANDS LLC || CANDO || Snack, Energy & Granola Bars",19.61,24.44,"Snack, Energy & Granola Bars",ELEVATE BRANDS LLC || CANDO,15,1
+ENJOY LIFE NATURAL BRANDS LLC || ENJOY LIFE || Cookies & Biscuits,16.67,3.71,Cookies & Biscuits,ENJOY LIFE NATURAL BRANDS LLC || ENJOY LIFE,1,28
+"ENJOY LIFE NATURAL BRANDS LLC || ENJOY LIFE || Snack, Energy & Granola Bars",16.67,6.06,"Snack, Energy & Granola Bars",ENJOY LIFE NATURAL BRANDS LLC || ENJOY LIFE,4,19
+"EPIC || EPIC || Snack, Energy & Granola Bars",27.91,22.64,"Snack, Energy & Granola Bars",EPIC || EPIC,1,35
+ESSENTIAL LIVING FOODS || ESSENTIAL LIVING FOODS || Powdered Drinks,53.33,2.78,Powdered Drinks,ESSENTIAL LIVING FOODS || ESSENTIAL LIVING FOODS,1,2
+"ESUPPLEMENTS LLC || NUTRICOST || Energy, Protein & Muscle Recovery Drinks",75.76,0.0,"Energy, Protein & Muscle Recovery Drinks",ESUPPLEMENTS LLC || NUTRICOST,28,2
+"EVOLUTION FRESH INC || EVOLUTION FRESH || Fruit & Vegetable Juice, Nectars & Fruit Drinks",5.42,0.62,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",EVOLUTION FRESH INC || EVOLUTION FRESH,4,110
+FAIR OAKS FARMS BRANDS INC || FAIRLIFE || Milk,8.82,5.42,Milk,FAIR OAKS FARMS BRANDS INC || FAIRLIFE,1,9
+FAIR OAKS FARMS BRANDS INC || FARLIFE || Milk,6.28,6.25,Milk,FAIR OAKS FARMS BRANDS INC || FARLIFE,3,12
+"FAMILY DOLLAR STORES INC || CHESTNUT HILL || Snack, Energy & Granola Bars",25.0,8.11,"Snack, Energy & Granola Bars",FAMILY DOLLAR STORES INC || CHESTNUT HILL,1,4
+"FICOSOTA MARKETING NEW YORK LLC || LIVITY || Snack, Energy & Granola Bars",22.22,6.67,"Snack, Energy & Granola Bars",FICOSOTA MARKETING NEW YORK LLC || LIVITY,4,8
+"FINLAY EXTRACTS INGREDIENTS USA INC || ROUNDYS || Popcorn, Peanuts, Seeds & Related Snacks",12.5,10.81,"Popcorn, Peanuts, Seeds & Related Snacks",FINLAY EXTRACTS INGREDIENTS USA INC || ROUNDYS,1,92
+"FINLAY EXTRACTS INGREDIENTS USA INC || ROUNDYS || Snack, Energy & Granola Bars",25.0,6.87,"Snack, Energy & Granola Bars",FINLAY EXTRACTS INGREDIENTS USA INC || ROUNDYS,2,6
+"FIREFLY NEW YORK LLC || LEVEL LIFE || Snack, Energy & Granola Bars",27.5,0.0,"Snack, Energy & Granola Bars",FIREFLY NEW YORK LLC || LEVEL LIFE,3,2
+FIRST FOODS INC || STARLITE CUISINE || Frozen Dinners & Entrees,6.27,3.14,Frozen Dinners & Entrees,FIRST FOODS INC || STARLITE CUISINE,1,1
+"FOOD TOWN STORES INC || FOOD LION || Snack, Energy & Granola Bars",25.0,4.705,"Snack, Energy & Granola Bars",FOOD TOWN STORES INC || FOOD LION,2,12
+"FOODSTIRS || FOODSTIRS || Cake, Cookie & Cupcake Mixes",23.08,5.56,"Cake, Cookie & Cupcake Mixes",FOODSTIRS || FOODSTIRS,3,24
+FORAGER PROJECT LLC || FORAGER PROJECT || Yogurt,4.415,1.77,Yogurt,FORAGER PROJECT LLC || FORAGER PROJECT,2,24
+"FORWARD FOODS LLC || DETOUR || Snack, Energy & Granola Bars",34.88,26.32,"Snack, Energy & Granola Bars",FORWARD FOODS LLC || DETOUR,7,6
+FRESH EASY || FRESH EASY || Lunch Snacks & Combinations,13.27,9.44,Lunch Snacks & Combinations,FRESH EASY || FRESH EASY,1,4
+"FRITOLAY COMPANY || NUT HARVEST || Popcorn, Peanuts, Seeds & Related Snacks",25.0,17.86,"Popcorn, Peanuts, Seeds & Related Snacks",FRITOLAY COMPANY || NUT HARVEST,2,33
+FROZEN GARDEN LLC || FROZEN GARDEN || Powdered Drinks,6.22,1.9049999999999998,Powdered Drinks,FROZEN GARDEN LLC || FROZEN GARDEN,1,6
+"FUEL FOR FIRE INC || FUEL FOR FIRE || Fruit & Vegetable Juice, Nectars & Fruit Drinks",8.66,7.87,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",FUEL FOR FIRE INC || FUEL FOR FIRE,2,7
+"FULFILL FOOD BEVERAGES LLC || KARUNA || Fruit & Vegetable Juice, Nectars & Fruit Drinks",1.39,0.97,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",FULFILL FOOD BEVERAGES LLC || KARUNA,1,6
+FUNTASTIK INC || ZOUQ || Other Snacks,21.43,14.29,Other Snacks,FUNTASTIK INC || ZOUQ,1,1
+GALAXY WORLDWIDE INC || ANABAR || Candy,30.77,30.77,Candy,GALAXY WORLDWIDE INC || ANABAR,1,1
+GARDEN OF LIFE INC || GARDEN OF LIFE || Meal Replacement Supplements,53.33,55.175,Meal Replacement Supplements,GARDEN OF LIFE INC || GARDEN OF LIFE,5,4
+"GARDEN OF LIFE INC || GARDEN OF LIFE || Snack, Energy & Granola Bars",25.45,20.0,"Snack, Energy & Granola Bars",GARDEN OF LIFE INC || GARDEN OF LIFE,25,11
+GARDEN OF LIFE INC || GARDEN OF LIFE || Weight Control,32.665,42.5,Weight Control,GARDEN OF LIFE INC || GARDEN OF LIFE,2,1
+GARDEN OF LIGHT INC || BAKERY ON MAIN || Cereal,22.22,12.96,Cereal,GARDEN OF LIGHT INC || BAKERY ON MAIN,2,35
+"GENERAL MILLS INC || ANNIES HOMEGROWN || Snack, Energy & Granola Bars",18.18,3.57,"Snack, Energy & Granola Bars",GENERAL MILLS INC || ANNIES HOMEGROWN,1,5
+"GENERAL MILLS INC || ANNIES || Snack, Energy & Granola Bars",18.18,7.14,"Snack, Energy & Granola Bars",GENERAL MILLS INC || ANNIES,1,5
+GENERAL MILLS INC || CHEERIOS || Cereal,12.73,7.41,Cereal,GENERAL MILLS INC || CHEERIOS,2,21
+GENERAL MILLS INC || FIBER ONE || Cereal,10.91,7.27,Cereal,GENERAL MILLS INC || FIBER ONE,2,3
+"GENERAL MILLS INC || FIBER ONE || Snack, Energy & Granola Bars",26.785,5.0,"Snack, Energy & Granola Bars",GENERAL MILLS INC || FIBER ONE,12,42
+GENERAL MILLS INC || NATURE VALLEY || Cereal,13.7,10.625,Cereal,GENERAL MILLS INC || NATURE VALLEY,5,10
+"GENERAL MILLS INC || NATURE VALLEY || Snack, Energy & Granola Bars",25.0,9.52,"Snack, Energy & Granola Bars",GENERAL MILLS INC || NATURE VALLEY,8,74
+GENERAL MILLS SALES INC || ANNIES || Processed Cereal Products,17.92,6.005,Processed Cereal Products,GENERAL MILLS SALES INC || ANNIES,2,30
+GENERAL MILLS SALES INC || CASCADIAN FARM || Processed Cereal Products,18.008499999999998,7.75,Processed Cereal Products,GENERAL MILLS SALES INC || CASCADIAN FARM,8,76
+GENERAL MILLS SALES INC || CHEERIOS || Processed Cereal Products,21.065,8.33,Processed Cereal Products,GENERAL MILLS SALES INC || CHEERIOS,14,135
+GENERAL MILLS SALES INC || FIBER ONE || Processed Cereal Products,21.5,8.0,Processed Cereal Products,GENERAL MILLS SALES INC || FIBER ONE,8,42
+GENERAL MILLS SALES INC || GENERAL MILLS SALES INC || Processed Cereal Products,20.0,7.41,Processed Cereal Products,GENERAL MILLS SALES INC || GENERAL MILLS SALES INC,6,109
+GENERAL MILLS SALES INC || GENERAL MILLS SALES INC || Yogurt/Yogurt Substitutes,10.0,3.53,Yogurt/Yogurt Substitutes,GENERAL MILLS SALES INC || GENERAL MILLS SALES INC,3,35
+GENERAL MILLS SALES INC || GENERAL MILLS || Processed Cereal Products,30.77,6.8013,Processed Cereal Products,GENERAL MILLS SALES INC || GENERAL MILLS,12,51
+GENERAL MILLS SALES INC || GOGURT || Yogurt/Yogurt Substitutes,7.14,3.51,Yogurt/Yogurt Substitutes,GENERAL MILLS SALES INC || GOGURT,5,42
+GENERAL MILLS SALES INC || GOLDEN GRAHAMS || Processed Cereal Products,32.4397,5.0,Processed Cereal Products,GENERAL MILLS SALES INC || GOLDEN GRAHAMS,1,18
+GENERAL MILLS SALES INC || LARABAR || Processed Cereal Products,21.5,8.89,Processed Cereal Products,GENERAL MILLS SALES INC || LARABAR,2,115
+GENERAL MILLS SALES INC || NATURE VALLEY || Processed Cereal Products,25.0,8.0,Processed Cereal Products,GENERAL MILLS SALES INC || NATURE VALLEY,40,238
+GENERAL MILLS SALES INC || PROGRESSO || Prepared Soups,3.82,2.08,Prepared Soups,GENERAL MILLS SALES INC || PROGRESSO,9,129
+GENERAL MILLS SALES INC || RATIO || Yogurt/Yogurt Substitutes,16.67,10.0,Yogurt/Yogurt Substitutes,GENERAL MILLS SALES INC || RATIO,16,18
+GENERAL MILLS SALES INC || TOAST CRUNCH || Processed Cereal Products,33.8813,4.88,Processed Cereal Products,GENERAL MILLS SALES INC || TOAST CRUNCH,2,67
+GENERAL MILLS SALES INC || WHEATIES || Processed Cereal Products,34.38,7.89,Processed Cereal Products,GENERAL MILLS SALES INC || WHEATIES,3,1
+GENERAL MILLS SALES INC || YOPLAIT || Yogurt/Yogurt Substitutes,9.43,2.94,Yogurt/Yogurt Substitutes,GENERAL MILLS SALES INC || YOPLAIT,19,125
+"GENERAL NUTRITION CENTERS INC || GNC || Energy, Protein & Muscle Recovery Drinks",63.16,6.04,"Energy, Protein & Muscle Recovery Drinks",GENERAL NUTRITION CENTERS INC || GNC,11,1
+GENERAL NUTRITION CENTERS INC || GNC || Meal Replacement Supplements,25.66,48.08,Meal Replacement Supplements,GENERAL NUTRITION CENTERS INC || GNC,8,14
+"GENERAL NUTRITION CENTERS INC || GNC || Snack, Energy & Granola Bars",36.36,36.36,"Snack, Energy & Granola Bars",GENERAL NUTRITION CENTERS INC || GNC,9,14
+"GENIUS GOURMET LLC || GENIUS GOURMET || Snack, Energy & Granola Bars",35.71,32.795,"Snack, Energy & Granola Bars",GENIUS GOURMET LLC || GENIUS GOURMET,1,2
+"GET IN SHAPE || GET IN SHAPE || Snack, Energy & Granola Bars",26.67,13.33,"Snack, Energy & Granola Bars",GET IN SHAPE || GET IN SHAPE,1,4
+GIANT EAGLE INC || GIANT EAGLE || Cereal,19.67,8.33,Cereal,GIANT EAGLE INC || GIANT EAGLE,1,59
+"GIANT EAGLE INC || GIANT EAGLE || Chips, Pretzels & Snacks",66.67,7.14,"Chips, Pretzels & Snacks",GIANT EAGLE INC || GIANT EAGLE,1,115
+GILBERT FOODS LLC || PETITE PLATES || Lunch Snacks & Combinations,12.14,13.53,Lunch Snacks & Combinations,GILBERT FOODS LLC || PETITE PLATES,1,1
+"GLADDERS GOURMET COOKIES INC || WELLA BAR || Snack, Energy & Granola Bars",20.0,20.91,"Snack, Energy & Granola Bars",GLADDERS GOURMET COOKIES INC || WELLA BAR,9,4
+"GLENCOURT INC || EATING RIGHT || Snack, Energy & Granola Bars",25.0,5.41,"Snack, Energy & Granola Bars",GLENCOURT INC || EATING RIGHT,1,6
+GLENCOURT INC || O ORGANICS || Milk,3.33,3.39,Milk,GLENCOURT INC || O ORGANICS,3,46
+GLENCOURT INC || OPEN NATURE || Cereal,19.05,8.93,Cereal,GLENCOURT INC || OPEN NATURE,1,25
+GLENCOURT INC || OPEN NATURE || Frozen Dinners & Entrees,5.29,7.04,Frozen Dinners & Entrees,GLENCOURT INC || OPEN NATURE,1,22
+GLOBAL JUICES AND FRUITS LLC || NATURES EARTHLY CHOICE || Powdered Drinks,61.11,10.77,Powdered Drinks,GLOBAL JUICES AND FRUITS LLC || NATURES EARTHLY CHOICE,2,4
+"GLUCK HOLDINGS LLC || GLUCK || Chips, Pretzels & Snacks",23.33,3.57,"Chips, Pretzels & Snacks",GLUCK HOLDINGS LLC || GLUCK,1,15
+GO ENERGY FOODS INC || E3 ENERGY CUBES || Other Snacks,22.73,22.73,Other Snacks,GO ENERGY FOODS INC || E3 ENERGY CUBES,1,1
+"GO ENERGY FOODS INC || E3 ENERGY CUBES || Snack, Energy & Granola Bars",22.725,21.97,"Snack, Energy & Granola Bars",GO ENERGY FOODS INC || E3 ENERGY CUBES,2,2
+"GO ENERGY FOODS INC || ENERGY CUBES || Snack, Energy & Granola Bars",21.21,22.725,"Snack, Energy & Granola Bars",GO ENERGY FOODS INC || ENERGY CUBES,3,2
+"GO MACRO LLC || GOMACRO || Snack, Energy & Granola Bars",16.0,15.38,"Snack, Energy & Granola Bars",GO MACRO LLC || GOMACRO,13,33
+GOLDEN KRUST CARIBBEAN BAKERY || GOLDEN KRUST || Frozen Dinners & Entrees,9.15,7.75,Frozen Dinners & Entrees,GOLDEN KRUST CARIBBEAN BAKERY || GOLDEN KRUST,2,4
+GOOD KARMA FOODS INC || GOOD KARMA || Plant Based Milk,3.5,1.25,Plant Based Milk,GOOD KARMA FOODS INC || GOOD KARMA,4,5
+GOOD SMART || GOOD SMART || Cereal,16.39,11.09,Cereal,GOOD SMART || GOOD SMART,1,2
+"GRAB THE GOLD INC || GRAB THE GOLD || Snack, Energy & Granola Bars",19.3,19.3,"Snack, Energy & Granola Bars",GRAB THE GOLD INC || GRAB THE GOLD,1,1
+GRASS ADVANTAGE || AMAZING GRASS || Powdered Drinks,47.62,20.0,Powdered Drinks,GRASS ADVANTAGE || AMAZING GRASS,1,1
+"GRASS ADVANTAGE || AMAZING GRASS || Snack, Energy & Granola Bars",60.61,13.33,"Snack, Energy & Granola Bars",GRASS ADVANTAGE || AMAZING GRASS,13,9
+GRAZE || GRAZE || Lunch Snacks & Combinations,18.75,19.44,Lunch Snacks & Combinations,GRAZE || GRAZE,1,1
+GREAT LAKES CHEESE CO INC || SAVVY SNAX || Lunch Snacks & Combinations,23.26,16.28,Lunch Snacks & Combinations,GREAT LAKES CHEESE CO INC || SAVVY SNAX,3,6
+GREEN CHEMICAL PRODUCTS INC || WILD HARVEST || Cereal,20.75,9.715,Cereal,GREEN CHEMICAL PRODUCTS INC || WILD HARVEST,1,10
+GREENLEAF FOODS SPC || LIGHTLIFE || Other Meats,16.67,18.18,Other Meats,GREENLEAF FOODS SPC || LIGHTLIFE,1,30
+"GREENS PLUS LLC || GREENS || Snack, Energy & Granola Bars",30.0,13.030000000000001,"Snack, Energy & Granola Bars",GREENS PLUS LLC || GREENS,6,8
+GROWING NATURALS || GROWING NATURALS || Cereal,70.59,60.0,Cereal,GROWING NATURALS || GROWING NATURALS,3,1
+"H E BUTT GROCERY COMPANY || HEB || Energy, Protein & Muscle Recovery Drinks",9.23,4.22,"Energy, Protein & Muscle Recovery Drinks",H E BUTT GROCERY COMPANY || HEB,1,1
+H E BUTT GROCERY COMPANY || HEB || Frozen Appetizers & Hors D'oeuvres,6.25,12.629999999999999,Frozen Appetizers & Hors D'oeuvres,H E BUTT GROCERY COMPANY || HEB,1,14
+"H2OH LLC || IOS LOVE ORGANIC || Fruit & Vegetable Juice, Nectars & Fruit Drinks",4.85,0.0,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",H2OH LLC || IOS LOVE ORGANIC,2,13
+"HANNAFORD BROS CO || HANNAFORD || Snack, Energy & Granola Bars",25.0,4.0,"Snack, Energy & Granola Bars",HANNAFORD BROS CO || HANNAFORD,2,17
+HANOVER FOODS CORPORATION || HANOVER || Frozen Dinners & Entrees,6.87,5.19,Frozen Dinners & Entrees,HANOVER FOODS CORPORATION || HANOVER,1,1
+HARRISTEETER INC || HARRIS TEETER || Cereal,25.0,8.33,Cereal,HARRISTEETER INC || HARRIS TEETER,1,65
+"HARRISTEETER INC || HARRIS TEETER || Popcorn, Peanuts, Seeds & Related Snacks",21.43,17.86,"Popcorn, Peanuts, Seeds & Related Snacks",HARRISTEETER INC || HARRIS TEETER,1,112
+"HARRISTEETER INC || HARRIS TEETER || Snack, Energy & Granola Bars",25.0,5.0,"Snack, Energy & Granola Bars",HARRISTEETER INC || HARRIS TEETER,5,23
+HEALTH LAB || HEALTH LAB || Other Snacks,15.0,8.75,Other Snacks,HEALTH LAB || HEALTH LAB,1,1
+HEALTH MANAGEMENT RESOURCES CORPORATION || HMR || Meal Replacement Supplements,36.93,50.0,Meal Replacement Supplements,HEALTH MANAGEMENT RESOURCES CORPORATION || HMR,2,2
+"HEALTH MANAGEMENT RESOURCES CORPORATION || HMR || Snack, Energy & Granola Bars",23.81,23.81,"Snack, Energy & Granola Bars",HEALTH MANAGEMENT RESOURCES CORPORATION || HMR,1,4
+HEALTH NUTRITION SYSTEMS INTERNATIONAL INC || HEALTHY DELIGHTS || Other Drinks,42.76,0.0,Other Drinks,HEALTH NUTRITION SYSTEMS INTERNATIONAL INC || HEALTHY DELIGHTS,2,1
+HEALTHSMART FOODS INC || CHOCORITE || Milk,63.16,63.16,Milk,HEALTHSMART FOODS INC || CHOCORITE,2,1
+"HEALTHSMART FOODS INC || CHOCORITE || Snack, Energy & Granola Bars",31.25,31.25,"Snack, Energy & Granola Bars",HEALTHSMART FOODS INC || CHOCORITE,9,2
+"HEMP HEALTH LLC || EVO HEMP || Snack, Energy & Granola Bars",16.67,19.79,"Snack, Energy & Granola Bars",HEMP HEALTH LLC || EVO HEMP,1,4
+HEMPCO CANADA SUPERFOODS INC || HEMPCO CANADA SUPERFOODS INC || Powdered Drinks,43.75,43.75,Powdered Drinks,HEMPCO CANADA SUPERFOODS INC || HEMPCO CANADA SUPERFOODS INC,2,1
+HIGH BREW COFFEE INC || HIGH BREW COFFEE || Other Drinks,5.06,0.84,Other Drinks,HIGH BREW COFFEE INC || HIGH BREW COFFEE,1,22
+HORMEL FOODS CORPORATION || SKIPPY || Nut & Seed Butters,31.25,21.88,Nut & Seed Butters,HORMEL FOODS CORPORATION || SKIPPY,2,52
+HOUSE FOODS AMERICA CORPORATION || HOUSE FOODS || Other Meats,10.59,9.004999999999999,Other Meats,HOUSE FOODS AMERICA CORPORATION || HOUSE FOODS,1,26
+HP HOOD LLC || LACTAID || Milk,5.42,3.33,Milk,HP HOOD LLC || LACTAID,2,3
+"HUMAN POWER OF N COMPANY || HUMANN || Energy, Protein & Muscle Recovery Drinks",52.63,20.0,"Energy, Protein & Muscle Recovery Drinks",HUMAN POWER OF N COMPANY || HUMANN,1,1
+HYVEE INC || GOOD GRACES || Cereal,16.67,13.33,Cereal,HYVEE INC || GOOD GRACES,1,5
+HYVEE INC || HYVEE || Cookies & Biscuits,19.165,4.0,Cookies & Biscuits,HYVEE INC || HYVEE,2,51
+HYVEE INC || HYVEE || Lunch Snacks & Combinations,18.6,14.29,Lunch Snacks & Combinations,HYVEE INC || HYVEE,8,1
+"HYVEE INC || HYVEE || Snack, Energy & Granola Bars",32.5,5.41,"Snack, Energy & Granola Bars",HYVEE INC || HYVEE,4,20
+IDEAL OATS LLC || IDEAL OATS || Cereal,25.0,23.96,Cereal,IDEAL OATS LLC || IDEAL OATS,1,2
+INTEGRATED SUPPLEMENTS || INTEGRATED SUPPLEMENTS || Chocolate,64.52,78.74,Chocolate,INTEGRATED SUPPLEMENTS || INTEGRATED SUPPLEMENTS,2,1
+"INTERNATIONAL FOODSOURCE || VALUED NATURALS || Popcorn, Peanuts, Seeds & Related Snacks",23.33,16.67,"Popcorn, Peanuts, Seeds & Related Snacks",INTERNATIONAL FOODSOURCE || VALUED NATURALS,2,124
+"IOVATE HEALTH SCIENCES INTERNATIONAL INC || PURELY INSPIRED || Energy, Protein & Muscle Recovery Drinks",21.075,52.63,"Energy, Protein & Muscle Recovery Drinks",IOVATE HEALTH SCIENCES INTERNATIONAL INC || PURELY INSPIRED,4,3
+"JACEYCAKES LLC || FLAPJACKED || Cake, Cookie & Cupcake Mixes",30.775,36.36,"Cake, Cookie & Cupcake Mixes",JACEYCAKES LLC || FLAPJACKED,6,7
+"JIMMYS HEALTHY FOODS INC || JIMMY || Snack, Energy & Granola Bars",33.33,18.89,"Snack, Energy & Granola Bars",JIMMYS HEALTHY FOODS INC || JIMMY,18,2
+JOJOS CHOCOLATE || JOJOS || Candy,17.65,17.65,Candy,JOJOS CHOCOLATE || JOJOS,2,1
+JOJOS CHOCOLATE || JOJOS || Chocolate,8.82,13.235,Chocolate,JOJOS CHOCOLATE || JOJOS,1,8
+"JUNKLESS FOODS INC || JUNKLESS || Snack, Energy & Granola Bars",25.81,6.45,"Snack, Energy & Granola Bars",JUNKLESS FOODS INC || JUNKLESS,3,7
+KAR NUT PRODUCTS COMPANY || SECOND NATURE || Other Snacks,25.0,10.71,Other Snacks,KAR NUT PRODUCTS COMPANY || SECOND NATURE,1,7
+"KAR NUT PRODUCTS COMPANY || SECOND NATURE || Popcorn, Peanuts, Seeds & Related Snacks",25.0,14.29,"Popcorn, Peanuts, Seeds & Related Snacks",KAR NUT PRODUCTS COMPANY || SECOND NATURE,1,44
+KASHI INTERNATIONAL CORPORATION || KASHI || Cereal,20.69,11.01,Cereal,KASHI INTERNATIONAL CORPORATION || KASHI,4,18
+KELLOGG COMPANY US || KELLOGGS || Processed Cereal Products,26.67,5.41,Processed Cereal Products,KELLOGG COMPANY US || KELLOGGS,11,242
+KELLOGG COMPANY || KASHI || Chocolate,24.0,6.25,Chocolate,KELLOGG COMPANY || KASHI,1,1
+"KELLOGG COMPANY || KASHI || Snack, Energy & Granola Bars",24.0,8.57,"Snack, Energy & Granola Bars",KELLOGG COMPANY || KASHI,2,17
+KELLOGG COMPANY || MORNINGSTAR FARMS || Frozen Dinners & Entrees,13.95,15.004999999999999,Frozen Dinners & Entrees,KELLOGG COMPANY || MORNINGSTAR FARMS,1,8
+KELLOGG COMPANY || MORNINGSTAR FARMS || Other Meats,16.515,16.814999999999998,Other Meats,KELLOGG COMPANY || MORNINGSTAR FARMS,4,4
+KENOMIS OUTDOORS INC || OATS || Milk,26.32,25.0,Milk,KENOMIS OUTDOORS INC || OATS,1,1
+KIND INC || KIND || Cereal,23.26,10.34,Cereal,KIND INC || KIND,5,35
+"KIND INC || KIND || Snack, Energy & Granola Bars",24.0,10.0,"Snack, Energy & Granola Bars",KIND INC || KIND,27,234
+KING NUT COMPANY || KINGS || Other Snacks,16.67,13.335,Other Snacks,KING NUT COMPANY || KINGS,1,2
+KINGS CHEF DINER || WHOLE FOODS MARKET || Lunch Snacks & Combinations,11.5,13.27,Lunch Snacks & Combinations,KINGS CHEF DINER || WHOLE FOODS MARKET,1,2
+"KNOWHOW GET IN SHAPE || KNOWHOW GET IN SHAPE || Snack, Energy & Granola Bars",26.67,13.33,"Snack, Energy & Granola Bars",KNOWHOW GET IN SHAPE || KNOWHOW GET IN SHAPE,2,1
+"KOS INC || KOS || Energy, Protein & Muscle Recovery Drinks",51.28,0.0,"Energy, Protein & Muscle Recovery Drinks",KOS INC || KOS,4,2
+KRAFT HEINZ FOODS COMPANY || BOCA || Frozen Appetizers & Hors D'oeuvres,19.72,9.21,Frozen Appetizers & Hors D'oeuvres,KRAFT HEINZ FOODS COMPANY || BOCA,1,3
+KRAFT HEINZ FOODS COMPANY || BOCA || Frozen Dinners & Entrees,4.71,5.1,Frozen Dinners & Entrees,KRAFT HEINZ FOODS COMPANY || BOCA,1,4
+KRAFT HEINZ FOODS COMPANY || MIO || Powdered Drinks,50.0,0.0,Powdered Drinks,KRAFT HEINZ FOODS COMPANY || MIO,1,5
+KRAFT HEINZ FOODS COMPANY || OSCAR MAYER || Lunch Snacks & Combinations,20.535,16.4,Lunch Snacks & Combinations,KRAFT HEINZ FOODS COMPANY || OSCAR MAYER,4,2
+KSF ACQUISITION CORPORATION || SLIMFAST || Meal Replacement Supplements,6.15,6.15,Meal Replacement Supplements,KSF ACQUISITION CORPORATION || SLIMFAST,1,17
+"KSF ACQUISITION CORPORATION || SLIMFAST || Snack, Energy & Granola Bars",19.23,16.67,"Snack, Energy & Granola Bars",KSF ACQUISITION CORPORATION || SLIMFAST,3,28
+KULI KULI INC || KULI KULI || Chocolate,44.44,8.335,Chocolate,KULI KULI INC || KULI KULI,1,2
+KULI KULI INC || KULI KULI || Powdered Drinks,53.135,47.975,Powdered Drinks,KULI KULI INC || KULI KULI,6,6
+LAURAS ORIGINAL BOSTON BROWNIES INC || BHU KETO || Cookies & Biscuits,26.67,20.0,Cookies & Biscuits,LAURAS ORIGINAL BOSTON BROWNIES INC || BHU KETO,1,2
+"LEGENDARY FOODS LLC || LEGENDARY FOODS || Popcorn, Peanuts, Seeds & Related Snacks",29.85,20.0,"Popcorn, Peanuts, Seeds & Related Snacks",LEGENDARY FOODS LLC || LEGENDARY FOODS,1,6
+LENNY LARRYS || LENNY LARRYS || Cookies & Biscuits,14.04,14.04,Cookies & Biscuits,LENNY LARRYS || LENNY LARRYS,19,76
+"LENNY LARRYS || LENNY LARRYS || Snack, Energy & Granola Bars",16.67,26.67,"Snack, Energy & Granola Bars",LENNY LARRYS || LENNY LARRYS,1,3
+LEPRINO PERFORMANCE BRANDS LLC || ASCENT || Cheese,71.43,33.33,Cheese,LEPRINO PERFORMANCE BRANDS LLC || ASCENT,1,6
+"LEPRINO PERFORMANCE BRANDS LLC || ASCENT || Energy, Protein & Muscle Recovery Drinks",80.65,45.45,"Energy, Protein & Muscle Recovery Drinks",LEPRINO PERFORMANCE BRANDS LLC || ASCENT,16,1
+"LIDL || LIDL || Snack, Energy & Granola Bars",25.0,8.57,"Snack, Energy & Granola Bars",LIDL || LIDL,1,13
+LIFESTYLE EVOLUTION INC || NUGO || Chocolate,24.0,8.89,Chocolate,LIFESTYLE EVOLUTION INC || NUGO,1,1
+LIFESTYLE EVOLUTION INC || NUGO || Cookies & Biscuits,16.0,20.0,Cookies & Biscuits,LIFESTYLE EVOLUTION INC || NUGO,10,3
+"LIFESTYLE EVOLUTION INC || NUGO || Snack, Energy & Granola Bars",26.0,14.445,"Snack, Energy & Granola Bars",LIFESTYLE EVOLUTION INC || NUGO,49,24
+LIFEWAY FOODS INC || LIFEWAY || Yogurt,8.75,4.58,Yogurt,LIFEWAY FOODS INC || LIFEWAY,4,103
+LINK SNACKS INC || JACK LINKS || Lunch Snacks & Combinations,21.57,20.83,Lunch Snacks & Combinations,LINK SNACKS INC || JACK LINKS,1,2
+"LOVE YOUR HEALTH FOODS LLC || LOVE YOUR HEALTH || Popcorn, Peanuts, Seeds & Related Snacks",25.0,23.33,"Popcorn, Peanuts, Seeds & Related Snacks",LOVE YOUR HEALTH FOODS LLC || LOVE YOUR HEALTH,1,6
+LUCHI ORGANICS || SPROUT LIVING || Powdered Drinks,54.29,32.99,Powdered Drinks,LUCHI ORGANICS || SPROUT LIVING,5,2
+LUNDS INC || LUNDS BYERLYS || Cereal,20.0,10.355,Cereal,LUNDS INC || LUNDS BYERLYS,1,8
+"LUTHMAN BACKLUND FOODS USA INC AKA LUB FOODS USA INC || NCKS || Snack, Energy & Granola Bars",24.0,30.0,"Snack, Energy & Granola Bars",LUTHMAN BACKLUND FOODS USA INC AKA LUB FOODS USA INC || NCKS,1,9
+"LUTHMAN BACKLUND FOODS USA INC AKA LUB FOODS USA INC || NICKS || Snack, Energy & Granola Bars",24.0,12.5,"Snack, Energy & Granola Bars",LUTHMAN BACKLUND FOODS USA INC AKA LUB FOODS USA INC || NICKS,1,2
+LYRICAL FOODS INC || KITE HILL || Yogurt,6.67,2.67,Yogurt,LYRICAL FOODS INC || KITE HILL,1,30
+MAMMA CHIA LLC || MAMMA CHIA || Other Drinks,3.61,1.35,Other Drinks,MAMMA CHIA LLC || MAMMA CHIA,1,16
+MARKO INC || PROGANICS || Cheese,73.33,29.0,Cheese,MARKO INC || PROGANICS,5,4
+"MARS CHOCOLATE NORTH AMERICA LLC || MARATHON || Snack, Energy & Granola Bars",26.28,24.89,"Snack, Energy & Granola Bars",MARS CHOCOLATE NORTH AMERICA LLC || MARATHON,3,3
+MCILHENNY COMPANY || SPARTAN || Cereal,23.26,7.9,Cereal,MCILHENNY COMPANY || SPARTAN,2,24
+"MCILHENNY COMPANY || SPARTAN || Snack, Energy & Granola Bars",25.0,5.41,"Snack, Energy & Granola Bars",MCILHENNY COMPANY || SPARTAN,2,16
+"MCTBAR || MCT BAR || Snack, Energy & Granola Bars",26.32,25.64,"Snack, Energy & Granola Bars",MCTBAR || MCT BAR,2,5
+"MCTBAR || MCT || Snack, Energy & Granola Bars",26.32,26.925,"Snack, Energy & Granola Bars",MCTBAR || MCT,1,4
+"MEDORA SNACKS LLC || POPCORNERS || Chips, Pretzels & Snacks",35.71,7.14,"Chips, Pretzels & Snacks",MEDORA SNACKS LLC || POPCORNERS,1,17
+MEIJER INC || MEIJER || Candy,3.75,3.33,Candy,MEIJER INC || MEIJER,3,192
+MEIJER INC || MEIJER || Lunch Snacks & Combinations,14.22,18.6,Lunch Snacks & Combinations,MEIJER INC || MEIJER,1,11
+MEIJER INC || MEIJER || Milk,3.75,3.33,Milk,MEIJER INC || MEIJER,18,36
+MEIJER INC || MEIJER || Milk Additives,3.75,0.0,Milk Additives,MEIJER INC || MEIJER,1,28
+MEIJER INC || MEIJER || Other Drinks,3.75,0.0,Other Drinks,MEIJER INC || MEIJER,3,9
+MEIJER INC || MEIJER || Other Meats,18.58,18.75,Other Meats,MEIJER INC || MEIJER,1,16
+MEIJER INC || MEIJER || Pasta by Shape & Type,19.64,12.5,Pasta by Shape & Type,MEIJER INC || MEIJER,3,128
+MEIJER INC || MEIJER || Powdered Drinks,7.05,0.0,Powdered Drinks,MEIJER INC || MEIJER,1,57
+"MEIJER INC || MEIJER || Snack, Energy & Granola Bars",25.0,8.57,"Snack, Energy & Granola Bars",MEIJER INC || MEIJER,13,65
+MEIJER INC || MEIJER || Weight Control,3.08,7.69,Weight Control,MEIJER INC || MEIJER,3,2
+MICHAEL ANGELOS GOURMET FOODS INC || MICHAEL ANGELOS || Frozen Dinners & Entrees,9.27,7.05,Frozen Dinners & Entrees,MICHAEL ANGELOS GOURMET FOODS INC || MICHAEL ANGELOS,9,61
+MILLVILLE || MILLVILLE || Cereal,18.18,7.79,Cereal,MILLVILLE || MILLVILLE,1,34
+"MR BEVERAGES OLD TIME COCKTAIL MIXES || QUEST BAR || Snack, Energy & Granola Bars",34.165,33.33,"Snack, Energy & Granola Bars",MR BEVERAGES OLD TIME COCKTAIL MIXES || QUEST BAR,2,1
+"MUNK PACK INC || MUNK PACK || Snack, Energy & Granola Bars",21.43,14.29,"Snack, Energy & Granola Bars",MUNK PACK INC || MUNK PACK,1,14
+NABISCO BISCUIT COMPANY || BELVITA || Cookies & Biscuits,20.0,6.0,Cookies & Biscuits,NABISCO BISCUIT COMPANY || BELVITA,9,55
+NABISCO FOOD COMPANY || PLANTERS || Other Snacks,20.41,10.71,Other Snacks,NABISCO FOOD COMPANY || PLANTERS,1,19
+"NABISCO FOOD COMPANY || PLANTERS || Popcorn, Peanuts, Seeds & Related Snacks",21.28,17.86,"Popcorn, Peanuts, Seeds & Related Snacks",NABISCO FOOD COMPANY || PLANTERS,10,343
+"NAKED JUICE || NAKED || Fruit & Vegetable Juice, Nectars & Fruit Drinks",6.67,0.42,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",NAKED JUICE || NAKED,3,38
+"NAKED JUICE || NAKED || Snack, Energy & Granola Bars",22.5,7.5,"Snack, Energy & Granola Bars",NAKED JUICE || NAKED,6,8
+"NASH FINCH COMPANY || OUR FAMILY || Snack, Energy & Granola Bars",25.0,5.41,"Snack, Energy & Granola Bars",NASH FINCH COMPANY || OUR FAMILY,2,15
+"NATREVE || NATREVE || Energy, Protein & Muscle Recovery Drinks",73.68,33.33,"Energy, Protein & Muscle Recovery Drinks",NATREVE || NATREVE,9,2
+"NATURE VALLEY || NATURE VALLEY || Snack, Energy & Granola Bars",25.0,7.57,"Snack, Energy & Granola Bars",NATURE VALLEY || NATURE VALLEY,2,2
+NAVITAS LLC || NAVITAS NATURALS || Powdered Drinks,40.0,20.0,Powdered Drinks,NAVITAS LLC || NAVITAS NATURALS,1,1
+NESTLE HEALTHCARE NUTRITION INC || BOOST || Candy,8.44,7.175,Candy,NESTLE HEALTHCARE NUTRITION INC || BOOST,1,4
+"NESTLE HEALTHCARE NUTRITION INC || BOOST || Energy, Protein & Muscle Recovery Drinks",8.44,6.75,"Energy, Protein & Muscle Recovery Drinks",NESTLE HEALTHCARE NUTRITION INC || BOOST,10,48
+NESTLE HEALTHCARE NUTRITION INC || BOOST || Milk,9.28,6.33,Milk,NESTLE HEALTHCARE NUTRITION INC || BOOST,1,1
+NESTLE HEALTHCARE NUTRITION INC || BOOST || Other Drinks,6.33,5.484999999999999,Other Drinks,NESTLE HEALTHCARE NUTRITION INC || BOOST,1,2
+NESTLE USA INC || CARNATION BREAKFAST ESSENTIALS || Breakfast Drinks,6.33,4.154999999999999,Breakfast Drinks,NESTLE USA INC || CARNATION BREAKFAST ESSENTIALS,1,2
+NESTLE USA INC || CARNATION || Breakfast Drinks,6.33,10.11,Breakfast Drinks,NESTLE USA INC || CARNATION,8,22
+"NESTLE USA INC || CARNATION || Energy, Protein & Muscle Recovery Drinks",6.33,9.055,"Energy, Protein & Muscle Recovery Drinks",NESTLE USA INC || CARNATION,1,6
+NESTLE USA INC || CARNATION || Plant Based Milk,6.33,1.665,Plant Based Milk,NESTLE USA INC || CARNATION,1,2
+NESTLE USA INC || HOT POCKETS || Frozen Appetizers & Hors D'oeuvres,11.02,7.859999999999999,Frozen Appetizers & Hors D'oeuvres,NESTLE USA INC || HOT POCKETS,10,78
+NESTLE USA INC || NESCAFE || Other Drinks,4.62,2.6550000000000002,Other Drinks,NESTLE USA INC || NESCAFE,2,4
+NESTLE USA INC || NESQUIK || Breakfast Drinks,5.08,3.39,Breakfast Drinks,NESTLE USA INC || NESQUIK,3,1
+NESTLE USAFROZEN FOOD DIVISION || LEAN CUISINE || Frozen Appetizers & Hors D'oeuvres,11.76,12.35,Frozen Appetizers & Hors D'oeuvres,NESTLE USAFROZEN FOOD DIVISION || LEAN CUISINE,1,5
+NESTLE USAFROZEN FOOD DIVISION || LEAN CUISINE || Frozen Dinners & Entrees,5.88,5.855,Frozen Dinners & Entrees,NESTLE USAFROZEN FOOD DIVISION || LEAN CUISINE,17,130
+NESTLE USAFROZEN FOOD DIVISION || LIFE CUISINE || Frozen Dinners & Entrees,8.55,6.95,Frozen Dinners & Entrees,NESTLE USAFROZEN FOOD DIVISION || LIFE CUISINE,3,24
+NESTLE USAFROZEN FOOD DIVISION || STOUFFERS || Frozen Dinners & Entrees,7.06,6.51,Frozen Dinners & Entrees,NESTLE USAFROZEN FOOD DIVISION || STOUFFERS,12,233
+NEURO BRANDS INC || NEURO || Other Drinks,2.33,0.0,Other Drinks,NEURO BRANDS INC || NEURO,1,8
+NEW ENGLAND NATURAL BAKERS INC || NATURALS || Cereal,15.0,8.33,Cereal,NEW ENGLAND NATURAL BAKERS INC || NATURALS,1,1
+NEW ENGLAND NATURAL BAKERS INC || NEW ENGLAND NATURALS || Cereal,15.0,10.98,Cereal,NEW ENGLAND NATURAL BAKERS INC || NEW ENGLAND NATURALS,1,6
+"NEWMANS OWN INC || NEWMANS OWN || Chips, Pretzels & Snacks",6.67,11.665,"Chips, Pretzels & Snacks",NEWMANS OWN INC || NEWMANS OWN,1,2
+NEXTFOODS LLC || GOODBELLY || Other Drinks,4.0,0.42,Other Drinks,NEXTFOODS LLC || GOODBELLY,3,26
+NOKA LLC || NOKA || Nut & Seed Butters,15.62,15.62,Nut & Seed Butters,NOKA LLC || NOKA,1,1
+"NOT A BRANDED ITEM || NOT A BRANDED ITEM || Snack, Energy & Granola Bars",27.5,20.0,"Snack, Energy & Granola Bars",NOT A BRANDED ITEM || NOT A BRANDED ITEM,1,1
+NOW HEALTH GROUP INC || NOW || Chocolate,72.73,19.05,Chocolate,NOW HEALTH GROUP INC || NOW,33,1
+"NOW HEALTH GROUP INC || NOW || Energy, Protein & Muscle Recovery Drinks",58.269999999999996,0.0,"Energy, Protein & Muscle Recovery Drinks",NOW HEALTH GROUP INC || NOW,16,5
+NUBELEAF INC || NUBELEAF || Powdered Drinks,77.5,10.0,Powdered Drinks,NUBELEAF INC || NUBELEAF,2,15
+"NUTRICHIPZ LLC || BEYONDCHIPZ || Chips, Pretzels & Snacks",43.33,43.33,"Chips, Pretzels & Snacks",NUTRICHIPZ LLC || BEYONDCHIPZ,1,3
+NUTRISYSTEM INC || NUTRISYSTEM || Powdered Drinks,45.45,31.71,Powdered Drinks,NUTRISYSTEM INC || NUTRISYSTEM,3,7
+"ODWALLA INC || ODWALLA || Fruit & Vegetable Juice, Nectars & Fruit Drinks",4.22,0.67,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",ODWALLA INC || ODWALLA,1,19
+"ODWALLA INC || ODWALLA || Snack, Energy & Granola Bars",18.75,7.14,"Snack, Energy & Granola Bars",ODWALLA INC || ODWALLA,2,5
+OLLY PBC || OLLY || Powdered Drinks,41.745000000000005,28.21,Powdered Drinks,OLLY PBC || OLLY,14,1
+"OLLY PBC || OLLY || Snack, Energy & Granola Bars",26.67,26.67,"Snack, Energy & Granola Bars",OLLY PBC || OLLY,11,1
+"OMG FOOD COMPANY LLC || ANCESTRAL ROOTS || Energy, Protein & Muscle Recovery Drinks",50.0,25.0,"Energy, Protein & Muscle Recovery Drinks",OMG FOOD COMPANY LLC || ANCESTRAL ROOTS,1,1
+"OMG FOOD COMPANY LLC || OMG ORGANIC MEETS GOOD || Energy, Protein & Muscle Recovery Drinks",64.29,0.0,"Energy, Protein & Muscle Recovery Drinks",OMG FOOD COMPANY LLC || OMG ORGANIC MEETS GOOD,1,4
+"ONE BRANDS LLC || OH YEAH || Snack, Energy & Granola Bars",32.31,32.31,"Snack, Energy & Granola Bars",ONE BRANDS LLC || OH YEAH,3,3
+ONLY WHAT YOU NEED INC || OWYN || Other Drinks,9.78,5.63,Other Drinks,ONLY WHAT YOU NEED INC || OWYN,2,1
+ONLY WHAT YOU NEED INC || OWYN || Plant Based Milk,5.63,5.63,Plant Based Milk,ONLY WHAT YOU NEED INC || OWYN,1,1
+"OPTIMUM NUTRITION INC || ON || Energy, Protein & Muscle Recovery Drinks",73.85,65.75,"Energy, Protein & Muscle Recovery Drinks",OPTIMUM NUTRITION INC || ON,5,1
+"OPTIMUM NUTRITION INC || OPTIMUM NUTRITION || Energy, Protein & Muscle Recovery Drinks",77.42,0.0,"Energy, Protein & Muscle Recovery Drinks",OPTIMUM NUTRITION INC || OPTIMUM NUTRITION,60,1
+"ORGAIN INC || ORGAIN || Energy, Protein & Muscle Recovery Drinks",38.135000000000005,4.85,"Energy, Protein & Muscle Recovery Drinks",ORGAIN INC || ORGAIN,120,10
+ORGAIN INC || ORGAIN || Meal Replacement Supplements,35.71,35.71,Meal Replacement Supplements,ORGAIN INC || ORGAIN,1,4
+"ORGAIN INC || ORGAIN || Snack, Energy & Granola Bars",25.0,5.56,"Snack, Energy & Granola Bars",ORGAIN INC || ORGAIN,18,7
+"ORGANIC LIVING SUPERFOODS || HEALTHY TRUTH || Energy, Protein & Muscle Recovery Drinks",64.865,7.69,"Energy, Protein & Muscle Recovery Drinks",ORGANIC LIVING SUPERFOODS || HEALTHY TRUTH,2,5
+PALEO PRIME LLC || PALEO PRIME || Cookies & Biscuits,11.9,9.52,Cookies & Biscuits,PALEO PRIME LLC || PALEO PRIME,3,1
+PALEO PRO LLC || PALEO PRO || Cookies & Biscuits,86.67,88.89,Cookies & Biscuits,PALEO PRO LLC || PALEO PRO,1,1
+"PAMELAS PRODUCTS INC || PAMELAS || Cake, Cookie & Cupcake Mixes",14.29,3.57,"Cake, Cookie & Cupcake Mixes",PAMELAS PRODUCTS INC || PAMELAS,1,19
+PAPA JOHNS SALADS PRODUCE || PAPA JOHNS SALADS PRODUCE || Lunch Snacks & Combinations,16.3,9.41,Lunch Snacks & Combinations,PAPA JOHNS SALADS PRODUCE || PAPA JOHNS SALADS PRODUCE,1,5
+"PEPSICO INC BFY BRANDS || POPCORNERS || Chips, Pretzels & Snacks",35.71,7.14,"Chips, Pretzels & Snacks",PEPSICO INC BFY BRANDS || POPCORNERS,3,26
+PEPSICO INC BFY BRANDS || POPCORNERS || Other Snacks,35.71,7.14,Other Snacks,PEPSICO INC BFY BRANDS || POPCORNERS,3,8
+"PEPSICO INC CYTOSPORT || CYTOSPORT || Energy, Protein & Muscle Recovery Drinks",9.6,0.0,"Energy, Protein & Muscle Recovery Drinks",PEPSICO INC CYTOSPORT || CYTOSPORT,1,3
+PEPSICO INC CYTOSPORT || CYTOSPORT || Plant Based Milk,9.6,0.0,Plant Based Milk,PEPSICO INC CYTOSPORT || CYTOSPORT,2,1
+"PEPSICO INC HEALTH WARRIOR || HEALTH WARRIOR || Snack, Energy & Granola Bars",20.0,12.0,"Snack, Energy & Granola Bars",PEPSICO INC HEALTH WARRIOR || HEALTH WARRIOR,13,48
+PEPSICO INC || QUAKER || Processed Cereal Products,16.655,6.69,Processed Cereal Products,PEPSICO INC || QUAKER,2,79
+"PERFECT BAR LLC || PERFECT BAR || Snack, Energy & Granola Bars",21.71,20.0,"Snack, Energy & Granola Bars",PERFECT BAR LLC || PERFECT BAR,34,19
+PFIZER CONSUMER HEALTHCARE || EMERGENC || Powdered Drinks,48.39,0.0,Powdered Drinks,PFIZER CONSUMER HEALTHCARE || EMERGENC,3,3
+PINNACLE FOODS GROUP LLC || EARTH BALANCE || Nut & Seed Butters,28.12,21.88,Nut & Seed Butters,PINNACLE FOODS GROUP LLC || EARTH BALANCE,1,8
+POST CONSUMER BRANDS LLC || BARBARAS || Cereal,15.0,8.33,Cereal,POST CONSUMER BRANDS LLC || BARBARAS,1,31
+POST CONSUMER BRANDS LLC || BETTER OATS || Cereal,22.22,9.64,Cereal,POST CONSUMER BRANDS LLC || BETTER OATS,1,32
+POST CONSUMER BRANDS LLC || POST || Cereal,47.62,6.67,Cereal,POST CONSUMER BRANDS LLC || POST,5,127
+POST CONSUMER BRANDS LLC || WEIGHT WATCHERS || Cereal,10.91,7.88,Cereal,POST CONSUMER BRANDS LLC || WEIGHT WATCHERS,1,4
+"POST FOODS LLC || POST FOODS LLC || Snack, Energy & Granola Bars",30.77,9.015,"Snack, Energy & Granola Bars",POST FOODS LLC || POST FOODS LLC,1,4
+"POST FOODS LLC || POWERBAR || Snack, Energy & Granola Bars",33.33,22.869999999999997,"Snack, Energy & Granola Bars",POST FOODS LLC || POWERBAR,1,2
+PREMIER NUTRITION CORPORATION || POWERBAR || Other Drinks,3.0,0.0,Other Drinks,PREMIER NUTRITION CORPORATION || POWERBAR,1,1
+"PREMIER NUTRITION CORPORATION || POWERBAR || Snack, Energy & Granola Bars",32.79,13.85,"Snack, Energy & Granola Bars",PREMIER NUTRITION CORPORATION || POWERBAR,50,54
+PRICE CHOPPER SUPERMARKETS || PICS || Lunch Snacks & Combinations,19.485,16.28,Lunch Snacks & Combinations,PRICE CHOPPER SUPERMARKETS || PICS,2,1
+"PRIMAL NUTRITION || PRIMAL KITCHEN || Energy, Protein & Muscle Recovery Drinks",48.81,64.94,"Energy, Protein & Muscle Recovery Drinks",PRIMAL NUTRITION || PRIMAL KITCHEN,2,1
+"PRIMAL NUTRITION || PRIMAL KITCHEN || Snack, Energy & Granola Bars",21.05,28.125,"Snack, Energy & Granola Bars",PRIMAL NUTRITION || PRIMAL KITCHEN,6,10
+PRIME FOODS INC || KRAMER FARMS || Lunch Snacks & Combinations,17.02,18.75,Lunch Snacks & Combinations,PRIME FOODS INC || KRAMER FARMS,4,1
+"PRK FOODS INC || PALEO RANCH || Snack, Energy & Granola Bars",23.61,23.91,"Snack, Energy & Granola Bars",PRK FOODS INC || PALEO RANCH,2,19
+"PROBAR LLC || PRO BAR || Snack, Energy & Granola Bars",28.57,11.76,"Snack, Energy & Granola Bars",PROBAR LLC || PRO BAR,10,23
+"PROBAR LLC || PROBAR || Snack, Energy & Granola Bars",28.57,10.59,"Snack, Energy & Granola Bars",PROBAR LLC || PROBAR,10,19
+"PROJECT HEALTHY LIVING INC || ALOHA || Snack, Energy & Granola Bars",25.0,10.0,"Snack, Energy & Granola Bars",PROJECT HEALTHY LIVING INC || ALOHA,25,1
+PUBLIX SUPER MARKETS INC || GREENWISE || Cereal,15.0,10.0,Cereal,PUBLIX SUPER MARKETS INC || GREENWISE,1,19
+"PUBLIX SUPER MARKETS INC || PUBLIX || Energy, Protein & Muscle Recovery Drinks",3.75,3.75,"Energy, Protein & Muscle Recovery Drinks",PUBLIX SUPER MARKETS INC || PUBLIX,1,3
+PULMUONE FOODS USA INC || WILDWOOD || Other Meats,15.38,15.29,Other Meats,PULMUONE FOODS USA INC || WILDWOOD,1,17
+PURE FARMLAND || PURE FARMLAND || Other Meats,12.5,13.39,Other Meats,PURE FARMLAND || PURE FARMLAND,1,1
+"PURELY ELIZABETH || PURELY ELIZABETH || Cake, Cookie & Cupcake Mixes",17.74,10.485,"Cake, Cookie & Cupcake Mixes",PURELY ELIZABETH || PURELY ELIZABETH,1,2
+PURELY ELIZABETH || PURELY ELIZABETH || Cereal,18.235,11.63,Cereal,PURELY ELIZABETH || PURELY ELIZABETH,4,72
+QUEST NUTRITION LLC || QUEST || Cookies & Biscuits,25.42,20.0,Cookies & Biscuits,QUEST NUTRITION LLC || QUEST,20,6
+QUEST NUTRITION LLC || QUEST || Plant Based Milk,9.23,76.67,Plant Based Milk,QUEST NUTRITION LLC || QUEST,2,1
+"QUEST NUTRITION LLC || QUEST || Snack, Energy & Granola Bars",33.33,23.26,"Snack, Energy & Granola Bars",QUEST NUTRITION LLC || QUEST,110,7
+QUINOA CORPORATION || ANCIENT HARVEST || Pasta by Shape & Type,25.45,7.27,Pasta by Shape & Type,QUINOA CORPORATION || ANCIENT HARVEST,5,12
+RAINBOW PRODUCTS || YUMMY || Frozen Appetizers & Hors D'oeuvres,10.26,18.18,Frozen Appetizers & Hors D'oeuvres,RAINBOW PRODUCTS || YUMMY,1,1
+RAWNATURE5 || KOIA || Other Drinks,5.0,1.39,Other Drinks,RAWNATURE5 || KOIA,3,7
+RAWNATURE5 || KOIA || Plant Based Milk,4.51,2.5,Plant Based Milk,RAWNATURE5 || KOIA,1,2
+READY ROAST NUT COMPANY LLC || NATURALLY MORE || Nut & Seed Butters,31.25,25.0,Nut & Seed Butters,READY ROAST NUT COMPANY LLC || NATURALLY MORE,2,3
+"REBBL INC || REBBL || Energy, Protein & Muscle Recovery Drinks",4.51,4.51,"Energy, Protein & Muscle Recovery Drinks",REBBL INC || REBBL,6,1
+REBBL INC || REBBL || Other Drinks,3.945,0.42,Other Drinks,REBBL INC || REBBL,2,27
+"REDD ENERGY || REDD || Snack, Energy & Granola Bars",18.384999999999998,15.565,"Snack, Energy & Granola Bars",REDD ENERGY || REDD,4,2
+"REDEFINE NUTRITION || FINAFLEX || Cakes, Cupcakes, Snack Cakes",21.21,21.21,"Cakes, Cupcakes, Snack Cakes",REDEFINE NUTRITION || FINAFLEX,3,1
+"REFOCUS HPV LLC || REFOCUS || Energy, Protein & Muscle Recovery Drinks",4.92,4.92,"Energy, Protein & Muscle Recovery Drinks",REFOCUS HPV LLC || REFOCUS,2,1
+REFOCUS HPV LLC || REFOCUS || Meal Replacement Supplements,4.92,4.92,Meal Replacement Supplements,REFOCUS HPV LLC || REFOCUS,1,1
+RELIANCE VITAMIN LLC || PLANTFUSION || Meal Replacement Supplements,43.96,43.96,Meal Replacement Supplements,RELIANCE VITAMIN LLC || PLANTFUSION,2,1
+REXALL SUNDOWN INC || METRX || Meal Replacement Supplements,50.0,52.78,Meal Replacement Supplements,REXALL SUNDOWN INC || METRX,3,1
+"REXALL SUNDOWN INC || METRX || Snack, Energy & Granola Bars",35.29,30.5,"Snack, Energy & Granola Bars",REXALL SUNDOWN INC || METRX,29,30
+RIP VAN INC || RIP VAN || Cookies & Biscuits,23.81,3.03,Cookies & Biscuits,RIP VAN INC || RIP VAN,1,24
+"RITE AID CORPORATION || BIG WIN || Popcorn, Peanuts, Seeds & Related Snacks",28.57,16.67,"Popcorn, Peanuts, Seeds & Related Snacks",RITE AID CORPORATION || BIG WIN,1,98
+"RITE AID CORPORATION || ELLO MARKET || Popcorn, Peanuts, Seeds & Related Snacks",26.67,15.48,"Popcorn, Peanuts, Seeds & Related Snacks",RITE AID CORPORATION || ELLO MARKET,1,22
+"ROSA FOODS INC || SOYLENT || Energy, Protein & Muscle Recovery Drinks",9.09,4.85,"Energy, Protein & Muscle Recovery Drinks",ROSA FOODS INC || SOYLENT,5,2
+"ROSS PRODUCTS DIVISION || ABBOTT || Snack, Energy & Granola Bars",29.285,35.29,"Snack, Energy & Granola Bars",ROSS PRODUCTS DIVISION || ABBOTT,2,3
+"ROSS PRODUCTS DIVISION || EAS || Energy, Protein & Muscle Recovery Drinks",50.0,8.4,"Energy, Protein & Muscle Recovery Drinks",ROSS PRODUCTS DIVISION || EAS,34,1
+ROSS PRODUCTS DIVISION || EAS || Meal Replacement Supplements,9.09,5.15,Meal Replacement Supplements,ROSS PRODUCTS DIVISION || EAS,1,13
+"ROSS PRODUCTS DIVISION || EAS || Snack, Energy & Granola Bars",30.0,30.0,"Snack, Energy & Granola Bars",ROSS PRODUCTS DIVISION || EAS,7,4
+"ROYAL SNACKS || ROYAL SNACKS || Popcorn, Peanuts, Seeds & Related Snacks",16.67,13.690000000000001,"Popcorn, Peanuts, Seeds & Related Snacks",ROYAL SNACKS || ROYAL SNACKS,1,12
+RT WHOLESALE LLC || FOOD EVOLUTION || Lunch Snacks & Combinations,16.43,17.68,Lunch Snacks & Combinations,RT WHOLESALE LLC || FOOD EVOLUTION,1,1
+SAFEWAY INC || LUCERNE DAIRY FARMS || Milk,5.65,3.75,Milk,SAFEWAY INC || LUCERNE DAIRY FARMS,3,8
+SAFEWAY INC || LUCERNE || Milk,5.93,3.75,Milk,SAFEWAY INC || LUCERNE,2,60
+SAFEWAY INC || SIGNATURE FARMS || Lunch Snacks & Combinations,9.39,4.1,Lunch Snacks & Combinations,SAFEWAY INC || SIGNATURE FARMS,1,7
+"SAFEWAY INC || SIGNATURE SELECT || Snack, Energy & Granola Bars",25.0,7.14,"Snack, Energy & Granola Bars",SAFEWAY INC || SIGNATURE SELECT,6,14
+"SAMBAZON INC || SAMBAZON || Fruit & Vegetable Juice, Nectars & Fruit Drinks",3.33,0.42,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",SAMBAZON INC || SAMBAZON,1,16
+"SAVE MART SUPERMARKETS INC || SUNNY SELECT || Popcorn, Peanuts, Seeds & Related Snacks",25.0,13.809999999999999,"Popcorn, Peanuts, Seeds & Related Snacks",SAVE MART SUPERMARKETS INC || SUNNY SELECT,1,22
+"SAVE MART SUPERMARKETS INC || SUNNY SELECT || Snack, Energy & Granola Bars",25.0,6.25,"Snack, Energy & Granola Bars",SAVE MART SUPERMARKETS INC || SUNNY SELECT,1,1
+SCHNEIDERS DAIRY INC || SARRIS CANDIES || Milk,3.04,2.5,Milk,SCHNEIDERS DAIRY INC || SARRIS CANDIES,1,3
+"SCHNUCK MARKETS INC || SCHNUCKS || Snack, Energy & Granola Bars",25.0,5.41,"Snack, Energy & Granola Bars",SCHNUCK MARKETS INC || SCHNUCKS,2,11
+"SCHULZE BURCH BISCUIT CO || CLOVER VALLEY || Snack, Energy & Granola Bars",25.0,2.7,"Snack, Energy & Granola Bars",SCHULZE BURCH BISCUIT CO || CLOVER VALLEY,2,2
+SEITENBACHER || SEITENBACHER || Cereal,30.0,11.11,Cereal,SEITENBACHER || SEITENBACHER,1,8
+"SETTON INTERNATIONAL FOODS INC || SETTON FARMS || Popcorn, Peanuts, Seeds & Related Snacks",26.67,16.67,"Popcorn, Peanuts, Seeds & Related Snacks",SETTON INTERNATIONAL FOODS INC || SETTON FARMS,1,69
+SEVEN SUNDAYS LLC || SEVEN SUNDAYS || Cereal,12.5,12.39,Cereal,SEVEN SUNDAYS LLC || SEVEN SUNDAYS,1,14
+SHAMROCK FOODS COMPANY || SHAMROCK FARMS || Milk,5.65,3.75,Milk,SHAMROCK FOODS COMPANY || SHAMROCK FARMS,5,51
+SHAMROCK FOODS COMPANY || SHAMROCK FOODS COMPANY || Milk,8.47,5.65,Milk,SHAMROCK FOODS COMPANY || SHAMROCK FOODS COMPANY,1,1
+SHIP GUAM INC || CORACAO || Chocolate,21.43,14.29,Chocolate,SHIP GUAM INC || CORACAO,1,1
+SIMMS || SIMMS || Other Snacks,57.14,17.86,Other Snacks,SIMMS || SIMMS,1,2
+"SIMPLE MILLS || SIMPLE MILLS || Cake, Cookie & Cupcake Mixes",17.74,10.0,"Cake, Cookie & Cupcake Mixes",SIMPLE MILLS || SIMPLE MILLS,1,9
+"SIMPLY DELICIOUS INC || BOBOS || Snack, Energy & Granola Bars",24.59,6.98,"Snack, Energy & Granola Bars",SIMPLY DELICIOUS INC || BOBOS,4,74
+"SKIN CARE PANTRY LLC || NOGII || Snack, Energy & Granola Bars",37.04,10.71,"Snack, Energy & Granola Bars",SKIN CARE PANTRY LLC || NOGII,6,2
+SKOOP LLC || HEALTHY SKOOP || Cookies & Biscuits,16.67,16.67,Cookies & Biscuits,SKOOP LLC || HEALTHY SKOOP,1,1
+SMALL PLANET FOODS INC || CASCADIAN FARM || Cereal,14.29,8.62,Cereal,SMALL PLANET FOODS INC || CASCADIAN FARM,2,19
+"SMALL PLANET FOODS INC || CASCADIAN FARM || Snack, Energy & Granola Bars",24.0,8.57,"Snack, Energy & Granola Bars",SMALL PLANET FOODS INC || CASCADIAN FARM,2,24
+"SMALL PLANET FOODS INC || LARABAR || Snack, Energy & Granola Bars",21.15,8.89,"Snack, Energy & Granola Bars",SMALL PLANET FOODS INC || LARABAR,17,144
+"SMART FINAL IRIS CORPORATION || FIRST STREET || Snack, Energy & Granola Bars",25.0,8.57,"Snack, Energy & Granola Bars",SMART FINAL IRIS CORPORATION || FIRST STREET,1,7
+"SNACK WORLD LLC || SNAK CLUB || Popcorn, Peanuts, Seeds & Related Snacks",28.335,13.33,"Popcorn, Peanuts, Seeds & Related Snacks",SNACK WORLD LLC || SNAK CLUB,2,72
+SPROUT FOODS INC || SPROUT || Yogurt,3.21,3.21,Yogurt,SPROUT FOODS INC || SPROUT,7,3
+SQUARE ONE PUBLISHERS INC || PALEOETHICS || Powdered Drinks,78.85499999999999,18.335,Powdered Drinks,SQUARE ONE PUBLISHERS INC || PALEOETHICS,2,4
+STAMPEDE MEAT INC || CROMAGNON || Other Snacks,41.86,34.88,Other Snacks,STAMPEDE MEAT INC || CROMAGNON,1,3
+STAR MARKETS CO || WILD HARVEST || Cereal,19.64,10.0,Cereal,STAR MARKETS CO || WILD HARVEST,1,34
+STARBUCKS || STARBUCKS || Other Drinks,6.06,2.19,Other Drinks,STARBUCKS || STARBUCKS,4,20
+"STATER BROS MARKETS INC || STATER BROS MARKETS || Snack, Energy & Granola Bars",25.0,8.57,"Snack, Energy & Granola Bars",STATER BROS MARKETS INC || STATER BROS MARKETS,2,7
+STEWART FARMS INC || COLUMBIA GORGE ORGANIC || Other Drinks,4.66,0.0,Other Drinks,STEWART FARMS INC || COLUMBIA GORGE ORGANIC,1,3
+STONYFIELD FARM INC || STONYFIELD ORGANIC || Milk,5.08,3.33,Milk,STONYFIELD FARM INC || STONYFIELD ORGANIC,1,1
+STONYFIELD FARM INC || STONYFIELD || Milk,4.17,3.33,Milk,STONYFIELD FARM INC || STONYFIELD,1,7
+STONYFIELD FARM INC || STONYFIELD || Yogurt,5.73,4.12,Yogurt,STONYFIELD FARM INC || STONYFIELD,2,85
+"STRASNERS BARBQUE || YUMI || Snack, Energy & Granola Bars",14.29,9.52,"Snack, Energy & Granola Bars",STRASNERS BARBQUE || YUMI,1,4
+STRYVE FOODS || STRYVE || Other Snacks,48.215,57.14,Other Snacks,STRYVE FOODS || STRYVE,4,4
+"SUJA LIFE LLC || SUJA || Fruit & Vegetable Juice, Nectars & Fruit Drinks",2.5,0.42,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",SUJA LIFE LLC || SUJA,1,80
+SUJA LIFE LLC || SUJA || Other Drinks,2.82,0.0,Other Drinks,SUJA LIFE LLC || SUJA,1,74
+SUNFOOD LLC || SUNFOOD || Other Snacks,57.985,30.0,Other Snacks,SUNFOOD LLC || SUNFOOD,2,2
+"SUNTREE LLC || SUNTREE SNACK FOODS || Popcorn, Peanuts, Seeds & Related Snacks",23.33,20.0,"Popcorn, Peanuts, Seeds & Related Snacks",SUNTREE LLC || SUNTREE SNACK FOODS,1,6
+SUPER STORE INDUSTRIES || SUNNYSIDE FARMS || Milk,5.49,3.75,Milk,SUPER STORE INDUSTRIES || SUNNYSIDE FARMS,4,47
+"SUPERVALU INC || ESSENTIAL EVERYDAY || Snack, Energy & Granola Bars",25.0,5.41,"Snack, Energy & Granola Bars",SUPERVALU INC || ESSENTIAL EVERYDAY,2,15
+SUPPORT QUEST INC || SUSTAINABLE INDULGENCE || Cookies & Biscuits,8.33,5.88,Cookies & Biscuits,SUPPORT QUEST INC || SUSTAINABLE INDULGENCE,1,3
+"TARGET STORES || ARCHER FARMS || Cake, Cookie & Cupcake Mixes",19.84,5.88,"Cake, Cookie & Cupcake Mixes",TARGET STORES || ARCHER FARMS,2,30
+"TARGET STORES || ARCHER FARMS || Popcorn, Peanuts, Seeds & Related Snacks",28.57,13.79,"Popcorn, Peanuts, Seeds & Related Snacks",TARGET STORES || ARCHER FARMS,1,265
+TARGET STORES || GOOD GATHER || Cereal,20.0,9.76,Cereal,TARGET STORES || GOOD GATHER,1,61
+TARGET STORES || GOOD GATHER || Lunch Snacks & Combinations,25.0,17.11,Lunch Snacks & Combinations,TARGET STORES || GOOD GATHER,2,22
+"TARGET STORES || GOOD GATHER || Popcorn, Peanuts, Seeds & Related Snacks",21.88,17.86,"Popcorn, Peanuts, Seeds & Related Snacks",TARGET STORES || GOOD GATHER,1,150
+"TARGET STORES || GOOD GATHER || Snack, Energy & Granola Bars",24.04,8.89,"Snack, Energy & Granola Bars",TARGET STORES || GOOD GATHER,12,46
+TARGET STORES || MARKET PANTRY || Powdered Drinks,62.5,0.0,Powdered Drinks,TARGET STORES || MARKET PANTRY,1,41
+TAYLOR FRESH FOODS INC || TAYLOR FARMS || Lunch Snacks & Combinations,6.57,6.73,Lunch Snacks & Combinations,TAYLOR FRESH FOODS INC || TAYLOR FARMS,3,27
+TC HEARTLAND LLC || SPLENDA || Milk,6.75,3.79,Milk,TC HEARTLAND LLC || SPLENDA,2,2
+"TERRASOUL SUPERFOODS LLC || BLUE DINOSAUR || Snack, Energy & Granola Bars",41.67,6.67,"Snack, Energy & Granola Bars",TERRASOUL SUPERFOODS LLC || BLUE DINOSAUR,3,7
+"TERRATEK INC || NICKS || Snack, Energy & Granola Bars",26.0,12.5,"Snack, Energy & Granola Bars",TERRATEK INC || NICKS,2,1
+TH FOODS INC || CRUNCHMASTER || Other Snacks,26.67,6.67,Other Snacks,TH FOODS INC || CRUNCHMASTER,1,1
+"THE CARRINGTON TEA COMPANY LLC || TERASWHEY || Energy, Protein & Muscle Recovery Drinks",75.0,78.57,"Energy, Protein & Muscle Recovery Drinks",THE CARRINGTON TEA COMPANY LLC || TERASWHEY,3,1
+THE COOKIE DEPARTMENT || THE COOKIE DEPARTMENT || Cookies & Biscuits,11.63,4.65,Cookies & Biscuits,THE COOKIE DEPARTMENT || THE COOKIE DEPARTMENT,1,4
+"THE CRONS BRAND || COME READY || Snack, Energy & Granola Bars",30.0,28.85,"Snack, Energy & Granola Bars",THE CRONS BRAND || COME READY,1,1
+"THE CRONS BRAND || READY NUTRITION || Chips, Pretzels & Snacks",35.71,17.86,"Chips, Pretzels & Snacks",THE CRONS BRAND || READY NUTRITION,2,1
+"THE CRONS BRAND || READY || Snack, Energy & Granola Bars",28.3,23.08,"Snack, Energy & Granola Bars",THE CRONS BRAND || READY,3,1
+"THE DAILY RECORD || VEGA SPORT || Snack, Energy & Granola Bars",25.0,12.0,"Snack, Energy & Granola Bars",THE DAILY RECORD || VEGA SPORT,2,4
+"THE DAILY RECORD || VEGA || Chips, Pretzels & Snacks",66.67,45.45,"Chips, Pretzels & Snacks",THE DAILY RECORD || VEGA,33,11
+"THE DAILY RECORD || VEGA || Energy, Protein & Muscle Recovery Drinks",63.64,47.62,"Energy, Protein & Muscle Recovery Drinks",THE DAILY RECORD || VEGA,18,26
+THE DAILY RECORD || VEGA || Powdered Drinks,57.14,52.63,Powdered Drinks,THE DAILY RECORD || VEGA,9,37
+"THE DAILY RECORD || VEGA || Snack, Energy & Granola Bars",22.45,8.0,"Snack, Energy & Granola Bars",THE DAILY RECORD || VEGA,30,17
+"THE FARMERS COW LLC || SOUTH BEACH DIET || Snack, Energy & Granola Bars",27.03,21.43,"Snack, Energy & Granola Bars",THE FARMERS COW LLC || SOUTH BEACH DIET,9,16
+"THE HAIN CELESTIAL GROUP INC || ARROWHEAD MILLS || Cake, Cookie & Cupcake Mixes",40.0,10.0,"Cake, Cookie & Cupcake Mixes",THE HAIN CELESTIAL GROUP INC || ARROWHEAD MILLS,1,15
+THE HAIN CELESTIAL GROUP INC || WESTSOY || Other Meats,24.71,14.885,Other Meats,THE HAIN CELESTIAL GROUP INC || WESTSOY,3,4
+THE HILLSHIRE BRANDS COMPANY || JIMMY DEAN || Lunch Snacks & Combinations,16.47,8.6,Lunch Snacks & Combinations,THE HILLSHIRE BRANDS COMPANY || JIMMY DEAN,3,1
+THE HILLSHIRE BRANDS COMPANY || RAISED ROOTED || Other Meats,16.96,18.05,Other Meats,THE HILLSHIRE BRANDS COMPANY || RAISED ROOTED,1,4
+"THE JM SMUCKER COMPANY || SAHALE SNACKS || Snack, Energy & Granola Bars",12.5,12.5,"Snack, Energy & Granola Bars",THE JM SMUCKER COMPANY || SAHALE SNACKS,1,6
+"THE KELLOGG COMPANY || KELLOGGS FIBERPLUS || Snack, Energy & Granola Bars",25.0,5.56,"Snack, Energy & Granola Bars",THE KELLOGG COMPANY || KELLOGGS FIBERPLUS,2,9
+THE KELLOGG COMPANY || SPECIAL K || Cereal,25.835,7.14,Cereal,THE KELLOGG COMPANY || SPECIAL K,8,65
+"THE KELLOGG COMPANY || SPECIAL K || Snack, Energy & Granola Bars",23.53,4.55,"Snack, Energy & Granola Bars",THE KELLOGG COMPANY || SPECIAL K,38,47
+"THE KING ARTHUR FLOUR COMPANY INC || KING ARTHUR FLOUR || Cake, Cookie & Cupcake Mixes",24.56,5.0649999999999995,"Cake, Cookie & Cupcake Mixes",THE KING ARTHUR FLOUR COMPANY INC || KING ARTHUR FLOUR,1,28
+THE KROGER CO || KROGER || Cereal,19.4,8.2,Cereal,THE KROGER CO || KROGER,1,76
+"THE KROGER CO || KROGER || Fruit & Vegetable Juice, Nectars & Fruit Drinks",4.05,0.0,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",THE KROGER CO || KROGER,4,81
+THE KROGER CO || KROGER || Lunch Snacks & Combinations,18.345,9.28,Lunch Snacks & Combinations,THE KROGER CO || KROGER,2,4
+"THE KROGER CO || KROGER || Snack, Energy & Granola Bars",25.0,6.605,"Snack, Energy & Granola Bars",THE KROGER CO || KROGER,5,26
+THE KROGER CO || KROGER || Yogurt,4.05,5.29,Yogurt,THE KROGER CO || KROGER,3,68
+"THE KROGER CO || PRIVATE SELECTION || Cake, Cookie & Cupcake Mixes",20.9,7.5,"Cake, Cookie & Cupcake Mixes",THE KROGER CO || PRIVATE SELECTION,1,1
+THE KROGER CO || SIMPLE TRUTH || Cereal,25.93,10.0,Cereal,THE KROGER CO || SIMPLE TRUTH,1,29
+"THE KROGER CO || SIMPLE TRUTH || Snack, Energy & Granola Bars",33.33,13.24,"Snack, Energy & Granola Bars",THE KROGER CO || SIMPLE TRUTH,1,26
+"THE NEW YORK BAKERY OF SYRACUSE INC || P28 || Cake, Cookie & Cupcake Mixes",31.11,31.11,"Cake, Cookie & Cupcake Mixes",THE NEW YORK BAKERY OF SYRACUSE INC || P28,1,2
+THE NEW YORK BAKERY OF SYRACUSE INC || P28 || Nut & Seed Butters,37.875,35.9,Nut & Seed Butters,THE NEW YORK BAKERY OF SYRACUSE INC || P28,4,1
+THE PICTSWEET COMPANY || PICTSWEET FARMS || Frozen Dinners & Entrees,5.8,0.79,Frozen Dinners & Entrees,THE PICTSWEET COMPANY || PICTSWEET FARMS,4,1
+THE QUAKER OATS COGATORADEVAN CAMP || GATORADE || Milk,78.12,6.15,Milk,THE QUAKER OATS COGATORADEVAN CAMP || GATORADE,1,3
+THE QUAKER OATS COGATORADEVAN CAMP || GATORADE || Powdered Drinks,66.67,0.0,Powdered Drinks,THE QUAKER OATS COGATORADEVAN CAMP || GATORADE,1,51
+"THE QUAKER OATS COGATORADEVAN CAMP || GATORADE || Snack, Energy & Granola Bars",25.0,0.0,"Snack, Energy & Granola Bars",THE QUAKER OATS COGATORADEVAN CAMP || GATORADE,28,22
+THE QUAKER OATS COGATORADEVAN CAMP || GATORADE || Water,66.67,0.0,Water,THE QUAKER OATS COGATORADEVAN CAMP || GATORADE,2,6
+"THE QUAKER OATS COMPANY || PEARL MILLING COMPANY || Cake, Cookie & Cupcake Mixes",25.42,10.129999999999999,"Cake, Cookie & Cupcake Mixes",THE QUAKER OATS COMPANY || PEARL MILLING COMPANY,1,22
+THE QUAKER OATS COMPANY || QUAKER || Cereal,16.39,9.52,Cereal,THE QUAKER OATS COMPANY || QUAKER,9,213
+"THE QUAKER OATS COMPANY || QUAKER || Snack, Energy & Granola Bars",21.28,4.76,"Snack, Energy & Granola Bars",THE QUAKER OATS COMPANY || QUAKER,5,162
+THE YOFARM COMPANY || YOCRUNCH || Yogurt,9.41,2.94,Yogurt,THE YOFARM COMPANY || YOCRUNCH,1,41
+"THINKEATLIVE FOODS LLC || THINKEATLIVE || Cake, Cookie & Cupcake Mixes",18.0,18.0,"Cake, Cookie & Cupcake Mixes",THINKEATLIVE FOODS LLC || THINKEATLIVE,1,1
+"THINKTHIN LLC || THINKTHIN || Snack, Energy & Granola Bars",25.0,23.75,"Snack, Energy & Granola Bars",THINKTHIN LLC || THINKTHIN,56,4
+THISTLE HEALTH INC || THISTLE || Other Drinks,5.63,0.28,Other Drinks,THISTLE HEALTH INC || THISTLE,1,3
+THISTLE HEALTH INC || THISTLE || Plant Based Milk,5.63,0.85,Plant Based Milk,THISTLE HEALTH INC || THISTLE,1,1
+TOPCO ASSOCIATES INC || FULL CIRCLE MARKET || Cereal,18.18,10.0,Cereal,TOPCO ASSOCIATES INC || FULL CIRCLE MARKET,1,23
+TOPCO ASSOCIATES INC || FULL CIRCLE MARKET || Pasta by Shape & Type,15.455,10.71,Pasta by Shape & Type,TOPCO ASSOCIATES INC || FULL CIRCLE MARKET,2,10
+TOPCO ASSOCIATES INC || FULL CIRCLE || Cereal,25.0,13.33,Cereal,TOPCO ASSOCIATES INC || FULL CIRCLE,1,3
+"TOPCO ASSOCIATES INC || TOPCARE || Energy, Protein & Muscle Recovery Drinks",9.23,0.0,"Energy, Protein & Muscle Recovery Drinks",TOPCO ASSOCIATES INC || TOPCARE,3,1
+"TOPCO ASSOCIATES INC || TOPCARE || Snack, Energy & Granola Bars",22.22,13.605,"Snack, Energy & Granola Bars",TOPCO ASSOCIATES INC || TOPCARE,3,2
+"TOPOLOGIC SYSTEMS INC || PAPA STEVES || Snack, Energy & Granola Bars",28.17,20.97,"Snack, Energy & Granola Bars",TOPOLOGIC SYSTEMS INC || PAPA STEVES,1,1
+"TOPS MARKETS LLC || TOPS || Snack, Energy & Granola Bars",25.0,6.5600000000000005,"Snack, Energy & Granola Bars",TOPS MARKETS LLC || TOPS,2,18
+"TOSI HEALTH || TOSI || Snack, Energy & Granola Bars",17.86,17.86,"Snack, Energy & Granola Bars",TOSI HEALTH || TOSI,6,1
+TRANSFORM MANAGEMENT LLC || TRANSFORMHQ || Meal Replacement Supplements,48.78,48.78,Meal Replacement Supplements,TRANSFORM MANAGEMENT LLC || TRANSFORMHQ,9,1
+TRIBE 9 FOODS LLC || YUMBUTTER || Nut & Seed Butters,28.125,18.75,Nut & Seed Butters,TRIBE 9 FOODS LLC || YUMBUTTER,2,19
+"TRU BRANDS INC || TRUWOMEN || Snack, Energy & Granola Bars",24.0,24.0,"Snack, Energy & Granola Bars",TRU BRANDS INC || TRUWOMEN,1,1
+TYSON FOODS INC || SPARE TIME || Meat/Poultry/Other Animals - Prepared/Processed,10.95,14.09,Meat/Poultry/Other Animals - Prepared/Processed,TYSON FOODS INC || SPARE TIME,1,3
+URBAN REMEDY || URBAN REMEDY || Other Drinks,1.27,0.74,Other Drinks,URBAN REMEDY || URBAN REMEDY,1,12
+"URBAN REMEDY || URBAN REMEDY || Snack, Energy & Granola Bars",20.75,21.0,"Snack, Energy & Granola Bars",URBAN REMEDY || URBAN REMEDY,2,4
+UTZ QUALITY FOODS LLC || BOULDER CANYON || Other Snacks,35.71,39.29,Other Snacks,UTZ QUALITY FOODS LLC || BOULDER CANYON,3,5
+"VEGA || VEGA || Energy, Protein & Muscle Recovery Drinks",60.61,58.295,"Energy, Protein & Muscle Recovery Drinks",VEGA || VEGA,1,2
+VEGGIELAND LLC || FRANKLIN FARMS || Other Meats,21.72,13.95,Other Meats,VEGGIELAND LLC || FRANKLIN FARMS,6,33
+"VORLO INC || OUTRIGHT || Snack, Energy & Granola Bars",18.33,28.33,"Snack, Energy & Granola Bars",VORLO INC || OUTRIGHT,1,1
+"WAKEFERN FOOD CORPORATION || SHOPRITE || Cake, Cookie & Cupcake Mixes",20.9,7.69,"Cake, Cookie & Cupcake Mixes",WAKEFERN FOOD CORPORATION || SHOPRITE,1,7
+"WALBAK INTERNATIONAL MARKETING LTD || 1ST PHORM || Snack, Energy & Granola Bars",31.75,31.75,"Snack, Energy & Granola Bars",WALBAK INTERNATIONAL MARKETING LTD || 1ST PHORM,1,1
+WALGREENS CO || NICE || Cereal,19.64,8.815000000000001,Cereal,WALGREENS CO || NICE,1,8
+"WALGREENS CO || WALGREENS || Energy, Protein & Muscle Recovery Drinks",5.49,3.8,"Energy, Protein & Muscle Recovery Drinks",WALGREENS CO || WALGREENS,7,15
+"WALMART STORES INC || EQUATE || Energy, Protein & Muscle Recovery Drinks",6.25,4.01,"Energy, Protein & Muscle Recovery Drinks",WALMART STORES INC || EQUATE,46,2
+WALMART STORES INC || EQUATE || Meal Replacement Supplements,3.08,4.62,Meal Replacement Supplements,WALMART STORES INC || EQUATE,2,1
+WALMART STORES INC || EQUATE || Milk Additives,6.33,4.17,Milk Additives,WALMART STORES INC || EQUATE,1,9
+"WALMART STORES INC || EQUATE || Snack, Energy & Granola Bars",33.33,19.32,"Snack, Energy & Granola Bars",WALMART STORES INC || EQUATE,1,4
+WALMART STORES INC || GREAT VALUE || Cereal,19.23,7.5,Cereal,WALMART STORES INC || GREAT VALUE,3,139
+WALMART STORES INC || GREAT VALUE || Plant Based Milk,3.33,0.42,Plant Based Milk,WALMART STORES INC || GREAT VALUE,1,7
+WALMART STORES INC || GREAT VALUE || Powdered Drinks,35.71,0.0,Powdered Drinks,WALMART STORES INC || GREAT VALUE,2,126
+"WALMART STORES INC || GREAT VALUE || Snack, Energy & Granola Bars",25.0,6.45,"Snack, Energy & Granola Bars",WALMART STORES INC || GREAT VALUE,4,56
+"WALMART STORES INC || WALMART STORES INC || Popcorn, Peanuts, Seeds & Related Snacks",25.81,19.05,"Popcorn, Peanuts, Seeds & Related Snacks",WALMART STORES INC || WALMART STORES INC,1,4
+WEGMANS FOOD MARKETS INC || WEGMANS || Cereal,25.0,9.09,Cereal,WEGMANS FOOD MARKETS INC || WEGMANS,3,102
+WEGMANS FOOD MARKETS INC || WEGMANS || Other Meats,21.18,17.86,Other Meats,WEGMANS FOOD MARKETS INC || WEGMANS,1,13
+"WEIDER HEALTH AND FITNESS || TIGERS MILK || Snack, Energy & Granola Bars",17.66,14.29,"Snack, Energy & Granola Bars",WEIDER HEALTH AND FITNESS || TIGERS MILK,2,1
+"WEIS MARKETS INC || WEIS QUALITY || Snack, Energy & Granola Bars",25.0,6.37,"Snack, Energy & Granola Bars",WEIS MARKETS INC || WEIS QUALITY,1,4
+WEIS MARKETS INC || WEIS || Milk,5.42,3.54,Milk,WEIS MARKETS INC || WEIS,1,10
+WELLNOVA CONSUMER HEALTHCARE LLC || FOUNDATION FITNESS || Other Drinks,62.5,6.06,Other Drinks,WELLNOVA CONSUMER HEALTHCARE LLC || FOUNDATION FITNESS,4,1
+WHITE CLOUD NUTRITION LLC || KURA || Powdered Drinks,35.0,35.0,Powdered Drinks,WHITE CLOUD NUTRITION LLC || KURA,3,1
+WHOLE FOODS MARKET INC || 365 EVERYDAY VALUE || Cereal,20.0,10.0,Cereal,WHOLE FOODS MARKET INC || 365 EVERYDAY VALUE,1,36
+WHOLE FOODS MARKET INC || 365 EVERYDAY VALUE || Cookies & Biscuits,74.005,3.7,Cookies & Biscuits,WHOLE FOODS MARKET INC || 365 EVERYDAY VALUE,2,25
+WHOLE FOODS MARKET INC || 365 WHOLE FOODS MARKET || Cereal,17.24,8.93,Cereal,WHOLE FOODS MARKET INC || 365 WHOLE FOODS MARKET,1,38
+WHOLE FOODS MARKET INC || 365 WHOLE FOODS MARKET || Other Snacks,17.78,7.98,Other Snacks,WHOLE FOODS MARKET INC || 365 WHOLE FOODS MARKET,5,14
+"WHOLE FOODS MARKET INC || 365 WHOLE FOODS MARKET || Popcorn, Peanuts, Seeds & Related Snacks",18.61,14.29,"Popcorn, Peanuts, Seeds & Related Snacks",WHOLE FOODS MARKET INC || 365 WHOLE FOODS MARKET,2,105
+WILD FRIENDS FOODS INC || WILD FRIENDS || Nut & Seed Butters,37.5,21.88,Nut & Seed Butters,WILD FRIENDS FOODS INC || WILD FRIENDS,6,37
+"WILDE BRANDS LLC || WILDE || Chips, Pretzels & Snacks",34.21,25.0,"Chips, Pretzels & Snacks",WILDE BRANDS LLC || WILDE,23,1
+"WM BOLTHOUSE FARMS INC || BOLTHOUSE FARMS || Fruit & Vegetable Juice, Nectars & Fruit Drinks",2.44,0.42,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",WM BOLTHOUSE FARMS INC || BOLTHOUSE FARMS,1,98
+WM BOLTHOUSE FARMS INC || BOLTHOUSE FARMS || Other Drinks,3.33,0.32,Other Drinks,WM BOLTHOUSE FARMS INC || BOLTHOUSE FARMS,21,20
+WM BOLTHOUSE FARMS INC || BOLTHOUSE FARMS || Yogurt,2.5,2.9749999999999996,Yogurt,WM BOLTHOUSE FARMS INC || BOLTHOUSE FARMS,4,4
+WOODBOLT DISTRIBUTION LLC || CELLUCOR || Cheese,75.0,72.73,Cheese,WOODBOLT DISTRIBUTION LLC || CELLUCOR,1,1
+"WOODBOLT DISTRIBUTION LLC || FITJOY || Snack, Energy & Granola Bars",32.26,33.33,"Snack, Energy & Granola Bars",WOODBOLT DISTRIBUTION LLC || FITJOY,4,1
+YOPLAIT USA || YOPLAIT || Yogurt,10.0,3.535,Yogurt,YOPLAIT USA || YOPLAIT,13,194
+ZAKO LLC DBA PURE PARIMA || MOON CHEESE || Other Snacks,26.665,50.0,Other Snacks,ZAKO LLC DBA PURE PARIMA || MOON CHEESE,2,5
+ZOOMORPHIX INC || REBBL || Other Drinks,4.51,0.28,Other Drinks,ZOOMORPHIX INC || REBBL,1,1

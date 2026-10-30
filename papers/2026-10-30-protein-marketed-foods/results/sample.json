@@ -1,0 +1,234 @@
+{
+ "extract_rows": 213813,
+ "release_latest_gtins": 465110,
+ "release_by_country": {
+  "United States": 456154,
+  "US": 7848,
+  "New Zealand": 1108
+ },
+ "us_latest_gtins": 464002,
+ "us_not_discontinued": 462142,
+ "us_live_protein_text": 6829,
+ "us_live_added_sugar_cov": 0.32781699131435793,
+ "us_live_added_sugar_cov_by_year": {
+  "2019": {
+   "n": 11677,
+   "cov": 0.0759612914275927
+  },
+  "2020": {
+   "n": 5776,
+   "cov": 0.15183518005540167
+  },
+  "2021": {
+   "n": 207547,
+   "cov": 0.18323560446549456
+  },
+  "2022": {
+   "n": 78458,
+   "cov": 0.20840449667337937
+  },
+  "2023": {
+   "n": 143247,
+   "cov": 0.5845916493888179
+  },
+  "2024": {
+   "n": 2940,
+   "cov": 0.922108843537415
+  },
+  "2025": {
+   "n": 6274,
+   "cov": 0.9215811284666879
+  },
+  "2026": {
+   "n": 6223,
+   "cov": 0.5012052064920456
+  }
+ },
+ "us_live_E2_check": 6829,
+ "us_live_E1": 1017,
+ "us_live_E1_in_description_only": 941,
+ "n_categories": 34,
+ "E2_outside_categories": 438,
+ "category_rows_before_dedup": 212589,
+ "dropped_leading_zero_gtin_duplicates": 9236,
+ "dropped_missing_or_implausible": 5317,
+ "n_analysis": 198036,
+ "n_E2": 6011,
+ "n_E1": 891,
+ "pkg_parsed_share": 0.8897624674301642,
+ "pkg_parsed_share_E2": 0.948926967226751,
+ "pkg_kind_mismatch_share_of_parsed": 0.006980505661019835,
+ "ingredients_present_share": 0.9975105536367125,
+ "categories": {
+  "Breakfast Drinks": {
+   "n": 72,
+   "E2": 33,
+   "E1": 10
+  },
+  "Cake, Cookie & Cupcake Mixes": {
+   "n": 3380,
+   "E2": 72,
+   "E1": 9
+  },
+  "Cakes, Cupcakes, Snack Cakes": {
+   "n": 9039,
+   "E2": 32,
+   "E1": 0
+  },
+  "Candy": {
+   "n": 22093,
+   "E2": 38,
+   "E1": 5
+  },
+  "Cereal": {
+   "n": 7806,
+   "E2": 163,
+   "E1": 14
+  },
+  "Cheese": {
+   "n": 16688,
+   "E2": 30,
+   "E1": 2
+  },
+  "Chips, Pretzels & Snacks": {
+   "n": 11961,
+   "E2": 188,
+   "E1": 5
+  },
+  "Chocolate": {
+   "n": 10126,
+   "E2": 111,
+   "E1": 34
+  },
+  "Cookies & Biscuits": {
+   "n": 12886,
+   "E2": 181,
+   "E1": 0
+  },
+  "Energy, Protein & Muscle Recovery Drinks": {
+   "n": 1738,
+   "E2": 1350,
+   "E1": 209
+  },
+  "Frozen Appetizers & Hors D'oeuvres": {
+   "n": 4696,
+   "E2": 23,
+   "E1": 10
+  },
+  "Frozen Dinners & Entrees": {
+   "n": 5389,
+   "E2": 68,
+   "E1": 15
+  },
+  "Fruit & Vegetable Juice, Nectars & Fruit Drinks": {
+   "n": 8848,
+   "E2": 42,
+   "E1": 2
+  },
+  "Lunch Snacks & Combinations": {
+   "n": 876,
+   "E2": 68,
+   "E1": 4
+  },
+  "Meal Replacement Supplements": {
+   "n": 151,
+   "E2": 54,
+   "E1": 4
+  },
+  "Meat/Poultry/Other Animals - Prepared/Processed": {
+   "n": 1446,
+   "E2": 63,
+   "E1": 62
+  },
+  "Milk": {
+   "n": 4303,
+   "E2": 171,
+   "E1": 74
+  },
+  "Milk Additives": {
+   "n": 1423,
+   "E2": 24,
+   "E1": 1
+  },
+  "Milk/Milk Substitutes": {
+   "n": 1946,
+   "E2": 22,
+   "E1": 8
+  },
+  "Nut & Seed Butters": {
+   "n": 2609,
+   "E2": 56,
+   "E1": 12
+  },
+  "Other Drinks": {
+   "n": 4622,
+   "E2": 128,
+   "E1": 17
+  },
+  "Other Meats": {
+   "n": 2346,
+   "E2": 34,
+   "E1": 2
+  },
+  "Other Snacks": {
+   "n": 7962,
+   "E2": 101,
+   "E1": 5
+  },
+  "Pasta by Shape & Type": {
+   "n": 6375,
+   "E2": 27,
+   "E1": 10
+  },
+  "Plant Based Milk": {
+   "n": 1207,
+   "E2": 77,
+   "E1": 7
+  },
+  "Popcorn, Peanuts, Seeds & Related Snacks": {
+   "n": 21147,
+   "E2": 86,
+   "E1": 14
+  },
+  "Powdered Drinks": {
+   "n": 4193,
+   "E2": 142,
+   "E1": 28
+  },
+  "Prepared Soups": {
+   "n": 724,
+   "E2": 23,
+   "E1": 9
+  },
+  "Processed Cereal Products": {
+   "n": 1947,
+   "E2": 129,
+   "E1": 4
+  },
+  "Snack, Energy & Granola Bars": {
+   "n": 7782,
+   "E2": 2307,
+   "E1": 311
+  },
+  "Water": {
+   "n": 5648,
+   "E2": 36,
+   "E1": 1
+  },
+  "Weight Control": {
+   "n": 66,
+   "E2": 21,
+   "E1": 0
+  },
+  "Yogurt": {
+   "n": 6023,
+   "E2": 66,
+   "E1": 3
+  },
+  "Yogurt/Yogurt Substitutes": {
+   "n": 518,
+   "E2": 45,
+   "E1": 0
+  }
+ }
+}
