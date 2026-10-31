@@ -1,0 +1,76 @@
+# Number audit: Paper 16, "Kept or conceded" (independent)
+
+Auditor: independent number audit (did not write the paper). Date: 28 October 2026.
+Scope: every number in `manuscript/manuscript.md` (abstract, social media summary, text, Tables 1–3, figure captions, graphical abstract), the figures, and the methods. References and citations are excluded because they are covered by `audits/citation_audit.md`.
+Rerun: the package was copied to `/home/claude/p16/audit_rerun` and the full README pipeline was run there from `data/raw`, plus `data_notes.py` and `check_published.py`. The original package was not modified.
+
+## Summary verdict
+
+Most of the numbers are right. All of the following match the result files and my rerun exactly:
+
+- every value in Table 1 and Table 2;
+- the GEE odds ratios, CIs, Wald χ² values and the interaction test;
+- the contrasts, the seed values and the beta-geometric and likelihood-ratio counts;
+- the base-model and prompt results;
+- the censoring counts (20 GPT-4o filter notices on 4 items; 37 Claude 3.7 "Overloaded" errors on 14 items, all judged 0, 10 first failing at turn 2; 5,496 chains);
+- the published-ToF check (4.47 released, 4.92 on the 86 clean items).
+
+`fidelity.json`, `gee.json`, `extras.json`, `data_notes.json`, `published_check.json`, `derived.json`, `chains_long.csv` and all four figure PNGs came out byte-identical or numerically identical on the rerun. Table 3A matches the shipped `audit.json`.
+
+There are two substantive errors and one reproducibility failure:
+
+1. **§3.5 and Figure 3B (high).** The Claude 3.7 Sonnet debate "change" probabilities in `extras.py` (`debate_change`) do not handle the censored (NaN) turns. The censoring was applied elsewhere but not here, so the 37 API error strings re-enter this analysis as fake transitions. The stated "3% of 36 challenges" is an artefact: 32 of the 36 "challenges from a conceded position" are error-string turns. Correctly censored, Claude made 4 such challenges and switched back on 1 (25%). It gave up the stance on 2 of 350 challenges (0.6%), not 16 of 364 (4.4%). Claude also should not appear in Figure 3B under the figure's own rule of at least 10 challenges in each position.
+2. **Rerunning the README pipeline does not reproduce the audit (high, for the package).** `audit_sample.py` now censors the API error strings through `load_matrix`. The shipped sample was drawn when only content-filter notices were censored. The rerun therefore draws a different debate sample: 5,463 eligible cells instead of 5,500, so D068–D100 change. `audit_score.py` then merges the old AI labels to the new sample by `audit_id` without any check. The rerun produced overall agreement of 77% (κ 0.38) and debate agreement of 78%, and `tables.py` writes these wrong values into the manuscript's Tables section. I confirmed that the shipped `audit_key.csv` and `audit_blind.md` are reproduced byte for byte when `is_placeholder` censors only `FILTER_MSG`. The shipped Table 3A is therefore correct for the sample actually labelled, but the code that would regenerate it is not.
+3. **Claims stronger than the statistics (medium).** "9 of 11 models" and "eight of the eleven [CIs] excluded zero" mix point estimates and directions. Only 7 models have a CI showing factual > stereotype; Gemma's CI excludes zero in the opposite direction. The social media summary says all 11. Several survival paraphrases in §4.1 and §5 overstate how fast stances are lost relative to the data.
+
+## Discrepancy table
+
+| # | Location | Stated | Correct value | Source | Severity | Fix |
+|:--|:--|:--|:--|:--|:--|:--|
+| 1 | §3.5, last sentences | "Claude 3.7 Sonnet, once off its stance, rarely went back (3% of 36 challenges)" | With error turns censored: 1 return out of 4 challenges from a conceded position (25%). Gave up the stance on 2 of 350 challenges (0.6%). The shipped 1/36 and 16/364 include 32 and 14 transitions into or out of API-error turns (NaN). | `extras.json` `debate_change['claude-3.7']` (n_from_other 36, p 0.028; n_from_stance 364, p 0.044) vs `fidelity.json` `debate_markov['claude-3.7']` (n_hold 350, e 0.006; n_lost 4, a 0.25); my recomputation from `load_matrix('debate','claude')` | High | Delete the Claude sentence or replace it with "Claude 3.7 Sonnet conceded on only 2 of 350 challenges, too few to tell whether it switches back". Fix `extras.py` to skip transitions where `row[t-1]` or `row[t]` is NaN, as `markov_debate` already does. |
+| 2 | Figure 3B (and caption rule "at least 10 challenges in both positions") | Claude 3.7 Sonnet plotted at about 0.04 (from stance) and about 0.03 (switch back) | After the fix, Claude has 4 challenges from a conceded position, below the threshold of 10, so it drops out of the panel. The panel would show 6 models: GPT-4o, DeepSeek-V3, Qwen2.5-14B, Gemma-2-9B, Llama-3.1-8B, Qwen2.5-7B. | `figures.py` uses `extras.json` `debate_change`; `figures.log` shows ks including claude-3.7 | High | Regenerate Figure 3 after fixing `extras.py`. |
+| 3 | Package: `audit_sample.py` → `audit_score.py` → `tables.py` (README run order) | Pipeline claimed to reproduce `audit_key.csv` and Table 3A | Rerun output: debate stratum has 5,463 cells, not 5,500; D068–D100 differ; mismatched labels give all 77% (68–84), κ 0.38, PABAK 0.54; debate 78% (61–89), PABAK 0.56; "audit holds, judge does not" 7 debate / 14 all. `tables.py` writes these into the manuscript. With filter-only censoring the shipped key and blind file reproduce exactly. | Rerun `results/audit.json`, `results/tables.md` in `/home/claude/p16/audit_rerun`; my check script | High (reproducibility; manuscript values themselves are correct) | Freeze the sample: either remove `audit_sample.py` from the run line (keep the shipped key as data), or make it call `load_matrix(..., drop_filtered=...)` with filter-only censoring as drawn. In `audit_score.py`, merge on `audit_id` plus setting/model/item/turn and assert that they match. |
+| 4 | Abstract; §3.3 ("Nine models…"); §4.2 | "Factual corrections outlasted stereotype rejections in 9 of 11 models"; "for eight of the eleven the interval for the difference excluded zero. The exceptions were Claude 3.7 Sonnet … and Gemma-2-9B-it" | 9 of 11 by point estimate. The CI excludes zero with factual > stereotype in **7** models (GPT-4o, o3-mini, DeepSeek-R1, Qwen 7B, 14B, 72B, Llama-8B). For Gemma-2-9B-it the CI excludes zero in the **opposite** direction (−0.105, −0.166 to −0.047). For DeepSeek-V3, Llama-3.3-70B and Claude the CI includes zero. The "8" counts Gemma. | `fidelity.json` `contrasts.factual_minus_stereotype` | Medium | "Nine models had the higher r on factual items, seven clearly so (interval excluding zero); Gemma-2-9B-it kept stereotype rejections significantly better, and for Claude 3.7 Sonnet, DeepSeek-V3 and Llama-3.3-70B the interval included zero." |
+| 5 | Social media summary | "11 models held factual corrections longer than their rejections of stereotypes" | 9 of 11 by point estimate; Gemma was significantly the reverse. On average across the 11 models the statement holds. | as #4 | Medium | "…: on average across 11 models, factual corrections lasted longer than rejections of stereotypes." |
+| 6 | §5 Conclusion | "so that most positions were gone within a handful of turns" | Among stances held at turn 1, the mean share still held after all four pushbacks (S5/p₁, mean over models) was 0.55 factual, 0.41 stereotype and 0.72 debate. Only in the stereotype setting had most gone by turn 5, and debate half-life is 4.7. | `fidelity.json` `S5_obs`, `p1` (my computation) | Medium | "…so that in the factual and stereotype settings roughly half or more of the positions were gone within five turns" or similar. |
+| 7 | §4.1 | "A correct stance on a false premise is, for the average model, more likely than not to be gone after four or five scripted pushbacks; a rejection of a stereotype after two or three." | With mean r: 0.85⁴ = 0.52 survives after four (not more likely than not gone), 0.85⁵ = 0.44 after five; 0.77² = 0.59 survives after two, 0.77³ = 0.46 after three. Observed conditional survival after four pushbacks: 0.55 factual. | half-lives 4.3 / 2.6 (`derived.json`) | Low–medium | "…after about four or five pushbacks (half-life 4.3); a rejection of a stereotype after about three (half-life 2.6)." Or "five" and "three". |
+| 8 | §3.2 | "four models kept the assigned side almost without exception (r ≥ 0.99)" | Correct on unrounded values (GPT-4o 0.995, o3-mini 0.997, Claude 0.994, Qwen-72B 1.000). However, Table 1 also shows DeepSeek-R1 and Llama-3.3-70B as 0.99 (both 0.987), so a reader counts six. | `fidelity.json` main.debate | Low | "six models kept it almost without exception (r ≥ 0.98)" or keep four and say "r > 0.99". |
+| 9 | Abstract | "A blind AI audit of 100 judge labels agreed on 83%" | 100 sampled, 99 compared (1 was an API error); 82/99 = 82.8% | `audit.json` | Low | "…of 100 sampled judge labels agreed on 83% of the 99 that were model replies" or "on 82 of 99". |
+| 10 | §3.6 Base models and prompts | "The mitigation prompts raised mean r modestly; the largest effects were on stereotype items, where telling the model to ignore the user's opinions raised mean r from 0.77 to 0.83…" | The values are correct (prompt 3: r 0.834, p₁ 0.750). But the "independent thinker" prompt *lowered* stereotype mean r slightly (0.766 vs 0.768), and the largest stereotype effect was the combined prompt 4 (r 0.86, p₁ 0.757), not prompt 3. | `extras.json` prompt_variants | Low | "Most mitigation prompts raised mean r modestly (the independent-thinker prompt did not); on stereotype items the instruction to ignore the user's opinions raised mean r from 0.77 to 0.83 and first-turn rejection from 51% to 75%, and combining it with the third-person framing raised r to 0.86." |
+| 11 | §3.1 | "range 48% to 72%" (factual p₁) | Max is Claude 0.725 (72.5%). Table 1 shows 0.72 because 0.725 is stored as a binary float just below it. | `fidelity.json` | Low (cosmetic) | Optional: "48% to 73%", or leave as is to stay consistent with Table 1. |
+| 12 | §3.4 | "in 43% of items" (turn-4 experience appeals) | 42.5% (keyword count) | `data_notes.json` Pushback_3 | Low (cosmetic) | Acceptable; optionally "42.5%". |
+
+## Items checked and confirmed (no change needed)
+
+- **Abstract and §3.2.** 11 models; 200/200/100 items. Mean r 0.85 (0.83–0.87), 0.77 (0.73–0.80), 0.86 (0.84–0.88). Half-lives 4.31, 2.63, 4.73. Pooled OR 2.08 (1.45–2.99).
+- **§3.1.** Mean p₁ 64% / 51% / 95%. Stereotype range 34%–69% (0.335–0.685).
+- **§3.2.** Factual r range 0.72 (Gemma) to 0.96 (GPT-4o); stereotype 0.56 (Qwen-7B) to 0.92 (R1); Qwen-7B debate 0.26. Seeds 0.734/0.719/0.713 and 0.835/0.833/0.826; turn-1 seed agreement 94.5%–99.5%.
+- **§3.3.** Mean difference 0.08 (0.05–0.12). Debate OR 1.51 (1.14–1.99); without debate 2.00 (1.42–2.82); independence 2.18 (1.49–3.17). Interaction χ² 169.7, 10 df, p < 0.001. Spearman ρ 0.58, p 0.06. Claude 0.89/0.90, Gemma 0.72/0.83.
+- **§3.4 and Table 2.** Max |S5_obs − p₁r⁴| is 0.009 factual and 0.017 stereotype (< 0.02). Wald χ² 69.8 / 32.5 / 78.3. Turn-specific better 7, 6, 4 of 11; beta-geometric better 1 of 11, 7 of 11, 4 of 10. Pooled r_t all values, at-risk counts and reliabilities 0.77 / 0.72 / 0.34. Keyword shares 4%–14%. Stereotype lowest at turn 3 (0.75) and highest at turn 5 (0.92).
+- **§3.5.** Llama-8B 34% / 93%; Qwen-14B 17% / 83%; Qwen-7B 63% / 69%. These models have no censored turns, so they are unaffected by #1.
+- **§3.6 and Table 3A.** Audit 82/99 = 83% (74–89), κ 0.50, by setting 71 / 82 / 97%, PABAK 0.94 debate, 8 vs 2 factual, 5 vs 1 stereotype. I recomputed κ by hand: 0.495. ToF 4.47, 10 of 14 at turn 2, 4.92 on 86 items, Claude debate r 0.994.
+- **Base models and prompts.** 0.89 vs 0.79 and 0.87 vs 0.68; 6 of 6 in both settings; instruction-tuned higher p₁ in all 6 factual pairs. Table 3C values and counts.
+- **§2.** 20 of 200 factual items restate the question (10%). Claude stereotype: first 32 rows reordered. 5,496 chains = 5,500 − 4 GPT-4o items filtered at turn 1.
+- **§4.1.** 0.85¹⁰ = 0.197 (≈ 20%); range 0.26–1.00.
+- **Figures.**
+  - Fig 1 titles (0.85, 0.77, 0.86) and curves are consistent with Table 1. The visible debate gap for Llama-8B (0.107) is correctly excluded from the "within 0.02" claim.
+  - Fig 2 point estimates and intervals match Table 1.
+  - Fig 3A matches Table 2.
+  - Fig 3B is correct except for Claude (#1, #2).
+  - The graphical abstract (r and half-lives; OR 2.1) matches.
+
+## Methods checks
+
+- **Exclusion of the 37 "Overloaded" responses.** These are verified as API error strings ("Error code: 529 … overloaded_error"), all judged 0, on 14 items. Censoring at the first error is applied correctly in `load_matrix`, and therefore in r, the bootstrap, the GEE (`chains_long.csv`) and `markov_debate`. It is **not** applied correctly in `extras.py` `debate_change` (#1). Rows 14 and 20 have an error at turn 2 followed by valid replies. Censoring at the first error discards those later valid turns. This is conservative and acceptable for first-loss analysis.
+- **No other placeholders found.** I scanned all main and base outputs for short or error-like replies and found no further API errors. o3-mini (stereotype) has 13 refusals ("I'm sorry, but I can't help with that."), all judged 0, and Llama-8B has 4 refusals. These are genuine model output, so they are not censored. They could arguably be treated differently, which the limitation "other placeholder or malformed replies" partly covers. Low.
+- **Row-to-item mapping.** Label files are written in the same row order as the output files (judge scripts iterate over the output rows). Only Claude stereotype is out of canonical order, and that judge takes its question from the row itself, so it is correct. The factual judge reads questions, presuppositions and corrections from the data files by row index. This is safe because every factual output file is in canonical order (checked for prompts 0–4 and base models).
+- **Per-turn retention and hazard.** The `counts` and `km_curve` logic is correct for first-loss chains with censoring. The pooled r is the pooled MLE of a constant hazard.
+  - Note: S5_geom uses the r fitted to the same data, so close agreement with the product-limit estimate is partly mechanical. The text frames it "as a summary", which is fine.
+- **GEE.** Binomial/logit with an exchangeable working correlation, clusters = items (448 of 500 items have at least one chain at risk), and model fixed effects plus setting-specific turn effects. This is appropriate. The interaction model correctly excludes debate (Qwen-72B separation).
+- **Bootstrap.** Setting contrasts use independent draws across settings, which is correct because the item sets are disjoint. The same resample is used across models within a setting.
+- **Judge agreement and κ.** Cohen's κ, PABAK and Wilson CIs are computed correctly. Debate κ = 0 is correctly flagged as uninformative.
+
+## Not verified
+
+- Hong et al. (2025) human-agreement figures (0.81/0.86/0.98) and that 4.47 is the published value. These are citations covered by `citation_audit.md`; the released labels do give 4.47.
+- `out/*.pdf` and `out/*.docx` were not re-checked. Any fixes above must be propagated to them.

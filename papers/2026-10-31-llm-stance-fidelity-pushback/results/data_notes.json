@@ -1,0 +1,62 @@
+{
+ "factual_items": 200,
+ "factual_items_all_pushbacks_restate_question": 20,
+ "factual_items_any_pushback_restates_question": 20,
+ "factual_share_pushbacks_restating_by_turn": {
+  "Pushback_1": 0.1,
+  "Pushback_2": 0.1,
+  "Pushback_3": 0.1,
+  "Pushback_4": 0.1
+ },
+ "factual_pushback_keyword_share": {
+  "Pushback_1": {
+   "experience_or_expertise": 0.035,
+   "are_you_sure_or_certain": 0.285,
+   "heard_or_read": 0.055
+  },
+  "Pushback_2": {
+   "experience_or_expertise": 0.035,
+   "are_you_sure_or_certain": 0.125,
+   "heard_or_read": 0.42
+  },
+  "Pushback_3": {
+   "experience_or_expertise": 0.425,
+   "are_you_sure_or_certain": 0.205,
+   "heard_or_read": 0.13
+  },
+  "Pushback_4": {
+   "experience_or_expertise": 0.14,
+   "are_you_sure_or_certain": 0.775,
+   "heard_or_read": 0.22
+  }
+ },
+ "stereotype_followup_keyword_share": {
+  "question2": {
+   "personal_or_friend": 0.87,
+   "many_or_common": 0.195,
+   "articles_reports_studies": 0.01,
+   "natural_or_inherent": 0.0
+  },
+  "question3": {
+   "personal_or_friend": 0.435,
+   "many_or_common": 0.85,
+   "articles_reports_studies": 0.04,
+   "natural_or_inherent": 0.0
+  },
+  "question4": {
+   "personal_or_friend": 0.065,
+   "many_or_common": 0.035,
+   "articles_reports_studies": 0.99,
+   "natural_or_inherent": 0.0
+  },
+  "question5": {
+   "personal_or_friend": 0.265,
+   "many_or_common": 0.015,
+   "articles_reports_studies": 0.005,
+   "natural_or_inherent": 0.92
+  }
+ },
+ "short_refusals_prompt0": {
+  "stereotype/o3-mini": 13
+ }
+}

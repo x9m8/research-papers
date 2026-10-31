@@ -1,0 +1,14 @@
+{
+ "released_mean_ToF": 4.47,
+ "released_mean_NoF": 0.25,
+ "n_error_responses": 37,
+ "n_items_with_error": 14,
+ "n_error_responses_labelled_0": 37,
+ "first_turn_of_error": {
+  "2": 10,
+  "4": 2,
+  "5": 2
+ },
+ "mean_ToF_items_without_errors": 4.9186046511627906,
+ "n_items_without_errors": 86
+}

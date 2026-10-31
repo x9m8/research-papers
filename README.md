@@ -22,6 +22,7 @@ Every paper is a preprint and has not been peer reviewed. Each one also has a pe
 | 2026-10-28 | [Where the cattle were raised: tracing the deforestation in EU leather use, 2005–2023](https://x9m8.com/eu-leather-deforestation-cattle-origin/) | [`2026-10-28-eu-leather-deforestation-cattle-origin`](papers/2026-10-28-eu-leather-deforestation-cattle-origin/) | [10.5281/zenodo.23751504](https://doi.org/10.5281/zenodo.23751504) |
 | 2026-10-29 | [Food swamps and obesity revisited: a reproduction with public data](https://x9m8.com/food-swamps-revisited/) | [`2026-10-29-food-swamps-revisited`](papers/2026-10-29-food-swamps-revisited/) | [10.5281/zenodo.23751502](https://doi.org/10.5281/zenodo.23751502) |
 | 2026-10-30 | [Paying for protein: protein-named US packaged foods, nutrients and breakeven prices](https://x9m8.com/protein-marketed-foods/) | [`2026-10-30-protein-marketed-foods`](papers/2026-10-30-protein-marketed-foods/) | [10.5281/zenodo.23807436](https://doi.org/10.5281/zenodo.23807436) |
+| 2026-10-31 | [Kept or conceded: stance fidelity of language models under repeated user pushback](https://x9m8.com/llm-stance-fidelity-pushback/) | [`2026-10-31-llm-stance-fidelity-pushback`](papers/2026-10-31-llm-stance-fidelity-pushback/) | [10.5281/zenodo.23837439](https://doi.org/10.5281/zenodo.23837439) |
 
 ## What each folder contains
 
