@@ -1,0 +1,25 @@
+study_id,doi,arm_id,cf_agent,cf_class,outcome,unit,arm,rep,value,source
+aguilar2023,10.47750/pnr.2023.14.s02.23,T1,silica sol (sodium silicate 1/4) 15%,zeolite/silicate,tensile,N/cm2,cf,1,2857.14,Table 4
+aguilar2023,10.47750/pnr.2023.14.s02.23,T1,silica sol (sodium silicate 1/4) 15%,zeolite/silicate,tensile,N/cm2,cf,2,2946.43,Table 4
+aguilar2023,10.47750/pnr.2023.14.s02.23,T1,silica sol (sodium silicate 1/4) 15%,zeolite/silicate,tensile,N/cm2,cf,3,4047.62,Table 4
+aguilar2023,10.47750/pnr.2023.14.s02.23,T1,silica sol (sodium silicate 1/4) 15%,zeolite/silicate,tensile,N/cm2,cf,4,4238.10,Table 4
+aguilar2023,10.47750/pnr.2023.14.s02.23,T2,silica sol (sodium silicate 1/5) 15%,zeolite/silicate,tensile,N/cm2,cf,1,2011.58,Table 4
+aguilar2023,10.47750/pnr.2023.14.s02.23,T2,silica sol (sodium silicate 1/5) 15%,zeolite/silicate,tensile,N/cm2,cf,2,3531.43,Table 4
+aguilar2023,10.47750/pnr.2023.14.s02.23,T2,silica sol (sodium silicate 1/5) 15%,zeolite/silicate,tensile,N/cm2,cf,3,4017.86,Table 4
+aguilar2023,10.47750/pnr.2023.14.s02.23,T2,silica sol (sodium silicate 1/5) 15%,zeolite/silicate,tensile,N/cm2,cf,4,2295.71,Table 4
+aguilar2023,10.47750/pnr.2023.14.s02.23,CR,chrome,chrome,tensile,N/cm2,cr,1,2105.84,Table 4 (T3)
+aguilar2023,10.47750/pnr.2023.14.s02.23,CR,chrome,chrome,tensile,N/cm2,cr,2,2200.00,Table 4 (T3)
+aguilar2023,10.47750/pnr.2023.14.s02.23,CR,chrome,chrome,tensile,N/cm2,cr,3,2379.22,Table 4 (T3)
+aguilar2023,10.47750/pnr.2023.14.s02.23,CR,chrome,chrome,tensile,N/cm2,cr,4,1943.41,Table 4 (T3)
+aguilar2023,10.47750/pnr.2023.14.s02.23,T1,silica sol (sodium silicate 1/4) 15%,zeolite/silicate,elongation,%,cf,1,57.50,Table 7
+aguilar2023,10.47750/pnr.2023.14.s02.23,T1,silica sol (sodium silicate 1/4) 15%,zeolite/silicate,elongation,%,cf,2,90.00,Table 7
+aguilar2023,10.47750/pnr.2023.14.s02.23,T1,silica sol (sodium silicate 1/4) 15%,zeolite/silicate,elongation,%,cf,3,57.50,Table 7
+aguilar2023,10.47750/pnr.2023.14.s02.23,T1,silica sol (sodium silicate 1/4) 15%,zeolite/silicate,elongation,%,cf,4,65.00,Table 7
+aguilar2023,10.47750/pnr.2023.14.s02.23,T2,silica sol (sodium silicate 1/5) 15%,zeolite/silicate,elongation,%,cf,1,147.50,Table 7
+aguilar2023,10.47750/pnr.2023.14.s02.23,T2,silica sol (sodium silicate 1/5) 15%,zeolite/silicate,elongation,%,cf,2,82.50,Table 7
+aguilar2023,10.47750/pnr.2023.14.s02.23,T2,silica sol (sodium silicate 1/5) 15%,zeolite/silicate,elongation,%,cf,3,62.50,Table 7
+aguilar2023,10.47750/pnr.2023.14.s02.23,T2,silica sol (sodium silicate 1/5) 15%,zeolite/silicate,elongation,%,cf,4,62.50,Table 7
+aguilar2023,10.47750/pnr.2023.14.s02.23,CR,chrome,chrome,elongation,%,cr,1,57.50,Table 7 (T3)
+aguilar2023,10.47750/pnr.2023.14.s02.23,CR,chrome,chrome,elongation,%,cr,2,67.50,Table 7 (T3)
+aguilar2023,10.47750/pnr.2023.14.s02.23,CR,chrome,chrome,elongation,%,cr,3,60.00,Table 7 (T3)
+aguilar2023,10.47750/pnr.2023.14.s02.23,CR,chrome,chrome,elongation,%,cr,4,55.00,Table 7 (T3)

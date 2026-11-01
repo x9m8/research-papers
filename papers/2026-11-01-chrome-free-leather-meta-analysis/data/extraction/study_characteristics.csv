@@ -1,0 +1,25 @@
+study_id,first_author,year,species,comparator_source,cf_developer,integrity_flag,notes
+uddin2020,Uddin,2020,goat,in-study,no,0,triplicate stated; text and table disagree on direction (table used)
+bielak2022,Bielak,2022,bovine,commercial leathers,no,0,two commercial shoe-upper leathers; six test pieces per direction
+qiao2025,Qiao,2025,sheep,in-study,yes,0,three chrome-free arms share one chrome control
+huang2022,Huang,2022,bovine,in-study,yes,0,dehydration-based leather without a tanning agent; values from text (SD only in figure)
+anggriyani2020,Anggriyani,2020,goat,in-study,yes,0,single values
+tian2025,Tian,2025,goat,in-study,no,0,12 hides randomly assigned (6 per group)
+valeika2010,Valeika,2010,bovine,in-study,yes,0,single values
+valeika2020,Valeika,2020,bovine,in-study,no,0,deliming also differs between arms
+jia2022,Jia,2022,bovine,in-study,yes,0,one SD reported as 0.00
+jiang2023,Jiang,2023,unclear,in-study,yes,0,elongation from text; other values only in figure
+girmay2024,Girmay,2024,sheep,in-study,yes,0,n=4 per physical value and n=3 per Ts stated
+zhu2022,Zhu,2022,sheep,in-study,yes,0,Zr arm is a comparator arm
+cavali2022,Cavali,2022,fish (Arapaima gigas),in-study,no,0,7 repetitions; arms tanned in separate drums at different times
+fatama2025,Fatama,2025,chicken leg skin,in-study,no,0,semi-chrome arm excluded
+chakraborty2008,Chakraborty,2008,unclear,in-study,yes,0,single values (n=4 stated); Crossref year field (1970) inconsistent with volume 43
+nasr2020,Nasr,2020,sheep,in-study,no,0,n=5 per group; pooled SEM only (SD derived)
+yorgancioglu2022,Yorgancioglu,2022,sheep,in-study,no,0,commercial tanning agents applied in-study; Ts only
+evans1933,Evans,1933,calf,commercial leathers,no,0,one leather of each type; values at 52% relative humidity
+rosiati2024,Rosiati,2024,goat,in-study,no,0,n not stated
+hoch2009,Hoch,2009,rabbit,in-study,no,0,10 skins per treatment
+atinafu2026,Atinafu,2026,sheep,in-study,yes,1,journal article archived on Zenodo; text contains residue of generated text and a template header; excluded from primary analyses
+ferraris2025,Ferraris,2025,unclear,commercial leathers,no,0,commercial samples; chrome Ts reported as >95 C
+aguilar2023,Aguilar,2023,unclear,commercial chrome leather,yes,2,"chrome leather supplied by a company; four replicate values per arm; silica-sol arms include an aldehyde; same article published twice in the same issue (pp. 159-172 and 269-282); printed DOIs not registered; retained in primary analysis, reported without it"
+gomezgarcia2026,Gómez-García,2026,fish (tilapia),external benchmark,no,0,"chrome reference described as an external benchmark; only mimosa arm readable; text has editing residue (e.g. reference to earlier drafts, implausible thickness unit) but extracted values internally consistent; not flagged; reported without it"

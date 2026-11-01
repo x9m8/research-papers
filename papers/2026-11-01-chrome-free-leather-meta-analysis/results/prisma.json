@@ -1,0 +1,124 @@
+{
+ "records_identified": 3567,
+ "by_source": {
+  "EuropePMC": 1182,
+  "OpenAlex": 2385
+ },
+ "unique_after_dedup": 1903,
+ "excluded_not_leather": 698,
+ "prescreen_pass": 429,
+ "excluded_prescreen": 1474,
+ "ta_screened": 429,
+ "ta_excluded": 244,
+ "ta_included": 185,
+ "reports_sought": 185,
+ "reports_not_retrieved": 118,
+ "not_retrieved_closed": 90,
+ "not_retrieved_oa": 28,
+ "reports_retrieved": 67,
+ "reports_other_sources": 1,
+ "other_source_keys": [
+  "10.3329/bjsir.v43i4.2246"
+ ],
+ "reports_duplicate": 2,
+ "reports_unreadable": 1,
+ "reports_assessed": 65,
+ "reports_excluded": 41,
+ "exclusion_reasons": {
+  "no chrome-tanned control arm, or no chrome-free arm": 34,
+  "chrome-arm values not reported numerically (figure only or absent)": 4,
+  "chrome values taken from another publication": 2,
+  "no eligible outcome": 1
+ },
+ "studies_included": 24,
+ "study_ids": [
+  "aguilar2023",
+  "anggriyani2020",
+  "atinafu2026",
+  "bielak2022",
+  "cavali2022",
+  "chakraborty2008",
+  "evans1933",
+  "fatama2025",
+  "ferraris2025",
+  "girmay2024",
+  "gomezgarcia2026",
+  "hoch2009",
+  "huang2022",
+  "jia2022",
+  "jiang2023",
+  "nasr2020",
+  "qiao2025",
+  "rosiati2024",
+  "tian2025",
+  "uddin2020",
+  "valeika2010",
+  "valeika2020",
+  "yorgancioglu2022",
+  "zhu2022"
+ ],
+ "studies_with_any_data": {
+  "tensile": 19,
+  "elongation": 17,
+  "tear": 12,
+  "ts": 9
+ },
+ "studies_usable_for_pooling": {
+  "tensile": 15,
+  "elongation": 13,
+  "tear": 9,
+  "ts": 5
+ },
+ "usable_ids": {
+  "tensile": [
+   "aguilar2023",
+   "bielak2022",
+   "cavali2022",
+   "fatama2025",
+   "girmay2024",
+   "gomezgarcia2026",
+   "hoch2009",
+   "jia2022",
+   "nasr2020",
+   "qiao2025",
+   "rosiati2024",
+   "tian2025",
+   "uddin2020",
+   "valeika2020",
+   "zhu2022"
+  ],
+  "elongation": [
+   "aguilar2023",
+   "atinafu2026",
+   "bielak2022",
+   "cavali2022",
+   "fatama2025",
+   "girmay2024",
+   "hoch2009",
+   "jia2022",
+   "nasr2020",
+   "qiao2025",
+   "rosiati2024",
+   "uddin2020",
+   "zhu2022"
+  ],
+  "tear": [
+   "atinafu2026",
+   "cavali2022",
+   "girmay2024",
+   "hoch2009",
+   "jia2022",
+   "nasr2020",
+   "qiao2025",
+   "rosiati2024",
+   "uddin2020"
+  ],
+  "ts": [
+   "atinafu2026",
+   "girmay2024",
+   "gomezgarcia2026",
+   "jia2022",
+   "valeika2020"
+  ]
+ }
+}

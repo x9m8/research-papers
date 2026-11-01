@@ -1,0 +1,12 @@
+{
+ "n_records_total": 3567,
+ "by_source": {
+  "EuropePMC": 1182,
+  "OpenAlex": 2385
+ },
+ "n_unique": 1903,
+ "n_not_leather": 698,
+ "n_leather": 1205,
+ "n_prescreen_pass": 429,
+ "n_no_abstract": 153
+}

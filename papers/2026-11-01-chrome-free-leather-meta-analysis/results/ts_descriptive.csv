@@ -1,0 +1,25 @@
+study_id,arm_id,cf_agent,cf_class,mean_cf,sd_cf,mean_cr,sd_cr,md,ts_cens_cr,cens_label,integrity_flag,source
+uddin2020,GA,glutaraldehyde,aldehyde,87.0,,104.0,,-17.0,1,exact but above 100 C,0,Table 5
+valeika2020,S5,synthetic tannin Blancotan W (after PAA deliming),synthetic,62.0,0.7,101.0,1.12,-39.0,1,exact but above 100 C,0,Table 1
+jia2022,ET,polyether amine triazine derivative (ET),synthetic,83.9,0.2,109.2,0.2,-25.299999999999997,1,exact but above 100 C,0,Table V
+jia2022,CTDT,triazine derivative CTDT,synthetic,74.3,0.3,109.2,0.2,-34.900000000000006,1,exact but above 100 C,0,Table V
+girmay2024,E,chestnut 20% + THPS 2%,combination,95.0,1.5,105.0,1.5,-10.0,1,exact but above 100 C,0,Table 6 (trial 8 = optimum E)
+girmay2024,CHEST,chestnut alone 20%,vegetable,82.0,1.4,105.0,1.5,-23.0,1,exact but above 100 C,0,Table 6
+girmay2024,THPS,THPS alone 2%,synthetic,84.0,1.4,105.0,1.5,-21.0,1,exact but above 100 C,0,Table 6
+fatama2025,VEG,vegetable tannage,vegetable,78.0,,101.0,,-23.0,1,exact but above 100 C,0,Table V
+yorgancioglu2022,PHOS,THPS (phosphonium),synthetic,88.0,,103.5,,-15.5,1,exact but above 100 C,0,Table X
+yorgancioglu2022,GA,glutaraldehyde,aldehyde,83.5,,103.5,,-20.0,1,exact but above 100 C,0,Table X
+yorgancioglu2022,MIM,mimosa,vegetable,79.0,,103.5,,-24.5,1,exact but above 100 C,0,Table X
+yorgancioglu2022,TARA,tara,vegetable,77.5,,103.5,,-26.0,1,exact but above 100 C,0,Table X
+yorgancioglu2022,EWT,EasyWhite Tan (triazine-based),synthetic,75.5,,103.5,,-28.0,1,exact but above 100 C,0,Table X
+yorgancioglu2022,SYN,replacement syntan,synthetic,74.0,,103.5,,-29.5,1,exact but above 100 C,0,Table X
+atinafu2026,PE,polyphenol (ellagic acid) + laccase + chitosan,combination,96.0,2.0,104.0,1.0,-8.0,1,exact but above 100 C,1,Table 1
+atinafu2026,PO,polyphenol only,vegetable,78.0,1.0,104.0,1.0,-26.0,1,exact but above 100 C,1,Table 1
+ferraris2025,GA,glutaraldehyde-based (commercial),aldehyde,76.0,,95.0,,-19.0,2,reported as lower bound (>95 C),0,Table 1 (chrome reported as >95)
+ferraris2025,VEG,vegetable (commercial),vegetable,72.0,,95.0,,-23.0,2,reported as lower bound (>95 C),0,Table 1
+ferraris2025,ORG,organic tanning agents (commercial),synthetic,79.0,,95.0,,-16.0,2,reported as lower bound (>95 C),0,Table 1
+ferraris2025,STARCH,starch-based,aldehyde,78.0,,95.0,,-17.0,2,reported as lower bound (>95 C),0,Table 1
+ferraris2025,ZEO,zeolite,zeolite/silicate,71.0,,95.0,,-24.0,2,reported as lower bound (>95 C),0,Table 1
+ferraris2025,AL,aluminium,non-chrome metal,71.0,,95.0,,-24.0,2,reported as lower bound (>95 C),0,Table 1
+ferraris2025,OMW,olive-mill-wastewater polyphenols,vegetable,78.0,,95.0,,-17.0,2,reported as lower bound (>95 C),0,Table 1
+gomezgarcia2026,MIM,mimosa,vegetable,77.9,2.0,80.0,5.1,-2.0999999999999943,0,"exact, within ISO 3380 range",0,Results text para. 1 (Table 2 not captured in retrieved HTML)
