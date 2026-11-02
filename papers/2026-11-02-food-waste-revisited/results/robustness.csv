@@ -1,0 +1,17 @@
+label,I_2003,dI_2003,waste_1974,waste_2003,increase_pct,frac_1974,frac_2003,change_pp,note
+"Baseline: NCHS body weights, current FAO (FBSH), nominal parameters",2317.55,215.57,929.02,1459.45,57.1,30.65,38.64,7.99,
+Body weights digitized from the original Figure 1A,2310.95,208.87,928.92,1466.05,57.82,30.65,38.82,8.17,
+γF = 3.6 (Table 1) instead of 3.2 (text),2320.74,218.76,929.02,1456.26,56.75,30.65,38.56,7.91,
+F0 = 19.6 kg (re-derived from NHANES I) instead of 19.1,2316.37,214.38,929.01,1460.63,57.22,30.65,38.67,8.02,
+Body weights: adults 20+ incl. pregnant (NHANES III onward),2304.54,202.56,929.02,1472.46,58.5,30.65,38.98,8.33,
+Body weights: survey-weighted female share (1999 onward),2323.79,221.82,929.02,1453.21,56.42,30.65,38.48,7.82,
+"Survey points at end years (NHANES II 1980, III 1994, cycles +0.5 y)",2313.17,211.69,929.52,1463.83,57.48,30.67,38.76,8.09,
+"I0 = 2,133 kcal/d (IOM sedentary, NHANES I means)",2350.95,215.57,895.62,1426.05,59.23,29.55,37.76,8.21,
+"I0 = 2,361 kcal/d (IOM low-active, NHANES I means)",2578.45,215.57,668.12,1198.55,79.39,22.04,31.73,9.69,
+"I0 = 1,973 kcal/d (self-reported, NHANES I, Wright et al., 2004)",2190.85,215.57,1055.72,1586.15,50.24,34.83,42.0,7.16,self-report is known to understate intake
+Physical activity coefficient falls 10% by 2003,2242.71,140.73,929.02,1534.29,65.15,30.65,40.62,9.97,
+Physical activity coefficient rises 10% by 2003,2392.38,290.4,929.02,1384.62,49.04,30.65,36.66,6.01,
+"Per-capita intake = adult intake × 0.915 (IOM requirement, all ages / adults, NHANES 1999–2000)",2119.62,197.16,1108.53,1657.38,49.51,36.57,43.88,7.31,ratio held at its 1999-2000 value for all years
+"Steady-state requirement (IOM, sedentary) instead of the energy-balance model",2225.43,125.43,931.0,1551.57,66.66,30.72,41.08,10.36,intake change = change in IOM EER at fixed age; dEER 1974-2003 = 125 kcal/d
+"Steady-state requirement (IOM, low-active) instead of the energy-balance model",2239.73,139.73,931.0,1537.27,65.12,30.72,40.7,9.98,intake change = change in IOM EER at fixed age; dEER 1974-2003 = 140 kcal/d
+Combined: per-capita adjustment and IOM low-active I0,2358.24,197.16,869.92,1418.76,63.09,28.7,37.56,8.86,

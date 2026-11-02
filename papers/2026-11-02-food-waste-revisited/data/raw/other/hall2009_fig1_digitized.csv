@@ -1,0 +1,31 @@
+# Values digitized from Hall et al. (2009) PLoS ONE 4(11): e7940, Figure 1 (CC0 1.0 public-domain dedication), image pone.0007940.g001.jpg (661 x 528 px)
+# from the Europe PMC supplementary-files bundle for PMC2775916, read 28 Oct 2026.
+# Method: axis lines and tick marks located from pixel darkness; marker centres found as local maxima of dark-pixel
+# density in a 7x7 window; curve values read as dark pixels in the column at the given year.
+# Calibration: panel A x = 51 px at 1970, 6.971 px/yr; y = 227 px at 70 kg, 16.083 px/kg. Panel B y = 226 px at 1900 kcal,
+# 10.582 kcal/px; x = 399 px at 1970, 7.0286 px/yr. Panel C y = 488 px at 600 kcal, 6.218 kcal/px.
+# Expected precision: about +/-0.3 yr and +/-0.15 kg (panel A); +/-15 kcal (panels B, C).
+panel,series,year,value,unit
+A,mean adult body weight (NHANES),1974.02,71.18,kg
+A,mean adult body weight (NHANES),1978.46,71.55,kg
+A,mean adult body weight (NHANES),1990.94,75.91,kg
+A,mean adult body weight (NHANES),1999.41,78.83,kg
+A,mean adult body weight (NHANES),2001.27,79.14,kg
+A,mean adult body weight (NHANES),2003.42,80.32,kg
+B,model intake (solid curve),1980,2128,kcal/d
+B,model intake (solid curve),1985,2154,kcal/d
+B,model intake (solid curve),1990,2207,kcal/d
+B,model intake (solid curve),1995,2255,kcal/d
+B,model intake (solid curve),2000,2281,kcal/d
+B,model intake (solid curve),2003,2302,kcal/d
+C,food waste (solid curve),1974,911,kcal/d
+C,food waste (solid curve),1975,920,kcal/d
+C,food waste (solid curve),1985,1194,kcal/d
+C,food waste (solid curve),1990,1268,kcal/d
+C,food waste (solid curve),1995,1337,kcal/d
+C,food waste (solid curve),2000,1533,kcal/d
+C,food waste (solid curve),2001,1508,kcal/d
+C,food waste (solid curve),2002,1477,kcal/d
+C,food waste (solid curve),2003,1455,kcal/d
+B_supply,FAO food supply (circles; year assignment +/-1 y),2000,3815,kcal/d
+B_supply,FAO food supply (circles; year assignment +/-1 y),2001,3784,kcal/d

@@ -1,0 +1,344 @@
+{
+ "grid": [
+  {
+   "label": "Baseline: NCHS body weights, current FAO (FBSH), nominal parameters",
+   "I_2003": 2317.548,
+   "dI_2003": 215.568,
+   "waste_1974": 929.02,
+   "waste_2003": 1459.452,
+   "increase_pct": 57.096,
+   "frac_1974": 30.651,
+   "frac_2003": 38.641,
+   "change_pp": 7.99,
+   "note": ""
+  },
+  {
+   "label": "Body weights digitized from the original Figure 1A",
+   "I_2003": 2310.951,
+   "dI_2003": 208.874,
+   "waste_1974": 928.923,
+   "waste_2003": 1466.049,
+   "increase_pct": 57.822,
+   "frac_1974": 30.647,
+   "frac_2003": 38.815,
+   "change_pp": 8.168,
+   "note": ""
+  },
+  {
+   "label": "\u03b3F = 3.6 (Table 1) instead of 3.2 (text)",
+   "I_2003": 2320.744,
+   "dI_2003": 218.764,
+   "waste_1974": 929.02,
+   "waste_2003": 1456.256,
+   "increase_pct": 56.752,
+   "frac_1974": 30.651,
+   "frac_2003": 38.556,
+   "change_pp": 7.905,
+   "note": ""
+  },
+  {
+   "label": "F0 = 19.6 kg (re-derived from NHANES I) instead of 19.1",
+   "I_2003": 2316.371,
+   "dI_2003": 214.379,
+   "waste_1974": 929.009,
+   "waste_2003": 1460.629,
+   "increase_pct": 57.225,
+   "frac_1974": 30.65,
+   "frac_2003": 38.672,
+   "change_pp": 8.021,
+   "note": ""
+  },
+  {
+   "label": "Body weights: adults 20+ incl. pregnant (NHANES III onward)",
+   "I_2003": 2304.541,
+   "dI_2003": 202.561,
+   "waste_1974": 929.02,
+   "waste_2003": 1472.459,
+   "increase_pct": 58.496,
+   "frac_1974": 30.651,
+   "frac_2003": 38.985,
+   "change_pp": 8.334,
+   "note": ""
+  },
+  {
+   "label": "Body weights: survey-weighted female share (1999 onward)",
+   "I_2003": 2323.795,
+   "dI_2003": 221.815,
+   "waste_1974": 929.02,
+   "waste_2003": 1453.205,
+   "increase_pct": 56.423,
+   "frac_1974": 30.651,
+   "frac_2003": 38.475,
+   "change_pp": 7.825,
+   "note": ""
+  },
+  {
+   "label": "Survey points at end years (NHANES II 1980, III 1994, cycles +0.5 y)",
+   "I_2003": 2313.172,
+   "dI_2003": 211.687,
+   "waste_1974": 929.515,
+   "waste_2003": 1463.828,
+   "increase_pct": 57.483,
+   "frac_1974": 30.667,
+   "frac_2003": 38.756,
+   "change_pp": 8.089,
+   "note": ""
+  },
+  {
+   "label": "I0 = 2,133 kcal/d (IOM sedentary, NHANES I means)",
+   "I_2003": 2350.948,
+   "dI_2003": 215.568,
+   "waste_1974": 895.62,
+   "waste_2003": 1426.052,
+   "increase_pct": 59.225,
+   "frac_1974": 29.549,
+   "frac_2003": 37.756,
+   "change_pp": 8.208,
+   "note": ""
+  },
+  {
+   "label": "I0 = 2,361 kcal/d (IOM low-active, NHANES I means)",
+   "I_2003": 2578.448,
+   "dI_2003": 215.568,
+   "waste_1974": 668.12,
+   "waste_2003": 1198.552,
+   "increase_pct": 79.392,
+   "frac_1974": 22.043,
+   "frac_2003": 31.733,
+   "change_pp": 9.69,
+   "note": ""
+  },
+  {
+   "label": "I0 = 1,973 kcal/d (self-reported, NHANES I, Wright et al., 2004)",
+   "I_2003": 2190.848,
+   "dI_2003": 215.568,
+   "waste_1974": 1055.72,
+   "waste_2003": 1586.152,
+   "increase_pct": 50.244,
+   "frac_1974": 34.831,
+   "frac_2003": 41.995,
+   "change_pp": 7.164,
+   "note": "self-report is known to understate intake"
+  },
+  {
+   "label": "Physical activity coefficient falls 10% by 2003",
+   "I_2003": 2242.712,
+   "dI_2003": 140.732,
+   "waste_1974": 929.02,
+   "waste_2003": 1534.288,
+   "increase_pct": 65.151,
+   "frac_1974": 30.651,
+   "frac_2003": 40.622,
+   "change_pp": 9.971,
+   "note": ""
+  },
+  {
+   "label": "Physical activity coefficient rises 10% by 2003",
+   "I_2003": 2392.384,
+   "dI_2003": 290.404,
+   "waste_1974": 929.02,
+   "waste_2003": 1384.616,
+   "increase_pct": 49.041,
+   "frac_1974": 30.651,
+   "frac_2003": 36.659,
+   "change_pp": 6.009,
+   "note": ""
+  },
+  {
+   "label": "Per-capita intake = adult intake \u00d7 0.915 (IOM requirement, all ages / adults, NHANES 1999\u20132000)",
+   "I_2003": 2119.624,
+   "dI_2003": 197.158,
+   "waste_1974": 1108.534,
+   "waste_2003": 1657.376,
+   "increase_pct": 49.511,
+   "frac_1974": 36.573,
+   "frac_2003": 43.881,
+   "change_pp": 7.308,
+   "note": "ratio held at its 1999-2000 value for all years"
+  },
+  {
+   "label": "Steady-state requirement (IOM, sedentary) instead of the energy-balance model",
+   "I_2003": 2225.427,
+   "dI_2003": 125.427,
+   "waste_1974": 931.0,
+   "waste_2003": 1551.573,
+   "increase_pct": 66.657,
+   "frac_1974": 30.716,
+   "frac_2003": 41.079,
+   "change_pp": 10.364,
+   "note": "intake change = change in IOM EER at fixed age; dEER 1974-2003 = 125 kcal/d"
+  },
+  {
+   "label": "Steady-state requirement (IOM, low-active) instead of the energy-balance model",
+   "I_2003": 2239.729,
+   "dI_2003": 139.729,
+   "waste_1974": 931.0,
+   "waste_2003": 1537.271,
+   "increase_pct": 65.12,
+   "frac_1974": 30.716,
+   "frac_2003": 40.701,
+   "change_pp": 9.985,
+   "note": "intake change = change in IOM EER at fixed age; dEER 1974-2003 = 140 kcal/d"
+  },
+  {
+   "label": "Combined: per-capita adjustment and IOM low-active I0",
+   "I_2003": 2358.242,
+   "dI_2003": 197.158,
+   "waste_1974": 869.915,
+   "waste_2003": 1418.758,
+   "increase_pct": 63.091,
+   "frac_1974": 28.701,
+   "frac_2003": 37.563,
+   "change_pp": 8.862,
+   "note": ""
+  }
+ ],
+ "oat": [
+  {
+   "param": "gFFM",
+   "dir": -1,
+   "value": 18.0,
+   "increase_pct": 58.969,
+   "change_pp": 8.451,
+   "waste_2003": 1476.857,
+   "frac_2003": 39.101
+  },
+  {
+   "param": "gFFM",
+   "dir": 1,
+   "value": 26.0,
+   "increase_pct": 55.222,
+   "change_pp": 7.529,
+   "waste_2003": 1442.047,
+   "frac_2003": 38.18
+  },
+  {
+   "param": "gF",
+   "dir": -1,
+   "value": 1.6,
+   "increase_pct": 58.472,
+   "change_pp": 8.328,
+   "waste_2003": 1472.238,
+   "frac_2003": 38.979
+  },
+  {
+   "param": "gF",
+   "dir": 1,
+   "value": 5.6,
+   "increase_pct": 55.031,
+   "change_pp": 7.482,
+   "waste_2003": 1440.273,
+   "frac_2003": 38.133
+  },
+  {
+   "param": "delta",
+   "dir": -1,
+   "value": 3.0,
+   "increase_pct": 62.41,
+   "change_pp": 9.297,
+   "waste_2003": 1508.822,
+   "frac_2003": 39.948
+  },
+  {
+   "param": "delta",
+   "dir": 1,
+   "value": 11.0,
+   "increase_pct": 51.782,
+   "change_pp": 6.683,
+   "waste_2003": 1410.082,
+   "frac_2003": 37.333
+  },
+  {
+   "param": "beta",
+   "dir": -1,
+   "value": 0.14,
+   "increase_pct": 59.779,
+   "change_pp": 8.652,
+   "waste_2003": 1484.748,
+   "frac_2003": 39.31
+  },
+  {
+   "param": "beta",
+   "dir": 1,
+   "value": 0.34,
+   "increase_pct": 53.597,
+   "change_pp": 7.127,
+   "waste_2003": 1426.49,
+   "frac_2003": 37.768
+  },
+  {
+   "param": "etaFFM",
+   "dir": -1,
+   "value": 130.0,
+   "increase_pct": 57.1,
+   "change_pp": 7.991,
+   "waste_2003": 1459.502,
+   "frac_2003": 38.642
+  },
+  {
+   "param": "etaFFM",
+   "dir": 1,
+   "value": 330.0,
+   "increase_pct": 57.092,
+   "change_pp": 7.989,
+   "waste_2003": 1459.402,
+   "frac_2003": 38.639
+  },
+  {
+   "param": "etaF",
+   "dir": -1,
+   "value": 160.0,
+   "increase_pct": 57.097,
+   "change_pp": 7.99,
+   "waste_2003": 1459.471,
+   "frac_2003": 38.641
+  },
+  {
+   "param": "etaF",
+   "dir": 1,
+   "value": 200.0,
+   "increase_pct": 57.095,
+   "change_pp": 7.99,
+   "waste_2003": 1459.434,
+   "frac_2003": 38.64
+  },
+  {
+   "param": "C",
+   "dir": -1,
+   "value": 5.4,
+   "increase_pct": 60.293,
+   "change_pp": 8.773,
+   "waste_2003": 1488.692,
+   "frac_2003": 39.415
+  },
+  {
+   "param": "C",
+   "dir": 1,
+   "value": 15.4,
+   "increase_pct": 54.827,
+   "change_pp": 7.433,
+   "waste_2003": 1438.688,
+   "frac_2003": 38.091
+  },
+  {
+   "param": "I0",
+   "dir": -1,
+   "value": 2000.0,
+   "increase_pct": 51.547,
+   "change_pp": 7.338,
+   "waste_2003": 1559.452,
+   "frac_2003": 41.288
+  },
+  {
+   "param": "I0",
+   "dir": 1,
+   "value": 2200.0,
+   "increase_pct": 63.983,
+   "change_pp": 8.642,
+   "waste_2003": 1359.452,
+   "frac_2003": 35.993
+  }
+ ],
+ "r99": 0.9145976827379999,
+ "self_report_I0": 1973.3000000000002
+}
