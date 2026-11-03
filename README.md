@@ -1,6 +1,6 @@
 # x9m8 Research Papers
 
-Code, results, figures, manuscripts and independent audits for the Research Papers series published at [x9m8.com](https://x9m8.com) by Peter Kalafatis (independent researcher, New York, NY). Correspondence: x9m8x7@gmail.com.
+Code, results, figures, manuscripts and independent audits for the Research Papers series published at [x9m8.com](https://x9m8.com) by Peter Kalafatis (independent researcher, New York, NY; ORCID [0009-0000-1637-7142](https://orcid.org/0009-0000-1637-7142)). Correspondence: x9m8x7@gmail.com.
 
 Every paper is a preprint and has not been peer reviewed. Each one also has a permanent archived copy on Zenodo (DOI below); please cite the DOI.
 
