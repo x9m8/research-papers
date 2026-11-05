@@ -1,0 +1,308 @@
+{
+ "n_distinct_reasons": 110,
+ "n_mapped_present": 60,
+ "n_primary": 716,
+ "n_rest": 67124,
+ "unmapped": [
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 307,
+   "k_rest": 30598,
+   "reason": "Investigation by Journal/Publisher"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 158,
+   "k_rest": 17803,
+   "reason": "Investigation by Third Party"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 120,
+   "k_rest": 15040,
+   "reason": "Concerns/Issues about Referencing/Attributions"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 108,
+   "k_rest": 9294,
+   "reason": "Concerns/Issues about Results and/or Conclusions"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 40,
+   "k_rest": 6877,
+   "reason": "Date of Article and/or Notice Unknown"
+  },
+  {
+   "in_broad_misconduct": true,
+   "k_primary": 10,
+   "k_rest": 4777,
+   "reason": "Breach of Policy by Author"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 39,
+   "k_rest": 3951,
+   "reason": "Removed"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 16,
+   "k_rest": 3493,
+   "reason": "Author Unresponsive"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 67,
+   "k_rest": 3210,
+   "reason": "Investigation by Company/Institution"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 52,
+   "k_rest": 2435,
+   "reason": "Upgrade/Update of Prior Notice(s)"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 4,
+   "k_rest": 1832,
+   "reason": "Concerns/Issues about Third Party Involvement"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 11,
+   "k_rest": 1807,
+   "reason": "Concerns/Issues about Article"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 14,
+   "k_rest": 913,
+   "reason": "Retract and Replace"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 19,
+   "k_rest": 800,
+   "reason": "Conflict of Interest"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 14,
+   "k_rest": 719,
+   "reason": "Objections by Third Party"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 5,
+   "k_rest": 688,
+   "reason": "Copyright Claims"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 4,
+   "k_rest": 492,
+   "reason": "Withdrawn to Publish in Different Journal"
+  },
+  {
+   "in_broad_misconduct": true,
+   "k_primary": 5,
+   "k_rest": 368,
+   "reason": "Taken from Dissertation/Thesis"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 5,
+   "k_rest": 358,
+   "reason": "Withdrawn as Out of Date"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 11,
+   "k_rest": 257,
+   "reason": "Concerns/Issues about Methods"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 5,
+   "k_rest": 202,
+   "reason": "Cites Retracted Work"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 4,
+   "k_rest": 178,
+   "reason": "Notice - Unable to Access via current resources"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 3,
+   "k_rest": 133,
+   "reason": "Doing the Right Thing"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 3,
+   "k_rest": 111,
+   "reason": "Legal Reasons and/or Threats"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 1,
+   "k_rest": 101,
+   "reason": "Miscommunication with/by Author"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 2,
+   "k_rest": 98,
+   "reason": "Complaints about Author"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 5,
+   "k_rest": 94,
+   "reason": "Bias Issues or Lack of Balance"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 1,
+   "k_rest": 85,
+   "reason": "Publishing Ban"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 5,
+   "k_rest": 73,
+   "reason": "Temporary Removal"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 2,
+   "k_rest": 73,
+   "reason": "Criminal Proceedings"
+  },
+  {
+   "in_broad_misconduct": true,
+   "k_primary": 1,
+   "k_rest": 48,
+   "reason": "Misconduct by Third Party"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 0,
+   "k_rest": 43,
+   "reason": "Transfer of Copyright and/or Ownership"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 1,
+   "k_rest": 42,
+   "reason": "Error by Third Party"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 1,
+   "k_rest": 39,
+   "reason": "Not Presented at Conference"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 3,
+   "k_rest": 26,
+   "reason": "Ethical Violations by Company/Institution/Third Party"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 1,
+   "k_rest": 27,
+   "reason": "Civil Proceedings"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 2,
+   "k_rest": 26,
+   "reason": "Objections by Company/Institution"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 0,
+   "k_rest": 22,
+   "reason": "Updated to Retraction"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 0,
+   "k_rest": 18,
+   "reason": "Miscommunication with/by Journal/Publisher"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 0,
+   "k_rest": 15,
+   "reason": "Hoax Paper"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 0,
+   "k_rest": 12,
+   "reason": "Miscommunication with/by Third Party"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 0,
+   "k_rest": 11,
+   "reason": "Miscommunication with/by Company/Institution"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 0,
+   "k_rest": 11,
+   "reason": "Nonpayment of Fees and/or Refusal to Pay"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 1,
+   "k_rest": 10,
+   "reason": "Taken via Translation"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 1,
+   "k_rest": 8,
+   "reason": "Complaints about Third Party"
+  },
+  {
+   "in_broad_misconduct": true,
+   "k_primary": 0,
+   "k_rest": 8,
+   "reason": "Misconduct by Company/Institution"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 0,
+   "k_rest": 6,
+   "reason": "No Further Action"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 1,
+   "k_rest": 5,
+   "reason": "Updated to Correction"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 0,
+   "k_rest": 5,
+   "reason": "Complaints about Company/Institution"
+  },
+  {
+   "in_broad_misconduct": false,
+   "k_primary": 0,
+   "k_rest": 1,
+   "reason": "Sabotage of Materials/Methods"
+  }
+ ]
+}
