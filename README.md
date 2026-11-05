@@ -27,6 +27,7 @@ Every paper is a preprint and has not been peer reviewed. Each one also has a pe
 | 2026-11-02 | [US food waste revisited: a reproduction with public data](https://x9m8.com/food-waste-revisited/) | [`2026-11-02-food-waste-revisited`](papers/2026-11-02-food-waste-revisited/) | [10.5281/zenodo.23888185](https://doi.org/10.5281/zenodo.23888185) |
 | 2026-11-03 | [Regional minimum wages and restaurant employment on Long Island, New York](https://x9m8.com/ny-minimum-wage-long-island-restaurants/) | [`2026-11-03-ny-minimum-wage-long-island-restaurants`](papers/2026-11-03-ny-minimum-wage-long-island-restaurants/) | [10.5281/zenodo.23953186](https://doi.org/10.5281/zenodo.23953186) |
 | 2026-11-04 | [Retractions in nutrition and obesity research: reasons, timing and citations](https://x9m8.com/retractions-nutrition-obesity-research/) | [`2026-11-04-retractions-nutrition-obesity-research`](papers/2026-11-04-retractions-nutrition-obesity-research/) | [10.5281/zenodo.23977418](https://doi.org/10.5281/zenodo.23977418) |
+| 2026-11-05 | [Fewer employers, more firms without payroll: US leather and allied product manufacturing, 2004–2023](https://x9m8.com/leather-employer-nonemployer/) | [`2026-11-05-leather-employer-nonemployer`](papers/2026-11-05-leather-employer-nonemployer/) | [10.5281/zenodo.23982176](https://doi.org/10.5281/zenodo.23982176) |
 
 ## What each folder contains
 
