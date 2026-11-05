@@ -25,6 +25,7 @@ Every paper is a preprint and has not been peer reviewed. Each one also has a pe
 | 2026-10-31 | [Kept or conceded: stance fidelity of language models under repeated user pushback](https://x9m8.com/llm-stance-fidelity-pushback/) | [`2026-10-31-llm-stance-fidelity-pushback`](papers/2026-10-31-llm-stance-fidelity-pushback/) | [10.5281/zenodo.23837439](https://doi.org/10.5281/zenodo.23837439) |
 | 2026-11-01 | [What chrome buys: a meta-analysis of paired chrome-free and chrome leather tests](https://x9m8.com/chrome-free-leather-meta-analysis/) | [`2026-11-01-chrome-free-leather-meta-analysis`](papers/2026-11-01-chrome-free-leather-meta-analysis/) | [10.5281/zenodo.23859817](https://doi.org/10.5281/zenodo.23859817) |
 | 2026-11-02 | [US food waste revisited: a reproduction with public data](https://x9m8.com/food-waste-revisited/) | [`2026-11-02-food-waste-revisited`](papers/2026-11-02-food-waste-revisited/) | [10.5281/zenodo.23888185](https://doi.org/10.5281/zenodo.23888185) |
+| 2026-11-03 | [Regional minimum wages and restaurant employment on Long Island, New York](https://x9m8.com/ny-minimum-wage-long-island-restaurants/) | [`2026-11-03-ny-minimum-wage-long-island-restaurants`](papers/2026-11-03-ny-minimum-wage-long-island-restaurants/) | [10.5281/zenodo.23953186](https://doi.org/10.5281/zenodo.23953186) |
 
 ## What each folder contains
 
