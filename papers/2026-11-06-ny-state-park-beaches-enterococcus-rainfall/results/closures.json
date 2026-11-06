@@ -1,0 +1,243 @@
+{
+  "total_closure_days": 339.0,
+  "total_advisory_days": 70.0,
+  "by_beach": [
+    {
+      "state_park_beach": "Jones Beach SP Zach's Bay",
+      "closure_days": 90,
+      "advisory_days": 0.0,
+      "total_days": 90.0,
+      "waterbody": "Atlantic Ocean",
+      "pct_of_total_closure_days": 26.548672566371685
+    },
+    {
+      "state_park_beach": "Robert Moses SP (Field 3)",
+      "closure_days": 54,
+      "advisory_days": 6.0,
+      "total_days": 60.0,
+      "waterbody": "Atlantic Ocean",
+      "pct_of_total_closure_days": 15.929203539823009
+    },
+    {
+      "state_park_beach": "Wildwood SP",
+      "closure_days": 35,
+      "advisory_days": 0.0,
+      "total_days": 35.0,
+      "waterbody": "Long Island Sound",
+      "pct_of_total_closure_days": 10.32448377581121
+    },
+    {
+      "state_park_beach": "Jones Beach SP Central-Central Mall",
+      "closure_days": 23,
+      "advisory_days": 5.0,
+      "total_days": 28.0,
+      "waterbody": "Atlantic Ocean",
+      "pct_of_total_closure_days": 6.784660766961652
+    },
+    {
+      "state_park_beach": "Hither Hills SP",
+      "closure_days": 20,
+      "advisory_days": 7.0,
+      "total_days": 27.0,
+      "waterbody": "Atlantic Ocean",
+      "pct_of_total_closure_days": 5.899705014749262
+    },
+    {
+      "state_park_beach": "Heckscher SP: West Beach",
+      "closure_days": 23,
+      "advisory_days": 0.0,
+      "total_days": 23.0,
+      "waterbody": "Great South Bay",
+      "pct_of_total_closure_days": 6.784660766961652
+    },
+    {
+      "state_park_beach": "Jones Beach SP Central-Field 2",
+      "closure_days": 15,
+      "advisory_days": 7.0,
+      "total_days": 22.0,
+      "waterbody": "Atlantic Ocean",
+      "pct_of_total_closure_days": 4.424778761061947
+    },
+    {
+      "state_park_beach": "Robert Moses SP (Field 2)",
+      "closure_days": 15,
+      "advisory_days": 7.0,
+      "total_days": 22.0,
+      "waterbody": "Atlantic Ocean",
+      "pct_of_total_closure_days": 4.424778761061947
+    },
+    {
+      "state_park_beach": "Jones Beach SP Central-Field 6",
+      "closure_days": 16,
+      "advisory_days": 3.0,
+      "total_days": 19.0,
+      "waterbody": "Atlantic Ocean",
+      "pct_of_total_closure_days": 4.71976401179941
+    },
+    {
+      "state_park_beach": "Robert Moses SP (Field 5)",
+      "closure_days": 15,
+      "advisory_days": 4.0,
+      "total_days": 19.0,
+      "waterbody": "Atlantic Ocean",
+      "pct_of_total_closure_days": 4.424778761061947
+    },
+    {
+      "state_park_beach": "Sunken Meadow SP",
+      "closure_days": 7,
+      "advisory_days": 12.0,
+      "total_days": 19.0,
+      "waterbody": "Long Island Sound",
+      "pct_of_total_closure_days": 2.0648967551622417
+    },
+    {
+      "state_park_beach": "Heckscher SP: Overlook (East) Beach",
+      "closure_days": 15,
+      "advisory_days": 0.0,
+      "total_days": 15.0,
+      "waterbody": "Great South Bay",
+      "pct_of_total_closure_days": 4.424778761061947
+    },
+    {
+      "state_park_beach": "Orient Beach SP",
+      "closure_days": 4,
+      "advisory_days": 8.0,
+      "total_days": 12.0,
+      "waterbody": "Long Island Sound",
+      "pct_of_total_closure_days": 1.1799410029498525
+    },
+    {
+      "state_park_beach": "Sunken Meadow SP-East",
+      "closure_days": 3,
+      "advisory_days": 7.0,
+      "total_days": 10.0,
+      "waterbody": "Long Island Sound",
+      "pct_of_total_closure_days": 0.8849557522123894
+    },
+    {
+      "state_park_beach": "Robert Moses SP (Field 4)",
+      "closure_days": 4,
+      "advisory_days": 4.0,
+      "total_days": 8.0,
+      "waterbody": "Atlantic Ocean",
+      "pct_of_total_closure_days": 1.1799410029498525
+    }
+  ],
+  "top5_beaches_share_of_closure_days": 66.3716814159292,
+  "by_waterbody": [
+    {
+      "waterbody": "Atlantic Ocean",
+      "closure_days": 252,
+      "advisory_days": 43.0
+    },
+    {
+      "waterbody": "Great South Bay",
+      "closure_days": 38,
+      "advisory_days": 0.0
+    },
+    {
+      "waterbody": "Long Island Sound",
+      "closure_days": 49,
+      "advisory_days": 27.0
+    }
+  ],
+  "by_year": [
+    {
+      "year": 2015,
+      "closure_days": 21,
+      "advisory_days": 2.0
+    },
+    {
+      "year": 2016,
+      "closure_days": 46,
+      "advisory_days": 2.0
+    },
+    {
+      "year": 2017,
+      "closure_days": 53,
+      "advisory_days": 19.0
+    },
+    {
+      "year": 2018,
+      "closure_days": 29,
+      "advisory_days": 7.0
+    },
+    {
+      "year": 2019,
+      "closure_days": 9,
+      "advisory_days": 5.0
+    },
+    {
+      "year": 2020,
+      "closure_days": 31,
+      "advisory_days": 5.0
+    },
+    {
+      "year": 2021,
+      "closure_days": 48,
+      "advisory_days": 13.0
+    },
+    {
+      "year": 2022,
+      "closure_days": 2,
+      "advisory_days": 1.0
+    },
+    {
+      "year": 2023,
+      "closure_days": 32,
+      "advisory_days": 0.0
+    },
+    {
+      "year": 2024,
+      "closure_days": 31,
+      "advisory_days": 13.0
+    },
+    {
+      "year": 2025,
+      "closure_days": 37,
+      "advisory_days": 3.0
+    }
+  ],
+  "reason_breakdown": [
+    {
+      "status_reason": "Exceedance",
+      "n_events": 122,
+      "total_days": 156
+    },
+    {
+      "status_reason": "Weather",
+      "n_events": 53,
+      "total_days": 105
+    },
+    {
+      "status_reason": "High waves",
+      "n_events": 12,
+      "total_days": 34
+    },
+    {
+      "status_reason": "No lifeguard",
+      "n_events": 1,
+      "total_days": 7
+    },
+    {
+      "status_reason": "Other",
+      "n_events": 1,
+      "total_days": 7
+    },
+    {
+      "status_reason": "Preemptive: rainfall",
+      "n_events": 6,
+      "total_days": 7
+    },
+    {
+      "status_reason": "Lab Error",
+      "n_events": 2,
+      "total_days": 2
+    }
+  ],
+  "n_rain_related_events": 59,
+  "n_closure_advisory_events": 213,
+  "pct_events_rain_related": 27.699530516431924,
+  "seasonal_admin_days_excluded": 8752.0,
+  "seasonal_admin_events_excluded": 466
+}

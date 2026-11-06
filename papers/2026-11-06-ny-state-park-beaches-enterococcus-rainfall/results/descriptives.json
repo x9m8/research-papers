@@ -1,0 +1,210 @@
+{
+  "n_samples": 3148,
+  "n_exceeded": 143,
+  "exceedance_rate": 0.04542566709021601,
+  "years": [
+    2015,
+    2025
+  ],
+  "n_beach_stations": 15,
+  "by_beach": [
+    {
+      "state_park_beach": "Jones Beach SP Zach's Bay",
+      "n": 433,
+      "n_exceeded": 49.0,
+      "rate": 0.11316397228637413,
+      "waterbody": "Atlantic Ocean"
+    },
+    {
+      "state_park_beach": "Heckscher SP: West Beach",
+      "n": 169,
+      "n_exceeded": 16.0,
+      "rate": 0.09467455621301775,
+      "waterbody": "Great South Bay"
+    },
+    {
+      "state_park_beach": "Wildwood SP",
+      "n": 182,
+      "n_exceeded": 11.0,
+      "rate": 0.06043956043956044,
+      "waterbody": "Long Island Sound"
+    },
+    {
+      "state_park_beach": "Sunken Meadow SP",
+      "n": 228,
+      "n_exceeded": 13.0,
+      "rate": 0.05701754385964912,
+      "waterbody": "Long Island Sound"
+    },
+    {
+      "state_park_beach": "Sunken Meadow SP-East",
+      "n": 175,
+      "n_exceeded": 9.0,
+      "rate": 0.05142857142857143,
+      "waterbody": "Long Island Sound"
+    },
+    {
+      "state_park_beach": "Heckscher SP: Overlook (East) Beach",
+      "n": 143,
+      "n_exceeded": 7.0,
+      "rate": 0.04895104895104895,
+      "waterbody": "Great South Bay"
+    },
+    {
+      "state_park_beach": "Orient Beach SP",
+      "n": 156,
+      "n_exceeded": 7.0,
+      "rate": 0.04487179487179487,
+      "waterbody": "Long Island Sound"
+    },
+    {
+      "state_park_beach": "Robert Moses SP (Field 4)",
+      "n": 172,
+      "n_exceeded": 5.0,
+      "rate": 0.029069767441860465,
+      "waterbody": "Atlantic Ocean"
+    },
+    {
+      "state_park_beach": "Robert Moses SP (Field 2)",
+      "n": 220,
+      "n_exceeded": 6.0,
+      "rate": 0.02727272727272727,
+      "waterbody": "Atlantic Ocean"
+    },
+    {
+      "state_park_beach": "Robert Moses SP (Field 3)",
+      "n": 201,
+      "n_exceeded": 5.0,
+      "rate": 0.024875621890547265,
+      "waterbody": "Atlantic Ocean"
+    },
+    {
+      "state_park_beach": "Robert Moses SP (Field 5)",
+      "n": 218,
+      "n_exceeded": 5.0,
+      "rate": 0.022935779816513763,
+      "waterbody": "Atlantic Ocean"
+    },
+    {
+      "state_park_beach": "Hither Hills SP",
+      "n": 208,
+      "n_exceeded": 4.0,
+      "rate": 0.019230769230769232,
+      "waterbody": "Atlantic Ocean"
+    },
+    {
+      "state_park_beach": "Jones Beach SP Central-Field 2",
+      "n": 215,
+      "n_exceeded": 3.0,
+      "rate": 0.013953488372093023,
+      "waterbody": "Atlantic Ocean"
+    },
+    {
+      "state_park_beach": "Jones Beach SP Central-Field 6",
+      "n": 215,
+      "n_exceeded": 2.0,
+      "rate": 0.009302325581395349,
+      "waterbody": "Atlantic Ocean"
+    },
+    {
+      "state_park_beach": "Jones Beach SP Central-Central Mall",
+      "n": 213,
+      "n_exceeded": 1.0,
+      "rate": 0.004694835680751174,
+      "waterbody": "Atlantic Ocean"
+    }
+  ],
+  "by_waterbody": [
+    {
+      "waterbody": "Great South Bay",
+      "n": 312,
+      "n_exceeded": 23.0,
+      "rate": 0.07371794871794872
+    },
+    {
+      "waterbody": "Long Island Sound",
+      "n": 741,
+      "n_exceeded": 40.0,
+      "rate": 0.05398110661268556
+    },
+    {
+      "waterbody": "Atlantic Ocean",
+      "n": 2095,
+      "n_exceeded": 80.0,
+      "rate": 0.03818615751789976
+    }
+  ],
+  "by_year": [
+    {
+      "year": 2015,
+      "n": 267,
+      "n_exceeded": 12.0,
+      "rate": 0.0449438202247191
+    },
+    {
+      "year": 2016,
+      "n": 242,
+      "n_exceeded": 8.0,
+      "rate": 0.03305785123966942
+    },
+    {
+      "year": 2017,
+      "n": 269,
+      "n_exceeded": 19.0,
+      "rate": 0.07063197026022305
+    },
+    {
+      "year": 2018,
+      "n": 274,
+      "n_exceeded": 8.0,
+      "rate": 0.029197080291970802
+    },
+    {
+      "year": 2019,
+      "n": 301,
+      "n_exceeded": 17.0,
+      "rate": 0.05647840531561462
+    },
+    {
+      "year": 2020,
+      "n": 297,
+      "n_exceeded": 9.0,
+      "rate": 0.030303030303030304
+    },
+    {
+      "year": 2021,
+      "n": 302,
+      "n_exceeded": 21.0,
+      "rate": 0.0695364238410596
+    },
+    {
+      "year": 2022,
+      "n": 280,
+      "n_exceeded": 2.0,
+      "rate": 0.007142857142857143
+    },
+    {
+      "year": 2023,
+      "n": 297,
+      "n_exceeded": 5.0,
+      "rate": 0.016835016835016835
+    },
+    {
+      "year": 2024,
+      "n": 316,
+      "n_exceeded": 27.0,
+      "rate": 0.08544303797468354
+    },
+    {
+      "year": 2025,
+      "n": 303,
+      "n_exceeded": 15.0,
+      "rate": 0.04950495049504951
+    }
+  ],
+  "samples_per_beach_year_median": 19.0,
+  "samples_per_beach_year_min_max": [
+    10,
+    47
+  ]
+}

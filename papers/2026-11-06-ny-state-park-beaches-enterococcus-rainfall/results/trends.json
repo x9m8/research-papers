@@ -1,0 +1,55 @@
+{
+  "pooled_fe": {
+    "n": 3148,
+    "n_clusters": 15,
+    "year_coef": 0.0063114353805440344,
+    "year_se_cluster": 0.021408860992448767,
+    "year_p_cluster": 0.7681429852648526,
+    "year_odds_ratio_per_year": 1.0063313944568715,
+    "or_ci95_cluster": [
+      0.9649787861831521,
+      1.0494561020093776
+    ],
+    "year_se_model": 0.027687712072668617
+  },
+  "by_waterbody": {
+    "Atlantic Ocean": {
+      "n": 2095,
+      "n_beach_stations": 9,
+      "n_exceeded": 80,
+      "rate": 0.03818615751789976,
+      "year_coef": 0.019775527550269928,
+      "year_se": 0.01930085353437637,
+      "year_odds_ratio_per_year": 1.0199723586337106,
+      "year_z": 1.0245934209618308,
+      "year_p": 0.3055550700969891
+    },
+    "Great South Bay": {
+      "n": 312,
+      "n_beach_stations": 2,
+      "n_exceeded": 23,
+      "rate": 0.07371794871794872,
+      "year_coef": 0.03932290606805878,
+      "year_se": 0.08562486104000801,
+      "year_odds_ratio_per_year": 1.0401062860621173,
+      "year_z": 0.45924636361961796,
+      "year_p": 0.6460572597856276
+    },
+    "Long Island Sound": {
+      "n": 741,
+      "n_beach_stations": 4,
+      "n_exceeded": 40,
+      "rate": 0.05398110661268556,
+      "year_coef": -0.04400539264237587,
+      "year_se": 0.036431603083065124,
+      "year_odds_ratio_per_year": 0.9569487969764983,
+      "year_z": -1.207890647634755,
+      "year_p": 0.22708932743235577
+    }
+  },
+  "annual_rate_wls_check": {
+    "slope_per_year": 0.00048314572450683987,
+    "slope_se": 0.0024815651955098295,
+    "slope_p": 0.8499565499043114
+  }
+}

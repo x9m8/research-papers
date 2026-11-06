@@ -1,0 +1,93 @@
+{
+  "n": 3148,
+  "main_48h": {
+    "formula": "exceeded ~ rain_48h_cm + year_c + C(state_park_beach)",
+    "n": 3148,
+    "coef": 0.21868860938836293,
+    "se_cluster": 0.04947776806359802,
+    "p_cluster": 9.872975672177871e-06,
+    "odds_ratio_per_unit": 1.244443708260615,
+    "or_ci95_cluster": [
+      1.1294309998484247,
+      1.371168440778822
+    ]
+  },
+  "robustness_sameday": {
+    "formula": "exceeded ~ rain_0_cm + year_c + C(state_park_beach)",
+    "n": 3148,
+    "coef": 0.42874597063590314,
+    "se_cluster": 0.11069759383709965,
+    "p_cluster": 0.00010744727792357297,
+    "odds_ratio_per_unit": 1.5353309657060996,
+    "or_ci95_cluster": [
+      1.2358792666245408,
+      1.9073393638960954
+    ]
+  },
+  "robustness_72h": {
+    "formula": "exceeded ~ rain_72h_cm + year_c + C(state_park_beach)",
+    "n": 3148,
+    "coef": 0.15824845204490567,
+    "se_cluster": 0.0524929885210926,
+    "p_cluster": 0.00257268457041105,
+    "odds_ratio_per_unit": 1.1714572094937814,
+    "or_ci95_cluster": [
+      1.0569253554086189,
+      1.2984001061687145
+    ]
+  },
+  "robustness_48h_no_fe": {
+    "formula": "exceeded ~ rain_48h_cm + year_c",
+    "n": 3148,
+    "coef": 0.23258315299001642,
+    "se_cluster": 0.04438432281660019,
+    "p_cluster": 1.6039434211963898e-07,
+    "odds_ratio_per_unit": 1.2618553690435126,
+    "or_ci95_cluster": [
+      1.1567235454141722,
+      1.3765423715083227
+    ]
+  },
+  "by_waterbody": {
+    "Atlantic Ocean": {
+      "n": 2095,
+      "n_exceeded": 80,
+      "coef": 0.241395257044825,
+      "odds_ratio_per_cm": 1.2730241076270121
+    },
+    "Great South Bay": {
+      "n": 312,
+      "n_exceeded": 23,
+      "coef": 0.2111081377199103,
+      "odds_ratio_per_cm": 1.2350459028884084
+    },
+    "Long Island Sound": {
+      "n": 741,
+      "n_exceeded": 40,
+      "coef": 0.21152418919039292,
+      "odds_ratio_per_cm": 1.2355598524597424
+    }
+  },
+  "exceedance_by_rain_bucket": [
+    {
+      "rain_bucket": "0 mm",
+      "n": 1613,
+      "rate": 0.026038437693738377
+    },
+    {
+      "rain_bucket": "0-10 mm",
+      "n": 941,
+      "rate": 0.0563230605738576
+    },
+    {
+      "rain_bucket": "10-25 mm",
+      "n": 357,
+      "rate": 0.058823529411764705
+    },
+    {
+      "rain_bucket": ">25 mm",
+      "n": 237,
+      "rate": 0.11392405063291139
+    }
+  ]
+}

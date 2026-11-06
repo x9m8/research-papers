@@ -1,0 +1,8 @@
+{
+  "n_exceedance_closures": 75,
+  "n_matched_to_a_sample_with_rain_data": 75,
+  "share_with_any_rain_48h": 0.76,
+  "median_rain_48h_mm": 8.9,
+  "share_with_rain_48h_over_10mm": 0.49333333333333335,
+  "background_share_days_with_rain_48h_over_10mm": 0.18869123252858958
+}
