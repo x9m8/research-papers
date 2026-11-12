@@ -1,0 +1,32 @@
+{
+  "n_memes": 26,
+  "aic_wins": {
+    "exponential": 7,
+    "power-law": 5,
+    "stretched exponential": 14
+  },
+  "median_r2": {
+    "exponential": 0.5408,
+    "power-law": 0.577,
+    "stretched exponential": 0.5843499999999999
+  },
+  "mean_r2": {
+    "exponential": 0.5607307692307693,
+    "power-law": 0.5486153846153846,
+    "stretched exponential": 0.5788576923076924
+  },
+  "n_poor_fit_all_models_r2_below_0.1": 4,
+  "n_good_fit_best_model_r2_above_0.9": 7,
+  "grumpy_cat_cross_validation": {
+    "browser_js_nelder_mead": {
+      "exp_r2": 0.9839,
+      "pl_r2": 0.9932,
+      "se_r2": 0.9927
+    },
+    "python_scipy_curve_fit": {
+      "exp_r2": 0.9839079531065398,
+      "pl_r2": 0.9932359493134988,
+      "se_r2": 0.9927300175942144
+    }
+  }
+}
